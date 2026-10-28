@@ -1,0 +1,833 @@
+2500	conversa com outro homem
+2501	bebe
+2502	se apoia no rifle
+2503	você feriu um deles
+2504	um deles caiu
+2505	=
+2506	Mandar um telegrama  ($1)
+2507	Ver telegramas
+2508	nada para você
+2509	nada enviado ainda
+2510	Sair
+2511	já foi enviado
+2512	Ninguém que você conheça bem o bastante para telegrafar
+2513	Responder  ($1)
+2514	sem como contatar
+2515	Simpatizando com você
+2516	Tem uma rixa
+2517	Tem medo de você
+2518	Gosta muito de você
+2519	ontem
+2520	hoje
+2521	Esperando a resposta dele
+2522	Só se você começar
+2523	Não vai vir atrás
+2524	Caça você
+2525	Correspondente
+2526	de olho em encrenca
+2527	Cavalga só
+2528	Sem bando
+2529	Membro
+2530	Da estrada
+2531	Gente da cidade
+2532	Pede para ele deixar pra lá. Um homem com medo ou cansado pode aceitar e se acalmar; um orgulhoso ou esquentado fica com mais raiva.
+2533	Assume a culpa. Se ele aceitar, se acalma, e o bando dele passa a pensar um pouco melhor de você.
+2534	$10 pelo incômodo dele - amansa um pouco, mais num homem ganancioso. Homens orgulhosos devolvem. Cada um nesta semana vale menos.
+2535	$25 para ficar quites. Homens gananciosos, pobres ou com medo podem aceitar e se acalmar na hora; se não, o dinheiro volta.
+2536	Tenta espantar ele. Covardes recuam; os mais corajosos ficam com mais raiva.
+2537	Avisa ele que você está a caminho. Assusta um covarde; deixa um homem mais corajoso pronto para você.
+2538	Zomba dele. Um homem orgulhoso ou esquentado leva a mal; os outros nem ligam.
+2539	Ameaça a família dele. Apavora um homem com medo - e enfurece um corajoso.
+2540	Pergunta de onde o chefe dele cavalga. Um homem ganancioso, com medo ou desleal pode entregar o acampamento.
+2541	Diz que o chefe dele está entregando ele. Um homem desleal ou ambicioso pode se voltar contra o chefe.
+2542	Se gaba do parente que você matou. Ódio puro - ou luto, se ele estiver com medo suficiente.
+2543	Sem ressentimentos. Homens simples amansam um pouco; orgulhosos e esquentados desprezam.
+2544	Pêsames por alguém que ele perdeu. Ele se acalma - um homem leal, mais ainda.
+2545	$25 para o líder do bando dele. Um líder ganancioso aceita de bom grado; um orgulhoso devolve. Pode baixar sua notoriedade com eles.
+2546	Mantém a boa relação - ele vai gostar um pouco mais de você.
+2547	Pergunta o que anda acontecendo pelas bandas dele - brigas, homens com rixa, o falatório da cidade.
+2548	Descobre se alguém andou perguntando por você na cidade dele.
+2549	Agradece pelo que ele fez - ele vai gostar mais de você.
+2550	$2 para uma bebida por sua conta - ele vai gostar mais de você, a não ser que tenha uma rixa.
+2551	Pede para ele te telegrafar $10. Um amigo que te deve pode mandar; os outros não - e custa um pouco de boa vontade.
+2552	Pede para ele ficar de olho em encrenca - se ele topar, te telegrafa quando um nêmesis aparecer perto dele.
+2553	Pede desculpas - alivia uma rixa e parte do medo dele.
+2554	Uma palavra amiga - ele vai gostar um pouco mais de você e guardar um pouco menos de mágoa.
+2555	Uma carta de verdade - se ele gosta de você, responde com as notícias dele. Escreva demais e ele enjoa.
+2556	$5 para ele - ele vai gostar mais de você. Um homem orgulhoso pode devolver.
+2557	Pêsames por um amigo que ele perdeu - a não ser que ele saiba que foi você.
+2558	Avisa ele para ficar de bico fechado sobre o que viu. Ele fica com mais medo de você e menos propenso a contar para a lei - mas vai gostar menos de você.
+2559	um pedido de desculpas
+2560	uma provocação
+2561	o chefe dele
+2562	quem anda perguntando
+2563	uma bebida
+2564	um empréstimo
+2565	um favor
+2566	um presente
+2567	uma palavra amiga
+2568	"Deixa pra lá. Eu faço o mesmo."  - fazer as pazes
+2569	"Eu errei. Me arrependo disso."  - pedir desculpas
+2570	"Pelo incômodo."  - mandar $10
+2571	"Pega isso e a gente fica quite."  - pagar para encerrar, $25
+2572	"Fica longe de mim ou eu te ponho debaixo da terra."  - ameaçar ele
+2573	"Sei onde você está. Tô indo aí."  - avisar que você está indo
+2574	"Soube que você correu feito coelho. O povo tá rindo."  - zombar dele
+2575	"Sei onde sua família dorme."  - ameaçar a família dele
+2576	nenhuma família que você saiba
+2577	"De onde 
+2578	o chefe dele não tem acampamento
+2579	você já sabe de onde ele cavalga
+2580	não tem chefe acima dele
+2581	"Sem ressentimentos. Se cuida."  - desejar sorte
+2582	"Para 
+2583	seu chefe
+2584	você já mandou um presente para eles esta semana
+2585	ninguém lidera eles agora
+2586	"Pensando em você. Espero que esteja bem."  - mandar lembranças
+2587	"Alguma novidade pelas suas bandas?"  - pedir notícias
+2588	"Alguém andou perguntando por mim?"  - perguntar quem está atrás de você
+2589	"Não vou esquecer o que você fez."  - agradecer
+2590	nada para agradecer
+2591	"A próxima rodada é por minha conta."  - pagar uma bebida para ele, $2
+2592	"Pode me telegrafar dez dólares? Eu pago, palavra."  - pedir um empréstimo
+2593	"Fica de olho por mim, pode ser?"  - pedir para ele vigiar encrenca
+2594	já está de olho por você
+2595	"Desculpa pela encrenca que eu causei."  - pedir desculpas
+2596	"Como vão as coisas? Responde quando puder."  - uma palavra amiga
+2597	"Resolvi escrever. Por aqui as coisas vão bem o bastante."  - uma carta com suas notícias
+2598	"Uma coisinha para você. Não precisa devolver."  - mandar um presente, $5
+2599	"Bico fechado sobre o que você viu."  - um aviso
+2600	Mais alguma coisa?
+2601	Aqui está o que você mandou.
+2602	Aqui está o que chegou.
+2603	Vai para quem?
+2604	Quando o telegrama chegou até você, 
+2605	pessoa
+2606	Já foi pelo fio. A resposta chega aqui, ou em qualquer estação da linha.
+2607	Ele
+2608	Ela
+2609	mais cedo
+2610	menos vezes
+2611	mais longe de casa
+2612	não tão longe de casa
+2613	orgulho - devolveu
+2614	dinheiro de novo - agora não compra nada
+2615	=
+2616	entrega o chefe dele
+2617	=
+2618	=
+2619	se volta contra o chefe dele
+2620	=
+2621	recebe bem
+2622	um líder orgulhoso devolveu
+2623	um líder esquentado tomou como insulto
+2624	=
+2625	=
+2626	se acalmou com você
+2627	=
+2628	tem mais medo de você
+2629	tem menos medo de você
+2630	O lugar de onde o chefe dele cavalga está marcado no seu mapa.
+2631	Ele se voltou contra o chefe.
+2632	Seu dinheiro voltou.
+2633	=
+2634	não caça
+2635	caça
+2636	=
+2637	=
+2638	empréstimo recusado - ele já te emprestou dinheiro esta semana
+2639	=
+2640	=
+2641	gosta mais de você
+2642	gosta menos de você
+2643	guarda menos mágoa de você
+2644	guarda mágoa de você
+2645	Ele vai ficar de bico fechado.
+2646	Ele mandou o dinheiro.
+2647	Alguém andou perguntando por você.
+2648	=
+2649	MENSAGEM
+2650	O QUE ELES LEEM
+2651	CUSTO
+2652	PARA
+2653	BANDO / CIDADE
+2654	POSTO
+2655	SITUAÇÃO
+2656	DE
+2657	O QUE É
+2658	NOME
+2659	SENTIMENTO
+2660	Escolher
+2661	=
+2662	fora da cidade
+2663	para dentro da cidade
+2664	=
+2665	=
+2666	=
+2667	=
+2668	=
+2669	=
+2670	=
+2671	uma patrulha na estrada
+2672	=
+2673	=
+2674	venceu um confronto com 
+2675	=
+2676	=
+2677	=
+2678	=
+2679	Guerra em 
+2680	=
+2681	 se acalma - 
+2682	=
+2683	=
+2684	=
+2685	o primeiro nesta visita
+2686	já foram dois nesta visita
+2687	um ainda está ativo
+2688	a segunda chance já foi sorteada
+2689	=
+2690	nenhum segundo nesta visita
+2691	um segundo raro
+2692	=
+2693	 estava esperando nos arredores de 
+2694	=
+2695	=
+2696	=
+2697	=
+2698	=
+2699	na saída da cidade
+2700	num banco
+2701	=
+2702	já tem um homem esperando lá fora
+2703	homem do bando dele
+2704	parente dele
+2705	=
+2706	=
+2707	=
+2708	recua
+2709	fica olhando
+2710	=
+2711	você está brigando com 
+2712	a briga de um estranho
+2713	Ninguém vai te salvar dessa vez.
+2714	Vou te enterrar nesta rua.
+2715	Faz suas orações, moço.
+2716	Achou que eu nunca ia te achar? Tô aqui.
+2717	Você não me escapa duas vezes.
+2718	Isso acaba agora, ouviu?
+2719	Eu e você. Aqui mesmo.
+2720	Aqui não. Não desse jeito.
+2721	Outra hora, moço.
+2722	Você pode esperar. Tô indo embora.
+2723	Aqui não, moço... hoje não.
+2724	Benquisto
+2725	Admirado
+2726	Malvisto
+2727	Odiado
+2728	=
+2729	logo depois de um escurecimento / carregamento / viagem rápida
+2730	o único trem por perto está parado na estação (e você não está a bordo)
+2731	o mesmo roubo (15 min, 300 m)
+2732	uma missão
+2733	este trem já foi roubado
+2734	=
+2735	=
+2736	Um mascarado - até tirar a máscara na frente deles. Eles viram seu rosto.
+2737	=
+2738	Sem pagamento, sem homens novos - os lugares vagos vão continuar vagos, e cada grupo vai cavalgar com menos gente.
+2739	Minguado
+2740	meio pagamento - eles estão falidos
+2741	=
+2742	=
+2743	=
+2744	=
+2745	saque de um confronto com 
+2746	perdeu um confronto para 
+2747	=
+2748	você roubou o tesouro deles em 
+2749	=
+2750	=
+2751	=
+2752	=
+2753	=
+2754	=
+2755	=
+2756	=
+2757	=
+2758	=
+2759	=
+2760	MEDO
+2761	SIMPATIA
+2762	=
+2763	=
+2764	Com 
+2765	=
+2766	=
+2767	=
+2768	=
+2769	=
+2770	=
+2771	=
+2772	=
+2773	=
+2774	=
+2775	=
+2776	=
+2777	o do jogo
+2778	o do mod
+2779	=
+2780	=
+2781	=
+2782	=
+2783	=
+2784	(do jogo)
+2785	=
+2786	=
+2787	=
+2788	=
+2789	=
+2790	=
+2791	=
+2792	=
+2793	=
+2794	=
+2795	=
+2796	=
+2797	Cavaleiros de 
+2798	=
+2799	=
+2800	=
+2801	=
+2802	=
+2803	=
+2804	Você chegou quando o tiroteio parou.
+2805	=
+2806	=
+2807	=
+2808	no auge
+2809	em fúria
+2810	em chamas
+2811	em brasa
+2812	esfriando
+2813	Sua parte: você matou {0} de {1} e {2} de {3}
+2814	 mudam de objetivo: 
+2815	=
+2816	eles querem expulsar 
+2817	 oficiais - a guerra deles em 
+2818	=
+2819	=
+2820	=
+2821	Você chegou pouco depois.
+2822	Sem líder - aguentando como podem
+2823	Revidando com força
+2824	Não cedem um palmo
+2825	Entrincheirados e esperando
+2826	Procurando uma saída
+2827	Há uma trégua - por enquanto
+2828	Acabou de começar
+2829	Furiosa - sem fim à vista
+2830	  (Dia {0}, intensidade {1}, força {2} / {3}, desiste no dia {4})
+2831	=
+2832	=
+2833	=
+2834	=
+2835	=
+2836	=
+2837	=
+2838	=
+2839	=
+2840	Outono
+2841	A Guerra dos Cavaleiros da Noite
+2842	a guerra
+2843	Nenhum - o posto está vago
+2844	${0} por dia{1}
+2845	grupos menores, recrutas falham
+2846	grupos maiores
+2847	=
+2848	 foi atrás de 
+2849	=
+2850	=
+2851	=
+2852	o acampamento que disputavam caiu nas mãos de outro
+2853	virou parte da guerra que 
+2854	Desta vez vale - a guerra acabou.
+2855	Só uma trégua - a guerra espera.
+2856	=
+2857	Encrenca em 
+2858	A trégua entre eles foi rompida.
+2859	=
+2860	=
+2861	=
+2862	=
+2863	sabe o que você fez
+2864	vai embora com calma (só ouviu falar de você)
+2865	te encara
+2866	=
+2867	 o que 
+2868	=
+2869	=
+2870	=
+2871	=
+2872	Tiroteio à frente: 
+2873	Você ouviu e foi até lá ver.
+2874	Você ouviu de longe.
+2875	=
+2876	=
+2877	=
+2878	=
+2879	=
+2880	=
+2881	Você matou {0} caçadores de recompensa{1}
+2882	=
+2883	=
+2884	=
+2885	Enquanto você estava fora: {0} coisas aconteceram{1}. Veja a aba Mundo.
+2886	em breve
+2887	=
+2888	OBRA SUA
+2889	REVIRAVOLTA
+2890	BOATO
+2891	A GANGUE
+2892	Você matou {0} homens
+2893	{0} homens juraram vingança contra você
+2894	 atacou 
+2895	 saqueou 
+2896	{0}: {1} com nome + {2} outros.  {3}: {4} com nome + {5} outros.
+2897	O acampamento foi tomado - 
+2898	=
+2899	=
+2900	=
+2901	=
+2902	=
+2903	abatido
+2904	morto a tiros
+2905	perdeu 
+2906	=
+2907	 foi morto por 
+2908	 foi até 
+2909	Eram amigos. Não são mais.
+2910	amizade desfeita
+2911	=
+2912	A lei prendeu ele por uma noite.
+2913	a esposa foi embora
+2914	=
+2915	=
+2916	=
+2917	=
+2918	=
+2919	=
+2920	=
+2921	=
+2922	=
+2923	=
+2924	=
+2925	=
+2926	=
+2927	Saqueador
+2928	=
+2929	=
+2930	=
+2931	 de 
+2932	=
+2933	=
+2934	=
+2935	=
+2936	=
+2937	=
+2938	=
+2939	=
+2940	=
+2941	=
+2942	=
+2943	=
+2944	=
+2945	=
+2946	=
+2947	=
+2948	=
+2949	=
+2950	=
+2951	=
+2952	=
+2953	=
+2954	=
+2955	=
+2956	=
+2957	=
+2958	=
+2959	=
+2960	=
+2961	=
+2962	=
+2963	=
+2964	=
+2965	=
+2966	=
+2967	=
+2968	=
+2969	=
+2970	=
+2971	=
+2972	=
+2973	=
+2974	=
+2975	=
+2976	=
+2977	=
+2978	=
+2979	=
+2980	ele escapou
+2981	outra pessoa apagou ele
+2982	=
+2983	=
+2984	=
+2985	=
+2986	=
+2987	=
+2988	=
+2989	=
+2990	=
+2991	=
+2992	=
+2993	=
+2994	=
+2995	=
+2996	=
+2997	=
+2998	=
+2999	=
+3000	=
+3001	=
+3002	=
+3003	=
+3004	=
+3005	=
+3006	=
+3007	=
+3008	=
+3009	=
+3010	=
+3011	=
+3012	=
+3013	um Schofield
+3014	uma carabina
+3015	um arco
+3016	uma machadinha
+3017	roubar a diligência na estrada que sai de {t}
+3018	a estrada que sai de {t}
+3019	acertar as contas com um homem em {t}
+3020	a saída de {t}
+3021	Gangue O'Driscoll
+3022	=
+3023	=
+3024	Líder da Gangue O'Driscoll. O inimigo mais antigo de Dutch.
+3025	TENENTES
+3026	CAPITÃES
+3027	um Cattleman
+3028	queimar uma fazenda nos arredores de {t}
+3029	uma fazenda nos arredores de {t}
+3030	emboscar homens da lei na estrada para {t}
+3031	a estrada para {t}
+3032	contrabandear armas pela mata perto de {t}
+3033	a mata perto de {t}
+3034	dar uma surra num aproveitador ianque perto de {t}
+3035	a estrada perto de {t}
+3036	Saqueadores de Lemoyne
+3037	=
+3038	=
+3039	Comanda os Saqueadores a partir de Fort Brennand como se a guerra nunca tivesse acabado.
+3040	=
+3041	SARGENTOS
+3042	Batista
+3043	Metodista
+3044	Ex-soldado
+3045	um velho revólver Navy
+3046	um LeMat
+3047	um Springfield
+3048	varrer a estrada nos arredores de {t} atrás dos O'Driscoll
+3049	a estrada nos arredores de {t}
+3050	escoltar uma carroça de mantimentos até {t}
+3051	caçar desertores nas colinas perto de {t}
+3052	as colinas perto de {t}
+3053	Exército dos EUA
+3054	Comanda Fort Wallace e mantém os Wapiti na reserva. Quer o problema dos foras da lei enterrado.
+3055	SOLDADOS RASOS
+3056	Soldado
+3057	cavalgar à noite nos arredores de {t}
+3058	os campos nos arredores de {t}
+3059	queimar uma cruz nos arredores de {t}
+3060	um campo nos arredores de {t}
+3061	Grão-Guardião Jebediah Pruitt
+3062	Esconde o rosto, acende as fogueiras e manda os outros morrerem no lugar dele.
+3063	GUARDIÕES
+3064	PORTA-TOCHAS
+3065	CAPUZES
+3066	Balconista
+3067	uma espingarda de cano duplo
+3068	caçar nas colinas acima de {t}
+3069	as colinas acima de {t}
+3070	vigiar a estrada dos soldados perto de {t}
+3071	=
+3072	Chefe dos Wapiti. Quer que seu povo sobreviva à reserva, e não que morra lutando contra o Exército.
+3073	LÍDERES DE GUERRA
+3074	BATEDORES
+3075	GUERREIROS
+3076	os costumes antigos
+3077	Domador de cavalos
+3078	=
+3079	cobrar de um lojista que está devendo em {t}
+3080	uma rua dos fundos de {t}
+3081	descarregar caixotes de um barco a vapor perto de {t}
+3082	a estrada do cais perto de {t}
+3083	dar uma lição num contrabandista rival nos arredores de {t}
+3084	a estrada do pântano nos arredores de {t}
+3085	=
+3086	=
+3087	=
+3088	É dono de Saint Denis - a polícia, o cais, o ouvido do prefeito. E sorri enquanto faz isso.
+3089	=
+3090	CAPANGAS
+3091	SOLDADOS
+3092	um Double-Action
+3093	uma pistola Volcanic
+3094	uma Mauser
+3095	uma escopeta de cano serrado
+3096	uma espingarda de repetição
+3097	tirar viajantes da estrada perto de {t}
+3098	atacar uma propriedade nas colinas perto de {t}
+3099	uma propriedade perto de {t}
+3100	armar uma emboscada na trilha que sai de {t}
+3101	a trilha que sai de {t}
+3102	Clã Murfree
+3103	=
+3104	Velho Esau Murfree
+3105	Faz anos que ninguém vê o chefe do Clã. O Clã responde a ele assim mesmo.
+3106	ANCIÃOS
+3107	CAÇADORES
+3108	PROLE
+3109	caçar homens na mata depois de {t}
+3110	a mata depois de {t}
+3111	roubar uma carroça na estrada que sai de {t}
+3112	deixar um aviso na trilha perto de {t}
+3113	a trilha perto de {t}
+3114	=
+3115	=
+3116	=
+3117	O mais velho dos irmãos. Todo homem que atravessa Tall Trees deixa um pedaço de si para trás.
+3118	IRMÃOS
+3119	CAÇADORES DE PELE
+3120	um rifle de ferrolho
+3121	um rifle de pragas
+3122	levar o gado de um rancho perto de {t}
+3123	trocar as marcas do gado roubado nos arredores de {t}
+3124	um curral nos arredores de {t}
+3125	assaltar a diligência na estrada que sai de {t}
+3126	roubar uma propriedade nos arredores de {t}
+3127	Gangue Laramie
+3128	=
+3129	=
+3130	Comanda os rapazes de Laramie - toma o rebanho de um homem, e a vida dele se ele reclamar.
+3131	CAPATAZES
+3132	PEÕES
+3133	LADRÕES DE GADO
+3134	Peão de rancho
+3135	Tropeiro
+3136	atacar um rancho nos arredores de {t}
+3137	um rancho nos arredores de {t}
+3138	assaltar um trem perto de {t}
+3139	os trilhos perto de {t}
+3140	contrabandear armas pelo rio perto de {t}
+3141	o rio perto de {t}
+3142	Gangue Del Lobo
+3143	=
+3144	=
+3145	Jefe dos Del Lobo. Cavalga dos dois lados do rio e não responde a nenhum.
+3146	=
+3147	=
+3148	=
+3149	=
+3150	levar um viajante da estrada do pântano perto de {t}
+3151	a estrada do pântano perto de {t}
+3152	deixar um aviso pendurado nas árvores perto de {t}
+3153	as árvores perto de {t}
+3154	pendurar lanternas nos ciprestes ao longo da estrada que sai de {t}
+3155	desenterrar uma cova fresca no cemitério de {t}
+3156	o cemitério de {t}
+3157	levar um barco de pesca da água perto de {t}
+3158	a água perto de {t}
+3159	deixar alguma coisa na porta de uma casa em {t}
+3160	a porta de uma casa em {t}
+3161	Povo da Noite
+3162	=
+3163	=
+3164	Ninguém nunca viu ele à luz do dia. O pântano faz o que ele manda assim mesmo.
+3165	ESPREITADORES
+3166	POVO
+3167	Pescador
+3168	Gangue Van der Linde
+3169	=
+3170	A gangue de Dutch, fugindo desde Blackwater
+3171	LÍDERES
+3172	VETERANOS
+3173	PISTOLEIROS
+3174	AJUDANTES DO ACAMPAMENTO
+3175	=
+3176	=
+3177	 perdido para 
+3178	mudou - ninguém segurou o acampamento antigo
+3179	mudou depois que você roubou
+3180	mudou - o acampamento antigo foi perdido
+3181	onde eles guardam
+3182	=
+3183	 - o que sobrou vai para outro acampamento
+3184	Enter muda as teclas (seção [Keys]) - Esquerda / Direita mudam o resto
+3185	Mudar
+3186	=
+3187	=
+3188	Seção
+3189	Segurar x10
+3190	=
+3191	Tira as mãos de mim, seu animal desgraçado.
+3192	Cachorro do Van der Linde. Eu sabia.
+3193	O Colm vai ficar sabendo disso, rapazinho.
+3194	Cê foi agarrar o irlandês errado.
+3195	Anda, então. Que que cê quer?
+3196	Jesus, que fedor é esse em você? Que que é isso?
+3197	Acha que me assusta? Já apanhei de gente melhor num domingo.
+3198	Foi o Dutch que te mandou? Claro que foi. Covarde.
+3199	Ah, o famoso Arthur Morgan. O moleque de recado do Dutch.
+3200	Larga a minha gola antes que eu arranque tua mão a dentada.
+3201	Cê vai se arrepender de ter mexido com os rapazes, ah se vai.
+3202	E aí? Desembucha. Num tenho o dia todo.
+3203	É assim que o pessoal do Dutch dá bom-dia agora?
+3204	Cê tá querendo morrer, agarrando um dos homens do Colm.
+3205	Vai pro inferno e morre num canto quieto.
+3206	Quer alguma coisa? Pede com jeitinho que talvez eu dê risada.
+3207	Jesus, Maria e José... num me mata.
+3208	Calma, calma! Sou só um rapaz de Cork, num sou ninguém!
+3209	Por favor, moço - eu só ando com eles pelo dinheiro.
+3210	Mãe de Deus. Tá bom. Tá bom, que que cê quer?
+3211	Não! Num fiz nada pro Dutch, eu juro!
+3212	São Patrício... abaixa essa arma, por favor.
+3213	Sou novato, moço, num sei de nada!
+3214	Ai, meu Deus, ai, meu Deus, num quero morrer nesta terra.
+3215	Num te conto nada, seu lixo do Van der Linde.
+3216	O Colm arrancava a minha língua. Prefiro que seja você.
+3217	Vai plantar batata.
+3218	Pode me matar. O Colm te mata mais devagar.
+3219	Nem uma maldita palavra, rapazinho.
+3220	A gente num dedura. Não pro pessoal do Dutch.
+3221	Pergunta pro teu querido Dutch. Esse aí entende tudo de fugir.
+3222	Já vi Pinkerton se esforçar mais que você.
+3223	Cê arranca mais coisa de uma ovelha morta.
+3224	Cê vai tirar de mim o mesmo que os Pinkerton tiram do Colm. Nada.
+3225	Some daqui.
+3226	Minha boca tá mais fechada que bolsa de padre.
+3227	Falar com você? Prefiro beber cerveja inglesa.
+3228	Quer resposta? Vai se confessar.
+3229	O Colm é caçado faz metade da vida. Num durou tanto tempo com rato por perto.
+3230	Levo isso pro meu túmulo e cuspo no teu.
+3231	Num tem nada que cê possa fazer comigo que o Colm num faça pior.
+3232	Pergunta pro Dutch sobre o irmão do Colm. Depois num me pergunta nada.
+3233	Num posso! O Colm pendura dedo-duro nas árvores, cê num entende!
+3234	Por favor - o Colm ia descobrir. Ele sempre descobre.
+3235	Vão me enforcar em Six Point se eu falar. Por favor...
+3236	Juro pela minha mãe, num posso dizer!
+3237	O Colm me esfolava, moço, me esfolava vivo!
+3238	Por favor, cê num sabe o que o Colm faz com quem abre o bico!
+3239	Eu vi o que sobrou do último sujeito que deu com a língua nos dentes. Por favor.
+3240	Num me obriga. O Colm tem ouvido em todo canto.
+3241	É só isso que cê vai ter sobre esse assunto.
+3242	Pergunta isso de novo e cê vai tá perguntando pra um defunto.
+3243	Isso não. Isso nunca.
+3244	Pode perguntar pro Papa. Cê num vai ter mais nada.
+3245	Acabou o assunto, rapazinho.
+3246	Minha boca tá fechada pra isso, e vai continuar fechada.
+3247	Ha! Cê bate feito protestante.
+3248	Só isso? Minha avó bate mais forte.
+3249	Cê vai pagar por isso, rapazinho.
+3250	É só isso? Minha irmã tem um direto melhor.
+3251	Ha! Já levei pior num bar de Dublin.
+3252	Pronto, cê amoleceu um dente. Tá orgulhoso?
+3253	Para! Cristo, para!
+3254	Na cara não, na cara não!
+3255	Tá bom! Tá bom, já entendi o recado!
+3256	Piedade! Santa Mãe, piedade!
+3257	Chega, eu te imploro!
+3258	Tá bom, tá bom, Jesus, tá bom!
+3259	Cê me cortou, seu maldito... !
+3260	Sangue por sangue. Lembra disso.
+3261	Ah, seu sujo... isso vai deixar cicatriz.
+3262	Cê vai receber isso de volta dez vezes, rapazinho.
+3263	Jesus, tô sangrando! Para!
+3264	Guarda isso, guarda essa lâmina!
+3265	Ai, Deus, num para de sangrar!
+3266	A faca não, por favor, a faca não!
+3267	Aagh! Cê atirou em mim! Cê atirou em mim, seu desgraçado!
+3268	O Colm vai arrancar teu coração por isso!
+3269	Cê me acertou na perna! Seu animal maldito!
+3270	Essa bala cê vai receber de volta, Morgan.
+3271	Eu falo! Num atira de novo, eu falo!
+3272	Santo Deus... tá bom, TÁ BOM!
+3273	Para, para! Mãe de Deus, me acertaram!
+3274	Eu digo o que cê quiser! Só chega!
+3275	Errou. Cê sempre erra.
+3276	Isso era pra me assustar?
+3277	Ha! Foi o Dutch que te ensinou a atirar assim?
+3278	Perto. Mas num o bastante, rapazinho.
+3279	Jesus! Essa quase arrancou minha orelha!
+3280	Não! Não, eu te imploro!
+3281	Santo Deus! Olha pra onde cê aponta isso!
+3282	Tá bom! Cristo, cê é louco!
+3283	Então faz. O Colm me vinga.
+3284	Cê num tem colhão pra isso.
+3285	Te vejo no inferno, Morgan.
+3286	Cê vai tá morto numa vala antes da semana acabar.
+3287	Vai em frente. Os rapazes vão beber em minha honra hoje à noite.
+3288	Ameaça à vontade. Sou irlandês. A gente nasce pra sofrer.
+3289	Não! Não, por favor - eu tenho uma irmã em Boston!
+3290	Mãe de Deus, não!
+3291	Por favor, eu volto pra Irlanda, cê nunca mais me vê!
+3292	Não! Não, eu sou novo demais!
+3293	Muita conversa pra um Van der Linde.
+3294	É mesmo, rapazinho?
+3295	O Colm já me disse coisa pior no café da manhã.
+3296	Vamos ver quem vai tá dizendo isso daqui a um mês.
+3297	Fica com teus dólares sujos. O Colm é família.
+3298	Acha que eu vendia os meus por dinheiro do Van der Linde?
+3299	Enfia esse dinheiro onde o sol num bate.
+3300	O Colm me acolheu quando eu num tinha nada. Isso cê num compra.
+3301	Agora sim, essa língua eu falo.
+3302	Ah, dinheiro. Devia ter começado por aí, rapazinho.
+3303	Jesus, isso é mais do que o Colm paga num mês.
+3304	Agora sim cê tá falando coisa com coisa, ah se tá.
+3305	Acha que isso me impressiona? Já roubei mais que isso de homem melhor que você.
+3306	Trocado. Já bebi mais que isso numa noite.
+3307	Deus te abençoe... num como faz dois dias.
+3308	Isso paga metade do barco pra casa. Tá bom, pergunta.
+3309	Dinheiro é dinheiro. Pergunta, então.
+3310	Uns trocados num me fazem dedo-duro. Mas vai, fala.
+3311	Tá. Tá bom, seu desgraçado.
+3312	Tá bom, tá bom...
+3313	Cê num ouviu isso de mim.
+3314	Jura que nunca vai dizer onde ouviu isso.
+3315	Cristo, o Colm vai me matar... tá bom.
+3316	Eis a verdade, pelo que ela vale.
+3317	Tá bom! Eu conto, eu conto!
+3318	Deus me perdoe...
+3319	Num deixa o Colm saber que fui eu...
+3320	Eu te conto tudo, só abaixa isso!
+3321	Tá bom, tá bom, santo Deus...
+3322	Por favor, é tudo que eu sei, eu juro!
+3323	Cê vai me deixar ir? Cê é mais mole do que dizem.
+3324	Num vou esquecer isso, rapazinho. Só num sei ainda de que jeito.
+3325	Louco. Cê é louco. ...Obrigado.
+3326	Da próxima vez que a gente se cruzar, finjo que nunca te vi.
+3327	Num espera uma cerveja por isso.
+3328	O Colm tinha me dado um tiro. Mundo estranho.
+3329	Deus te abençoe, Deus te abençoe, já fui!
+3330	Cê nunca mais me vê, juro por São Patrício!
+3331	Obrigado, obrigado - tô indo pra Boston, ah se tô!
+3332	Tô indo, moço. Tô indo!

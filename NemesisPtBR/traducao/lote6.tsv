@@ -1,0 +1,834 @@
+id	usos	contexto	prefixo_fixo	texto
+4166	1	InterroLines::.cctor<>		Gracias. But don't think we're friends.
+4167	1	InterroLines::.cctor<>		Next time, maybe I won't be so lucky.
+4168	1	InterroLines::.cctor<Dictionary`2.set_Item>		Loco. You're loco.
+4169	1	InterroLines::.cctor<Dictionary`2.set_Item>		I remember this, amigo.
+4170	1	InterroLines::.cctor<Dictionary`2.set_Item>		Bueno. I go.
+4171	1	InterroLines::.cctor<>		Gracias, gracias! I'm gone!
+4172	1	InterroLines::.cctor<Dictionary`2.set_Item>		Dios te bendiga! I go home!
+4173	1	InterroLines::.cctor<Dictionary`2.set_Item>		I go back to Mexico, I swear!
+4174	1	InterroLines::.cctor<Dictionary`2.set_Item>		Thank you, señor! You never see me again!
+4175	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. Everything. Take it.
+4176	1	InterroLines::.cctor<Dictionary`2.set_Item>		Toma - ${dollars}. Now let me go.
+4177	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}, amigo. Fair price, no?
+4178	1	InterroLines::.cctor<Dictionary`2.set_Item>		I tell you where the Del Lobos ride. Every time.
+4179	1	InterroLines::.cctor<Dictionary`2.set_Item>		I send word before every job. Just let me live.
+4180	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll be your ears, gringo. Dios me perdone.
+4181	1	InterroLines::.cctor<Dictionary`2.set_Item>		Then I owe you, gringo. One time.
+4182	1	InterroLines::.cctor<Dictionary`2.set_Item>		One debt. I pay it, then we're even.
+4183	1	InterroLines::.cctor<Dictionary`2.set_Item>		Una vez. I owe you once.
+4184	1	InterroLines::.cctor<Dictionary`2.set_Item>		I go south. Back across the river.
+4185	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm done with the Del Lobos. I leave tonight.
+4186	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You never see me again, señor. I swear.
+4187	1	InterroLines::.cctor<Dictionary`2.set_Item>		I already bought my life. No more, gringo.
+4188	1	InterroLines::.cctor<Dictionary`2.set_Item>		We had a deal. There's no other one.
+4189	1	InterroLines::.cctor<Dictionary`2.set_Item>		I have a family in Chihuahua! Please!
+4190	1	InterroLines::.cctor<Dictionary`2.set_Item>		I just hold the horses, señor!
+4191	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, I'm nobody to them!
+4192	1	InterroLines::.cctor<>		...You let me go.
+4193	1	InterroLines::.cctor<>	The 	The bayou will remember you.
+4194	1	InterroLines::.cctor<>		Heh-heh... we'll meet in the dark.
+4195	1	InterroLines::.cctor<Dictionary`2.set_Item>		...Go on, then.
+4196	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll hear us. At night.
+4197	1	InterroLines::.cctor<>		...I go. Into the water. Gone.
+4198	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't follow. Please.
+4199	1	InterroLines::.cctor<Dictionary`2.set_Item>		...Thank you. Thank you.
+4200	1	InterroLines::.cctor<Dictionary`2.set_Item>		I go deep. You won't see me.
+4201	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}... from the dead ones. Take it.
+4202	1	InterroLines::.cctor<Dictionary`2.set_Item>		Take it. ${dollars}. Leave me be.
+4203	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you where they wait. In the trees.
+4204	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll whisper you their paths. Just let me go.
+4205	1	InterroLines::.cctor<Dictionary`2.set_Item>		...Then I owe you. Once.
+4206	1	InterroLines::.cctor<Dictionary`2.set_Item>		One life for one life. Once.
+4207	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll go deep. Past the swamp. Gone.
+4208	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll never see me again. Never.
+4209	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll leave the bayou. I swear it.
+4210	1	InterroLines::.cctor<Dictionary`2.set_Item>		...You had your bargain.
+4211	1	InterroLines::.cctor<Dictionary`2.set_Item>		Nothing more to give. Nothing.
+4212	1	InterroLines::.cctor<Dictionary`2.set_Item>		...Please. Please.
+4213	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm not one of them. Not really.
+4214	1	InterroLines::.cctor<Dictionary`2.set_Item>		Let me go back to the water.
+4215	1	InterroLines::.cctor<>		What the hell do you want?
+4216	1	InterroLines::.cctor<>		Get off me!
+4217	1	InterroLines::.cctor<>	You 	You picked the wrong man, mister.
+4218	1	InterroLines::.cctor<>		I ain't done nothing to you.
+4219	1	InterroLines::.cctor<>	You 	You got some nerve.
+4220	1	InterroLines::.cctor<>		Who the hell are you?
+4221	1	InterroLines::.cctor<>		Mister, you got the wrong fella.
+4222	1	InterroLines::.cctor<>		What is this? A robbery?
+4223	1	InterroLines::.cctor<>		Let go of me, damn you.
+4224	1	InterroLines::.cctor<>	You 	You lost, friend?
+4225	1	InterroLines::.cctor<Dictionary`2.set_Item>		Make it quick, whatever it is.
+4226	1	InterroLines::.cctor<Dictionary`2.set_Item>		I don't want no trouble.
+4227	1	InterroLines::.cctor<Dictionary`2.set_Item>		Easy, now. What's this about?
+4228	1	InterroLines::.cctor<>		Please, mister, I got money, take it!
+4229	1	InterroLines::.cctor<>		Don't kill me, please!
+4230	1	InterroLines::.cctor<Dictionary`2.set_Item>		Oh God, oh God, please...
+4231	1	InterroLines::.cctor<Dictionary`2.set_Item>		I ain't armed, mister! See?
+4232	1	InterroLines::.cctor<Dictionary`2.set_Item>		What'd I do? What'd I do?
+4233	1	InterroLines::.cctor<>		I ain't telling you nothing.
+4234	1	InterroLines::.cctor<>		Ask somebody who cares.
+4235	1	InterroLines::.cctor<>		I don't know, and I wouldn't tell you if I did.
+4236	1	InterroLines::.cctor<>		You're wasting your breath, mister.
+4237	1	InterroLines::.cctor<>		Find somebody else to bother.
+4238	1	InterroLines::.cctor<>		Not a chance.
+4239	1	InterroLines::.cctor<>	You 	You can go to the devil.
+4240	1	InterroLines::.cctor<>		I keep my mouth shut. Lived this long doing it.
+4241	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't know, don't care.
+4242	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ain't my business, and it sure ain't yours.
+4243	1	InterroLines::.cctor<Dictionary`2.set_Item>		I got nothing for you.
+4244	1	InterroLines::.cctor<>		I don't know! I swear I don't know!
+4245	1	InterroLines::.cctor<>		Please, I can't!
+4246	1	InterroLines::.cctor<>		They'd kill me, mister!
+4247	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, I'd be a dead man!
+4248	1	InterroLines::.cctor<Dictionary`2.set_Item>		I can't tell you, mister, honest to God!
+4249	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't make me say it, please!
+4250	1	InterroLines::.cctor<>		That's all I'm saying on that.
+4251	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't ask me that again.
+4252	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's the end of it.
+4253	1	InterroLines::.cctor<Dictionary`2.set_Item>		Leave it be, mister.
+4254	1	InterroLines::.cctor<>		That the best you got?
+4255	1	InterroLines::.cctor<Dictionary`2.set_Item>		Hit me again and see what happens.
+4256	1	InterroLines::.cctor<Dictionary`2.set_Item>		My old man hit harder.
+4257	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll regret that, mister.
+4258	2	InterroLines::.cctor<> ; InterroLines::.cctor<>		Okay! OKAY! Stop, please!
+4259	1	InterroLines::.cctor<Dictionary`2.set_Item>		Enough! Enough!
+4260	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! No more!
+4261	1	InterroLines::.cctor<Dictionary`2.set_Item>		I give! I give!
+4262	1	InterroLines::.cctor<>	You 	You cut me... you cut me!
+4263	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You crazy son of a -
+4264	1	InterroLines::.cctor<Dictionary`2.set_Item>		You're a madman!
+4265	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ah! You'll pay for that!
+4266	1	InterroLines::.cctor<>		No more! Please, no more!
+4267	1	InterroLines::.cctor<Dictionary`2.set_Item>		Put it away! Please!
+4268	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm bleeding! Please stop!
+4269	1	InterroLines::.cctor<Dictionary`2.set_Item>		Not the knife! Please!
+4270	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You shot me!
+4271	1	InterroLines::.cctor<Dictionary`2.set_Item>		Argh! Damn you!
+4272	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You crazy bastard, you shot me!
+4273	1	InterroLines::.cctor<Dictionary`2.set_Item>		No more! I'll tell you, I'll tell you!
+4274	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! I don't want to die!
+4275	1	InterroLines::.cctor<>		...You missed.
+4276	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ha. Try again.
+4277	1	InterroLines::.cctor<Dictionary`2.set_Item>		Can't shoot neither, huh?
+4278	1	InterroLines::.cctor<Dictionary`2.set_Item>		Wasting good bullets.
+4279	1	InterroLines::.cctor<>		Jesus! Don't! Don't shoot!
+4280	1	InterroLines::.cctor<Dictionary`2.set_Item>		Okay! Okay!
+4281	1	InterroLines::.cctor<Dictionary`2.set_Item>		God almighty! Stop!
+4282	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't! I'm listening!
+4283	1	InterroLines::.cctor<Dictionary`2.set_Item>		I ain't scared of you.
+4284	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'd hang for it.
+4285	1	InterroLines::.cctor<>		N-no! No, don't!
+4286	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! I'll do anything!
+4287	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, mister, I'll leave town!
+4288	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't! I got a family!
+4289	1	InterroLines::.cctor<>	You 	You talk a lot.
+4290	1	InterroLines::.cctor<>		Is that so.
+4291	1	InterroLines::.cctor<Dictionary`2.set_Item>		Sure you would.
+4292	1	InterroLines::.cctor<Dictionary`2.set_Item>		Uh huh.
+4293	1	InterroLines::.cctor<Dictionary`2.set_Item>		That right?
+4294	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You think I'd sell them out for your money? Keep it.
+4295	1	InterroLines::.cctor<Dictionary`2.set_Item>		They're my friends. Your money don't change that.
+4296	1	InterroLines::.cctor<>		Your money? I've got more than you'll ever see.
+4297	1	InterroLines::.cctor<Dictionary`2.set_Item>		Put it away. You can't afford me.
+4298	1	InterroLines::.cctor<Dictionary`2.set_Item>		I don't need your money, friend.
+4299	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's an insult, mister.
+4300	1	InterroLines::.cctor<>		...Now we're talking. Ask your questions.
+4301	1	InterroLines::.cctor<Dictionary`2.set_Item>		Money. Finally, some sense.
+4302	1	InterroLines::.cctor<Dictionary`2.set_Item>		Well, now. That's a different story.
+4303	1	InterroLines::.cctor<Dictionary`2.set_Item>		Money first. Then talk.
+4304	1	InterroLines::.cctor<>		...That's a week's eating. Alright. Ask.
+4305	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lord knows I need it. Ask.
+4306	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's rent. God help me. Ask.
+4307	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll take it. Hard times.
+4308	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright. Ask, then.
+4309	1	InterroLines::.cctor<Dictionary`2.set_Item>		Fine. Ask.
+4310	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright, for that I'll talk.
+4311	1	InterroLines::.cctor<>	You 	You want to know? Fine.
+4312	1	InterroLines::.cctor<Dictionary`2.set_Item>		Here's the truth of it.
+4313	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright, listen.
+4314	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't say where you heard it.
+4315	1	InterroLines::.cctor<>		Okay! Okay, I'll tell you!
+4316	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll talk! Just stop!
+4317	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright! I'll say it!
+4318	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, here it is, all of it!
+4319	1	InterroLines::.cctor<>		...That's it? I can go?
+4320	1	InterroLines::.cctor<>		Huh. Thanks, I guess.
+4321	1	InterroLines::.cctor<>		You're a strange one, mister.
+4322	1	InterroLines::.cctor<>		I won't forget this.
+4323	1	InterroLines::.cctor<>		Don't expect me to thank you.
+4324	1	InterroLines::.cctor<>		Alright. I'm going.
+4325	1	InterroLines::.cctor<>		Next time, just leave me be.
+4326	1	InterroLines::.cctor<Dictionary`2.set_Item>		Well. That's a first.
+4327	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll be on my way, then.
+4328	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lucky day, I suppose.
+4329	1	InterroLines::.cctor<>		Thank you! Thank you, mister!
+4330	1	InterroLines::.cctor<>		I'm going! I'm going!
+4331	1	InterroLines::.cctor<>	You 	You won't see me again, I swear!
+4332	1	InterroLines::.cctor<Dictionary`2.set_Item>		Oh, thank the Lord...
+4333	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm leaving town. Tonight.
+4334	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll never cross you again!
+4335	1	InterroLines::.cctor<>		Here - ${dollars}. All I got on me. Take it and we never met.
+4336	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. Take it. Please.
+4337	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's ${dollars}. Every cent. Let me go.
+4338	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. Cheap for a life, ain't it?
+4339	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you what they're planning. Every job, before they ride. Just let me live.
+4340	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll send word. Every job. Just let me go.
+4341	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll keep you informed, mister. Whatever they do.
+4342	1	InterroLines::.cctor<Dictionary`2.set_Item>		Then I owe you. I pay my debts. Once. After that, we're square.
+4343	1	InterroLines::.cctor<Dictionary`2.set_Item>		I owe you one. Just one.
+4344	1	InterroLines::.cctor<Dictionary`2.set_Item>		One time, mister. I'll back off one time.
+4345	1	InterroLines::.cctor<>		I'll go. Tonight. You'll never see my face again, I swear on my mother.
+4346	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll leave the territory. You have my word.
+4347	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm out. I'll go somewhere nobody knows me.
+4348	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll ride out tonight and never come back.
+4349	1	InterroLines::.cctor<Dictionary`2.set_Item>		I already bought my life off you. You want more, you'll have to kill me.
+4350	1	InterroLines::.cctor<Dictionary`2.set_Item>		We had a deal. I got nothing left.
+4351	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You let me go once. That was the bargain.
+4352	1	InterroLines::.cctor<>		I got a family! Please! I'll ride out of here tonight!
+4353	1	InterroLines::.cctor<>		Please, mister, I got kids!
+4354	1	InterroLines::.cctor<Dictionary`2.set_Item>		I ain't nobody! Let me go and you'll never see me!
+4355	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll go straight, I swear it! Please!
+4356	1	InterroLines::.cctor<Dictionary`2.set_Item>		I got a sick mother, mister. Please.
+4357	1	InterroLines::.cctor<>		Let me up and fight me like a man!
+4358	1	InterroLines::.cctor<>		You're dead. You hear me? DEAD.
+4359	1	InterroLines::.cctor<>		I'll rip your throat out!
+4360	1	InterroLines::.cctor<Dictionary`2.set_Item>		Untie me and we'll see who's tough!
+4361	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll break every bone in your body!
+4362	1	InterroLines::.cctor<Dictionary`2.set_Item>		Come closer. Come on!
+4363	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		Hit me again. Go on, I dare you!
+4364	1	InterroLines::.cctor<>		I'll gut you for this!
+4365	1	InterroLines::.cctor<>		Untie me and say that!
+4366	1	InterroLines::.cctor<>		I'll spit in your face first!
+4367	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll get nothin' but my fist!
+4368	1	InterroLines::.cctor<Dictionary`2.set_Item>		Make me, you yellow dog!
+4369	1	InterroLines::.cctor<Dictionary`2.set_Item>		Nobody scares me. Nobody!
+4370	1	InterroLines::.cctor<>		I'll kill you for that!
+4371	1	InterroLines::.cctor<Dictionary`2.set_Item>		Do it again. Do it again!
+4372	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ha! Is that it? Again!
+4373	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll be eatin' through a straw!
+4374	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll cut you back twice as deep!
+4375	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll pay for every drop!
+4376	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll live just to kill you!
+4377	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll die screamin' for that!
+4378	1	InterroLines::.cctor<>		Do it! Go on, DO IT!
+4379	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll come back from the grave for you!
+4380	1	InterroLines::.cctor<Dictionary`2.set_Item>		Kill me, and you'd better do it right!
+4381	1	InterroLines::.cctor<Dictionary`2.set_Item>		Threaten me again. I dare you!
+4382	1	InterroLines::.cctor<Dictionary`2.set_Item>		This ain't over. You hear me?
+4383	1	InterroLines::.cctor<Dictionary`2.set_Item>		Next time I won't be tied up.
+4384	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll regret this. I swear you will.
+4385	1	InterroLines::.cctor<>		P-please, I ain't nobody!
+4386	1	InterroLines::.cctor<>		Don't hurt me! I'll do anything!
+4387	1	InterroLines::.cctor<>		Oh Lord, oh Lord...
+4388	1	InterroLines::.cctor<Dictionary`2.set_Item>		Oh no, oh no, oh no...
+4389	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you anything, just don't shoot!
+4390	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, I got nothin' to do with nothin'!
+4391	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		Please... I can't, they'll kill me!
+4392	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		Don't hurt me, mister, please!
+4393	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		I- I don't know nothin', I swear!
+4394	1	InterroLines::.cctor<Dictionary`2.set_Item>		I want to tell you, I swear, I just can't!
+4395	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please don't make me, mister!
+4396	1	InterroLines::.cctor<Dictionary`2.set_Item>		They'll know it was me!
+4397	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't! I'll be good!
+4398	1	InterroLines::.cctor<Dictionary`2.set_Item>		No! Please! I'm sorry!
+4399	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ow! Ow, stop, please!
+4400	1	InterroLines::.cctor<Dictionary`2.set_Item>		I don't wanna die, I don't wanna die!
+4401	1	InterroLines::.cctor<Dictionary`2.set_Item>		Mercy! Mercy!
+4402	1	InterroLines::.cctor<>		Please! I'll tell you anything!
+4403	1	InterroLines::.cctor<Dictionary`2.set_Item>		No no no no...
+4404	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll do whatever you want!
+4405	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, please, please...
+4406	1	InterroLines::.cctor<Dictionary`2.set_Item>		Okay, okay, here, here it is!
+4407	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you, I'll tell you everything!
+4408	1	InterroLines::.cctor<Dictionary`2.set_Item>		R-really? I can go?
+4409	1	InterroLines::.cctor<Dictionary`2.set_Item>		I can go? I can really go?
+4410	1	InterroLines::.cctor<Dictionary`2.set_Item>		Thank you, thank you, thank you!
+4411	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm going, I'm going, don't shoot!
+4412	1	InterroLines::.cctor<>		Do you know who I am?
+4413	1	InterroLines::.cctor<>		You'll regret laying a hand on me.
+4414	1	InterroLines::.cctor<Dictionary`2.set_Item>		Unhand me, you brute.
+4415	1	InterroLines::.cctor<Dictionary`2.set_Item>		I don't speak to men like you.
+4416	1	InterroLines::.cctor<Dictionary`2.set_Item>		You've no idea who you've laid hands on.
+4417	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>	You 	You think fists'll make me crawl? Not me.
+4418	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		I don't bow to the likes of you.
+4419	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		Beat me all you want. I'm better than you.
+4420	1	InterroLines::.cctor<Dictionary`2.set_Item>		I won't lower myself to answer.
+4421	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll get nothing from me, ever.
+4422	1	InterroLines::.cctor<Dictionary`2.set_Item>		Do your worst. I'll not beg.
+4423	1	InterroLines::.cctor<>		Ha. My sister hits harder.
+4424	1	InterroLines::.cctor<Dictionary`2.set_Item>		Is that all? Pathetic.
+4425	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You strike like a schoolgirl.
+4426	1	InterroLines::.cctor<Dictionary`2.set_Item>		I've known stronger drunks.
+4427	1	InterroLines::.cctor<>	You 	You wouldn't dare.
+4428	1	InterroLines::.cctor<Dictionary`2.set_Item>		Threats. How common.
+4429	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'd sooner die than bow to you.
+4430	1	InterroLines::.cctor<Dictionary`2.set_Item>		Your threats bore me.
+4431	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You think I can be bought? How insulting.
+4432	1	InterroLines::.cctor<Dictionary`2.set_Item>		Put that away before you embarrass yourself.
+4433	1	InterroLines::.cctor<Dictionary`2.set_Item>		I've spent more than that on a pair of boots.
+4434	1	InterroLines::.cctor<Dictionary`2.set_Item>		Keep your pennies. You need them more than I do.
+4435	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll not thank you for it.
+4436	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't expect gratitude.
+4437	1	InterroLines::.cctor<Dictionary`2.set_Item>		You've made a mistake.
+4438	1	InterroLines::.cctor<>		Get on with it.
+4439	1	InterroLines::.cctor<>		I've nothing to say to you.
+4440	1	InterroLines::.cctor<Dictionary`2.set_Item>		Say what you want.
+4441	1	InterroLines::.cctor<Dictionary`2.set_Item>		Well?
+4442	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ask your question.
+4443	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		You're wasting your time.
+4444	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		I've had worse from better men.
+4445	1	InterroLines::.cctor<>		Not today.
+4446	1	InterroLines::.cctor<Dictionary`2.set_Item>		Waste of breath.
+4447	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You won't get it.
+4448	1	InterroLines::.cctor<Dictionary`2.set_Item>		Keep going. Nothing changes.
+4449	1	InterroLines::.cctor<Dictionary`2.set_Item>		Finished?
+4450	1	InterroLines::.cctor<Dictionary`2.set_Item>		...That it?
+4451	1	InterroLines::.cctor<Dictionary`2.set_Item>		...Again, then.
+4452	1	InterroLines::.cctor<>		Then do it.
+4453	1	InterroLines::.cctor<Dictionary`2.set_Item>		I don't scare.
+4454	1	InterroLines::.cctor<Dictionary`2.set_Item>		Everyone dies.
+4455	1	InterroLines::.cctor<Dictionary`2.set_Item>		Get on with it, then.
+4456	1	InterroLines::.cctor<Dictionary`2.set_Item>		Your choice.
+4457	1	InterroLines::.cctor<>		Whatever you want, it'll cost you.
+4458	1	InterroLines::.cctor<Dictionary`2.set_Item>		Let's talk business, friend.
+4459	1	InterroLines::.cctor<Dictionary`2.set_Item>		Everything's for sale. Including me.
+4460	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You got money? Then we can talk.
+4461	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		What's in it for me, huh?
+4462	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		Information ain't free, friend.
+4463	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		A man's gotta eat. Talking don't feed me.
+4464	1	InterroLines::.cctor<>		Make it worth my while.
+4465	1	InterroLines::.cctor<>		Dollars loosen my tongue. Fists don't.
+4466	1	InterroLines::.cctor<Dictionary`2.set_Item>		Pay me and I'll sing like a bird.
+4467	1	InterroLines::.cctor<Dictionary`2.set_Item>		Nothing for free, mister.
+4468	1	InterroLines::.cctor<Dictionary`2.set_Item>		My memory gets better with money.
+4469	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's more like it.
+4470	1	InterroLines::.cctor<Dictionary`2.set_Item>		Now you're speaking my language.
+4471	1	InterroLines::.cctor<>		For that? Alright.
+4472	1	InterroLines::.cctor<Dictionary`2.set_Item>		Seeing as you're paying...
+4473	1	InterroLines::.cctor<Dictionary`2.set_Item>		Pleasure doing business.
+4474	1	InterroLines::.cctor<Dictionary`2.set_Item>		Money well spent, friend.
+4475	1	InterroLines::.cctor<Dictionary`2.set_Item>		Free, and I still got my money. Good day.
+4476	1	InterroLines::.cctor<Dictionary`2.set_Item>		No charge? Generous.
+4477	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. You drive a hard bargain.
+4478	1	InterroLines::.cctor<>		You'll get nothing. The boss is family.
+4479	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'd die before I talk.
+4480	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll not betray my brothers.
+4481	1	InterroLines::.cctor<Dictionary`2.set_Item>		Do what you want. I stay true.
+4482	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		I ain't no rat. Never.
+4483	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>	The 	The boss is family. You ain't.
+4484	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		Kill me then. I ain't talking.
+4485	1	InterroLines::.cctor<>		My people trust me. I won't break that.
+4486	1	InterroLines::.cctor<>		Some men can't be broken. I'm one.
+4487	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'd rather die than be a turncoat.
+4488	1	InterroLines::.cctor<Dictionary`2.set_Item>		They'd do the same for me.
+4489	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll never get a name out of me.
+4490	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You can't buy loyalty, mister.
+4491	1	InterroLines::.cctor<Dictionary`2.set_Item>		Not for all the gold in Saint Denis.
+4492	1	InterroLines::.cctor<>		Then I die loyal.
+4493	1	InterroLines::.cctor<Dictionary`2.set_Item>		Do it. I'll never betray them.
+4494	1	InterroLines::.cctor<Dictionary`2.set_Item>		My people will remember me.
+4495	1	InterroLines::.cctor<Dictionary`2.set_Item>		Then I die with my honor.
+4496	1	InterroLines::.cctor<Dictionary`2.set_Item>		My people will still hunt you.
+4497	3	InterroLines::.cctor<> ; InterroLines::.cctor<>		Ain't my fight, mister.
+4498	1	InterroLines::.cctor<>		I just ride where the work is.
+4499	1	InterroLines::.cctor<>		Look, I don't even like these people.
+4500	1	InterroLines::.cctor<Dictionary`2.set_Item>		I just met these fellas, mister.
+4501	1	InterroLines::.cctor<Dictionary`2.set_Item>		Whatever this is, I'm just passing through.
+4502	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't look at me. I'm hired help.
+4503	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		Why should I care?
+4504	2	InterroLines::.cctor<> ; Personalities::.cctor<Dictionary`2.set_Item>		Leave me be.
+4505	1	InterroLines::.cctor<>		I don't know them that well, honest.
+4506	1	InterroLines::.cctor<>		Why'd I stick my neck out for 'em?
+4507	1	InterroLines::.cctor<Dictionary`2.set_Item>		I don't know much, mister. Honest.
+4508	1	InterroLines::.cctor<Dictionary`2.set_Item>		I keep my head down. That's all.
+4509	1	InterroLines::.cctor<Dictionary`2.set_Item>		Not my problem.
+4510	1	InterroLines::.cctor<>		Ain't my business to protect 'em anyhow.
+4511	1	InterroLines::.cctor<Dictionary`2.set_Item>		Fine. I don't owe 'em nothing.
+4512	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ain't like I owe 'em loyalty.
+4513	1	InterroLines::.cctor<Dictionary`2.set_Item>		Sure. Why not.
+4514	1	InterroLines::.cctor<Dictionary`2.set_Item>		Fine by me. I'm moving on anyhow.
+4515	1	InterroLines::.cctor<Dictionary`2.set_Item>		Wasn't my fight to begin with.
+4516	1	KeyCombo::Name<List`1.Add>		Ctrl
+4517	1	KeyCombo::Name<List`1.Add>		Alt
+4518	1	KeyCombo::Problem<ret>		Insert reloads every script - pick another key
+4519	3	KeyCombo::get_PadOpenHint<ValueTuple`2..ctor> ; KeyCombo::get_PadOpenHint<ValueTuple`2..ctor>		DRight
+4520	3	KeyCombo::get_PadOpenHint<ValueTuple`2..ctor> ; KeyCombo::get_PadOpenHint<ValueTuple`2..ctor>		Double-tap: open
+4521	1	KeyCombo::get_PadOpenHint<ValueTuple`2..ctor>		Open (keyboard)
+4522	1	KeyCombo::get_PadOpenHint<ValueTuple`2..ctor>		Hold: open
+4523	1	Loadout::ShiftWhy<ret>		no shift
+4524	1	Loadout::For<ValueTuple`2..ctor>		a hunting knife
+4525	1	Loadout::For<ValueTuple`2..ctor>		a trader's knife
+4526	1	Loadout::For<ValueTuple`2..ctor>		an old army knife
+4527	1	Loadout::For<ValueTuple`2..ctor>		a machete
+4528	1	Loadout::For<ValueTuple`2..ctor>		a hatchet
+4529	1	Loadout::For<>		farm
+4530	1	Loadout::For<>		ranch
+4531	1	Loadout::For<>		hunt
+4532	1	Loadout::For<ValueTuple`2..ctor>		a cleaver
+4533	1	Loadout::For<ValueTuple`2..ctor>		a worn Cattleman
+4534	1	Loadout::For<ValueTuple`2..ctor>		a Mauser pistol
+4535	1	Loadout::For<ValueTuple`2..ctor>		a gambler's Double-Action
+4536	1	Loadout::For<ValueTuple`2..ctor>		a carbine repeater
+4537	1	Loadout::For<ValueTuple`2..ctor>		a Lancaster-style repeater
+4538	1	Loadout::Describe<ret>		comes with his fists
+4539	1	Mind::TalkBias<List`1.Add>	hate	hates his boss +12
+4540	1	Mind::TalkBias<List`1.Add>		a rival to sell out +5
+4541	2	Mind::StandingBonus<ValueTuple`2..ctor> ; Mind::<Describe>g__Word|30_0<ret>		ambitious
+4542	1	Mind::StandingBonus<ValueTuple`2..ctor>		wants to rise
+4543	1	Mind::Felt<ret>		glad
+4544	1	Mind::Felt<ret>		grieving
+4545	1	Mind::Felt<ret>		ashamed
+4546	2	Mind::Felt<ret> ; RosterMenu::DrawDetail<ValueTuple`3..ctor>		afraid
+4547	1	Mind::Felt<ret>		angry
+4548	1	Mind::.cctor<>		Family
+4549	1	Mind::.cctor<>		Gang
+4550	1	Mind::<Describe>g__Word|30_0<ret>		slow to anger
+4551	1	Mind::<Describe>g__Word|30_0<ret>		quick to anger
+4552	1	Mind::<Describe>g__Word|30_0<ret>		timid
+4553	1	Mind::<Describe>g__Word|30_0<ret>		brave
+4554	1	Mind::<Describe>g__Word|30_0<ret>		generous
+4555	1	Mind::<Describe>g__Word|30_0<ret>		disloyal
+4556	1	Mind::<Describe>g__Word|30_0<ret>		humble
+4557	1	Mind::<Describe>g__Word|30_0<ret>		dishonest
+4558	1	Mind::<Describe>g__Word|30_0<ret>		faithless
+4559	1	Mind::<Describe>g__Word|30_0<ret>		pious
+4560	1	Mind::<Describe>g__Word|30_0<ret>		kind
+4561	1	Mind::<Describe>g__Word|30_0<ret>		cruel
+4562	1	Mind::<Describe>g__Word|30_0<ret>		humourless
+4563	1	Mind::<Describe>g__Word|30_0<ret>		jokes a lot
+4564	1	Mind::<Describe>g__Word|30_0<ret>		unambitious
+4565	1	Mind::<Describe>b__30_2<KeyValuePair`2.get_Key>		very 
+4566	1	CampsContent::.ctor<campo <About>k__BackingField>		Camp sites for factions other than the O'Driscolls (theirs are the game's own camps). Learned in game where 3+ of a faction's men gather (seen twice), or added with H on a faction's hierarchy page (debug on). Delete a row to remove a site. hideout = officers rank 4+ prefer it.
+4567	1	TalesContent::.ctor<campo <About>k__BackingField>	The 	The world's past (History.cs). lore: Year (absolute) or YearsAgo, Month, Title, Place, Gang (faction id or null), Lines, When (text instead of a date). tales: per faction id, the raids / fights its men rode in - Kind RAID / CLASH / DUTY, Title with {place}, Places, Foe (faction id or null), HeardPercent, Line.
+4568	1	XPad::NoteSlow<>		PADSLOW {0:0} ms: the Sony check {1:0.0}, XInput {2:0.0} (pad {3}), the rest {4:0.0}
+4569	1	XPad::CheckIcons<desvio>		PAD icons: Xbox
+4570	1	XPad::CheckIcons<desvio>		PAD icons: Xbox (setting)
+4571	1	XPad::CheckIcons<Action`1.Invoke>		PAD icons: PlayStation (Sony controller found)
+4572	1	XPad::CheckIcons<Action`1.Invoke>		PAD icons: PlayStation (setting)
+4573	1	XPad::SetFallback<Action`1.Invoke>		PAD fallback: off
+4574	1	XPad::SetFallback<Action`1.Invoke>		PAD fallback: reading a PlayStation pad through the game's inputs
+4575	3	XPad::.cctor<campo IconsSetting> ; NemesisSettings::.ctor<campo HeldPanel>		Auto
+4576	1	Hate::Intent<ret>		wants a fistfight
+4577	1	Hate::Intent<ret>		brings a blade
+4578	2	Hate::Intent<ret> ; WelcomePics::Grudge<ValueTuple`3..ctor>		wants you dead
+4579	5	WoundKeys::Side<ret> ; BulletImpact.Anatomy::Build<>		right
+4580	1	NemesisSettings::get_PadMenuText<ret>	the 	the keyboard key
+4581	1	NemesisSettings::.ctor<campo DisguiseCategories>		MASKS,MASKS_LARGE
+4582	1	NemesisSettings::Load<campo PendingNotice>		random encounters were switched off - they're back on. (To turn them off: Alt+F11, Ambush, RandomAmbushes.)
+4583	1	NemesisSettings::.cctor<>		No messages
+4584	1	NemesisSettings::.cctor<>		Speech only
+4585	2	NemesisSettings::.cctor<campo MessageLevelNames> ; NemesisSettings::.cctor<campo MessageLevelShort>		Speech & deaths
+4586	1	NemesisSettings::.cctor<campo MessageLevelNames>		All messages
+4587	1	NemesisSettings::.cctor<campo MessageLevelNames>		Deaths only
+4588	1	NemesisSettings::.cctor<>		Speech
+4589	2	NemesisSettings::.cctor<campo MessageLevelShort> ; NemesisSettings::.cctor<campo WorldNewsShort>		Deaths
+4590	1	NemesisSettings::.cctor<campo WorldNewsShort>		Big News
+4591	1	NemesisSettings::.cctor<>		Double-tap D-pad Right
+4592	1	NemesisSettings::.cctor<>		Double-tap D-pad Left
+4593	1	NemesisSettings::.cctor<campo PadMenuOpenNames>		Double-tap D-pad Down
+4594	1	NemesisSettings::.cctor<campo PadMenuOpenNames>		Hold D-pad Right
+4595	1	NemesisSettings::.cctor<>		Fewer
+4596	1	NemesisSettings::.cctor<campo EncounterAmountNames>		Normal
+4597	1	NemesisSettings::.cctor<campo EncounterAmountNames>		Lots
+4598	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Always
+4599	7	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Followers
+4600	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Rank1
+4601	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Rank2
+4602	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Rank3
+4603	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Rank4
+4604	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Rank5
+4605	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Sightings
+4606	14	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Gangs
+4607	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Succession
+4608	7	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Enabled
+4609	10	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		People
+4610	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Remember
+4611	2	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Cap
+4612	32	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		World
+4613	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Events
+4614	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Lethality
+4615	20	NemesisSettings/<Layout>d__214::MoveNext<desvio> ; NemesisSettings/<Layout>d__214::MoveNext<desvio>		Balance
+4616	1	NemesisSettings/<Layout>d__214::MoveNext<desvio>		Gore
+4617	24	NemesisSettings/<Layout>d__214::MoveNext<desvio> ; NemesisSettings/<Layout>d__214::MoveNext<desvio>		Intent
+4618	3	NemesisSettings/<Layout>d__214::MoveNext<desvio> ; NemesisSettings/<Layout>d__214::MoveNext<desvio>		Factions
+4619	6	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Naming
+4620	2	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; BulletImpact.AnimalBones::get_Names<>		Radius
+4621	2	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Disguise
+4622	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Categories
+4623	1	NemesisSettings/<Layout>d__214::MoveNext<desvio>		Threshold
+4624	1	NemesisSettings/<Layout>d__214::MoveNext<desvio>		Floor
+4625	1	NemesisSettings/<Layout>d__214::MoveNext<desvio>		Defuse
+4626	1	NemesisSettings/<Layout>d__214::MoveNext<desvio>		Punch
+4627	1	NemesisSettings/<Layout>d__214::MoveNext<desvio>		Hogtie
+4628	1	NemesisSettings/<Layout>d__214::MoveNext<desvio>		Reopen
+4629	1	NemesisSettings/<Layout>d__214::MoveNext<desvio>		Shot
+4630	34	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Menu
+4631	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Ink
+4632	21	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Tension
+4633	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Amount
+4634	14	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; NemesisSettings/<Layout>d__214::MoveNext<desvio>		Interrogation
+4635	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Verbose
+4636	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Weather
+4637	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Minds
+4638	3	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor> ; BulletImpact.XRayAnalysis::BlowRegion<ret>		Body
+4639	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Map
+4640	1	NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		Gestures
+4641	5	Notoriety::.cctor<> ; Notoriety::.cctor<>		Unknown
+4642	3	Notoriety::.cctor<> ; Notoriety::.cctor<>		Noticed
+4643	3	Notoriety::.cctor<campo Names> ; Notoriety::.cctor<campo LevelNames>		Hunted
+4644	1	Personalities::Describe<ret>		Hothead - quick to rage, slow to forget
+4645	1	Personalities::Describe<ret>		Coward - sulks more than he hunts; breaks easily
+4646	1	Personalities::Describe<ret>		Proud - humiliation cuts deepest; won't be bullied into talking
+4647	1	Personalities::Describe<ret>		Cold - steady and calculating; never cools
+4648	1	Personalities::Describe<ret>		Greedy - money is everything to him
+4649	1	Personalities::Describe<ret>		Loyal - would rather die than give up his boss
+4650	1	Personalities::Describe<ret>		Drifter - the grudge fades; he may let it go
+4651	1	Personalities::.cctor<Dictionary`2.set_Item>		I'll gut you for this, Morgan!
+4652	1	QuestionsContent::.ctor<campo <About>k__BackingField>		Interrogation questions (Questions.cs). cat: What / When / Where / Why (three each is what the menu is made for). need: fear over his temper's line before he'll answer. odds: + / - on his chance. lies: can he lie (a lie is still shown as ? intel, sometimes a trap). requires: gang named boss officer camps kin (joined by &). answer: orders wants bossnature catch news holedup stores people past worstgrudge bargain (and the older single ones: ride alone habit funeral shakeup camp hideout treasury supplies). requires 'news': his outfit has a burying or a shake-up heir to tell of; 'funeral': a burying. Built-in rows missing from this file are added by Id unless listed in Removed.
+4653	1	Questions::.cctor<>		What
+4654	1	Questions::.cctor<campo Cats>		When
+4655	1	Questions::.cctor<campo Cats>		Where
+4656	1	Questions::.cctor<campo Cats>		Why
+4657	1	Questions::.cctor<Dictionary`2.set_Item>		when-ride
+4658	3	Questions::.cctor<Dictionary`2.set_Item> ; Questions::.cctor<Dictionary`2.set_Item>		when-boss
+4659	1	Questions::.cctor<Dictionary`2.set_Item>		when-alone
+4660	1	Questions::.cctor<Dictionary`2.set_Item>		when-habit
+4661	1	Questions::.cctor<Dictionary`2.set_Item>		when-shakeup
+4662	2	Questions::.cctor<Dictionary`2.set_Item> ; Questions::.cctor<Dictionary`2.set_Item>		when-news
+4663	1	Questions::.cctor<Dictionary`2.set_Item>		when-funeral
+4664	1	Questions::.cctor<Dictionary`2.set_Item>		where-hideout
+4665	2	Questions::.cctor<Dictionary`2.set_Item> ; Questions::.cctor<Dictionary`2.set_Item>		where-stores
+4666	1	Questions::.cctor<Dictionary`2.set_Item>		where-supplies
+4667	1	Quirks::Tell<ret>		drinks like a fish
+4668	1	Quirks::Tell<ret>		can't walk past a card game
+4669	1	Quirks::Tell<ret>		never shuts up about himself
+4670	1	Quirks::Tell<ret>		would sell his own mother
+4671	1	Quirks::Tell<ret>		can't tell a lie to save his life
+4672	1	Quirks::Tell<ret>	scar	scared of the dark, believe it or not
+4673	1	Quirks::Tell<ret>		likes hurting people
+4674	1	Quirks::Tell<ret>		lives for his kids
+4675	1	Quirks::SkillText<ret>		a dead shot (accuracy +12)
+4676	1	Quirks::SkillText<ret>		a brawler (harder to put down)
+4677	1	Quirks::SkillText<ret>		too tough to die (+60 health)
+4678	1	Quirks::SkillText<ret>		a tracker (hunts you from further off)
+4679	1	Quirks::SkillText<ret>		a fine horseman (rides you down)
+4680	1	Quirks::SkillText<ret>		a leader of men (+1 man)
+4681	1	Quirks::.cctor<ValueTuple`2..ctor>	the 	the bottle
+4682	1	Quirks::.cctor<ValueTuple`2..ctor>		drank the lot
+4683	1	Quirks::.cctor<ValueTuple`2..ctor>		moonshine
+4684	1	Quirks::.cctor<>		faro
+4685	1	Quirks::.cctor<>		card games
+4686	1	Quirks::.cctor<>		card tables
+4687	1	Quirks::.cctor<ValueTuple`2..ctor>		over cards
+4688	1	Quirks::.cctor<ValueTuple`2..ctor>		card sharp
+4689	1	Quirks::.cctor<ValueTuple`2..ctor>		Owes money
+4690	1	Quirks::.cctor<ValueTuple`2..ctor>		bare-knuckle
+4691	1	Quirks::.cctor<ValueTuple`2..ctor>		fifty paces
+4692	1	Quirks::.cctor<ValueTuple`2..ctor>		his first stake
+4693	1	Quirks::.cctor<>		Shot a man dead
+4694	1	Quirks::.cctor<ValueTuple`2..ctor>		Burned out
+4695	1	Quirks::.cctor<ValueTuple`2..ctor>		used his fists
+4696	1	Quirks::.cctor<ValueTuple`2..ctor>		end up in the swamp
+4697	1	Quirks::.cctor<>		revival
+4698	1	Quirks::.cctor<ValueTuple`2..ctor>		Snakebit
+4699	1	Quirks::.cctor<ValueTuple`2..ctor>		cave-in
+4700	1	Quirks::.cctor<ValueTuple`2..ctor>		Famine
+4701	1	Quirks::.cctor<ValueTuple`2..ctor>		God-fearing
+4702	1	Quirks::.cctor<ValueTuple`2..ctor>		Found God
+4703	1	Quirks::.cctor<ValueTuple`2..ctor>		and wept
+4704	1	Quirks::.cctor<ValueTuple`2..ctor>		blamed everyone
+4705	1	Quirks::.cctor<ValueTuple`2..ctor>	the 	the wrong people
+4706	1	Quirks::.cctor<ValueTuple`2..ctor>		Ran from his first
+4707	1	RosterMenu::DrawCrimeSheet<Nullable`1..ctor>		CRIMINAL PROFILE
+4708	1	RosterMenu::DrawCrimeSheet<Nullable`1..ctor>		YOUR CRIMINAL RECORD
+4709	1	RosterMenu::DrawCrimeSheet<>		Nothing counted yet
+4710	1	RosterMenu::DrawCrimeSheet<>		No one on the rosters
+4711	3	RosterMenu::Stars<desvio> ; RosterMenu::DrawPips<desvio>		star
+4712	4	RosterMenu::FactionName<ret> ; RosterMenu::StandingOf<ret>		Unaffiliated
+4713	1	RosterMenu::DrawFactionBar<ValueTuple`2..ctor>		MONEY
+4714	1	RosterMenu::DrawFactionBar<ValueTuple`3..ctor>		STRONG IN
+4715	1	RosterMenu::DrawFactionBar<ValueTuple`3..ctor>		A FOOTHOLD IN
+4716	2	RosterMenu::BuildRows<campo Label> ; RosterMenu::BuildRows<campo Standing>		BOSS
+4717	1	RosterMenu::BuildRows<campo Label>		OUTLAWS
+4718	1	RosterMenu::BuildRows<List`1.get_Count>		FALLEN ({0})
+4719	2	RosterMenu::BuildRows<campo Standing> ; RosterMenu::StandingOf<ret>		Fallen
+4720	1	RosterMenu::DrawUnaffiliatedList<ValueTuple`2..ctor>		RANK  HATE
+4721	1	RosterMenu::DrawUnaffiliatedList<ValueTuple`2..ctor>		WHERE IT HAPPENED
+4722	2	RosterMenu::DrawUnaffiliatedList<ValueTuple`2..ctor> ; BulletImpact.XRayViewer::DrawFacts<Nullable`1..ctor>		LAST SEEN
+4723	1	RosterMenu::DrawUnaffiliatedList<>		Nobody holds a grudge yet. Rob, beat, shoot or insult a stranger - or let one kill you - and he may come back for you.
+4724	1	RosterMenu::PersonLine<List`1.Add>		you've only seen him
+4725	1	RosterMenu::PersonLine<List`1.Add>		you've met
+4726	1	RosterMenu::DrawHierarchy<desvio>		 stat
+4727	1	RosterMenu::DrawHierarchy<desvio>		 title
+4728	1	RosterMenu::GoneNote<ret>		presumed dead
+4729	1	RosterMenu::GoneNote<ret>	dead	dead - killed by you
+4730	1	RosterMenu::DrawLoreLeader<>		SEAT OPEN
+4731	1	RosterMenu::get_NextViewName<ret>		His Mind
+4732	1	RosterMenu::get_NextViewName<ret>		Her Mind
+4733	2	RosterMenu::get_NextViewName<ret> ; RosterMenu::DrawDetail<Nullable`1..ctor>		History
+4734	1	RosterMenu::get_NextViewName<ret>		His Crimes
+4735	1	RosterMenu::get_NextViewName<ret>		Her Crimes
+4736	1	RosterMenu::DrawDetail<<>c__DisplayClass180_1..ctor>		Confirm Forget
+4737	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2>		WITH THE GANG
+4738	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2>		TIES
+4739	1	RosterMenu::DrawDetail<desvio>		LEADS THE 
+4740	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2>		WHAT'S SAID OF HIM
+4741	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2>		WHO HE IS TO YOU
+4742	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2>		WHO SHE IS TO YOU
+4743	2	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2> ; RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2>		FEELINGS
+4744	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Gauge|7>		let it go
+4745	1	RosterMenu::DrawDetail<Nullable`1..ctor>		He told the law about you.
+4746	1	RosterMenu::DrawDetail<Nullable`1..ctor>		She told the law about you.
+4747	1	RosterMenu::DrawDetail<Nullable`1..ctor>		He's keeping quiet - you saw to that.
+4748	1	RosterMenu::DrawDetail<Nullable`1..ctor>		She's keeping quiet - you saw to that.
+4749	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2>		STANDING
+4750	1	RosterMenu::DrawDetail<desvio>		CREW
+4751	1	RosterMenu::DrawDetail<desvio>		rides with {0} {1}
+4752	2	RosterMenu::DrawDetail<ValueTuple`3..ctor> ; RosterMenu::DrawDetail<desvio>		NONE
+4753	1	RosterMenu::DrawDetail<ValueTuple`3..ctor>		TERRIFIED
+4754	1	RosterMenu::DrawDetail<desvio>		ONLY IF PROVOKED
+4755	1	RosterMenu::DrawDetail<desvio>		WAITS FOR YOU
+4756	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2>		RECORD
+4757	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2>		NATURE
+4758	3	RosterMenu::DrawDetail<> ; RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Row|3>		TEMPER
+4759	2	RosterMenu::DrawDetail<> ; RosterMenu::DrawDetail<Nullable`1..ctor>		TRAITS
+4760	1	RosterMenu::DrawDetail<Nullable`1..ctor>		Unknown - face him, or make him talk
+4761	1	RosterMenu::DrawDetail<>		QUIRKS
+4762	1	RosterMenu::DrawDetail<desvio>		owes you his life
+4763	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2>		BACKGROUND
+4764	1	RosterMenu::DrawDetail<>		Poor
+4765	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Row|3>		None - godless
+4766	1	RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Row|3>		Single
+4767	1	RosterMenu::DrawDetail<Nullable`1..ctor>		Unknown - learn more by facing him or making him talk
+4768	1	RosterMenu::DrawDetail<List`1.get_Count>		  +{0} more
+4769	1	RosterMenu::DrawDetail<List`1.get_Count>		drew {0} of {1} history rows (scroll {2}, fit {3}, top {4:0.000}, bottom {5:0.000}, slots left {6}, texts cut last frame {7}, view {8})
+4770	2	RosterMenu::DrawMind<<>c__DisplayClass186_0.<DrawMind>g__Sec|0> ; RosterMenu::DrawMind<<>c__DisplayClass186_0.<DrawMind>g__Sec|0>		MIND
+4771	1	RosterMenu::DrawMind<<>c__DisplayClass186_0.<DrawMind>g__Text|1>		Not read yet - give it a moment.
+4772	1	RosterMenu::DrawMind<Func`2..ctor>		Values:  
+4773	1	RosterMenu::DrawMind<<>c__DisplayClass186_0.<DrawMind>g__Sec|0>		NEEDS AND STRESS
+4774	1	RosterMenu::DrawMind<Func`2..ctor>		Needs:  
+4775	1	RosterMenu::DrawMind<<>c__DisplayClass186_0.<DrawMind>g__Sec|0>		WHAT HE WANTS
+4776	1	RosterMenu::DrawMind<<>c__DisplayClass186_0.<DrawMind>g__Text|1>		Nothing in particular - just to get by.
+4777	1	RosterMenu::DrawMind<<>c__DisplayClass186_0.<DrawMind>g__Sec|0>		WHO HE IS TO OTHERS
+4778	1	RosterMenu::DrawMind<<>c__DisplayClass186_0.<DrawMind>g__Text|1>		Nobody on your roster.
+4779	1	RosterMenu::DrawMind<<>c__DisplayClass186_0.<DrawMind>g__Sec|0>		WHAT HE REMEMBERS
+4780	1	RosterMenu::DrawMind<<>c__DisplayClass186_0.<DrawMind>g__Text|1>		Nothing you know of.
+4781	1	RosterMenu::DrawResetPanel<>		DEBUG  -  RESET
+4782	1	RosterMenu::DrawResetPanel<>		Rosters are backed up first (nemeses.before-*.json).
+4783	1	RosterMenu::DrawResetPanel<>		Up/Down  Navigate     Left/Right  Faction     Enter  Select (twice)     Backspace  Close
+4784	1	RosterMenu::DrawResetPanel<>		D-pad  Navigate     Left/Right  Faction     A  Select (twice)     B  Close
+4785	2	RosterMenu::DrawWorld<List`1.get_Count> ; RosterMenu::DrawWorld<List`1.get_Count>		     +{0} more
+4786	1	RosterMenu::DrawWorld<>		Mark on Map
+4787	1	RosterMenu::DrawWorld<>		Unmark
+4788	1	RosterMenu::DrawWorld<>		     N  World News: 
+4789	1	RosterMenu::DrawWorld<desvio>		Up/Down  Navigate     Enter  Page     Backspace  Back
+4790	1	RosterMenu::DrawWorld<>		Nothing yet - the world moves while you ride.
+4791	1	RosterMenu::DrawWorld<<>c__DisplayClass201_0.<DrawWorld>g__Centre|4>		Marked on your map.
+4792	1	RosterMenu::MainFooter<>		D-pad  Navigate     A  Details     Start  Settings     LT/RT  Show: 
+4793	1	RosterMenu::WarVerdict<ValueTuple`2..ctor>		ONGOING  -  NEITHER SIDE AHEAD
+4794	1	RosterMenu::WarVerdict<ValueTuple`2..ctor>		NO WINNER  -  JOINED THEIR OTHER WAR
+4795	1	RosterMenu::WarVerdict<ValueTuple`2..ctor>		NO WINNER  -  PEACE WAS MADE
+4796	1	RosterMenu::WarVerdict<ValueTuple`2..ctor>		NO WINNER  -  NOTHING LEFT TO FIGHT FOR
+4797	1	RosterMenu::WarVerdict<ValueTuple`2..ctor>		NO CLEAR WINNER
+4798	1	RosterMenu::DrawWarsPage<>		No wars - not yet. When two outfits that hate each other share ground, one may come for the other.
+4799	1	RosterMenu::DrawWarsPage<desvio>		{0}  -  over {1:MMM d} after {2} day{3}
+4800	1	RosterMenu::DrawWarsPage<desvio>		{0}  -  Day {1}, since {2}
+4801	1	RosterMenu::DrawWarsPage<>		DEFENDING
+4802	1	RosterMenu::DrawWarsPage<desvio>		AIM
+4803	2	RosterMenu::DrawWarsPage<desvio> ; Theme::NotorietyBand<>		PURSE
+4804	2	RosterMenu::DrawWarsPage<ValueTuple`3..ctor> ; RosterMenu::DrawWarsPage<<>c__DisplayClass221_0.<DrawWarsPage>g__Field|8>		not recorded
+4805	1	RosterMenu::DrawWarsPage<>		GROUND
+4806	1	RosterMenu::DrawWarsPage<List`1.get_Count>		FIGHTS ({0})
+4807	1	RosterMenu::DrawWarsPage<desvio>		no dead
+4808	1	RosterMenu::DrawWarsPage<>		No fights yet.
+4809	1	RosterMenu::DrawWarsPage<List`1.get_Count>		NAMED MEN DEAD ({0})
+4810	1	RosterMenu::DrawWarsPage<>		None yet.
+4811	1	RosterMenu::DrawWarsPage<>		THE FRONT
+4812	1	RosterMenu::DrawWarsPage<>		{0} fight{1}, {2} named m{3}n dead{4}
+4813	2	RosterMenu::DrawWarsPage<desvio> ; Theme::FactionBar<campo ty>		e
+4814	1	RosterMenu::DrawWarsPage<desvio>		a
+4815	1	RosterMenu::DrawWarsPage<desvio>		, {0} camp{1} overrun
+4816	1	RosterMenu::DrawWarsPage<>		OUTLOOK
+4817	1	RosterMenu::DrawWarsPage<>		YOUR PART
+4818	1	RosterMenu::DrawWarsPage<<>c__DisplayClass221_0.<DrawWarsPage>g__LeftLine|5>		You've kept out of it.
+4819	1	RosterMenu::.cctor<>		Reset EVERYTHING
+4820	1	RosterMenu::.cctor<>		Reset the X-ray log
+4821	1	RosterMenu::.cctor<>		Reset world events
+4822	1	RosterMenu::.cctor<>		Reset one faction
+4823	1	RosterMenu::.cctor<campo ResetRows>		Add 12 test loners
+4824	1	RosterMenu::.cctor<campo ResetRows>	Forget 	Forget safe camps (Arthur's gang)
+4825	1	Pron::<Her>b__1_0<>		she'd
+4826	1	Pron::<Her>b__1_0<>		she'll
+4827	1	GameDate::.cctor<>		Jan
+4828	1	GameDate::.cctor<>		Feb
+4829	1	GameDate::.cctor<>		Mar
+4830	1	GameDate::.cctor<>		Apr
+4831	1	GameDate::.cctor<>		Jun
+4832	1	GameDate::.cctor<>		Jul
+4833	1	GameDate::.cctor<>		Aug
+4834	1	GameDate::.cctor<>		Sep
+4835	1	GameDate::.cctor<campo Months>		Oct
+4836	1	GameDate::.cctor<campo Months>		Nov
+4837	1	GameDate::.cctor<campo Months>		Dec
+4838	1	StoryGang::Build<>	the 	the leader
+4839	1	StoryGang::Build<ValueTuple`3..ctor>		one more big score - then somewhere the government can't reach
+4840	1	StoryGang::Build<ValueTuple`4..ctor>		Lost his father to the war
+4841	1	StoryGang::Build<ValueTuple`4..ctor>		Met Hosea Matthews - each tried to rob the other; they rode together after
+4842	1	StoryGang::Build<ValueTuple`4..ctor>		Took in a fourteen-year-old orphan, Arthur Morgan
+4843	1	StoryGang::Build<ValueTuple`4..ctor>		Cut a twelve-year-old John Marston down from a hanging
+4844	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Lost Annabelle to Colm O'Driscoll's men - the feud never ended
+4845	1	StoryGang::Build<ValueTuple`4..ctor>		Took up with Molly O'Shea
+4846	1	StoryGang::Build<ValueTuple`4..ctor>	The 	The Blackwater ferry job went wrong - the gang ran with the law behind it
+4847	1	StoryGang::Build<ValueTuple`4..ctor>		Led the gang up into the snow of the Grizzlies, to Colter
+4848	1	StoryGang::Build<>		Hosea Matthews
+4849	1	StoryGang::Build<>		Dutch's oldest friend
+4850	1	StoryGang::Build<>		Con man
+4851	1	StoryGang::Build<ValueTuple`3..ctor>		one last big con, then a quiet bit of land
+4852	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Married Bessie
+4853	1	StoryGang::Build<ValueTuple`4..ctor>		Met Dutch van der Linde - each tried to rob the other
+4854	1	StoryGang::Build<ValueTuple`4..ctor>		Helped raise a young Arthur Morgan
+4855	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Buried Bessie
+4856	3	StoryGang::Build<ValueTuple`4..ctor> ; StoryGang::Build<ValueTuple`4..ctor>		Ran from Blackwater with the rest
+4857	1	StoryGang::Build<>		(you)
+4858	1	StoryGang::Build<ValueTuple`4..ctor>		His mother, Beatrice, died
+4859	1	StoryGang::Build<ValueTuple`4..ctor>		Taken in by Dutch and Hosea at fourteen
+4860	1	StoryGang::Build<ValueTuple`4..ctor>		His father, Lyle, an outlaw, died
+4861	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Mary Linton broke it off - her father wouldn't have an outlaw
+4862	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Lost Eliza and their boy, Isaac, to robbers - over ten dollars
+4863	1	StoryGang::Build<ValueTuple`4..ctor>		Blackwater: the ferry job, and the run
+4864	1	StoryGang::Build<>		Micah Bell
+4865	1	StoryGang::Build<>		Dutch's new favourite
+4866	1	StoryGang::Build<>		Anger 75 Bravery 70 Greed 75 Loyalty 15 Pride 80 Honesty 10 Piety 5 Cruelty 85 Humour 40 Ambition 85
+4867	1	StoryGang::Build<ValueTuple`3..ctor>		Dutch's ear - and everything after
+4868	1	StoryGang::Build<ValueTuple`4..ctor>		Born - his father and grandfather were outlaws before him
+4869	1	StoryGang::Build<ValueTuple`4..ctor>		Saved Dutch's life in a deal gone bad; Dutch took him in
+4870	1	StoryGang::Build<ValueTuple`4..ctor>		Brought Dutch the Blackwater ferry job
+4871	8	StoryGang::Build<> ; StoryGang::Build<>		a gun
+4872	1	StoryGang::Build<ValueTuple`3..ctor>		something he won't say out loud - a life away from all this
+4873	1	StoryGang::Build<ValueTuple`4..ctor>		Saved from a hanging at twelve by Dutch; raised in the gang
+4874	1	StoryGang::Build<ValueTuple`4..ctor>		His son Jack was born, to Abigail
+4875	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Ran off from the gang for a year; came back
+4876	1	StoryGang::Build<ValueTuple`4..ctor>		Wounded in the Blackwater job
+4877	1	StoryGang::Build<ValueTuple`4..ctor>		Wolves tore his face in the Grizzlies
+4878	1	StoryGang::Build<>		Javier Escuella
+4879	1	StoryGang::Build<>		Mexico
+4880	1	StoryGang::Build<ValueTuple`3..ctor>		follow Dutch - he believes in him
+4881	1	StoryGang::Build<ValueTuple`4..ctor>		Born in Mexico
+4882	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Killed an army officer over a woman and fled north
+4883	1	StoryGang::Build<ValueTuple`4..ctor>		Joined Dutch's gang
+4884	1	StoryGang::Build<>		Bill Williamson
+4885	1	StoryGang::Build<ValueTuple`3..ctor>		stay in Dutch's good books
+4886	1	StoryGang::Build<ValueTuple`4..ctor>		Born Marion Williamson
+4887	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Joined the Army
+4888	1	StoryGang::Build<ValueTuple`4..ctor>		Dishonourably discharged for attempted murder
+4889	1	StoryGang::Build<ValueTuple`4..ctor>		Dutch found him starving and took him in
+4890	1	StoryGang::Build<>		Charles Smith
+4891	1	StoryGang::Build<>		a gun, a tracker
+4892	1	StoryGang::Build<ValueTuple`4..ctor>		Born - his mother Native, his father African American
+4893	1	StoryGang::Build<ValueTuple`4..ctor>		(about) His mother was taken away by soldiers
+4894	1	StoryGang::Build<ValueTuple`4..ctor>		Joined the gang, six months before Blackwater
+4895	1	StoryGang::Build<>		Lenny Summers
+4896	1	StoryGang::Build<ValueTuple`4..ctor>		Born; schooled - he reads
+4897	1	StoryGang::Build<ValueTuple`4..ctor>		His father was killed; he killed the man who did it
+4898	1	StoryGang::Build<ValueTuple`4..ctor>		After three years on the run, joined the gang
+4899	1	StoryGang::Build<>		Sean MacGuire
+4900	1	StoryGang::Build<>		Anger 55 Bravery 70 Greed 45 Loyalty 70 Pride 75 Honesty 40 Piety 15 Cruelty 25 Humour 90 Ambition 45
+4901	1	StoryGang::Build<ValueTuple`4..ctor>		Born to an Irish family of rebels and thieves; his father was killed
+4902	1	StoryGang::Build<ValueTuple`4..ctor>		Tried to rob Dutch; joined him instead
+4903	1	StoryGang::Build<ValueTuple`4..ctor>		Taken by bounty hunters after Blackwater
+4904	1	StoryGang::Build<>		Sadie Adler
+4905	1	StoryGang::Build<>	the 	the widow
+4906	1	StoryGang::Build<>	the 	the mountains
+4907	1	StoryGang::Build<ValueTuple`3..ctor>	the 	the O'Driscolls who killed Jake
+4908	1	StoryGang::Build<ValueTuple`4..ctor>		Born; grew up riding, shooting and hunting in the mountains
+4909	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Married Jake Adler; they ran a ranch
+4910	1	StoryGang::Build<ValueTuple`4..ctor>	The 	The O'Driscolls killed Jake; she hid, then the gang found her
+4911	1	StoryGang::Build<>		Karen Jones
+4912	1	StoryGang::Build<>		Con woman
+4913	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Joined the gang - a thief and a fine liar
+4914	1	StoryGang::Build<>		Susan Grimshaw
+4915	1	StoryGang::Build<>		runs the camp
+4916	1	StoryGang::Build<ValueTuple`3..ctor>		keep the camp in order
+4917	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Rode with Dutch since the early days - his woman, once
+4918	1	StoryGang::Build<>		Simon Pearson
+4919	1	StoryGang::Build<>	the 	the cook
+4920	6	StoryGang::Build<> ; Traits::.cctor<ValueTuple`2..ctor>		Cook
+4921	1	StoryGang::Build<ValueTuple`4..ctor>		Born to a family of whalers
+4922	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Served in the Navy, briefly
+4923	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Dutch found him in money trouble and took him in
+4924	1	StoryGang::Build<>		Leopold Strauss
+4925	1	StoryGang::Build<>	the 	the moneylender
+4926	1	StoryGang::Build<>		Vienna
+4927	1	StoryGang::Build<ValueTuple`3..ctor>	the 	the money owed to the gang - every cent
+4928	1	StoryGang::Build<ValueTuple`4..ctor>		Born poor in Vienna
+4929	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Came to America and lived by scams
+4930	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Joined Dutch for protection; keeps the books
+4931	1	StoryGang::Build<>		Uncle
+4932	1	StoryGang::Build<>	the 	the old hand
+4933	1	StoryGang::Build<ValueTuple`4..ctor>		Born - he jokes it was between the fall of 1849 and the fall of Rome
+4934	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Joined the gang
+4935	1	StoryGang::Build<ValueTuple`4..ctor>		Brought Abigail Roberts to the gang
+4936	1	StoryGang::Build<>		Reverend Swanson
+4937	1	StoryGang::Build<>	the 	the reverend
+4938	1	StoryGang::Build<>		Protestant
+4939	1	StoryGang::Build<ValueTuple`4..ctor>		(about) A minister - who lost his way to morphine, then whiskey
+4940	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Once saved Dutch's life; rode with the gang after
+4941	1	StoryGang::Build<>		Josiah Trelawny
+4942	1	StoryGang::Build<>	the 	the gentleman
+4943	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Became Dutch's friend; comes and goes as he pleases
+4944	1	StoryGang::Build<>		Abigail Roberts
+4945	1	StoryGang::Build<>		John's woman
+4946	1	StoryGang::Build<ValueTuple`3..ctor>		a better life for Jack
+4947	1	StoryGang::Build<ValueTuple`4..ctor>		Born; orphaned young
+4948	1	StoryGang::Build<ValueTuple`4..ctor>		Uncle brought her to the gang
+4949	1	StoryGang::Build<ValueTuple`4..ctor>		Her son Jack was born
+4950	1	StoryGang::Build<>		Jack Marston
+4951	1	StoryGang::Build<>	the 	the boy
+4952	1	StoryGang::Build<ValueTuple`4..ctor>		Born into the gang, to John and Abigail
+4953	1	StoryGang::Build<>		Tilly Jackson
+4954	1	StoryGang::Build<ValueTuple`4..ctor>		Taken at twelve by the Foreman Brothers' gang
+4955	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Taken in by Dutch, who taught her to read
+4956	1	StoryGang::Build<>		Mary-Beth Gaskill
+4957	1	StoryGang::Build<ValueTuple`3..ctor>		write her books, somewhere quiet
+4958	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Her mother died of typhoid; raised in an orphanage
+4959	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Joined the gang - a fine pickpocket who'd rather be reading
+4960	1	StoryGang::Build<>		Molly O'Shea
+4961	1	StoryGang::Build<>		Dutch's girl
+4962	1	StoryGang::Build<ValueTuple`3..ctor>		keep Dutch's eye on her
+4963	1	StoryGang::Build<ValueTuple`4..ctor>		Born in Ireland
+4964	1	StoryGang::Build<ValueTuple`4..ctor>		Took up with Dutch van der Linde
+4965	1	StoryGang::Build<>		Kieran Duffy
+4966	1	StoryGang::Build<>	the 	the prisoner
+4967	1	StoryGang::Build<>		Horseman
+4968	1	StoryGang::Build<ValueTuple`3..ctor>		be one of them - not tied to a tree
+4969	1	StoryGang::Build<ValueTuple`4..ctor>		(about) Rode with Colm O'Driscoll's gang
+4970	1	StoryGang::Build<ValueTuple`4..ctor>		Captured by the gang in the Grizzlies
+4971	1	StoryGang::Build<>		davey
+4972	1	StoryGang::Build<>		Davey Callender
+4973	1	StoryGang::Build<ValueTuple`4..ctor>		Shot at Blackwater; died of his wounds in the snow at Colter
+4974	1	StoryGang::Build<ValueTuple`4..ctor>		Wounded in the shooting at Blackwater
+4975	5	StoryGang::Build<ValueTuple`4..ctor> ; StoryGang::Build<ValueTuple`4..ctor>		death
+4976	1	StoryGang::Build<ValueTuple`4..ctor>		Died of his wounds at Colter, in the snow
+4977	1	StoryGang::Build<>		mac
+4978	1	StoryGang::Build<>		Mac Callender
+4979	1	StoryGang::Build<ValueTuple`4..ctor>		Lost at Blackwater - left behind in the shooting
+4980	1	StoryGang::Build<ValueTuple`4..ctor>		Lost at Blackwater during the ferry job - left behind
+4981	1	StoryGang::Build<>		jenny
+4982	1	StoryGang::Build<>		Jenny Kirk
+4983	2	StoryGang::Build<ValueTuple`4..ctor> ; StoryGang::Build<ValueTuple`4..ctor>		Killed at Blackwater
+4984	1	StoryGang::Build<ValueTuple`4..ctor>		Killed in the shooting after the Blackwater ferry job
+4985	1	StoryGang::Build<>		heidi
+4986	1	StoryGang::Build<>		Heidi McCourt
+4987	1	StoryGang::Build<ValueTuple`4..ctor>		Killed at Blackwater when the ferry job went wrong
+4988	2	StoryGang::Build<> ; StoryGang::Build<>		annabelle
+4989	1	StoryGang::Build<ValueTuple`4..ctor>		Dutch's woman
+4990	1	StoryGang::Build<ValueTuple`4..ctor>		Killed by Colm O'Driscoll's men (about 1889)
+4991	1	StoryGang::Build<ValueTuple`4..ctor>		Killed by Colm O'Driscoll's men (about) - the start of the feud
+4992	1	Taunts::Ambush<List`1.Add>		Gonna take more'n that to put me in the ground.
+4993	1	Taunts::Ambush<List`1.Add>		I walk with a limp 'cause of you. Ain't gonna need to run.
+4994	1	Taunts::Ambush<List`1.Add>		You're one of Dutch's, ain't ya? Thought so.
+4995	1	Taunts::Ambush<List`1.Add>		Still carry your bullet. Came to give it back.
+4996	1	Taunts::Ambush<List`1.Add>		Still got that blade? I got somethin' that reaches farther.
+4997	1	Taunts::Ambush<List`1.Add>		Raised that horse from a foal. You're gonna pay for every year.
+4998	1	Taunts::Ambush<List`1.Add>		Took me hours to chew through that rope. Plenty of time to think about you.

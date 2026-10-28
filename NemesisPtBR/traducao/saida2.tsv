@@ -1,0 +1,833 @@
+834	=
+835	=
+836	=
+837	=
+838	=
+839	=
+840	=
+841	=
+842	=
+843	=
+844	=
+845	=
+846	=
+847	=
+848	Grizzlies
+849	=
+850	Heartlands
+851	=
+852	=
+853	=
+854	=
+855	=
+856	=
+857	=
+858	VOLTAR
+859	=
+860	Todos
+861	TODOS
+862	TENSÃO / ENCONTROS
+863	RIXAS
+864	em volta de uma fogueira
+865	fumando um cigarro
+866	de vigia
+867	o cais de Saint Denis
+868	=
+869	Great Plains
+870	=
+871	A lei finalmente pôs a corda no pescoço de Colm O'Driscoll.
+872	Os rapazes dele se espalharam - uns para outros bandos, uns para a forca, alguns poucos para o trabalho honesto.
+873	O chefão do crime de Saint Denis sumiu certa noite; os jornais nunca disseram para onde.
+874	Os tenentes dele mantiveram a cidade nas mãos da família - o cais, a polícia, o ouvido do prefeito.
+875	Rains Fall levou o que restou do povo dele para o norte, longe do alcance do Exército.
+876	A gangue de Dutch van der Linde se despedaçou. Arthur Morgan está morto; o resto se espalhou.
+877	O coronel assumiu um posto no Leste. Um novo comandante segura o forte, com menos homens.
+878	Bandidos do outro lado do rio tomaram as terras áridas para si - Gaptooth Ridge, Rio Bravo, Cholla Springs.
+879	Os rapazes da Laramie levam rebanhos de Hennigan's Stead até Blackwater, e trocam as marcas antes de os donos acordarem.
+880	Viajantes somem nas estradas ao sul de Saint Denis. Os que voltam falam de lanternas nas árvores, e do Povo da Noite.
+881	Dinheiro novo, ruas novas, uma cadeia maior. A cidade quer esquecer os anos dos fora da lei.
+882	Os Saqueadores de Lemoyne ainda cavalgam pelos pântanos - menos a cada ano, e com mais raiva.
+883	INQUIETO
+884	RECONHECIDO
+885	DENUNCIADO
+886	SILENCIADO
+887	RIXA
+888	=
+889	=
+890	=
+891	=
+892	=
+893	=
+894	=
+895	=
+896	=
+897	Quer repetir isso? Vai, fala.
+898	Olha essa boca, ou eu fecho ela pra você.
+899	Continua falando. Pra ver o que acontece.
+900	Você sabe com quem tá falando?
+901	Como se atreve.
+902	Já enterrei homem melhor que você por menos.
+903	Não vale o meu tempo.
+904	Some daqui.
+905	Num quero encrenca, moço!
+906	Tá bom, tá bom - já tô indo!
+907	P-por favor, me deixa em paz.
+908	Como quiser, amigo.
+909	Num é problema meu.
+910	Tenha um bom dia, então.
+911	Falar é fácil. Volta quando for pagar.
+912	Tá desperdiçando meu tempo, e meu tempo custa dinheiro.
+913	Cuidado aí. Eu tenho amigos.
+914	Você num vai querer fazer isso, moço.
+915	Último aviso.
+916	=
+917	=
+918	=
+919	=
+920	=
+921	=
+922	=
+923	=
+924	=
+925	=
+926	=
+927	=
+928	=
+929	=
+930	=
+931	=
+932	=
+933	=
+934	=
+935	=
+936	=
+937	=
+938	=
+939	=
+940	=
+941	=
+942	=
+943	=
+944	=
+945	=
+946	=
+947	=
+948	=
+949	=
+950	=
+951	=
+952	Dutch van der Linde matou o irmão de Colm O'Driscoll; Colm matou a mulher de Dutch, Annabelle.
+953	Nenhum dos dois esqueceu - e nenhuma das gangues deixa a outra passar em paz.
+954	Bancos quebram de Nova York a Saint Denis; fazendas e lojas afundam às centenas.
+955	A prisão da ilha recebe todo salteador de estrada e ladrão de gado que a lei consegue pegar.
+956	Velhos confederados que nunca depuseram as armas cavalgam pelos pântanos e pelos campos, queimando o dinheiro do Norte.
+957	Os homens descem na mina pobres e sobem mais pobres ainda.
+958	Duas velhas famílias de Scarlett Meadows e uma rixa mais velha ainda - por terra, pela guerra, por bebida clandestina.
+959	Os homens de Bronte mandam no cais, nos saloons e em metade da polícia.
+960	O dinheiro de Leviticus Cornwall assenta trilhos, perfura poços de petróleo e ferve querosene - e paga em centavos os homens que fazem o serviço.
+961	Tolos encapuzados queimam cruzes no escuro - e se espalham no instante em que alguém atira de volta.
+962	O coronel Henry Favours segura Ambarino para o Exército; as patrulhas dele cavalgam pelas estradas de Cumberland Forest.
+963	O Exército confina os Wapiti na reserva - e os homens do petróleo já estão de olho na terra.
+964	Os currais estão cheios e o Smithfield's Saloon nunca fecha.
+965	O roubo da gangue Van der Linde na balsa de Blackwater dá errado - uma mulher morre, e a gangue foge para as montanhas.
+966	Agentes da Pinkerton assumem o caso; há um preço pela cabeça de cada Van der Linde.
+967	Os O'Driscoll atacam uma propriedade perto de {place}
+968	Levaram os cavalos e tudo que não estava pregado.
+969	Diligência roubada na estrada para {place}
+970	O cocheiro sobreviveu para contar ao xerife que foram os O'Driscoll.
+971	Os O'Driscoll e os homens de Van der Linde trocam tiros perto de {place}
+972	A velha rixa se acende de novo; os dois lados vão embora praguejando.
+973	Os O'Driscoll e os Saqueadores brigam por um carregamento de bebida clandestina perto de {place}
+974	Ninguém ficou com a bebida.
+975	Patrulha do Exército emboscada pelos O'Driscoll em {place}
+976	O Exército jurou que voltaria com mais homens.
+977	Saqueadores queimam a loja de um aproveitador ianque em {place}
+978	Deixaram uma bandeira da União pregada na porta, pegando fogo.
+979	Saqueadores e o Exército trocam tiros em {place}
+980	Os soldados seguraram a estrada; os Saqueadores sumiram no pântano.
+981	Carroça de pagamento roubada nos arredores de {place}
+982	Os guardas foram achados amarrados numa árvore, vivos e furiosos.
+983	Saqueadores expulsam um agrimensor ianque de {place}
+984	Os instrumentos dele ainda estão no fundo do rio.
+985	Exército escolta um pagamento de Cornwall por {place}
+986	Nenhum tiro disparado - desta vez.
+987	Coluna do Exército caça os O'Driscoll em {place}
+988	Queimaram um acampamento vazio e o orgulho de dois homens.
+989	Fort Wallace treina novos recrutas durante o inverno
+990	Metade deles nunca tinha segurado um rifle.
+991	Cavaleiros wapiti retomam cavalos de um curral do Exército perto de {place}
+992	Já tinham sumido antes de a corneta tocar. Ninguém se feriu.
+993	Soldados e Wapiti trocam flechas e balas em {place}
+994	o rio Dakota
+995	Ninguém quis dizer quem atirou primeiro.
+996	Um grupo de caça wapiti parte para {place}
+997	Carne que dá para as famílias, por um tempo.
+998	Cavaleiros encapuzados queimam uma plantação em {place}
+999	O fazendeiro e os filhos apagaram o fogo antes do amanhecer.
+1000	Comício da Klan dispersado em {place} - os capuzes correram
+1001	Alguém deu um tiro. Foi o bastante.
+1002	Os homens de Bronte apertam um lojista em {place}
+1003	Ele pagou. Quem não paga encontra as janelas quebradas.
+1004	Os homens de Bronte e os Saqueadores de Lemoyne trocam tiros por causa de uma carga perto de {place}
+1005	Os caixotes foram parar no pântano. Um lado culpou o outro.
+1006	Um capataz do cais que falou com os jornais é pescado morto em {place}
+1007	o rio Lannahechee
+1008	o pântano
+1009	A polícia disse que foi acidente. Todo mundo sabia que não.
+1010	Os homens de Bronte tomam uma casa de jogo em {place}
+1011	O antigo dono saiu da cidade na mesma noite.
+1012	Viajantes desaparecem na estrada que corta {place}
+1013	=
+1014	=
+1015	Acharam a carroça deles. Eles, não.
+1016	O Clã arranca uma família de uma propriedade perto de {place}
+1017	Os cartazes de recompensa foram pregados em Annesburg. Ninguém foi atrás deles.
+1018	Os Murfree e os O'Driscoll se cruzam em {place}
+1019	=
+1020	Os O'Driscoll não voltaram por aquele caminho.
+1021	Rapazes da Laramie levam um rebanho de {place}
+1022	As marcas foram trocadas antes de os donos acordarem.
+1023	Diligência assaltada na estrada para {place}
+1024	=
+1025	O cocheiro disse que eles riram o tempo todo.
+1026	Homens da Laramie e os Del Lobo trocam tiros por causa de cavalos roubados perto de {place}
+1027	Ninguém ficou com os cavalos.
+1028	Ladrões de gado da Laramie e os Irmãos Skinner se cruzam em {place}
+1029	Os ladrões de gado seguiram para o sul na manhã seguinte.
+1030	Um rancheiro perto de {place} encontra o rebanho com a marca de outro dono
+1031	Ele não conseguiu provar nada.
+1032	Detetive de gado encontrado morto na trilha perto de {place}
+1033	A associação dos criadores mandou mais dois.
+1034	Os Del Lobo roubam um trem perto de {place}
+1035	Já estavam do outro lado do rio antes de o delegado federal saber.
+1036	Rancho nos arredores de {place} queimado pelos Del Lobo
+1037	O rancheiro não quis pagar. Agora não tem mais rancho.
+1038	Os Del Lobo e o Exército trocam tiros em {place}
+1039	Os soldados perderam dois homens e a trilha.
+1040	Armas contrabandeadas pelo rio perto de {place}
+1041	Ninguém viu nada. Ninguém nunca vê.
+1042	O banco de {place} é roubado em plena luz do dia
+1043	Os Del Lobo saíram atirando para o alto.
+1044	Os Del Lobo e os rurales se enfrentam no rio perto de {place}
+1045	O rio correu vermelho por um dia.
+1046	Um viajante desaparece na estrada do pântano perto de {place}
+1047	O cavalo dele voltou para casa sem ele.
+1048	Corpos encontrados pendurados nos ciprestes perto de {place}
+1049	=
+1050	Ninguém em Saint Denis teve coragem de ir lá descer os corpos.
+1051	Saqueadores entram no pântano atrás do Povo da Noite perto de {place}
+1052	Saíram menos do que entraram.
+1053	Lanternas nas árvores ao longo da estrada perto de {place}, três noites seguidas
+1054	Por um mês, ninguém pegou aquela estrada depois de escurecer.
+1055	Barco de pesca encontrado à deriva perto de {place}, sem ninguém a bordo
+1056	As redes estavam cortadas. A lanterna ainda estava acesa.
+1057	Uma cova desenterrada durante a noite perto de {place}
+1058	O que foi levado, a família não diz.
+1059	Uma família de Saint Denis acorda e encontra alguma coisa deixada na porta de casa
+1060	Deixaram a cidade antes de acabar a semana.
+1061	Acampamento de um caçador de peles encontrado saqueado em {place}
+1062	A marca dos Irmãos Skinner estava talhada numa árvore ao lado.
+1063	Colonos escalpelados na trilha que corta {place}
+1064	=
+1065	Blackwater pôs a cabeça dos irmãos a prêmio. Ninguém cobrou.
+1066	Irmãos Skinner e caçadores de recompensa se enfrentam em {place}
+1067	Só um dos caçadores saiu de lá.
+1068	Cadê o seu chefe? Fala.
+1069	Pra quem você cavalga, e onde eles tão entocados?
+1070	Num vou perguntar duas vezes. Onde o seu bando tá acampado?
+1071	Começa a falar, ou começa a rezar.
+1072	Última chance. Cadê ele?
+1073	Acha que isso doeu? Eu só tô começando.
+1074	Ninguém vem te buscar. Fala.
+1075	Eu tenho o dia todo. Você, não.
+1076	Vai pro inferno.
+1077	Num sou dedo-duro.
+1078	O chefe vai te esfolar vivo por isso.
+1079	Vai ter que me matar primeiro.
+1080	Cuspo em você, Van der Linde.
+1081	Num sei de nada!
+1082	AMEAÇAR
+1083	INTIMIDAR
+1084	=
+1085	Foi para a guerra com os voluntários de Lemoyne
+1086	Voltou da guerra derrotado - e nunca aceitou
+1087	Viu aproveitadores e dinheiro ianque comprarem a paróquia inteira
+1088	Juntou-se aos velhos soldados que viriam a se chamar Saqueadores de Lemoyne
+1089	Saiu roubando e queimando por toda Scarlett Meadows em nome de uma causa há muito perdida
+1090	Comandou os Saqueadores de Fort Brennand como se a guerra nunca tivesse acabado
+1091	Procurado em Saint Denis: $100, vivo ou morto
+1092	Cresceu na dureza entre os irlandeses das cidades do leste
+1093	Fez da Gangue O'Driscoll a maior gangue dos territórios
+1094	Roubou trens, bancos e diligências das planícies às montanhas - com a cabeça a prêmio em todos os estados
+1095	A rixa dele com Dutch van der Linde virou sangue: Dutch matou o irmão dele, os homens dele mataram Annabelle, a mulher de Dutch
+1096	Mantém os Rapazes espalhados pelo norte - Six Point Cabin, Hanging Dog Ranch e acampamentos por todo o Heartlands
+1097	Os homens dele perderam um acampamento nas neves acima de Colter para a gangue de Dutch, que fugia de Blackwater
+1098	Ainda comanda os O'Driscoll, e ainda quer Dutch morto
+1099	Lutou pela União
+1100	Ficou no Exército e foi com ele para o oeste
+1101	Lutou nas campanhas contra as nações das planícies
+1102	Assumiu o comando em Fort Wallace
+1103	Mantém os Wapiti na reserva e quer enterrar o problema dos fora da lei
+1104	Responde a Washington e aos homens de dinheiro que querem a terra aberta
+1105	as planícies
+1106	Tornou-se pai - o filho dele é Eagle Flies
+1107	Tornou-se chefe dos Wapiti
+1108	Viu o Exército tomar as planícies, tratado rompido após tratado rompido
+1109	Levou o povo dele para a reserva em Ambarino em vez de ver todos morrerem lutando contra o Exército
+1110	Fala pelo povo dele aos soldados de Fort Wallace e a qualquer um em Washington que queira ouvir
+1111	Ainda confia em tratados e conversa; os jovens dele, Eagle Flies entre eles, estão perdendo a paciência
+1112	Itália
+1113	Atravessou da Itália para a América
+1114	Fez fortuna em Saint Denis no cais, nas casas de jogo e no contrabando de bebida
+1115	Construiu uma mansão no pântano e encheu de quadros e coisas finas
+1116	Comprou a polícia, o ouvido do prefeito e quase toda a cidade
+1117	Diz que é homem de negócios; quem cruza o caminho dele acaba no pântano
+1118	É dono de Saint Denis - e sorri enquanto isso
+1119	=
+1120	=
+1121	=
+1122	=
+1123	=
+1124	=
+1125	Cel. Henry Favours
+1126	=
+1127	=
+1128	=
+1129	=
+1130	Cel. Favours
+1131	Janeiro
+1132	Fevereiro
+1133	Março
+1134	Abril
+1135	Maio
+1136	Junho
+1137	Julho
+1138	Agosto
+1139	Setembro
+1140	Outubro
+1141	Novembro
+1142	Dezembro
+1143	TÔNICO PARA OS NERVOS DO DR. HARLAN|Cura Melancolia, Catarro e Tremedeira. À venda nas boas drogarias.
+1144	ARMEIRO|Repetidoras, Pistolas e Espingardas: Compra, Venda e Conserto. Preço Justo, Sem Perguntas.
+1145	CAVALOS DE QUALIDADE|Compra, Venda e Doma. Tratar no Estábulo. Pagamento em Dinheiro.
+1146	LINHA DE DILIGÊNCIAS TERRITORIAL|Serviço Diário. Guardas Armados em Cada Carruagem. Reservas na Estação.
+1147	PROCURAM-SE HOMENS HONESTOS|Para Trabalho em Rancho. Casa, Comida e Salário. Bêbados Nem Se Apresentem.
+1148	RETRATOS FOTOGRÁFICOS|Tirados no Estilo Mais Moderno. Sua Imagem para a Posteridade, Cinquenta Centavos.
+1149	um
+1150	dois
+1151	três
+1152	quatro
+1153	cinco
+1154	seis
+1155	sete
+1156	oito
+1157	nove
+1158	dez
+1159	onze
+1160	doze
+1161	O TEMPO ESFRIOU POR AQUI. O TELHADO PRECISA DE CONSERTO ANTES DAS CHUVAS.
+1162	COMPREI UMA MULA NOVA. TEIMOSA FEITO O CAPETA MAS PUXA.
+1163	MINHA IRMÃ ESTÁ ADOENTADA. O DOUTOR DIZ QUE VAI PASSAR.
+1164	GANHEI QUATRO DÓLARES NAS CARTAS NO SÁBADO. PERDI TRÊS NO DOMINGO.
+1165	O RIACHO ALAGOU O CAMPO DE BAIXO. A GENTE DÁ UM JEITO.
+1166	A IGREJA FEZ UM JANTAR. AS TORTAS ERAM DE ENCHER OS OLHOS.
+1167	UM FORASTEIRO PASSOU PEDINDO INFORMAÇÃO. NÃO ERA VOCÊ, EU CONFERI.
+1168	O TRABALHO ESTÁ FIRME. AS COSTAS DOEM. NÃO POSSO RECLAMAR.
+1169	VI UM URSO PERTO DO MOINHO VELHO. MANTIVE DISTÂNCIA.
+1170	O SALOON GANHOU UM PIANO NOVO. NINGUÉM SABE TOCAR.
+1171	MEU MENINO PERDEU UM DENTE. ORGULHOSO QUE NEM UM GENERAL.
+1172	OS PREÇOS DO ARMAZÉM SÃO UM CRIME. ALGUÉM DEVIA ASSALTAR AQUILO. BRINCADEIRA.
+1173	ANDO LENDO UM ROMANCE BARATO. VOCÊ IA SE SENTIR EM CASA NAQUELAS PÁGINAS.
+1174	A CADELA DEU CRIA. GUARDO UM FILHOTE PRA VOCÊ SE QUISER.
+1175	O TREM ATRASOU TRÊS DIAS SEGUIDOS. NINGUÉM SABE POR QUÊ.
+1176	CONSERTEI A CERCA. DE MANHÃ AS VACAS JÁ TINHAM ACHADO OUTRO BURACO.
+1177	O XERIFE É NOVO. PARECE DECENTE. O TEMPO DIRÁ.
+1178	TIVE FEBRE SEMANA PASSADA. JÁ ESTOU DE PÉ.
+1179	VENDI UMA ÉGUA POR MAIS DO QUE ELA VALIA. NÃO CONTE PRO COMPRADOR.
+1180	PLANTEI UMA HORTA. OS COELHOS AGRADECEM.
+1181	ESCREVI PRO MEU IRMÃO NO LESTE. NENHUMA RESPOSTA AINDA.
+1182	AS NOITES SÃO QUIETAS AQUI. DÁ TEMPO DE UM HOMEM PENSAR.
+1183	roubar viajantes na estrada perto de {t}
+1184	atacar uma propriedade nos arredores de {t}
+1185	uma propriedade nos arredores de {t}
+1186	levar os cavalos de um rancho perto de {t}
+1187	um rancho perto de {t}
+1188	{aw} contra {bw}: tropa de cavalos roubada perto de {p}
+1189	{a} contra {bw}: um homem achado enforcado nos arredores de {p}
+1190	{aw} contra {bw}: tiroteio por causa de um jogo de cartas em {p}
+1191	{a} contra {bw}: carroça de mantimentos tomada na estrada perto de {p}
+1192	{aw} contra {bw}: oficial insultado diante da própria tropa perto de {p}
+1193	{a} contra {bw}: abrigo queimado perto de {p}
+1194	{bw} contra {aw}: rapaz morto numa briga de bêbados em {p}
+1195	{a} contra {b}: avanço sobre terras reivindicadas perto de {p}
+1196	{aw} e {bw}: os chefes se reuniram em {p} e dividiram as estradas
+1197	{a} e {b}: passagem por {d} comprada a dinheiro
+1198	{aw} e {bw}: um casamento une as famílias perto de {p}
+1199	{a} e {bw}: prisioneiro devolvido sem nenhum arranhão
+1200	{aw} e {bw}: homens beberam juntos depois de uma caçada perto de {p}
+1201	E-eu num quero encrenca, moço.
+1202	O-o que posso fazer pelo senhor? Qualquer coisa.
+1203	Por favor, eu num fiz nada.
+1204	Eu sei quem você é. Não abusa.
+1205	Ouvi falar de você. Segue o teu caminho.
+1206	Eu sei o que você é. Bom dia.
+1207	...Todo mundo sabe quem você é.
+1208	Ah - é, olá.
+1209	Bom dia. Eu, é... bom dia.
+1210	Num quis ficar encarando, moço.
+1211	O que você quer comigo?
+1212	{a} e {b} bateram boca
+1213	{w} chamou {l} de covarde na frente de todo mundo
+1214	{a} e {b} quase saíram no soco por causa do baralho
+1215	{w} fez {l} sair da sala debaixo de risada
+1216	{a} e {b} se encararam, depois recuaram
+1217	{w} contou pro acampamento inteiro o que {l} é de verdade
+1218	{w} venceu {l} numa briga de socos
+1219	{w} derrubou {l} na fogueira
+1220	{w} e {l} brigaram até {l} não conseguir mais ficar de pé
+1221	{w} quebrou o nariz de {l} por causa de um insulto antigo
+1222	{w} jogou {l} no chão
+1223	{w} deu em {l} uma surra inesquecível
+1224	{a} e {b} resolveram tudo num duelo
+1225	{a} e {b} sacaram um contra o outro ao pôr do sol
+1226	{w} trocou tiros com {l}
+1227	{a} e {b} deram dez passos e se viraram
+1228	{w} respondeu ao desafio de {l} com uma pistola
+1229	{a} e {b} terminaram tudo na bala
+1230	o cavalo dele perdeu uma ferradura na estrada
+1231	caiu do cavalo e se machucou
+1232	levou uma picada de cobra na beira da estrada
+1233	sem rumo no meio do mato
+1234	procurando um amigo desaparecido
+1235	bêbado e sem rumo
+1236	=
+1237	preso debaixo de uma carroça
+1238	a carroça dele tombou
+1239	pego numa armadilha de urso
+1240	atacado por um bicho
+1241	dilacerado por um bicho
+1242	ameaçado na própria carroça
+1243	roubado na estrada
+1244	=
+1245	um assalto na cidade
+1246	=
+1247	um assalto a diligência
+1248	=
+1249	a carroça de presos
+1250	=
+1251	um prisioneiro deixado amarrado
+1252	=
+1253	em fuga
+1254	uma família em fuga
+1255	precisava de escolta
+1256	pedindo esmola na beira da estrada
+1257	=
+1258	queria um duelo
+1259	=
+1260	um bêbado que queria um duelo
+1261	=
+1262	venceu um duelo
+1263	=
+1264	um exibido com uma arma
+1265	=
+1266	um atirador de elite
+1267	=
+1268	caçando tesouro
+1269	=
+1270	garimpando ouro
+1271	um homem do mato bem amigável
+1272	cobrando dinheiro
+1273	=
+1274	uma viúva na cidade
+1275	=
+1276	um enterro na cidade
+1277	uma briga em casa
+1278	=
+1279	um batedor de carteira
+1280	=
+1281	encrenca num beco escuro
+1282	=
+1283	um bêbado arruaceiro
+1284	=
+1285	bebendo num acampamento
+1286	=
+1287	uma corrida de cavalos
+1288	=
+1289	um casal rico
+1290	=
+1291	quicando pedras na água
+1292	=
+1293	nadando
+1294	levado pela correnteza até a margem
+1295	quase morreu de frio
+1296	=
+1297	uma perseguição policial
+1298	uma barreira na estrada
+1299	=
+1300	um comício
+1301	=
+1302	provocou você
+1303	uma briga de rua
+1304	Domingo
+1305	Segunda-feira
+1306	Terça-feira
+1307	Quarta-feira
+1308	Quinta-feira
+1309	Sexta-feira
+1310	Sábado
+1311	=
+1312	=
+1313	=
+1314	ESPAÇO
+1315	APAGAR
+1316	=
+1317	=
+1318	=
+1319	=
+1320	Levou um tiro fatal dos Gray em Rhodes
+1321	Morto pelos homens de Colm O'Driscoll - o corpo dele foi mandado de volta ao acampamento em Beaver Hollow
+1322	Levou um tiro do agente Milton depois do roubo ao banco de Saint Denis
+1323	Perdeu a vida no roubo ao banco de Saint Denis
+1324	=
+1325	Morreu na montanha, na manhã em que a gangue se desfez
+1326	Levou um tiro de Susan Grimshaw em Beaver Hollow
+1327	Caiu pelas mãos de Micah Bell na noite em que a gangue se desfez
+1328	Sumiu - largou tudo para trás na montanha
+1329	Sumiu - o rato, traiu a gangue
+1330	Sumiu - partiu com Dutch e Micah
+1331	Sumiu - partiu com Dutch
+1332	Sumiu - Arthur mandou embora
+1333	=
+1334	=
+1335	=
+1336	=
+1337	=
+1338	=
+1339	o epílogo
+1340	=
+1341	=
+1342	=
+1343	=
+1344	=
+1345	=
+1346	=
+1347	=
+1348	=
+1349	=
+1350	=
+1351	=
+1352	Grizzlies East
+1353	Grizzlies West
+1354	=
+1355	=
+1356	=
+1357	=
+1358	=
+1359	=
+1360	=
+1361	=
+1362	=
+1363	Calma aí. Guarda esse ferro.
+1364	Tá pensando em usar isso? Põe no coldre.
+1365	Na minha cidade, não, amigo. Guarda isso.
+1366	Opa, opa. Guarda isso aí.
+1367	O povo de {t} diz que a gangue Van der Linde foi vista na estrada
+1368	Uma diligência que saiu de {t} foi roubada - o cocheiro jura que foram os rapazes do Dutch
+1369	Os Pinkerton andaram fazendo perguntas em {t} sobre Dutch van der Linde
+1370	Saiu uma recompensa em {t} por um homem que cavalga com Dutch
+1371	Corre em {t} que a gangue Van der Linde está acampada em algum lugar aqui perto
+1372	Alguém encheu um saloon de bala em {t} - o povo culpa a turma do Dutch
+1373	A lei de {t} dobrou o número de ajudantes do xerife, por causa da gangue Van der Linde
+1374	Um rancheiro perto de {t} diz que os homens do Dutch compraram cavalos dele e pagaram em ouro
+1375	O povo de {t} ainda conta histórias da gangue Van der Linde - a maioria errada
+1376	Um andarilho em {t} jura que viu Dutch van der Linde, cavalgando sozinho e falando sozinho
+1377	Corre em {t} que Micah Bell agora tem a própria gangue, e quem cruza o caminho dela não sobrevive
+1378	Uma caçadora de recompensas chamada Sadie Adler trouxe um procurado para {t} - morto
+1379	Um velho cartaz de procurado em {t} ainda traz o nome de Arthur Morgan. Dizem que já morreu faz anos
+1380	Alguém em {t} andou perguntando por um rancheiro que se diz Jim Milton
+1381	Simon Pearson agora tem um armazém em Rhodes, e não fala dos velhos tempos
+1382	Um homem em {t} diz que Bill Williamson está juntando homens no oeste
+1383	Corre em {t} que Javier Escuella foi para o sul, para o México, e nunca mais voltou
+1384	Um livro de uma tal Mary-Beth Gaskill está vendendo bem em {t} - dizem que ela já andou com fora da lei
+1385	Dizem em {t} que a Pinkerton fechou o arquivo Van der Linde - e que alguém em Washington abriu de novo
+1386	=
+1387	=
+1388	=
+1389	=
+1390	=
+1391	=
+1392	=
+1393	=
+1394	=
+1395	=
+1396	=
+1397	=
+1398	=
+1399	=
+1400	=
+1401	=
+1402	=
+1403	a ordem antiga (flags do GTA V)
+1404	flags de direção da R*
+1405	ordem de dirigir até o destino da R*
+1406	Tiroteio nas colinas: {a} e {b} {p}
+1407	{a} e {b} trocaram tiros {p}
+1408	Perseguição a bala na estrada {p}: {a} e {b}
+1409	{a} contra {b}: um bando pego de surpresa {p}
+1410	{b} contra {a}: ataque repelido {p}
+1411	Cavaleiros de {a} e de {b} trocaram tiros {p}
+1412	Tiros na noite {p}: {a} e {b}
+1413	{a} contra {b}: ataque no escuro {p}
+1414	Clarões de disparo {p} - {a} e {b}
+1415	Mesa de Cartas
+1416	=
+1417	Rebanho Roubado
+1418	=
+1419	=
+1420	Celeiro Queimado
+1421	=
+1422	Árvore da Forca
+1423	=
+1424	Namorada
+1425	Irmão Desaparecido
+1426	Estrada das Carroças
+1427	=
+1428	Uísque
+1429	=
+1430	Vingança
+1431	=
+1432	Terra
+1433	Segundo 
+1434	Terceiro 
+1435	Quarto 
+1436	Quinto 
+1437	Sexto 
+1438	um homem {a} atirou num homem {b} por causa de cartas num saloon em {d}
+1439	homens {a} levaram uma tropa de cavalos {b} em {d}
+1440	um homem {b} insultou {al} na frente dos homens dele
+1441	homens {a} queimaram um celeiro que os {b} usavam em {d}
+1442	um homem {b} foi achado enforcado numa estrada {a} em {d}
+1443	homens {a} roubaram um pagamento {b} em {d}
+1444	uma mulher, um homem {a} e um homem {b} - e uma faca
+1445	homens {a} levaram o irmão de um homem {b} e nunca trouxeram ele de volta
+1446	=
+1447	=
+1448	=
+1449	=
+1450	=
+1451	=
+1452	=
+1453	=
+1454	=
+1455	=
+1456	=
+1457	=
+1458	=
+1459	=
+1460	=
+1461	=
+1462	=
+1463	=
+1464	=
+1465	por causa de uma mão de cartas
+1466	por causa de uma mulher
+1467	por causa de um cavalo
+1468	pela parte dele num serviço
+1469	por causa de um insulto
+1470	por quem dá as ordens
+1471	por causa de uma garrafa
+1472	{n} desafiou {o} no meio da rua
+1473	{n} e {o} saíram para a estrada ao meio-dia
+1474	{n} encarou {o} na frente do saloon
+1475	{n} encontrou {o} ao amanhecer atrás do estábulo
+1476	{n} mandou {o} sacar
+1477	{n} e {o} contaram os passos em {t}
+1478	{n} sacou contra {o} por causa de um baralho marcado
+1479	{n} trocou tiros com {o} perto da estação de trem
+1480	{n} puxou uma faca para {o} no saloon
+1481	{n} cortou {o} por causa de um jogo de dominó
+1482	{n} partiu para cima de {o} com uma lâmina num beco
+1483	{n} e {o} puxaram facas por causa de uma mulher
+1484	{n} retalhou {o} na frente do armazém
+1485	{n} encostou uma faca na garganta de {o} no balcão
+1486	{n} começou uma briga no saloon
+1487	{n} deu o primeiro soco no saloon
+1488	{n} quebrou uma cadeira nas costas de {o}
+1489	{n} e {o} atravessaram a janela do saloon
+1490	{n} apagou {o} no balcão
+1491	{n} começou uma briga por causa de uma bebida derramada
+1492	{n} enfrentou três homens de uma vez no saloon
+1493	{n} brigou com {o} na lama em frente ao estábulo
+1494	SEGREDO
+1495	REVISTAR
+1496	=
+1497	=
+1498	=
+1499	=
+1500	=
+1501	=
+1502	=
+1503	=
+1504	=
+1505	=
+1506	=
+1507	{0}: seu ScriptHookRDR2DotNet não tem {1} função(ões) do jogo que o mod usa. Alguns recursos podem não funcionar. Detalhes em grudges.log (API CHECK).
+1508	=
+1509	=
+1510	=
+1511	=
+1512	=
+1513	=
+1514	=
+1515	=
+1516	=
+1517	=
+1518	=
+1519	=
+1520	=
+1521	=
+1522	Você tirou o chapéu. Ele, não.
+1523	Você falou demais; ele respondeu com chumbo.
+1524	Você bateu nele com os punhos. Ele respondeu com chumbo.
+1525	Você apagou ele. Ele acordou, e veio atrás de você.
+1526	Você roubou ele. Ele tirou a sua vida em troca.
+1527	=
+1528	=
+1529	=
+1530	=
+1531	=
+1532	=
+1533	Sem acampamento
+1534	Desconhecido - interrogue os homens dele para encontrar
+1535	Sem rumo - nenhum capitão
+1536	caça você em qualquer lugar
+1537	fica perto de onde aconteceu
+1538	=
+1539	enRAGE: encontros aleatórios 
+1540	sobreviveu a isso (
+1541	as terras selvagens
+1542	=
+1543	=
+1544	=
+1545	=
+1546	=
+1547	=
+1548	=
+1549	Sua história
+1550	O líder dos Saqueadores é uma das recompensas do jogo. Se você já cobrou, diga como - os Saqueadores ganham um novo líder.
+1551	Na tela
+1552	Mensagens
+1553	O que aparece: tudo, falas e mortes, só falas, só mortes, ou nada. (N no menu)
+1554	Notícias do mundo
+1555	Quais eventos do mundo aparecem: todos, as grandes notícias, só mortes, ou nenhum. A aba Mundo mostra tudo de qualquer jeito.
+1556	Cartões de nome
+1557	Nomes sobre a cabeça das pessoas: desligado, só quem você conhece, ou todo mundo. (C no menu)
+1558	Faixa da guerra
+1559	A guerra em que você está, mostrada enquanto você segura o botão de HUD do jogo (direcional para baixo).
+1560	O mundo
+1561	Com que frequência alguém vem atrás de você: Menos, Normal, Mais ou Muito.
+1562	Batalhas distantes
+1563	Perto de uma guerra, de vez em quando começa um combate fora de vista - você ouve e pode ir até lá.
+1564	Pausar nos menus
+1565	Para o relógio e congela o mundo enquanto o menu do enRAGE ou o registro de raio-X estiver aberto (depois de um minuto ele segue em câmera lenta). Não durante uma missão: pausar nessa hora pode travar o jogo.
+1566	Tecla do menu
+1567	Abre o menu do enRAGE. Enter, depois a nova tecla - ou uma combinação como Shift+F9 se outro mod já usa ela. (O jeito do controle fica na próxima linha.)
+1568	Controle: abrir menu
+1569	Como o controle abre o menu do enRAGE. O direcional para cima continua sendo do jogo (assobio) e do Interrogar. Desligado: só a tecla do teclado.
+1570	Mais
+1571	Ferramentas de depuração
+1572	Novidades
+1573	Todas as opções
+1574	Todas as opções do mod, numa lista longa só (Alt+F11 também abre).
+1575	Confirmar
+1576	Todo o resto fica em Todas as opções (Alt+F11).
+1577	=
+1578	ele estava lá
+1579	ele viu
+1580	a notícia correu pelo bando
+1581	o bando dele levou a notícia
+1582	aconteceu perto da casa dele
+1583	notícia viaja devagar
+1584	=
+1585	=
+1586	não viu você
+1587	avistou você
+1588	LUTANDO COM VOCÊ
+1589	 + {0} homens
+1590	 em 
+1591	 (não está no seu mapa)
+1592	AGORA CAÇADORES DE RECOMPENSA: {0} cavalgando - {1}
+1593	=
+1594	=
+1595	=
+1596	=
+1597	=
+1598	=
+1599	=
+1600	=
+1601	=
+1602	=
+1603	=
+1604	=
+1605	=
+1606	=
+1607	=
+1608	=
+1609	=
+1610	=
+1611	=
+1612	=
+1613	VOLTOU dos mortos para caçar você
+1614	 e {0} homens
+1615	em movimento
+1616	em patrulha
+1617	=
+1618	PAGOU A DÍVIDA - recuou porque devia a vida a você
+1619	=
+1620	 se rendeu e fugiu
+1621	levantou as mãos, depois fugiu
+1622	=
+1623	=
+1624	=
+1625	OITO ANOS DEPOIS
+1626	Arthur Morgan está morto e a gangue Van der Linde acabou. Oito anos depois, o Oeste tem gente nova - e gente antiga que se lembra.
+1627	A Gangue O'Driscoll e os Wapiti sumiram destas bandas; a família Bronte ainda domina Saint Denis.
+1628	Novos bandos cavalgam agora: a Gangue Laramie nas planícies, os Del Lobo em New Austin, e o Povo da Noite no pântano.
+1629	{0} veterano{1} ainda na sela, agora com {2}.
+1630	=
+1631	enRAGE: oito anos depois. Os O'Driscoll e os Wapiti sumiram; a Gangue Laramie, os Del Lobo e o Povo da Noite cavalgam, e a família Bronte ainda domina Saint Denis. A aba Mundo conta o que foi feito de cada um.
+1632	=
+1633	=
+1634	OS BANDOS DE 1907
+1635	A Gangue O'Driscoll e os Wapiti sumiram destas bandas; a família Bronte ainda domina Saint Denis. A Gangue Laramie cavalga pelas planícies, os Del Lobo dominam New Austin, e o Povo da Noite assombra o pântano.
+1636	Dos {0} homens deles: {1} morreram, {2} foram para Sisika, {3} se endireitaram, {4} foram para o oeste, {5} viraram homens da lei{6} - {7} seguiram com outro bando.
+1637	=
+1638	, {0} foram para o norte com Rains Fall
+1639	{0} deles se juntaram a {1}.
+1640	{0} homens dos bandos extintos: {1} mortos, {2} em Sisika, {3} endireitados, {4} no oeste, {5} homens da lei, {6} no Canadá, {7} em bandos novos
+1641	=
+1642	Foi para o Canadá
+1643	=
+1644	Morreu de febre no posto
+1645	Caiu em patrulha em 
+1646	Levou um tiro fatal num assalto nos arredores de 
+1647	Foi para a forca em 
+1648	Morreu pelas mãos de homens da lei perto de 
+1649	Morreu numa briga em 
+1650	Afogou-se atravessando um rio perto de 
+1651	=
+1652	roubo de gado
+1653	Foi trabalhar na lavoura perto de 
+1654	Trabalha no cais de Saint Denis
+1655	Casou e tem um armazém em 
+1656	Lida com gado num rancho perto de 
+1657	Foi trabalhar na mina em Annesburg
+1658	Encontrou a religião e largou a arma
+1659	Trabalha atrás do balcão em 
+1660	Deu baixa e voltou para casa
+1661	Se endireitou
+1662	Deu baixa
+1663	Foi para o oeste, rumo à Califórnia
+1664	Cruzou para o México
+1665	Foi para o oeste
+1666	Usa um distintivo

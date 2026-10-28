@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rage__fwuiSystemSettingsCollection>
+  <version value="37" />
+  <configSource>kSettingsConfig_Auto</configSource>
+  <graphics>
+    <tessellation>kSettingLevel_Ultra</tessellation>
+    <shadowQuality>kSettingLevel_Ultra</shadowQuality>
+    <farShadowQuality>kSettingLevel_Custom</farShadowQuality>
+    <reflectionQuality>kSettingLevel_Medium</reflectionQuality>
+    <mirrorQuality>kSettingLevel_High</mirrorQuality>
+    <ssao>kSettingLevel_Ultra</ssao>
+    <textureQuality>kSettingLevel_Ultra</textureQuality>
+    <particleQuality>kSettingLevel_Ultra</particleQuality>
+    <waterQuality>kSettingLevel_Custom</waterQuality>
+    <volumetricsQuality>kSettingLevel_Custom</volumetricsQuality>
+    <lightingQuality>kSettingLevel_Ultra</lightingQuality>
+    <ambientLightingQuality>kSettingLevel_Ultra</ambientLightingQuality>
+    <anisotropicFiltering value="4" />
+    <dlssIndex value="3" />
+    <dlssQuality value="2" />
+    <dlssSharpen value="0.000000" />
+    <fsr2Index value="0" />
+    <fsr2Sharpen value="0.000000" />
+    <taa>kSettingLevel_High</taa>
+    <fxaaEnabled value="false" />
+    <msaa value="0" />
+    <graphicsQualityPreset value="1.000000" />
+    <hdr value="false" />
+    <hdr10PlusGaming value="false" />
+    <hdrIntensity value="100" />
+    <hdrPeakBrightness value="1000" />
+    <hdrFilmicMode value="true" />
+    <gamma value="15" />
+    <hdrSettingsMigrated value="true" />
+  </graphics>
+  <advancedGraphics>
+    <API>kSettingAPI_DX12</API>
+    <locked value="false" />
+    <asyncComputeEnabled value="false" />
+    <transferQueuesEnabled value="true" />
+    <shadowSoftShadows>kSettingLevel_High</shadowSoftShadows>
+    <motionBlur value="false" />
+    <motionBlurLimit value="16.000000" />
+    <particleLightingQuality>kSettingLevel_High</particleLightingQuality>
+    <waterReflectionSSR value="true" />
+    <waterRefractionQuality>kSettingLevel_Low</waterRefractionQuality>
+    <waterReflectionQuality>kSettingLevel_Low</waterReflectionQuality>
+    <waterSimulationQuality value="0" />
+    <waterLightingQuality>kSettingLevel_Ultra</waterLightingQuality>
+    <furDisplayQuality>kSettingLevel_High</furDisplayQuality>
+    <maxTexUpgradesPerFrame value="5" />
+    <shadowGrassShadows>kSettingLevel_Low</shadowGrassShadows>
+    <shadowParticleShadows value="true" />
+    <shadowLongShadows value="true" />
+    <directionalShadowsAlpha value="false" />
+    <worldHeightShadowQuality value="0.330000" />
+    <directionalScreenSpaceShadowQuality value="0.330000" />
+    <ambientMaskVolumesHighPrecision value="false" />
+    <scatteringVolumeQuality>kSettingLevel_Ultra</scatteringVolumeQuality>
+    <volumetricsRaymarchQuality>kSettingLevel_High</volumetricsRaymarchQuality>
+    <volumetricsLightingQuality>kSettingLevel_Ultra</volumetricsLightingQuality>
+    <volumetricsRaymarchResolutionUnclamped value="false" />
+    <terrainShadowQuality>kSettingLevel_Ultra</terrainShadowQuality>
+    <damageModelsDisabled value="false" />
+    <decalQuality>kSettingLevel_Ultra</decalQuality>
+    <ssaoFullScreenEnabled value="false" />
+    <ssaoType value="0" />
+    <ssdoSampleCount value="4" />
+    <ssdoUseDualRadii value="false" />
+    <ssdoResolution>kSettingLevel_Low</ssdoResolution>
+    <ssdoTAABlendEnabled value="true" />
+    <ssroSampleCount value="2" />
+    <snowGlints value="true" />
+    <POMQuality>kSettingLevel_Ultra</POMQuality>
+    <probeRelightEveryFrame value="false" />
+    <scalingMode>kSettingScale_Mode1o1</scalingMode>
+    <reflectionMSAA value="0" />
+    <lodScale value="1.000000" />
+    <grassLod value="0.500000" />
+    <pedLodBias value="0.000000" />
+    <vehicleLodBias value="0.000000" />
+    <sharpenIntensity value="0.000000" />
+    <treeQuality>kSettingLevel_Medium</treeQuality>
+    <deepsurfaceQuality>kSettingLevel_Ultra</deepsurfaceQuality>
+    <treeTessellationEnabled value="false" />
+  </advancedGraphics>
+  <video>
+    <adapterIndex value="0" />
+    <outputIndex value="0" />
+    <resolutionIndex value="24" />
+    <screenWidth value="3840" />
+    <screenHeight value="2160" />
+    <resolutionIndexWindowed value="22" />
+    <screenWidthWindowed value="2560" />
+    <screenHeightWindowed value="1440" />
+    <refreshRateIndex value="2" />
+    <refreshRateNumerator value="164835" />
+    <refreshRateDenominator value="1000" />
+    <windowed value="0" />
+    <vSync value="0" />
+    <tripleBuffered value="false" />
+    <ReflexSettings>kSettingReflex_On</ReflexSettings>
+    <pauseOnFocusLoss value="false" />
+    <constrainMousePointer value="false" />
+  </video>
+  <videoCardDescription>NVIDIA GeForce RTX 4070 SUPER</videoCardDescription>
+</rage__fwuiSystemSettingsCollection>

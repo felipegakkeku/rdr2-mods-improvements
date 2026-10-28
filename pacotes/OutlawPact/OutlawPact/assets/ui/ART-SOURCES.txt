@@ -1,0 +1,5 @@
+Panel background: generated with the built-in image generation tool for Outlaw Pact.
+Icons: original vector drawings rasterized with GDI+ at 512x512.
+Title font: Rye by Nicole Fally, Google Fonts, SIL Open Font License (OFL.txt).
+https://github.com/google/fonts/tree/main/ofl/rye
+Body/CJK fonts: Windows-installed fonts selected at runtime; font files are not redistributed.

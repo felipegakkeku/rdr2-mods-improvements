@@ -1,0 +1,13 @@
+## Beta 0.4.4 — lightweight native panel
+
+- Native RDR2 panel is now the default (UseImagePanel=0).
+- Default menu does not create Windows image layers, call UpdateLayeredWindow, decode PNGs or load external fonts.
+- Replaced per-pixel native icons with numbered option indicators.
+- Cached menu labels/wrapping and refreshed roster/status data at up to 4 Hz; navigation/drawing remain frame-driven.
+- Native transitions change only position/colour, without image uploads.
+- Menus, 13 languages, configurable controls, individual commands and manual saving retained.
+
+The default panel has simpler visuals than the PNG overlay. The custom flag is unchanged and still requires windowed/borderless; the native menu does not. Legacy image panel is opt-in via UseImagePanel=1 and is not recommended for setups experiencing overlay stalls.
+
+1,000 simulated selection changes created no layered windows and initialized no GDI+/PNG/font resources. Native draw was bounded to 32 rectangles and 30 labels across 13 locales. Compilation, mock ASI loading and gameplay/restoration regressions passed. Actual RDR2 performance/stall resolution remains to be verified.
+

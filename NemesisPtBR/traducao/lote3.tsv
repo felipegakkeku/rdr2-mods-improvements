@@ -1,0 +1,834 @@
+id	usos	contexto	prefixo_fixo	texto
+1667	1	NemesisMod::EightYearsFor<<>c__DisplayClass960_0.<EightYearsFor>g__Tn|1>		Took a deputy's badge in 
+1668	1	NemesisMod::EightYearsFor<<>c__DisplayClass960_0.<EightYearsFor>g__When|2>		Moved on
+1669	1	NemesisMod::EightYearsFor<desvio>		Did {0} year{1} in Sisika - out in {2}
+1670	1	NemesisMod::EightYearsFor<>		Rode with the 
+1671	2	NemesisMod::EightYearsFor<desvio> ; NemesisMod::RunSuccession<<>c__DisplayClass2880_0.<RunSuccession>g__Seat|5>		Rose to 
+1672	1	NemesisMod::BronteRideAgain<List`1.Add>		With Angelo gone, his lieutenants kept the family together - Saint Denis is still theirs.
+1673	1	NemesisMod::EraLore<desvio>		EPILOGUE the lore of 1899-1907 written
+1674	1	NemesisMod::UpdateRegion<>		 (Army ground)
+1675	1	NemesisMod::get_RegionName<ret>		New Austin
+1676	1	NemesisMod::get_RegionName<ret>		West Elizabeth
+1677	1	NemesisMod::get_RegionName<ret>		New Hanover
+1678	1	NemesisMod::FairFightPulse<desvio>		questioning
+1679	1	NemesisMod::FairFightPulse<>		FAIRGAME 
+1680	1	NemesisMod::UpdateFairGame<>		FAIRGAME bounty ${0} -> ${1}: {2} - outlaws, no crime
+1681	3	NemesisMod::WhoIs<ret> ; NemesisMod::NameOf<ret>		a stranger
+1682	1	NemesisMod::TownFightReaction<>		FIGHT in {0} (reputation {1:+0;-0}): the law steps in on {2} (ped {3})
+1683	1	NemesisMod::TownFightReaction<>		FIGHT in {0} (reputation {1:+0;-0}): {2} warns you{3}
+1684	1	NemesisMod::TownFightReaction<>		FIGHT in {0} (reputation {1:+0;-0}): the crowd is with {2}{3}
+1685	1	NemesisMod::get_Prints<Dictionary`2.get_Count>		LOOKS loaded {0} looks ({1} of people you know)
+1686	1	NemesisMod::Fingerprint<>		{0} {1:X8}.{2}.{3}.{4}
+1687	2	NemesisMod::LinkBlock<ret> ; NemesisMod::LinkBlock<ret>		he died
+1688	1	NemesisMod::LinkBlock<ret>		he was a nemesis
+1689	1	NemesisMod::LinkBlock<ret>		his name is on someone else here
+1690	1	NemesisMod::NameByLook<desvio>		, you've met
+1691	1	NemesisMod::NameByLook<desvio>		 ago
+1692	1	NemesisMod::NameByLook<desvio>		: only looks like him (not the same ped right after a reload)
+1693	1	NemesisMod::NameByLook<>		{0} | {1} | {2} | {3} | {4} | {5}/{6} pieces
+1694	1	NemesisMod::NameByLook<>		NEW
+1695	1	NemesisMod::YouStartedIt<Func`2..ctor>		you'd just fired your gun near him
+1696	5	NemesisMod::NoteFirstBlow<> ; NemesisMod::StartPeace<>		PEACE 
+1697	1	NemesisMod::NoteFirstBlow<desvio>		 swung first
+1698	1	NemesisMod::StartPeace<>		with his fists
+1699	1	NemesisMod::StartPeace<>		with a blade
+1700	1	NemesisMod::StartPeace<>		WITH A GUN
+1701	1	NemesisMod::StartPeace<desvio>		PEACE {0} swung first{1} {2} - lawman {3} {4:0} m off {5}
+1702	1	NemesisMod::StartPeace<desvio>		 went for you 
+1703	1	NemesisMod::StartPeace<desvio>		 - you goaded him
+1704	1	NemesisMod::StartPeace<desvio>		: the law 
+1705	1	NemesisMod::UpdatePeace<>		I saw it - he swung first. Go on about your business.
+1706	1	NemesisMod::UpdatePeace<>	You 	You goaded him, mister - but he swung first. Move along.
+1707	1	NemesisMod::UpdatePeace<>		Can't say I care for you, mister. But he swung first. Go on.
+1708	6	NemesisMod::StartArrest<desvio> ; NemesisMod::LawComesForYou<>		Lawman: 
+1709	1	NemesisMod::StartArrest<>		That's enough! You're under arrest!
+1710	1	NemesisMod::StartArrest<>		Drop the knife! Drop it - now!
+1711	1	NemesisMod::LawComesForYou<>	You 	You there! I saw that - you're under arrest!
+1712	1	NemesisMod::LawComesForYou<>		PEACE you started it with {0} ({1}) - lawman {2} {3:0} m off saw it and comes to arrest you
+1713	1	NemesisMod::StartMarch<>		Walk. Nice and slow.
+1714	1	NemesisMod::UpdateMarch<desvio>		PEACE {0} marched off to the cells ({1:0} m from you, {2})
+1715	1	NemesisMod::UpdateCarryOff<>		Come on, you. A night in the cells'll cool you off.
+1716	1	NemesisMod::UpdateCarryOff<desvio>		PEACE {0} carried off to the cells ({1:0} m from you, {2})
+1717	1	NemesisMod::YouKeptAtHim<>		That's enough - he's done!
+1718	1	NemesisMod::YouKeptAtHim<>		I warned you! You're under arrest!
+1719	1	NemesisMod::EndPeace<desvio>		PEACE over (
+1720	1	NemesisMod::EndPeace<desvio>		 - the lawman saw 
+1721	1	NemesisMod::EndPeace<desvio>		 start it
+1722	1	NemesisMod::WeatherKindOf<>		THUNDERSTORM
+1723	1	NemesisMod::WeatherKindOf<>		HURRICANE
+1724	1	NemesisMod::WeatherKindOf<>		THUNDER
+1725	1	NemesisMod::WeatherKindOf<>		RAIN
+1726	1	NemesisMod::WeatherKindOf<>		DRIZZLE
+1727	1	NemesisMod::WeatherKindOf<>		SUNNY
+1728	1	NemesisMod::WeatherKindOf<>		CLOUDS
+1729	1	NemesisMod::WeatherKindOf<>		OVERCAST
+1730	1	NemesisMod::Music<>		GAMESYS music 
+1731	1	NemesisMod::StartGesture<desvio>		he's being questioned / held
+1732	1	NemesisMod::StartGesture<desvio>		he's in a fight
+1733	1	NemesisMod::StartGesture<desvio>		you're in a fight
+1734	1	NemesisMod::StartGesture<desvio>		he can't (mounted / tied / ragdoll / attached)
+1735	1	NemesisMod::StartGesture<desvio>		you can't (mounted / in a vehicle / ragdoll)
+1736	3	NemesisMod::UpdateGestures<> ; NemesisMod::UpdateGestures<>		GESTURE 
+1737	1	NemesisMod::OneSidedHandover<desvio>		GESTURE {0}: ped {1} still {2:0.0} m off after 3 s - Arthur holds the money out, he nods (one-sided)
+1738	1	NemesisMod::UpdateGestureRuns<desvio>		: playing - you 
+1739	1	NemesisMod::UpdateGestureRuns<desvio>		, him 
+1740	1	NemesisMod::ShareSmoke<desvio>		SMOKE with ped {0}: skipped
+1741	1	NemesisMod::RefusesHand<ret>		Keep your hand. I ain't done with you.
+1742	1	NemesisMod::RefusesHand<ret>	You 	You think a handshake fixes it? It don't.
+1743	1	NemesisMod::RefusesHand<ret>		I don't shake hands with men like you.
+1744	1	NemesisMod::ReactByTemper<>		REACT {0} ({1}) antagonized {2}x -> {3}
+1745	1	NemesisMod::GoodDeed<>		DEED 
+1746	1	NemesisMod::GoodDeed<>		Word gets around 
+1747	1	NemesisMod::GoodDeed<>		DEED {0}: {1} (+{2:0.0} good word, now {3:0.0}; reputation {4:+0;-0;0} -> {5:+0;-0;0})
+1748	1	NemesisMod::GoodDeed<>		GOOD WORD {0}: {1} - reputation {2:+0;-0;0} -> {3:+0;-0;0}
+1749	1	NemesisMod::TrackRoadsideDeeds<>		you helped a 
+1750	1	NemesisMod::TrackRoadsideDeeds<>		you came to the aid of a 
+1751	1	NemesisMod::TrackRoadsideDeeds<>		you saw a 
+1752	1	NemesisMod::WatchRoadsideDeed<campo Note>	in 	in trouble
+1753	2	NemesisMod::LowerNotoriety<> ; NemesisMod::LowerNotoriety<>		NOTORIETY 
+1754	1	NemesisMod::NoteMercy<desvio>		you let 
+1755	2	NemesisMod::NoteGreetScene<desvio> ; NemesisMod::UpdateGreetScenes<desvio>		GREETSCENE 
+1756	1	NemesisMod::NoteGreetScene<desvio>		: greeted 
+1757	1	NemesisMod::UpdateGreetScenes<>	the 	the mod has him now
+1758	1	NemesisMod::UpdateGreetScenes<>		he's gone on his way
+1759	1	NemesisMod::UpdateGreetScenes<desvio>		he's running
+1760	1	NemesisMod::UpdateGreetScenes<desvio>		he's riding
+1761	1	NemesisMod::UpdateGreetScenes<desvio>		he's fighting
+1762	1	NemesisMod::UpdateGreetScenes<desvio>		he's fleeing
+1763	1	NemesisMod::UpdateGreetScenes<desvio>		went back to it by himself
+1764	1	NemesisMod::UpdateGreetScenes<desvio>		GREETSCENE {0}: put back {1} ({2:0.0} m from it)
+1765	1	NemesisMod::LinkGroup<Func`2..ctor>		GROUP 
+1766	1	NemesisMod::GroupGreet<>		Don't mind 
+1767	1	NemesisMod::GroupGreet<Func`2..ctor>		GROUP met 
+1768	1	NemesisMod::QueuePeopleNews<desvio>		NEWS {0} will hear you killed his friend {1} in {2} h
+1769	1	NemesisMod::PollInteractionEvents<>		LOOT looted={0} success={1}
+1770	1	NemesisMod::OnRobbed<desvio>		ROBBED ped={0} via {1} -> {2}
+1771	1	NemesisMod::DetectRobberyByCash<desvio>	the 	the game was paying out (no control)
+1772	1	NemesisMod::DetectRobberyByCash<desvio>		you were looting (a body / a satchel)
+1773	1	NemesisMod::DetectRobberyByCash<>		CASH +{0} recentTarget={1} {2}{3}
+1774	1	NemesisMod::DetectRobberyByCash<desvio>		none near
+1775	1	NemesisMod::DetectRobberyByCash<desvio>	near 	near and alive
+1776	1	NemesisMod::WitnessKill<>		GORE you 
+1777	1	NemesisMod::WitnessKill<>		SAW YOU KILL 
+1778	1	NemesisMod::SettleGrudge<>		SETTLE ped={0} {1} score={2:0} -> {3}, no nemesis
+1779	1	NemesisMod::SettleGrudge<>		SETTLE ped={0} {1} score={2:0} chance={3}% roll={4} -> {5}
+1780	2	NemesisMod::CreateGrudgeNemesis<> ; NemesisMod::FixKinSurnames<>		NAMING 
+1781	1	NemesisMod::CreateGrudgeNemesis<>		BECAME YOUR NEMESIS ({0}): grudge {1:0}  ->  hate {2}, fear {3}{4}
+1782	1	NemesisMod::CreateGrudgeNemesis<>		He won't forget those words.
+1783	1	NemesisMod::CreateGrudgeNemesis<>		He'll remember that beating.
+1784	1	NemesisMod::CreateGrudgeNemesis<>		He'll remember waking up in the dirt.
+1785	1	NemesisMod::CreateGrudgeNemesis<>	You 	You took his wagon - and his living with it.
+1786	1	NemesisMod::CreateGrudgeNemesis<>	You 	You rode off on his horse. He'll walk a long way to find you.
+1787	1	NemesisMod::CreateGrudgeNemesis<>		He'll want back what you took, and then some.
+1788	1	NemesisMod::GreetStreak<ValueTuple`3..ctor>		3rd greet - warming to you
+1789	1	NemesisMod::GreetStreak<ValueTuple`3..ctor>		greeted to death - nothing more
+1790	1	NemesisMod::GreetStreak<ValueTuple`3..ctor>		2nd greet
+1791	1	NemesisMod::FloorWhy<ret>		you robbed him
+1792	1	NemesisMod::FloorWhy<ret>		you scarred him
+1793	1	NemesisMod::FloorWhy<ret>		he killed you
+1794	1	NemesisMod::ReactionMult<ValueTuple`2..ctor>		no modifiers
+1795	1	NemesisMod::ActionName<ret>		greet (emote)
+1796	1	NemesisMod::ActionName<ret>		draw on
+1797	1	NemesisMod::ActionName<ret>		stick-up
+1798	1	NemesisMod::ActionName<ret>		stick-up (calm)
+1799	1	NemesisMod::ActionName<ret>	horse	horse stolen
+1800	1	NemesisMod::ActionName<ret>		wagon stolen
+1801	1	NemesisMod::ActionName<ret>	horse	horse killed
+1802	1	NemesisMod::ActionName<ret>		fought back
+1803	1	NemesisMod::ActionName<ret>		shot at
+1804	1	NemesisMod::ActionName<ret>	saw	saw you kill a man beside him
+1805	1	NemesisMod::ActionName<ret>		you insulted his friend
+1806	1	NemesisMod::ActionName<ret>		you hurt his friend
+1807	1	NemesisMod::ActionName<ret>		you killed his friend
+1808	1	NemesisMod::DrawGrudgeMeters<>		HATE METER
+1809	1	NemesisMod::DrawGrudgeMeters<>		GRUDGE METER
+1810	1	NemesisMod::DrawGrudgeMeters<>		{0}{1}  -  {2:0} m  -  {3}{4}
+1811	1	NemesisMod::DrawGrudgeMeters<desvio>		let go
+1812	1	NemesisMod::RideIn<List`1.Add>		old wound
+1813	1	NemesisMod::RideIn<List`1.Add>		made his name
+1814	2	NemesisMod::RideIn<List`1.Add> ; NemesisMod::ResolveFighter<List`1.Add>		ran
+1815	1	NemesisMod::RankYears<IGrouping`2.get_Key>		{0}: promotions, {1}
+1816	1	NemesisMod::RankYears<IGrouping`2.get_Key>		{0} so far
+1817	1	NemesisMod::RevealPast<>		 told you about 
+1818	1	NemesisMod::ApplyHoldings<desvio>		HOLDINGS news
+1819	1	NemesisMod::ApplyHoldings<desvio>		 took their 
+1820	1	NemesisMod::LetGoAccounting<desvio>		h
+1821	1	NemesisMod::NoteAimRefusal<>		no check matched
+1822	1	NemesisMod::NoteAimRefusal<>	the 	the game's interaction / lock-on target is someone else (he'd qualify)
+1823	1	NemesisMod::NoteAimRefusal<>		he's fighting you (not at your mercy)
+1824	1	NemesisMod::NoteAimRefusal<>		out cold
+1825	1	NemesisMod::PlacePrompt<desvio>		INTERRO {0} prompt (D-pad Up) {1} for ped {2}
+1826	5	NemesisMod::PromptTitle<ret> ; NemesisMod::DrawNameCards<desvio>		Stranger
+1827	1	NemesisMod::Say<desvio>		SPEECH '{0}' did not play for ped {1}
+1828	1	NemesisMod::SayAny<>		SPEECH 
+1829	1	NemesisMod::OnInterrogateKey<desvio>		base {0:0} (his fear of you / 3 + 5){1}
+1830	2	NemesisMod::OnInterrogateKey<List`1.Add> ; NemesisMod::OnInterrogateKey<>		ON THE GROUND
+1831	2	NemesisMod::OnInterrogateKey<List`1.Add> ; NemesisMod::OnInterrogateKey<>		AT GUNPOINT
+1832	2	NemesisMod::OnInterrogateKey<List`1.Add> ; NemesisMod::OnInterrogateKey<>		IN YOUR GRIP
+1833	2	NemesisMod::OnInterrogateKey<> ; NemesisMod::PurseWord<ret>		broke
+1834	1	NemesisMod::OnInterrogateKey<List`1.Add>		BROKE AND RAN
+1835	1	NemesisMod::OnInterrogateKey<List`1.Add>		CAUGHT LYING BEFORE
+1836	1	NemesisMod::HoldHim<desvio>		INTERRO on his feet at gunpoint - 
+1837	1	NemesisMod::OnInterrogationGamePrompt<desvio>		INTERRO game prompt type={0} ignored ({1})
+1838	1	NemesisMod::WatchMenace<desvio>		INTERRO health {0} -> {1} with no damage event -> {2}
+1839	1	NemesisMod::StepInterrogation<Nullable`1..ctor>		GOT AWAY during questioning
+1840	1	NemesisMod::StepInterrogation<Nullable`1..ctor>		BROKE OUT of your grip during questioning
+1841	1	NemesisMod::BattleShock<List`1.get_Count>		{0} killed{1}
+1842	1	NemesisMod::BattleShock<List`1.Add>		badly hurt
+1843	1	NemesisMod::BattleShock<List`1.Add>		crippled
+1844	1	NemesisMod::BattleShock<List`1.Add>		last one standing
+1845	1	NemesisMod::ChanceToTalk<>		{0}: base {1} resolve {2:+0;-0;0} traits {3:+0;-0;0}{4}{5} hate {6:+0;-0;0}{7}{8}
+1846	1	NemesisMod::ChanceToTalk<desvio>		 bound+8
+1847	1	NemesisMod::ChanceToTalk<desvio>		 aimed+8
+1848	1	NemesisMod::ChanceToTalk<>		 | fear {0:0}: camp needs {1} ({2:+0;-0;0} past it x{3:0.00}) -> {4}%
+1849	10	NemesisMod::Terrify<desvio> ; InterroLines::.cctor<>		near
+1850	2	NemesisMod::Terrify<campo Line> ; InterroLines::.cctor<>		Gah! You son of a...
+1851	2	NemesisMod::Terrify<campo Line> ; InterroLines::.cctor<>		AAH! Stop! Stop, I'll talk!
+1852	1	NemesisMod::ConfessCamp<ret>		I don't know nothin' about the camps! I just ride where I'm told!
+1853	1	NemesisMod::ConfessCamp<ret>		Nobody's at the top right now. There's no camp to give you.
+1854	1	NemesisMod::ConfessCamp<ret>		Where I sleep? You'll not get that out of me. Nobody gets that.
+1855	1	NemesisMod::ConfessCamp<desvio>		our captain
+1856	1	NemesisMod::ConfessCamp<desvio>	the 	the lieutenant
+1857	1	NemesisMod::ConfessCamp<desvio>		one of the captains
+1858	1	NemesisMod::ConfessCamp<desvio>		a lieutenant
+1859	1	NemesisMod::ConfessCamp<>		his years in the gang
+1860	1	NemesisMod::ConfessCamp<List`1.Add>	hate	hate +10 (a rat now)
+1861	1	NemesisMod::ConfessCamp<List`1.Add>		camp marked on your map
+1862	1	NemesisMod::StandInFor<desvio>		: no record - a stand-in with his own life
+1863	1	NemesisMod::ConfessKin<>		his family and where he came from
+1864	37	NemesisMod::ConfessKin<> ; NemesisMod::Answer<>		born
+1865	1	NemesisMod::ConfessKin<List`1.get_Count>		He's his own man
+1866	2	NemesisMod::ConfessKin<> ; NemesisMod::ConfessKin<>		My 
+1867	2	NemesisMod::ConfessKin<> ; NemesisMod::WagonState<>		nobody
+1868	1	NemesisMod::RevealKin<desvio>		 gave up his family and friends: 
+1869	11	NemesisMod::ChooseInterro<Nullable`1..ctor> ; InterroLines::.cctor<Dictionary`2.set_Item>		bribe
+1870	2	NemesisMod::ChooseInterro<campo Line> ; InterroLines::.cctor<>		Money don't buy everything. But it helps.
+1871	1	NemesisMod::ChooseInterro<>		BRIBED {0}: ${1} - talk {2:+0;-0;0}%{3}
+1872	3	NemesisMod::ChooseInterro<campo Line> ; InterroLines::.cctor<Dictionary`2.set_Item>		...You wouldn't.
+1873	2	NemesisMod::ChooseInterro<campo Line> ; InterroLines::.cctor<>		Go on then. Do it.
+1874	1	NemesisMod::ChooseInterro<desvio>		LET GO 
+1875	1	NemesisMod::ChooseInterro<desvio>		 after questioning
+1876	20	NemesisMod::ChooseInterro<Nullable`1..ctor> ; InterroLines::.cctor<>		letgo
+1877	1	NemesisMod::EndInterrogation<desvio>		told you nothing
+1878	1	NemesisMod::EndInterrogation<desvio>		answered 
+1879	1	NemesisMod::EndInterrogation<>		 (again)
+1880	1	NemesisMod::EndInterrogation<desvio>		INTERRO {0}: ped {1} {2} - he runs once he's free
+1881	1	NemesisMod::TryHiddenInTown<>		KLAN none of the 
+1882	2	NemesisMod::TryHiddenInTown<> ; NemesisMod::SpawnTownPresence<>		 is in 
+1883	1	NemesisMod::GreetHidden<>	You 	You again. Folks round here keep to their own, you know.
+1884	1	NemesisMod::GreetHidden<>		Twice in a day. You keep good company?
+1885	1	NemesisMod::GreetHidden<>		We like things the way they are in this county.
+1886	1	NemesisMod::GreetHidden<>		Mind how you go. It gets dark out there.
+1887	1	NemesisMod::GreetHidden<>		Afternoon, friend.
+1888	1	NemesisMod::GreetHidden<>		Fine day for it.
+1889	1	NemesisMod::Unmask<>		Folks like you don't last long in this county. Ask around - after dark.
+1890	1	NemesisMod::Unmask<>		Keep sniffin' round me, the night riders'll come callin' for you.
+1891	1	NemesisMod::Unmask<desvio>		You'll learn your place when the fires come, boy.
+1892	1	NemesisMod::Unmask<desvio>		Alright! Alright... I ride with 'em. Everybody here does, near enough.
+1893	1	NemesisMod::Unmask<desvio>		Get your hands off me! You don't know who you're dealin' with!
+1894	1	NemesisMod::Unmask<desvio>		a white hood falling out of his coat
+1895	1	NemesisMod::Unmask<desvio>		what he told you
+1896	1	NemesisMod::Unmask<desvio>		what he let slip
+1897	1	NemesisMod::Unmask<desvio>		a white hood folded in his coat
+1898	1	NemesisMod::Unmask<>		FOUND OUT in 
+1899	1	NemesisMod::Unmask<desvio>		: one of 
+1900	1	NemesisMod::Unmask<desvio>		 rides with 
+1901	1	NemesisMod::Unmask<desvio>		 is one of 
+1902	1	NemesisMod::Unmask<>		 unmasked in 
+1903	2	NemesisMod::LeaderFacts<ValueTuple`2..ctor> ; RosterMenu::DrawFactionBar<ValueTuple`3..ctor>		HOLDS
+1904	2	NemesisMod::LeaderFacts<List`1.get_Count> ; RosterMenu::DrawWorld<List`1.Add>		WARS
+1905	2	NemesisMod::BackfillFallenLeaders<> ; NemesisMod::Fall<>		 - the leader of 
+1906	9	NemesisMod::UpdateLeaders<Nullable`1.get_Value> ; NemesisMod::UpdateLeaders<desvio>		LEADER 
+1907	1	NemesisMod::UpdateLeaders<desvio>	the 	the man who took over
+1908	1	NemesisMod::UpdateLeaders<desvio>		 was tied up and is gone (
+1909	1	NemesisMod::TryArrest<desvio>		: money came in but he's 
+1910	1	NemesisMod::TryArrest<desvio>		: the bounty paid out with him in your hands (
+1911	1	NemesisMod::LeaderWatch<>		first seen
+1912	1	NemesisMod::LoreMenSeen<Nullable`1..ctor>		DIED - the game's own bounty on him was settled
+1913	1	NemesisMod::TrackNamedPeds<KeyValuePair`2.get_Key>		TRACK ped {0} is {1} now - his death counts as his
+1914	2	NemesisMod::Fall<> ; NemesisMod::Fall<>		 of 
+1915	1	NemesisMod::FallLabel<ret>		DIED
+1916	4	NemesisMod::FallLabel<ret> ; NemesisMod::LeftFate<ret>		GONE
+1917	1	NemesisMod::WoffordState<ret>		In jail
+1918	1	NemesisMod::FillLeaderSeat<>		TOOK THE LEAD of 
+1919	1	NemesisMod::FillLeaderSeat<>		 takes the lead of 
+1920	1	NemesisMod::FixDuplicateNames<>		NAMING two men were 
+1921	1	NemesisMod::RescaleMen<KeyValuePair`2.get_Key>		MEN {0}: {1} -> {2} (the bigger starting numbers - {3} -> {4})
+1922	1	NemesisMod::RescaleMen2<KeyValuePair`2.get_Key>		MEN {0}: {1} -> {2} (hundreds and thousands - {3} -> {4})
+1923	1	NemesisMod::WorldLoss<>		MEN {0}: a fight's losses {1} -> {2} (at most {3:0.#}% of {4} this time)
+1924	1	NemesisMod::LoseMen<>		MEN {0}: {1} -> {2} ({3})
+1925	1	NemesisMod::DailyHiring<>		MEN {0}: {1} -> {2} ({3} local men throw in - the outfit's down to {4}% of its strength)
+1926	1	NemesisMod::DailyHiring<>		MEN {0}: {1} -> {2} (hired over {3} day(s))
+1927	1	NemesisMod::StrengthWord<ret>		Breaking
+1928	1	NemesisMod::StrengthWord<ret>		Weak
+1929	1	NemesisMod::StrengthWord<ret>		Stretched
+1930	2	NemesisMod::StrengthWord<ret> ; RosterMenu::DrawFactionBar<ValueTuple`2..ctor>		Holding
+1931	1	NemesisMod::StrengthWord<ret>		Strong
+1932	5	NemesisMod::HourOf<desvio> ; NemesisMod::HourOf<<>c__DisplayClass1762_0.<HourOf>g__Rise|0>		Drink
+1933	3	NemesisMod::HourOf<<>c__DisplayClass1762_0.<HourOf>g__Rise|0> ; NemesisMod::HourOf<<>c__DisplayClass1762_0.<HourOf>g__MeetN|2>		Faith
+1934	3	NemesisMod::HourOf<<>c__DisplayClass1762_0.<HourOf>g__Rise|0> ; NemesisMod::SocialFor<campo Need>		Company
+1935	1	NemesisMod::QuitTheLife<>		a farm outside Strawberry
+1936	1	NemesisMod::QuitTheLife<>		his brother's place back East
+1937	1	NemesisMod::QuitTheLife<>		a homestead near Emerald Ranch
+1938	1	NemesisMod::QuitTheLife<>	the 	the railroad in New Austin
+1939	1	NemesisMod::ThinNicknames<>		NAMING nicknames thinned to {0}% gang / {1}% others: dropped {2} on the roster, {3} people you know, {4} looks
+1940	1	NemesisMod::FixFemaleNames<>		NAMING female names fixed: {0} on the roster, {1} people you know, {2} looks ({3} names)
+1941	1	NemesisMod::UpdateNaming<desvio>		NAMING unique 
+1942	1	NemesisMod::UpdateNaming<List`1.get_Count>		scan: {0} peds around, {1} from the near list, {2} within {3:0} m
+1943	1	NemesisMod::Introduce<Dictionary`2.get_Count>		NAMING {0} named on the spot (ped {1} had no name yet; {2} names held)
+1944	1	NemesisMod::SpotNote<>		{0:0},{1:0} - {2:0} m from you, {3}, zone {4}
+1945	4	NemesisMod::NaturalTownSpot<ValueTuple`2..ctor> ; NemesisMod::NaturalTownSpot<ValueTuple`2..ctor>		about town
+1946	4	NemesisMod::NaturalTownSpot<ValueTuple`2..ctor> ; NemesisMod::NaturalTownSpot<ValueTuple`2..ctor>	in 	in the street
+1947	1	NemesisMod::NaturalTownSpot<desvio>		TOWNSPOT no town spot for 
+1948	1	NemesisMod::NaturalTownSpot<ValueTuple`2..ctor>		nowhere
+1949	1	NemesisMod::PlaceNaturally<campo NaturalNote>		wandering
+1950	1	NemesisMod::PlaceNaturally<campo NaturalNote>		using a scenario point
+1951	1	NemesisMod::UpdateSettling<>		SETTLE {0}: the scenario was {1:+0;-0} m off the ground he was put on ({2:0},{3:0},{4:0}) - back on the street, {5}
+1952	1	NemesisMod::UpdateSettling<>		SETTLE {0} at {1:0},{2:0},{3:0}: {4}{5}
+1953	1	NemesisMod::UpdateSettling<campo NaturalNote>		no scenario near - wandering
+1954	7	NemesisMod::UpdateNerve<> ; NemesisMod::StartFighter<>		NERVE 
+1955	1	NemesisMod::StartFighter<>		a gunman
+1956	1	NemesisMod::StartFighter<desvio>		, defending his {0}camp +{1}
+1957	1	NemesisMod::UpdateCombatTaunts<desvio>		NEG
+1958	1	NemesisMod::UpdateCombatTaunts<desvio>		POS
+1959	1	NemesisMod::UpdateCombatTaunts<List`1.get_Count>		SPEECH taunt: '{0}' played for Arthur ({1} fighting you{2})
+1960	1	NemesisMod::ActiveSurrendered<Nullable`1..ctor>		SURRENDERED to you
+1961	1	NemesisMod::ActiveNerveLine<ret>		nerve: not in a fight yet
+1962	1	NemesisMod::ActiveNerveLine<>		nerve {0:0}/{1:0} - breaks at {2}, then {3}% gives up - {4}
+1963	1	NemesisMod::NerveBy<>		NERVETICK {0} ({1}): {2} {3:+0;-0} -> nerve {4:0}
+1964	1	NemesisMod::Break<>		Alright! Alright - I'm done.
+1965	1	NemesisMod::Break<>		Enough. I'm out.
+1966	1	NemesisMod::Break<>		Easy - I'm putting it down.
+1967	1	NemesisMod::Break<>	You 	You win. Don't shoot.
+1968	2	NemesisMod::Break<> ; InterroLines::.cctor<Dictionary`2.set_Item>		Don't shoot! Please!
+1969	1	NemesisMod::Break<>		BROKE at {0:0} (line {1}) - {2} (rolled {3} vs surrender {4})
+1970	1	NemesisMod::FinishFighter<desvio>		taken alive (tied up)
+1971	1	NemesisMod::FinishFighter<desvio>		fought you, hit you and lived
+1972	1	NemesisMod::FinishFighter<desvio>	held	held his nerve and lived
+1973	1	NemesisMod::FinishFighter<>		IN A FIGHT with you: {0} - fear {1} -> {2}, hate {3} -> {4}
+1974	1	NemesisMod::GoreOf<ret>		blow a man apart
+1975	1	NemesisMod::GoreOf<ret>		butcher a man
+1976	1	NemesisMod::GoreOf<ret>		blow a man's head off
+1977	1	NemesisMod::PaperName<ret>	The 	The Saint Denis Times
+1978	1	NemesisMod::PaperName<ret>	The 	The Blackwater Ledger
+1979	1	NemesisMod::PaperName<ret>	The 	The New Austin Herald
+1980	1	NemesisMod::PaperName<ret>	The 	The New Hanover Gazette
+1981	1	NemesisMod::PaperPrompt<desvio>		Buy a Newspaper - 5 cents
+1982	1	NemesisMod::PaperPrompt<desvio>		Read Today's Paper
+1983	1	NemesisMod::PaperPrompt<>		PAPER bought {0} in {1}: lead '{2}', {3} stories, {4} about town
+1984	1	NemesisMod::BuildPaper<campo Banner>		WAR NEWS
+1985	1	NemesisMod::BuildPaper<campo Banner>		EXTRA! EXTRA!
+1986	1	NemesisMod::BuildPaper<>		A QUIET WEEK IN THE TERRITORY
+1987	1	NemesisMod::BuildPaper<campo Deck>		NO OUTRAGES OF NOTE REPORTED
+1988	1	NemesisMod::BuildPaper<List`1.Add>		Nothing of note to report from the town this week. The editor would welcome gossip, delivered sober.
+1989	1	NemesisMod::BuildPaper<List`1.Add>	The 	The law posts no new rewards this week.
+1990	1	NemesisMod::BuildPaper<>		In 
+1991	1	NemesisMod::BuildPaper<>		, the 
+1992	1	NemesisMod::BuildPaper<List`1.Add>	The 	The outfits keep an uneasy peace. Long may it last.
+1993	2	NemesisMod::ShortGang<ret> ; NemesisMod::ShortOutfit<ret>		O'Driscolls
+1994	3	NemesisMod::ShortGang<ret> ; NemesisMod::ShortOutfit<ret>		Raiders
+1995	2	NemesisMod::ShortGang<ret> ; NemesisMod::ShortOutfit<ret>		Army
+1996	1	NemesisMod::ShortGang<ret>		Bronte men
+1997	2	NemesisMod::ShortGang<ret> ; NemesisMod::ShortOutfit<ret>		Murfrees
+1998	2	NemesisMod::ShortGang<ret> ; Gangs::.cctor<campo Name>		Skinner Brothers
+1999	1	NemesisMod::WhenPhrase<desvio>		afternoon
+2000	1	NemesisMod::WhenPhrase<desvio>		morning
+2001	1	NemesisMod::WhenPhrase<ret>	in 	in the small hours
+2002	1	NemesisMod::WhenPhrase<ret>		last night
+2003	2	NemesisMod::PlacePhrase<ret> ; NemesisMod::PlacePhrase<ret>	in 	in these parts
+2004	1	NemesisMod::Rider<>	the 	the outlaw 
+2005	1	NemesisMod::Rider<>		a lone rider
+2006	1	NemesisMod::Quote<>		"It sounded like the Fourth of July," said a farmer who heard it from his porch.
+2007	1	NemesisMod::Quote<>		"Good riddance," was the verdict of one rancher nearby.
+2008	1	NemesisMod::WriteUp<>		A camp kept by the 
+2009	1	NemesisMod::WriteUp<>		 was overrun 
+2010	1	NemesisMod::WriteUp<>		TRAIN ROBBED
+2011	1	NemesisMod::WriteUp<>		A train was stopped and robbed 
+2012	1	NemesisMod::WriteUp<>		SUPPLY WAGON LOST ON THE ROAD
+2013	1	NemesisMod::WriteUp<>		A wagon carrying powder, feed and drink for the 
+2014	1	NemesisMod::WriteUp<>		wrecked
+2015	1	NemesisMod::WriteUp<>		driven off
+2016	1	NemesisMod::WriteUp<>		Crates kept in town by the 
+2017	1	NemesisMod::WriteUp<>		OUTLAW STORES PUT TO THE TORCH
+2018	1	NemesisMod::WriteUp<>		Smoke was seen for miles 
+2019	1	NemesisMod::WriteUp<>		 as the stores of the 
+2020	1	NemesisMod::WriteUp<>		OUTLAW STRONGBOX LOOTED
+2021	1	NemesisMod::WriteUp<>	The 	The money chests of the 
+2022	1	NemesisMod::WriteUp<>		, kept under guard 
+2023	1	NemesisMod::WriteUp<>		, were broken open 
+2024	2	NemesisMod::WriteUp<> ; NemesisMod::WriteUp<>		, who led the 
+2025	1	NemesisMod::WriteUp<>		, is dead, shot down 
+2026	4	NemesisMod::WriteUp<> ; NemesisMod::WriteUp<>		Men of the 
+2027	1	NemesisMod::WriteUp<>		 were shot dead 
+2028	2	NemesisMod::WriteUp<> ; NemesisMod::WriteUp<>		, of the 
+2029	1	NemesisMod::WriteUp<>		were
+2030	1	NemesisMod::WriteUp<>		was
+2031	1	NemesisMod::WriteUp<>		 shot dead 
+2032	1	NemesisMod::WriteUp<>		Travellers 
+2033	1	NemesisMod::WriteUp<>		 may pass freely once more after a roadblock kept by men of the 
+2034	1	NemesisMod::WriteUp<desvio>		A party of bounty hunters
+2035	1	NemesisMod::WriteUp<>		 met their end 
+2036	1	NemesisMod::WriteUp<desvio>		A KINDNESS ON THE ROAD
+2037	1	NemesisMod::WriteUp<desvio>		GOOD SAMARITAN
+2038	1	NemesisMod::WriteUp<>		A stranger 
+2039	1	NemesisMod::WriteUp<desvio>		, and 
+2040	1	NemesisMod::WriteUp<>		Mourners at a burying 
+2041	1	NemesisMod::WriteUp<>		 burying one of their own 
+2042	1	NemesisMod::WriteUp<>		Shots were heard 
+2043	10	NemesisMod::WriteUp<> ; NemesisMod::WriteUp<>		 and the 
+2044	1	NemesisMod::WriteUp<>		 met with guns 
+2045	1	NemesisMod::WriteUp<>	The 	The fighting between the 
+2046	1	NemesisMod::WriteUp<desvio>		SOLDIERS MOVE AGAINST THE 
+2047	1	NemesisMod::WriteUp<>		An attempt by the 
+2048	1	NemesisMod::WriteUp<>		 came to nothing 
+2049	1	NemesisMod::WriteUp<>		 are blamed for an outrage 
+2050	1	NemesisMod::WriteUp<>		 was laid to rest 
+2051	1	NemesisMod::WriteUp<>		, was laid to rest 
+2052	1	NemesisMod::DrawNewspaper<>		VOL. XXXI, NO. {0}     *     {1}     *     {2} {3} {4}     *     {5}
+2053	1	NemesisMod::DrawNewspaper<>		PAPER 
+2054	1	NemesisMod::SpawnRoadPatrol<desvio>		men on foot
+2055	1	NemesisMod::UpdateRidgeWatch<desvio>		shooting nearby
+2056	1	NemesisMod::UpdateRidgeWatch<desvio>		you came too close
+2057	1	NemesisMod::MaybeRaid<>		PATROL war raid: the {0} are coming for {1} ({2}, {3}%)
+2058	1	NemesisMod::MaybeRaid<>		PATROL war raid on {0}: the {1} could come - rolled no ({2}%{3})
+2059	1	NemesisMod::SpawnRaid<desvio>		 are riding on 
+2060	1	NemesisMod::SpawnPatrolMen<>		PATROL {0}: {1} men left - {2} ride, not {3}
+2061	1	NemesisMod::UpdateRaids<desvio>		PATROL war: the {0} ride to the shooting ({1}%{2})
+2062	1	NemesisMod::UpdateRaids<>		PATROL {0} heard {1} {2:0} m off - {3} to it
+2063	1	NemesisMod::UpdateRaids<>		PATROL {0} heard {1} - {2} there, {3:0} m
+2064	1	NemesisMod::UpdateRaids<Nullable`1.get_Value>		running
+2065	1	NemesisMod::UpdateRaids<List`1.Add>		you hurt one of them / fired in front of them
+2066	1	NemesisMod::UpdateRaids<>		PATROL {0}: standing still {1:0} m from its point - a nearer spot on the road ({2:0} m, try {3})
+2067	1	NemesisMod::UpdateRaids<Nullable`1..ctor>		PATROL the Army hit the O'Driscoll camp
+2068	6	NemesisMod::LawfulPatrolsSee<> ; NemesisMod::EndRaid<desvio>		PATROL 
+2069	2	NemesisMod::ShooterLabel<ret> ; NemesisMod::WorldFallback<Func`1..ctor>		a skirmish
+2070	1	NemesisMod::ShooterLabel<ret>		a camp fight
+2071	1	NemesisMod::ShooterLabel<ret>		a gunfight
+2072	1	NemesisMod::ShooterLabel<ret>		a fight in town
+2073	1	NemesisMod::ShooterLabel<ret>		shooting
+2074	1	NemesisMod::ChronicleRaid<List`1.Add>		Nobody in the camp was left standing.
+2075	2	NemesisMod::ChronicleRaid<> ; NemesisMod::ChronicleSkirmish<>		{0}: {1} down.  {2}: {3} down.
+2076	2	NemesisMod::ChronicleRaid<List`1.Add> ; NemesisMod::ChronicleSkirmish<List`1.Add>	You 	You joined in.
+2077	1	NemesisMod::UpdatePatrolScene<desvio>		: done looking the scene over - 
+2078	1	NemesisMod::UpdatePatrolScene<desvio>		PATROL {0}: riding off together after the fight ({1} men, {2:0} m from you)
+2079	1	NemesisMod::StartPatrolScene<>		PATROL {0}: quiet 15 s - looking the place over, moving about: {1} to {2} dead, {3} s, {4:0} m from you{5}
+2080	1	NemesisMod::CapOurPeds<>		PEDCAP {0} living + {1} bodies of ours (cap {2}) - let {3} far-off, out-of-sight people go
+2081	1	NemesisMod::PenStatus<ret>		He's tiring of your wires - he may not answer many more.
+2082	1	NemesisMod::PenStatus<ret>		He's glad to hear from you.
+2083	1	NemesisMod::PenPalLetter<>		HOPE THIS FINDS YOU WELL.
+2084	1	NemesisMod::PenPalLetter<>		THOUGHT I WOULD WRITE.
+2085	2	NemesisMod::SpontLabel<ret> ; NemesisMod::MessageLabel<ret>		A threat
+2086	1	NemesisMod::SpontLabel<ret>		A gloating letter
+2087	1	NemesisMod::SpontLabel<ret>		A plea for mercy
+2088	2	NemesisMod::SpontLabel<ret> ; NemesisMod::MessageLabel<ret>		A warning
+2089	1	NemesisMod::SpontLabel<ret>		A tip-off
+2090	1	NemesisMod::SpontLabel<ret>		A friendly note
+2091	3	NemesisMod::SpontLabel<ret> ; NemesisMod::SpontLabel<ret>		A letter
+2092	1	NemesisMod::AnswerTo<ret>		peace offer
+2093	3	NemesisMod::AnswerTo<ret> ; NemesisMod::AnswerTo<ret>		condolences
+2094	2	NemesisMod::AnswerTo<ret> ; NemesisMod::AnswerNemesis<<>c__DisplayClass3038_0.<AnswerNemesis>g__Roll|2>		apology
+2095	1	NemesisMod::AnswerTo<ret>		offer to pay him off
+2096	1	NemesisMod::AnswerTo<ret>		warning that you're coming
+2097	1	NemesisMod::AnswerTo<ret>		question about his boss
+2098	1	NemesisMod::AnswerTo<ret>		word about his boss
+2099	2	NemesisMod::AnswerTo<ret> ; NemesisMod::MessageLabel<ret>		good wishes
+2100	1	NemesisMod::AnswerTo<ret>		question about the news
+2101	1	NemesisMod::AnswerTo<ret>		question
+2102	1	NemesisMod::AnswerTo<ret>		request for a loan
+2103	1	NemesisMod::AnswerTo<ret>		request
+2104	1	NemesisMod::AnswerTo<ret>		warning
+2105	1	NemesisMod::AnswerTo<ret>		wire
+2106	2	NemesisMod::TelegramContext<> ; NemesisMod::TelegramContext<>		a station
+2107	1	NemesisMod::FindSeat<desvio>		 | picked: {0} townsfolk within 20 m{1}, weight {2:0.0}
+2108	1	NemesisMod::FindSeat<>		, {0} candidates in the core ({1} near townsfolk, {2} in the saloon; {3} townsfolk about; {4} at the edge skipped, {5} off the walkways)
+2109	1	NemesisMod::FindSeat<Nullable`1.get_HasValue>		{0}{1} returned, {2} points, {3} too near/far, {4} in use, {5} outside town, {6} in other buildings, {7} in view, {8} usable{9}
+2110	1	NemesisMod::FindSeat<Nullable`1.get_Value>		district {0:0},{1:0} ({2:0} m), spread {3:0} m - 
+2111	1	NemesisMod::FindSeat<>		SEAT {0} at {1:0},{2:0} ({3:0} m from you{4}) - {5}{6}
+2112	1	NemesisMod::FindSeat<Nullable`1.get_Value>		, {0:0}/{1:0} m from {2} centre
+2113	1	NemesisMod::SitAt<campo NaturalNote>	on 	on one of the town's seats
+2114	1	NemesisMod::UpdateSeating<desvio>		took a seat within 10 m
+2115	1	NemesisMod::UpdateSeating<desvio>		took the nearest seat (2.5 m)
+2116	1	NemesisMod::UpdateSeating<desvio>		sat on the point
+2117	1	NemesisMod::UpdateSeating<>		SEAT {0}: {1} at {2:0},{3:0},{4:0}
+2118	1	NemesisMod::GrudgeWord<ret>		Seething
+2119	1	NemesisMod::GrudgeWord<ret>		Annoyed
+2120	4	NemesisMod::CardRankWord<desvio> ; NemesisMod::TierOf<ret>		Leader
+2121	1	NemesisMod::DrawNameCards<desvio>		Stranger - Witness
+2122	1	NemesisMod::DrawNameCards<desvio>		Girl
+2123	1	NemesisMod::DrawNameCards<desvio>		Boy
+2124	1	NemesisMod::FactionJob<>		PLAN job for the 
+2125	1	NemesisMod::MakeCrewPlan<>		PLAN 
+2126	1	NemesisMod::MakeCrewPlan<desvio>		 (told by 
+2127	1	NemesisMod::MakeLie<desvio>		) from 
+2128	1	NemesisMod::MakeLie<>		 about 
+2129	1	NemesisMod::MakeLie<>		 at 
+2130	1	NemesisMod::PlayPlan<List`1.Add>		Told you he'd come. Now!
+2131	1	NemesisMod::PlayPlan<List`1.Add>		Right where we wanted you.
+2132	1	NemesisMod::PlayPlan<List`1.Add>		Walked right into it, didn't you?
+2133	1	NemesisMod::JobFailure<>	the 	the law was waiting
+2134	1	NemesisMod::JobFailure<>		a posse rode them down
+2135	1	NemesisMod::JobFailure<>	the 	the mark had hired guns
+2136	1	NemesisMod::JobFailure<>		somebody talked
+2137	1	NemesisMod::JobFailure<>		they were seen coming
+2138	1	NemesisMod::JobFailure<>		it fell apart at the last minute
+2139	1	NemesisMod::JobFailure<>	the 	the men they were sent for were long gone
+2140	1	NemesisMod::JobFailure<>	the 	the column came back empty-handed
+2141	1	NemesisMod::JobFailure<>		bad orders and worse luck
+2142	1	NemesisMod::JobFailure<>	the 	the moon was too bright
+2143	1	NemesisMod::JobFailure<>		a lantern was seen and the road emptied
+2144	1	NemesisMod::JobFailure<>	the 	the dogs in Lagras woke the whole town
+2145	1	NemesisMod::JobFailure<>	the 	the Raiders were on that road that night
+2146	1	NemesisMod::JobFailure<>	the 	the water was wrong, the elder said
+2147	1	NemesisMod::JobFailure<>		nobody would go past the old church
+2148	1	NemesisMod::JobFailure<>	the 	the Army was on the river that night
+2149	1	NemesisMod::JobFailure<>	the 	the rurales were waiting on the other side
+2150	1	NemesisMod::JobFailure<>	the 	the train carried soldiers, not money
+2151	1	NemesisMod::JobFailure<>	the 	the marshal from Armadillo rode them down
+2152	1	NemesisMod::JobFailure<>		a horse went lame in the canyon
+2153	1	NemesisMod::JobFailure<>	the 	the rancher's hands were sitting up with the herd
+2154	1	NemesisMod::JobFailure<>		a stock detective was waiting
+2155	1	NemesisMod::JobFailure<>	the 	the herd stampeded the wrong way
+2156	1	NemesisMod::JobFailure<>	the 	the cattlemen's association had men on the road
+2157	1	NemesisMod::JobFailure<>		a storm scattered the stock
+2158	1	NemesisMod::JobFailure<>	the 	the herd had moved on
+2159	1	NemesisMod::JobFailure<>		soldiers found them first
+2160	1	NemesisMod::ResolvePlanAt<desvio>		In the night, 
+2161	1	NemesisMod::ProcessionOrders<desvio>		PROCESSION {0}: the leader keeps stopping ({1:0} m to go) - told again
+2162	1	NemesisMod::ProcessionTick<desvio>		PROCESSION {0}: interrupted at stage {1} - the encounter's rules now
+2163	1	NemesisMod::RideInStage<desvio>		PROCESSION {0}: {1:0} m to go, {2:0} m from you, {3:0.0} m/s{4}
+2164	1	NemesisMod::RideInStage<desvio>		PROCESSION {0}: moved along {1:0} m (out of your sight)
+2165	1	NemesisMod::RideInStage<desvio>		PROCESSION {0}: {1} after {2} s, {3:0} m from the grave
+2166	1	NemesisMod::StartWalkIn<desvio>		PROCESSION {0}: off their horses - {1} takes the body down ({2}), {3} walk in
+2167	1	NemesisMod::StartWalkIn<List`1.get_Count>		off the ground
+2168	1	NemesisMod::StartWalkIn<List`1.get_Count>		untied
+2169	1	NemesisMod::StartWalkIn<List`1.get_Count>		from the horse
+2170	1	NemesisMod::Gather<desvio>		PROCESSION 
+2171	1	NemesisMod::Gather<>		: gathered round the body (
+2172	1	NemesisMod::LieChance<ret>		a nobody, 15
+2173	1	NemesisMod::LieChance<ret>		honest to a fault
+2174	1	NemesisMod::BuildQuestionOptions<campo Note>		nothing more he'd tell
+2175	5	NemesisMod::BuildQuestionOptions<campo Note> ; NemesisMod::TelegraphRows<ValueTuple`4..ctor>		not enough money
+2176	1	NemesisMod::BuildQuestionOptions<campo Text>		Let him go.
+2177	1	NemesisMod::ReasonHeWontSay<>		I already told you that. Nothing's changed since.
+2178	1	NemesisMod::ReasonHeWontSay<>		I said it once. Saying it twice won't make it truer.
+2179	1	NemesisMod::ReasonHeWontSay<>		That's the whole of what I know. I just ride with 'em, I don't run 'em.
+2180	1	NemesisMod::ReasonHeWontSay<>		Nobody tells a man like me more than that.
+2181	1	NemesisMod::ReasonHeWontSay<>		I'm done talking! You hear me? Done!
+2182	1	NemesisMod::ReasonHeWontSay<>		That's it! That's all of it, damn you!
+2183	1	NemesisMod::ReasonHeWontSay<>		That's all I know that's worth anything - and you got it for free.
+2184	1	NemesisMod::ReasonHeWontSay<>		There's nothing else to sell, mister. You cleaned me out.
+2185	1	NemesisMod::ReasonHeWontSay<>		You've had all you're getting. Shoot me if you like.
+2186	1	NemesisMod::ReasonHeWontSay<>		I've shamed myself enough for one day. No more.
+2187	11	NemesisMod::AskQuestion<Nullable`1..ctor> ; NemesisMod::AskQuestion<Nullable`1..ctor>		lock
+2188	12	NemesisMod::AskQuestion<Nullable`1..ctor> ; InterroLines::.cctor<>		lead
+2189	17	NemesisMod::AskQuestion<Nullable`1..ctor> ; InterroLines::.cctor<>		refuse
+2190	1	NemesisMod::Answer<desvio>		INTERROGATION catch your boss: {0} (fear {1:+0;-0} past the line - tried {2})
+2191	1	NemesisMod::Answer<ret>		To show 'em I ain't nobody. Starting with you.
+2192	1	NemesisMod::Answer<ret>		Money. Enough to stop running.
+2193	1	NemesisMod::Answer<ret>		To be more than a gun for hire. I'll run my own men one day.
+2194	1	NemesisMod::Answer<ret>		Out. I want out of all this. Somewhere nobody knows me.
+2195	1	NemesisMod::Answer<ret>		What do I want? You. In the ground.
+2196	1	NemesisMod::Answer<ret>		Get through the winter. Same as any man.
+2197	1	NemesisMod::Answer<>		Hard to say. Keeps to himself.
+2198	1	NemesisMod::Answer<>		He'd die for the gang. Thinks we would too.
+2199	1	NemesisMod::Answer<>		Anything for a dollar. Anything.
+2200	1	NemesisMod::Answer<>		Cold. He'll wait a month to put a knife in you.
+2201	1	NemesisMod::Answer<>		Proud. Won't back down from nobody, not ever.
+2202	1	NemesisMod::Answer<>	INTEL	INTEL {0}: next shake-up {1}; {2} is next in line (standing {3})
+2203	4	NemesisMod::Answer<> ; NemesisMod::Answer<>	INTEL	INTEL: the 
+2204	1	NemesisMod::Answer<>		 pick new officers 
+2205	1	NemesisMod::Answer<desvio>		. Nobody's camp now
+2206	10	NemesisMod::Answer<> ; NemesisMod::RevealSupplyCache<>		SUPPLY 
+2207	1	NemesisMod::Answer<>		why he rides
+2208	1	NemesisMod::KnowsWhere<desvio>		are
+2209	1	NemesisMod::KnowsWhere<desvio>		is
+2210	1	NemesisMod::KnowsWhere<>		low down
+2211	1	NemesisMod::KnowsWhere<desvio>		an officer
+2212	1	NemesisMod::KnowsWhere<desvio>		under the leader
+2213	1	NemesisMod::Bargain<Nullable`1..ctor>		TURNED INFORMER for you - to save his skin
+2214	1	NemesisMod::Bargain<Nullable`1..ctor>		OWES YOU HIS LIFE - he'll back down once
+2215	1	NemesisMod::Bargain<Nullable`1..ctor>		SWORE TO LEAVE THE TERRITORY to save his life
+2216	1	NemesisMod::PromoteWithinTiers<>		RANK {0} {1} {2} -> {3} within {4} (xp left {5})
+2217	1	NemesisMod::RelationCause<ret>		old blood between them
+2218	1	NemesisMod::RelationWord<ret>	on 	on terms
+2219	2	NemesisMod::RelationWord<ret> ; RosterMenu::DrawDetail<ValueTuple`3..ctor>		wary
+2220	1	NemesisMod::RelationWord<ret>		hostile
+2221	3	NemesisMod::RelationWord<ret> ; NemesisMod::DrawWarHud<<>c__DisplayClass3603_0.<DrawWarHud>g__Bold|2>	at 	at war
+2222	4	NemesisMod::RelationWord<ret> ; Notoriety::.cctor<campo Names>		blood feud
+2223	1	NemesisMod::DriftRelations<>		RELATION {0} / {1}: {2} -> {3} (time - toward the old {4})
+2224	1	NemesisMod::RelationsLine<List`1.get_Count>		relations: 
+2225	1	NemesisMod::WarStarted<>		War breaks out in 
+2226	8	NemesisMod::WarStarted<> ; NemesisMod::RefreshWarMarkers<Nullable`1.get_Value>		: the 
+2227	1	NemesisMod::WarStarted<>		What the 
+2228	1	NemesisMod::WarStarted<>	The 	The {0} hold {1} of the district, the {2} {3}. They're {4} ({5}).
+2229	1	NemesisMod::WarStarted<List`1.Add>		Expect skirmishes on the roads there, raids on camps, and bodies by morning.
+2230	1	NemesisMod::WarEnded<desvio>		one side won the ground
+2231	1	NemesisMod::WarEnded<desvio>	the 	the bad blood cooled
+2232	1	NemesisMod::WarEnded<desvio>		one side is finished
+2233	1	NemesisMod::WarEnded<desvio>		they called a truce
+2234	1	NemesisMod::WarEnded<>	The 	The war in 
+2235	1	NemesisMod::WarEnded<>		 is over - the 
+2236	2	NemesisMod::WarEnded<> ; NemesisMod::WarEnded<>		 drove the 
+2237	5	NemesisMod::WarEnded<> ; NemesisMod::RefreshWarMarkers<>		WAR 
+2238	1	NemesisMod::WarEnded<>	It lasted	It lasted {0} day{1}: {2} fights that word got out about, {3} named men dead.
+2239	1	NemesisMod::WarEnded<>		Ground: the {0} {1} -> {2}, the {3} {4} -> {5}.
+2240	1	NemesisMod::WarReport<>		WAR {0} day {1}: ground {2} {3} (from {4}), {5} {6} (from {7}) - men {8} of {9}, {10} of {11} - heat {12}
+2241	1	NemesisMod::WarReport<>		Ground now: the {0} {1} ({2:+0;-0}), the {3} {4} ({5:+0;-0}).
+2242	1	NemesisMod::WarReport<>		{0} fights so far, {1} named men dead. They're {2} ({3}).
+2243	1	NemesisMod::WarReport<List`1.Add>	Neither side	Neither side moves while the truce holds. When it runs out they'll fight again - unless they've cooled.
+2244	1	NemesisMod::WarReport<List`1.Add>	The 	The truce is over. The fighting starts again.
+2245	1	NemesisMod::WarReport<desvio>		war-weary (day {0}{1})
+2246	1	NemesisMod::WarReport<List`1.Add>	The 	The fighting is wearing on both sides.
+2247	1	NemesisMod::WarReport<List`1.Add>		Both sides are bleeding men - there's talk of calling it off.
+2248	1	NemesisMod::RefreshWarMarkers<Nullable`1.get_Value>		War: the 
+2249	2	NemesisMod::RefreshWarMarkers<Nullable`1.get_Value> ; NemesisMod::RefreshWarMarkers<Nullable`1.get_Value>		 vs the 
+2250	1	NemesisMod::RefreshWarMarkers<>		 shaded on the map (
+2251	1	NemesisMod::RefreshWarMarkers<>	You 	You ride into 
+2252	3	NemesisMod::RefreshWarMarkers<Nullable`1.get_Value> ; NemesisMod::TestWarCard<>		 - the 
+2253	1	NemesisMod::RefreshWarMarkers<>		WAR you rode into 
+2254	1	NemesisMod::ShortOutfit<ret>		Klan
+2255	1	NemesisMod::ShortOutfit<ret>		Brontes
+2256	2	NemesisMod::ShortOutfit<ret> ; Gangs::.cctor<ValueTuple`3..ctor>		Skinners
+2257	1	NemesisMod::OutfitWord<>		 Brothers
+2258	1	NemesisMod::OutfitWord<>		 Family
+2259	1	NemesisMod::Incident<>		Cooler heads: the {0} and the {1} go from {2} to {3} ({4} -> {5}).
+2260	1	NemesisMod::Incident<>		Bad blood: the {0} and the {1} go from {2} to {3} ({4} -> {5}).
+2261	1	NemesisMod::Wipe<desvio>		WIPE ped {0} left alone ({1})
+2262	1	NemesisMod::Wipe<desvio>		WIPE ped {0} kept (tied up with you){1} - handed to the game
+2263	1	NemesisMod::WipeWorldAfterRespawn<>		 stops waiting outside 
+2264	1	NemesisMod::WipeWorldAfterRespawn<desvio>		{0} cleared {1} peds the mod had in the world behind you; quiet 5 s after the screen is back
+2265	1	NemesisMod::FuneralWagon<desvio>		RIDEIN funeral wagon: 
+2266	1	NemesisMod::RideInOrders<desvio>		RIDEIN {0}: the leader stands - {1} ({2:0} m)
+2267	1	NemesisMod::RideInTick<desvio>		RIDEIN {0}: {1:0} m to go, {2:0} m from you{3}
+2268	1	NemesisMod::RideInTick<desvio>		RIDEIN {0}: moved along {1:0} m (out of your sight)
+2269	1	NemesisMod::RideInTick<desvio>		RIDEIN {0}: {1} after {2} s
+2270	2	NemesisMod::RideInTick<desvio> ; NemesisMod::RideInSettleTick<desvio>		RIDEIN 
+2271	1	NemesisMod::RideInTick<desvio>		: settling in (
+2272	1	NemesisMod::StartBodyCarry<desvio>		RIDEIN body: 
+2273	1	NemesisMod::ReNote<ret>		met in some trouble on the road
+2274	1	NemesisMod::UpdateRoadside<KeyValuePair`2.get_Value>		ROADSIDE met 
+2275	2	NemesisMod::HabitText<> ; NemesisMod::UpdateSocial<desvio>		 on 
+2276	1	NemesisMod::CleanOutfitFolk<List`1.get_Count>		PEOPLE clean-up: {0} gang men you'd only fought, never met, taken off the people you know ({1}{2})
+2277	1	NemesisMod::FixRallyKlan<Nullable`1..ctor>		JOINED THE KLAN: the hood was always his
+2278	1	NemesisMod::FixRallyKlan<List`1.get_Count>		KLAN clean-up: {0} rally men moved into the Klan
+2279	1	NemesisMod::RoutineCard<List`1.Add>		You've got some gall, showing your face here.
+2280	1	NemesisMod::AnswerHabit<>		... drinks at the 
+2281	1	NemesisMod::FuneralNames<ret>		one of their own
+2282	1	NemesisMod::FuneralStarted<desvio>		caskets
+2283	1	NemesisMod::FuneralStarted<desvio>		casket
+2284	1	NemesisMod::FuneralPlot<List`1.get_Count>		FUNERAL plot: a marked one ({0} near), {1:0} m from the cemetery's point
+2285	1	NemesisMod::ResolveFuneral<Func`2..ctor>		 alongside 
+2286	2	NemesisMod::ResolveFuneral<> ; NemesisMod::AnswerFuneral<>		FUNERAL 
+2287	1	NemesisMod::UpdateSaloonFight<>		SALOON near the bar at {0:0},{1:0} ({2:0} m) - its building isn't loaded yet (interior {3}); it'll roll when you walk in instead
+2288	1	NemesisMod::UpdateSaloonFight<>		 - already rolled this visit
+2289	1	NemesisMod::UpdateSaloonFight<>		SALOON you're in a building in {0} (interior {1}, {2:0},{3:0}) - {4}{5}
+2290	1	NemesisMod::LearnBar<desvio>		SALOON {0} in {1} at {2:0},{3:0}{4}
+2291	1	NemesisMod::LearnBar<>		bar
+2292	1	NemesisMod::LearnBar<>		learned a bar
+2293	1	NemesisMod::TryStartSaloon<>	the 	the world is busy
+2294	5	NemesisMod::TryStartSaloon<desvio> ; NemesisMod::StartSaloonFight<>		SALOON 
+2295	1	NemesisMod::TryStartSaloon<desvio>		: no two outfits who'd fight here
+2296	1	NemesisMod::TryStartSaloon<Nullable`1.get_Value>		SALOON {0}: {1} / {2} could - rolled no ({3}%)
+2297	1	NemesisMod::StartSaloonFight<>		SALOON {0}: {1} of them already in the room, {2} walking in ({3}{4}{5})
+2298	1	NemesisMod::StartSaloonFight<List`1.get_Count>		SALOON {0}: {1} {2} men come in for a drink - the {3} will come for them (relation {4})
+2299	1	NemesisMod::PickSaloonDoor<campo BarDoorNote>	the 	the doorway you came in by
+2300	1	NemesisMod::StageShooters<>		SALOON {0}: {1} shooters wanted - {2} found no hidden spot outside, {3} didn't spawn
+2301	1	NemesisMod::StageShooters<List`1.get_Count>		SALOON {0}: {1} {2} men waiting outside - {3} ({4}); they go in {5} s
+2302	1	NemesisMod::RunSaloonFight<>		SALOON {0}: the {1} are at the bar - the {2} come in {3} s
+2303	1	NemesisMod::RunSaloonFight<List`1.get_Count>		SALOON {0}: {1} {2} men are coming
+2304	1	NemesisMod::RunSaloonFight<List`1.get_Count>		SALOON {0}: {1} of them through the door together, guns out
+2305	1	NemesisMod::RunSaloonFight<>		Drink up, boys - it's your last!
+2306	1	NemesisMod::RunSaloonFight<desvio>		SALOON {0} man {1} turned on you - sent back at the other side
+2307	1	NemesisMod::FinishSaloonFight<>		{0} of the {1} and {2} of the {3} dead. The {4} held the room.
+2308	1	NemesisMod::FinishSaloonFight<List`1.Add>	You 	You were in the middle of it.
+2309	1	NemesisMod::FinishSaloonFight<>		SALOON {0}: over ({1}) - {2} {3} / {4} {5} dead
+2310	1	NemesisMod::MaybeRemnants<List`1.get_Count>		SANDBOX {0} REMNANTS regroup: {1} men under {2}
+2311	1	NemesisMod::Defection<>		 has gone over to the 
+2312	1	NemesisMod::Defection<>		 turned his coat - from the 
+2313	1	NemesisMod::Assassination<>		 killed 
+2314	1	NemesisMod::Assassination<>		 arrested 
+2315	1	NemesisMod::Assassination<List`1.Add>	The 	The seat stands empty - the shake-up will see who takes it, if anyone.
+2316	1	NemesisMod::Fever<Nullable`1..ctor>		DIED of the fever
+2317	1	NemesisMod::Windfall<>		a payroll wagon
+2318	1	NemesisMod::Windfall<>		a bank in a small town
+2319	1	NemesisMod::Windfall<>		a rich man's ranch
+2320	1	NemesisMod::Windfall<>		a riverboat's safe
+2321	1	NemesisMod::Windfall<>		a train's mail car
+2322	1	NemesisMod::Windfall<>		a cattle drive
+2323	1	NemesisMod::Windfall<List`1.Add>		Money buys men and guns - they hold more of the country now.
+2324	1	NemesisMod::UpdateSavePoints<desvio>		SAVEPOINT game save seen (SAVEGAME_IS_SAVE_PENDING ended
+2325	1	NemesisMod::UpdateSavePoints<>		SAVEPOINT clock went back {0}h {1}m with no loading screen{2}{3} - left alone
+2326	1	NemesisMod::ClockWentBack<>		SAVEPOINT clock went back 
+2327	1	NemesisMod::LaterSaveLoaded<>		SAVEPOINT no exact point for 
+2328	1	NemesisMod::FreshWorldForSaveNow<>		SAVEPOINT fresh world for the save at 
+2329	1	NemesisMod::FreshWorldForSaveNow<desvio>		 (the other world kept as 
+2330	1	NemesisMod::FreshWorldForSaveNow<>		enRAGE: this save (
+2331	1	NemesisMod::FreshWorldForSaveNow<desvio>		) is 
+2332	1	NemesisMod::FreshWorldForSaveNow<desvio>		older than anything
+2333	1	NemesisMod::FreshWorldForSaveNow<desvio>		 enRAGE 
+2334	1	NemesisMod::RestoreWithUndo<desvio>		enRAGE: the world is back to 
+2335	1	NemesisMod::RestoreWithUndo<>		 with 
+2336	1	NemesisMod::SlotName<ret>		an untagged save
+2337	1	NemesisMod::TakeSavePointNow<>		SAVEPOINT taken: 
+2338	1	NemesisMod::TakeSavePointNow<Dictionary`2.get_Values>		 (writing in the background)
+2339	1	NemesisMod::TakeSavePointNow<Dictionary`2.get_Values>		 (the writer was busy - copied once it's done)
+2340	1	NemesisMod::TakeSavePointNow<Dictionary`2.get_Values>		 ({0} KB)
+2341	1	NemesisMod::PruneSavePoints<>		size cap: {0} oldest points removed ({1} MB left of {2})
+2342	1	NemesisMod::RestoreSavePoint<desvio>		SAVEPOINT restore failed: 
+2343	1	NemesisMod::CompleteSlice<>		SAVETIME {0} took {1:0} ms in one frame (in pieces: {2:0} ms over {3} frames)
+2344	1	NemesisMod::NoteSaveTime<desvio>		SAVETIME {0} took {1:0} ms{2}
+2345	1	NemesisMod::UpdateSearch<List`1.get_Count>		SEARCH pad keyboard: '{0}' - {1} found
+2346	1	NemesisMod::SearchKey<>		SEARCH '
+2347	2	NemesisMod::RunSearch<desvio> ; NemesisMod::<WarZonesLine>b__3128_2<Nullable`1.get_Value>		 vs 
+2348	1	NemesisMod::RunSearch<>		X-RAY
+2349	1	NemesisMod::RunSearch<desvio>		wounds
+2350	1	NemesisMod::RunSearch<desvio>		wound
+2351	1	NemesisMod::RunSearch<desvio>		  -  animal
+2352	1	NemesisMod::DrawSearch<desvio>		typing on the game's keyboard...
+2353	1	NemesisMod::DrawSearch<>		A name - nemeses, people, leaders, wars, world events, X-rays
+2354	2	NemesisMod::DrawSearch<ValueTuple`2..ctor> ; NemesisMod::DrawSearch<ValueTuple`2..ctor>		Go
+2355	1	NemesisMod::DrawSearch<ValueTuple`2..ctor>		Pick
+2356	1	NemesisMod::DrawSearch<ValueTuple`2..ctor>		Letters
+2357	1	NemesisMod::DrawSearch<ValueTuple`2..ctor>		Type
+2358	1	NemesisMod::ReportSelfCheck<IGrouping`2.get_Key>		SELFCHECK 
+2359	1	NemesisMod::ReportSelfCheck<IGrouping`2.get_Key>		SELFCHECK {0}: ...and {1} more
+2360	1	NemesisMod::ReportSelfCheck<List`1.get_Count>		self-check: {0} fault(s) - see grudges.log (SELFCHECK).
+2361	1	NemesisMod::SightFor<desvio>		walking
+2362	1	NemesisMod::SightFor<desvio>		crouched
+2363	1	NemesisMod::SightFor<desvio>		fired
+2364	1	NemesisMod::SightFor<desvio>		mounted
+2365	1	NemesisMod::SightingFor<Nullable`1.get_Value>	at 	at the doctor's
+2366	1	NemesisMod::SightingFor<List`1.get_Count>	in 	in a room at the hotel
+2367	1	NemesisMod::SightingFor<>		Word in 
+2368	2	NemesisMod::MoneyFor<campo Text> ; NemesisMod::UpdateSocial<campo Text>		Give Him a Few Dollars ($5)
+2369	1	NemesisMod::MoneyFor<campo Reply>		...That's decent of you. Real decent.
+2370	1	NemesisMod::MoneyFor<campo Reply>		Five? ...Fine. It's a start.
+2371	1	NemesisMod::MoneyFor<campo Reply>		I don't need your charity.
+2372	2	NemesisMod::SocialFor<campo Text> ; NemesisMod::UpdateSocial<campo Text>		Buy Him a Drink ($2)
+2373	2	NemesisMod::SocialFor<campo Reply> ; NemesisMod::UpdateSocial<campo Reply>		Well now. Don't mind if I do.
+2374	2	NemesisMod::SocialFor<campo Reply> ; NemesisMod::UpdateSocial<campo Reply>		...I'll drink it. Don't mean we're friends.
+2375	1	NemesisMod::SocialFor<campo Text>		Show Him Respect
+2376	1	NemesisMod::SocialFor<campo Reply>		...Hm. At least you know who you're talking to.
+2377	1	NemesisMod::SocialFor<campo Text>		Share a Smoke
+2378	1	NemesisMod::SocialFor<campo Reply>		Obliged. ...You're alright, for a son of a bitch.
+2379	2	NemesisMod::SocialFor<campo Text> ; NemesisMod::UpdateSocial<campo Text>		Shake His Hand
+2380	1	NemesisMod::SocialFor<campo Reply>		Alright. We're square, for now.
+2381	1	NemesisMod::SocialFor<campo Reply>		...Fine. Don't make me regret it.
+2382	1	NemesisMod::UpdateSocial<campo Reply>		Good to see you.
+2383	1	NemesisMod::UpdateSocial<campo Reply>		...That's kind of you, mister. Real kind.
+2384	1	NemesisMod::UpdateSocial<campo Text>		Tip Your Hat
+2385	1	NemesisMod::UpdateSocial<campo SocialNote>		used today
+2386	1	NemesisMod::UpdateSocial<campo SocialNote>		no option for him
+2387	1	NemesisMod::UpdateSocial<desvio>		SOCIAL prompt '{0}' on {1} (ped {2})
+2388	1	NemesisMod::PlayerWearsHat<desvio>		SOCIAL hat check: 
+2389	1	NemesisMod::PlayerWearsHat<>		no hat
+2390	1	NemesisMod::TipYourHat<desvio>	the 	the stranger
+2391	1	NemesisMod::TipYourHat<List`1.Add>		hat tip -2
+2392	1	NemesisMod::TipYourHat<List`1.Add>		hat tip - too soon after what you did
+2393	1	NemesisMod::UpdateHatAnim<desvio>		SOCIAL hat tip
+2394	1	NemesisMod::UpdateHatAnim<desvio>		 [stopped him first]
+2395	1	NemesisMod::DoSocial<desvio>		SOCIAL money to 
+2396	1	NemesisMod::DoSocial<desvio>		: not charity in the town's eyes - 
+2397	1	NemesisMod::DoSocial<List`1.Add>		refused your hand +3
+2398	1	NemesisMod::DoSocial<desvio>		GESTURE {0} refused your hand ({1}, grudge {2:0})
+2399	3	NemesisMod::DoSocial<> ; NemesisMod::DoSocial<>		SOCIAL 
+2400	1	NemesisMod::DoSocial<>		SOCIAL {0} ({1}): grudge score {2:0} -> {3:0}
+2401	1	NemesisMod::DoSocial<>		SOCIAL {0} on stranger {1}: score {2:0} -> {3:0}
+2402	1	NemesisMod::EaseFear<>		SOCIAL {0} eases {1}'s fear ({2}, -{3}): {4}
+2403	1	NemesisMod::EaseFear<>		 is less afraid of you (
+2404	1	NemesisMod::SpareLeaveChance<ret>		he means to settle it with you
+2405	1	NemesisMod::SpareLeaveChance<desvio>		 +wants out
+2406	1	NemesisMod::SparedHim<>		, his 
+2407	1	NemesisMod::WalkAway<desvio>		 walked away from the 
+2408	1	NemesisMod::WalkAway<List`1.Add>	You 	You let him live. He didn't go back to them.
+2409	1	NemesisMod::WalkAway<List`1.Add>	You 	You let him live. He didn't go back to his post.
+2410	3	NemesisMod::WalkAway<desvio> ; NemesisMod::WalkAway<desvio>		 left the 
+2411	1	NemesisMod::WalkAway<desvio>	left	left the 
+2412	1	NemesisMod::SpawnItems<<>c__DisplayClass2795_0.<SpawnItems>g__H|0>		A NEMESIS COMES FOR YOU
+2413	1	NemesisMod::SpawnItems<<>c__DisplayClass2795_0.<SpawnItems>g__H|0>		IN TOWN
+2414	8	NemesisMod::SpawnItems<<>c__DisplayClass2795_0.<SpawnItems>g__H|0> ; NemesisSettings/<Layout>d__214::MoveNext<Func`1..ctor>		CAMPS
+2415	1	NemesisMod::SpawnItems<<>c__DisplayClass2795_0.<SpawnItems>g__H|0>		CAMP LOOKS
+2416	1	NemesisMod::SpawnItems<desvio>		Props only: 
+2417	1	NemesisMod::SpawnItems<<>c__DisplayClass2795_0.<SpawnItems>g__H|0>		ROUTINES
+2418	1	NemesisMod::SpawnItems<<>c__DisplayClass2795_0.<SpawnItems>g__H|0>		EPILOGUE
+2419	1	NemesisMod::SpawnItems<<>c__DisplayClass2795_0.<SpawnItems>g__H|0>		CHECKS
+2420	2	NemesisMod::DrawSpawnMenu<ValueTuple`2..ctor> ; NemesisMod::DrawSpawnMenu<ValueTuple`2..ctor>		Spawn
+2421	1	NemesisMod::LoadStashSpots<List`1.get_Count>		STASHSPOT {0} placed spot(s) loaded ({1})
+2422	2	NemesisMod::ShowStashSpots<desvio> ; NemesisMod::<SpawnItems>b__59<Action`1..ctor>		Stash spot
+2423	1	NemesisMod::UpdateStoryProgress<desvio>		playing as John
+2424	1	NemesisMod::UpdateStoryProgress<>		STORY gang camp at {0:0},{1:0} matches no chapter camp (nearest {2}, {3:0} m)
+2425	1	NemesisMod::UpdateStoryProgress<desvio>		EPILOGUE the turn failed: 
+2426	1	NemesisMod::UpdateStoryProgress<>		STORY camp seen at {0:0},{1:0} ({2}) -> chapter {3} (was {4})
+2427	1	NemesisMod::UpdateStoryProgress<List`1.get_Count>		 (+{0} more)
+2428	1	NemesisMod::ApplyStoryChapter<List`1.Add>		Colm O'Driscoll was hanged
+2429	1	NemesisMod::ApplyStoryChapter<List`1.Add>		Angelo Bronte is dead - Dutch fed him to an alligator
+2430	1	NemesisMod::StoryCompanionBlock<ret>	the 	the story has taken him
+2431	1	NemesisMod::UpdateSuccession<List`1.get_Count>		SUCCESSION shake-up now for the 
+2432	1	NemesisMod::UpdateSuccession<List`1.get_Count>		 ({0} more due - one at a time)
+2433	1	NemesisMod::ScheduleShakeUp<>		SUCCESSION {0}: next shake-up in {1} days ({2}) at {3:00}:00
+2434	1	NemesisMod::PullShakeUpIn<>		SUCCESSION {0}: officer seats {1:0}% filled - the next shake-up comes sooner, within {2} day{3} ({4})
+2435	1	NemesisMod::RunSuccession<desvio>		ERROR shake-up roster trim: 
+2436	1	NemesisMod::RunSuccession<>		SUCCESSION {0} {1} {2} seat(s) left open - nobody ready{3}
+2437	1	NemesisMod::RunSuccession<desvio>		{0} {1} seat{2} left open - nobody ready yet
+2438	1	NemesisMod::RunSuccession<<>c__DisplayClass2880_0.<RunSuccession>g__Seat|5>		 rises to 
+2439	1	NemesisMod::RunSuccession<>		 in the 
+2440	2	NemesisMod::RunSuccession<<>c__DisplayClass2880_0.<RunSuccession>g__Seat|5> ; NemesisMod::RunSuccession<<>c__DisplayClass2880_0.<RunSuccession>g__Seat|5>		made 
+2441	1	NemesisMod::RunSuccession<<>c__DisplayClass2880_0.<RunSuccession>g__Seat|5>		 made 
+2442	1	NemesisMod::RunSuccession<>		SUCCESSION {0} {1} rank {2} -> {3} ({4}) score={5} {6}
+2443	1	NemesisMod::RunSuccession<>		SUCCESSION {0} {1} seat stays empty - recruits {2:0}% (ground {3:0}%)
+2444	1	NemesisMod::RunSuccession<<>c__DisplayClass2880_0.<RunSuccession>g__Seat|5>		a local man as 
+2445	2	NemesisMod::RunSuccession<<>c__DisplayClass2880_0.<RunSuccession>g__Seat|5> ; NemesisMod::RunSuccession<<>c__DisplayClass2880_0.<RunSuccession>g__Seat|5>		 joins as 
+2446	1	NemesisMod::RunSuccession<>		SUCCESSION {0} local {1} takes the {2} seat (${3}; {4})
+2447	1	NemesisMod::RunSuccession<>		SUCCESSION {0} {1} seat stays empty - can't pay a new man (spent ${2} of ${3}, purse ${4}) - and any more seats this shake-up
+2448	1	NemesisMod::RunSuccession<<>c__DisplayClass2880_0.<RunSuccession>g__Seat|5>		a new man as 
+2449	1	NemesisMod::RunSuccession<>		SUCCESSION {0} recruit {1} as {2} rank {3} hate {4}{5}
+2450	1	NemesisMod::RunSuccession<desvio>		No money for more men - {0} seat{1} left empty
+2451	1	NemesisMod::RunSuccession<List`1.get_Count>		SUCCESSION {0}: {1} change(s)
+2452	1	NemesisMod::RunSuccession<campo _successionTitle>		WHILE YOU SLEPT
+2453	2	NemesisMod::LocalRecruit<> ; NemesisMod::Recruit<>		JOINED the 
+2454	1	NemesisMod::AddSupplies<>		SUPPLIES {0}: {1} -> {2} ({3})
+2455	1	NemesisMod::SupplyState<ret>		Plenty
+2456	1	NemesisMod::SupplyState<ret>		Stocked
+2457	1	NemesisMod::SupplyState<ret>		Short
+2458	1	NemesisMod::SupplyState<ret>		Low
+2459	1	NemesisMod::SupplyState<ret>		Out
+2460	1	NemesisMod::SupplyWord<ret>		stolen goods
+2461	1	NemesisMod::SupplyWord<ret>	the 	the cause's stores
+2462	1	NemesisMod::SupplyWord<ret>	the 	the depot
+2463	1	NemesisMod::SupplyWord<ret>	the 	the lodge's stores
+2464	1	NemesisMod::SupplyWord<ret>	the 	the herd and the hunt
+2465	1	NemesisMod::SupplyWord<ret>	the 	the family's warehouses
+2466	1	NemesisMod::SupplyWord<ret>		what they've hoarded
+2467	1	NemesisMod::SupplyWord<ret>		hides and powder
+2468	1	NemesisMod::DailySupplies<>		{0} day(s): +{1:0.#}/day from its ground, -{2:0.#}/day for its men{3}{4}
+2469	1	NemesisMod::DailySupplies<desvio>		 and wars
+2470	1	NemesisMod::RefreshCacheBlips<desvio>		 Supplies - cache
+2471	1	NemesisMod::RefreshCacheBlips<KeyValuePair`2.get_Value>		SUPPLY cache marker: "
+2472	1	NemesisMod::UpdateSupplyHits<desvio>		you shot their crates to pieces
+2473	1	NemesisMod::UpdateSupplyHits<desvio>		you set their crates burning
+2474	1	NemesisMod::UpdateSupplyHits<desvio>		you blew their crates apart
+2475	1	NemesisMod::UpdateSupplyHits<desvio>		 stash
+2476	1	NemesisMod::UpdateSupplyHits<desvio>		you made off with their supply wagon
+2477	1	NemesisMod::UpdateSupplyHits<desvio>		you wrecked their supply wagon
+2478	1	NemesisMod::SupplyHit<>		SUPPLY {0}: -{1} at {2} with you {3:0} m off - not put on you
+2479	1	NemesisMod::SupplyHit<>		SUPPLY raid cap: {0} -{1} cut to -{2} ({3} of {4} taken this raid)
+2480	1	NemesisMod::SupplyHit<desvio>		 crates
+2481	1	NemesisMod::UpdateSupplyWagons<>		SUPPLY wagon roll: {0:0}%, rolled {1:0} - the {2} run supplies through {3}
+2482	1	NemesisMod::RunSupplyWagon<desvio>		there - on along the road it's on (no main road ahead)
+2483	1	NemesisMod::RunSupplyWagon<>		SUPPLY wagon: standing 12 s, {0:0} m from where it was going, {1:0} m from you - driver {2}, horse in harness {3}: {4}{5}
+2484	1	NemesisMod::RunSupplyWagon<desvio>		aboard
+2485	1	NemesisMod::RunSupplyWagon<desvio>		SUPPLY wagon: the 
+2486	1	NemesisMod::RunSupplyWagon<desvio>		 guards fight - 
+2487	1	NemesisMod::EndSupplyWagon<desvio>		SUPPLY wagon: over
+2488	1	NemesisMod::SpawnTownCrates<desvio>		a lookout
+2489	1	NemesisMod::SpawnTownCrates<Func`2..ctor>		 ({0:0} m from the other)
+2490	1	NemesisMod::SpawnTownCrates<desvio>		, a big crate
+2491	1	NemesisMod::MaybeSpawnSurvivors<List`1.Add>		lazy
+2492	1	NemesisMod::MaybeSpawnSurvivors<List`1.get_Count>		{0} named ({1}), after you: {2}
+2493	1	NemesisMod::MaybeSpawnSurvivors<List`1.get_Count>		AFTERMATH {0}: {1} men still at the battlefield ({2})
+2494	1	NemesisMod::SurvivorRole<ret>		lazy (no body for him)
+2495	1	NemesisMod::SurvivorRole<ret>		goes through the dead's pockets
+2496	1	NemesisMod::SurvivorRole<ret>		kneels by his dead
+2497	1	NemesisMod::SurvivorRole<ret>		keeps watch
+2498	1	NemesisMod::SurvivorRole<ret>		walks among the bodies
+2499	2	NemesisMod::SurvivorRole<ret> ; NemesisMod::SurvivorRole<ret>		smokes

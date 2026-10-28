@@ -1,0 +1,841 @@
+id	usos	contexto	prefixo_fixo	texto
+14201	1	NemesisMod::WitnessSilenced<String.Concat>		 - he had already told the law
+14202	1	NemesisMod::WitnessSilenced<String.Concat>		 - too late, he'd told the law
+14203	1	NemesisMod::WaryFromWord<Acquaintance.get_Name>		PEOPLE {0} hasn't heard about you ({1}% at infamy {2:0})
+14204	1	NemesisMod::WaryFromWord<Acquaintance.get_Town>	heard	heard what you did in 
+14205	1	NemesisMod::SimWord<Acquaintance.get_Town>		 told 
+14206	1	NemesisMod::SimWord<String.Concat>		 saw you do
+14207	1	NemesisMod::SimWord<WorldEvent.get_Lines>		what you are
+14208	1	NemesisMod::SimWord<Acquaintance.get_Name>	heard	heard from 
+14209	1	NemesisMod::SimWord<String.Concat>		 what you did
+14210	1	NemesisMod::SimWord<Acquaintance.get_Town>		{0} people you know in {1} heard it - your infamy there {2:0} to {3:0}
+14211	1	NemesisMod::SimWord<Acquaintance.get_Name>		WORD {0} told {1}: {2} you know heard it, infamy {3:0} to {4:0}
+14212	1	NemesisMod::SimWord<Acquaintance.get_Name>		WORD {0} (fear {1}) told {2}: {3} you know heard it, infamy {4:0} -> {5:0}
+14213	1	NemesisMod::TrySkirmish<Entity.get_Position>		 - distant, {0:0} m off
+14214	1	NemesisMod::TrySkirmish<Entity.get_Position>		WAR gunfire, far off to the 
+14215	2	NemesisMod::TrySkirmish<String.Concat> ; NemesisMod::TrySkirmish<String.Concat>		SKIRMISH 
+14216	1	NemesisMod::TrySkirmish<String.Concat>		 are at each other's throats.
+14217	1	NemesisMod::ChronicleSkirmish<String.Concat>	Neither side	Neither side came out ahead.
+14218	2	NemesisMod::ChronicleSkirmish<String.Concat> ; NemesisMod::ChronicleSkirmish<String.Concat>		 held the field.
+14219	1	NemesisMod::ChronicleSkirmish<String.Concat>		 fought
+14220	1	NemesisMod::ChronicleSkirmish<String.Concat>		Gunfire in the distance: the 
+14221	1	NemesisMod::SpawnSide<String.Format>		skirmish spawn {0} {1}/{2}
+14222	1	NemesisMod::SpawnSide<String.Format>		SKIRMISH {0}: {1} of {2} men spawned
+14223	1	NemesisMod::HeatTheDistantBattle<String.Format>		SKIRMISH distant: heat {0} - no riflemen, {1} explosion(s) to come
+14224	1	NemesisMod::HeatTheDistantBattle<String.Format>		SKIRMISH distant: heat {0} - {1} rifleman a side, {2} explosion(s) to come
+14225	2	NemesisMod::DistantBooms<NemesisMod.ModExplosion> ; NemesisMod::DistantBooms<NemesisMod.QueueVolley>		skirmish explosion
+14226	1	NemesisMod::TurnSide<String.Format>		, a distant battle
+14227	1	NemesisMod::UpdateSkirmish<String.Format>		SKIRMISH distant: the {0} ({1}) are there too - fighting
+14228	1	NemesisMod::UpdateSkirmish<String.Format>		one side is down
+14229	1	NemesisMod::UpdateSkirmish<String.Format>		time up
+14230	1	NemesisMod::SendBountyHunters<NemesisRecord.get_FullName>		Bounty hunters on your trail - paid for by 
+14231	1	NemesisMod::SendBountyHunters<NemesisRecord.get_Name>		HUNTERS x{0} hired by {1} (rich {2}, fear {3})
+14232	1	NemesisMod::UpdateHunters<NemesisRecord.get_Name>		 sent by 
+14233	1	NemesisMod::UpdateHunters<String.Concat>	You 	You killed a bounty hunter
+14234	1	NemesisMod::UpdateHunters<NemesisMod.PartFor>		hired the posse
+14235	1	NemesisMod::get_Chronicle<Gangs.get_Era>		EPILOGUE this world is in {0}: {1} outfits ride
+14236	1	NemesisMod::KeepBadFile<String.Concat>		 - kept as .bad
+14237	1	NemesisMod::KeepBadFile<String.Concat>		.bad-*
+14238	1	NemesisMod::KeepBadFile<DateTime.get_Now>		.bad-{0:yyyyMMdd-HHmmss}
+14239	1	NemesisMod::PruneSideCopies<String.Format>		LOAD removed {0} old side copies (.before-update / .unreadable / .bad / .before-restore)
+14240	1	NemesisMod::UpdateWorldSim<String.Format>		 - {0} named men dead
+14241	1	NemesisMod::NextWorldEventText<String.Format>		{0}m
+14242	1	NemesisMod::NextWorldEventText<String.Format>		{0}h {1:00}m
+14243	1	NemesisMod::RunWorldEventAt<WorldEvent.get_UnnamedDead>		 | unnamed dead 
+14244	1	NemesisMod::RunWorldEventAt<WorldEvent.get_Heard>		 | heard {0}
+14245	1	NemesisMod::RunWorldEventAt<WorldEvent.get_Title>		Rivals
+14246	3	NemesisMod::RunWorldEventAt<WorldEvent.get_Title> ; RosterMenu::DrawFactionBar<Enumerable.Concat>		Van der Linde
+14247	1	NemesisMod::RunWorldEventAt<String.Concat>		 dead.
+14248	1	NemesisMod::ChronicleWitness<String.Concat>		WORLD WITNESSED: 
+14249	1	NemesisMod::ChronicleRanks<String.Concat>		 shook up their ranks
+14250	1	NemesisMod::SimClash<String.Concat>		 - the war goes on
+14251	2	NemesisMod::SimClash<String.Concat> ; NemesisMod::SimClash<String.Concat>		 rode with the 
+14252	1	NemesisMod::SimClash<String.Concat>		 carried the day.
+14253	1	NemesisMod::SimClash<NemesisMod.BeginTakeover>		overran it
+14254	1	NemesisMod::SimClash<CampSite.get_Label>		 will hold 
+14255	1	NemesisMod::SimClash<String.Concat>		 once they've settled in.
+14256	1	NemesisMod::SimClash<CampSite.get_Label>	The 	The camp was overrun - nobody holds 
+14257	1	NemesisMod::SimClash<NemesisRecord.get_Gang>		lost the fight with the 
+14258	1	NemesisMod::SimClash<NemesisRecord.get_Gang>		won the fight with the 
+14259	1	NemesisMod::ResolveFighter<WorldPart.set_Note>		ran when it turned
+14260	1	NemesisMod::ResolveFighter<WorldPart.set_Note>		ran before it was over
+14261	3	NemesisMod::ResolveFighter<WorldEvent.get_Place> ; NemesisMod::ResolveFighter<WorldEvent.get_Place>		ran from 
+14262	2	NemesisMod::ResolveFighter<WorldEvent.get_Place> ; Mind::Felt<ret>		Ashamed
+14263	1	NemesisMod::ResolveFighter<String.Concat>		 when the fight turned
+14264	2	NemesisMod::ResolveFighter<WorldPart.set_Note> ; NemesisMod::SimFeud<WorldPart.set_Note>		came out on top
+14265	1	NemesisMod::ResolveFighter<WorldPart.set_Note>		dropped two of them himself
+14266	1	NemesisMod::ResolveFighter<WorldEvent.get_Place>		fought well against 
+14267	2	NemesisMod::ResolveFighter<WorldEvent.get_Place> ; NemesisMod::ResolveFighter<String.Concat>		DISTINGUISHED HIMSELF against 
+14268	1	NemesisMod::ResolveFighter<String.Concat>		lost
+14269	1	NemesisMod::ResolveFighter<String.Concat>		) - unhurt
+14270	1	NemesisMod::OffscreenWound<String.Concat>		, walks with a limp now
+14271	3	NemesisMod::OffscreenWound<String.Concat> ; NemesisMod::SimFeud<WorldPart.get_Note>	scar	scar: 
+14272	2	NemesisMod::OffscreenWound<WorldEvent.get_Place> ; NemesisMod::OffscreenWound<>		wounded by 
+14273	1	NemesisMod::OffscreenDeath<WorldPart.set_Note>	left	left for dead
+14274	1	NemesisMod::OffscreenDeath<WorldPart.set_Note>		bled out
+14275	1	NemesisMod::OffscreenDeath<WorldPart.set_Note>		shot through the head
+14276	1	NemesisMod::OffscreenDeath<WorldEvent.get_Place>		KILLED by 
+14277	1	NemesisMod::OffscreenGrief<String.Concat>		 - wants their blood
+14278	1	NemesisMod::SimFeud<String.Concat>		knives
+14279	1	NemesisMod::SimFeud<WorldPart.set_Note>		humiliated
+14280	1	NemesisMod::SimFeud<NemesisRecord.get_Name>		LOST A FIGHT to 
+14281	1	NemesisMod::SimFeud<NemesisRecord.get_Name>		BESTED 
+14282	1	NemesisMod::SimFeud<NemesisRecord.get_Name>		put 
+14283	1	NemesisMod::SimFeud<NemesisRecord.get_Name>		holds it against 
+14284	1	NemesisMod::SimBrawl<String.Concat>	the 	the last man standing
+14285	1	NemesisMod::SimBrawl<String.Concat>		 ran, bleeding
+14286	1	NemesisMod::SimBrawl<String.Concat>		 lies dead
+14287	1	NemesisMod::SimBrawl<WorldEvent.get_Place>		came out on top of a brawl 
+14288	1	NemesisMod::SimBrawl<WorldEvent.get_Place>		won a duel 
+14289	1	NemesisMod::SimBrawl<WorldEvent.get_Place>		WON A FIGHT
+14290	1	NemesisMod::SimBrawl<String.Concat>		spent a night in the 
+14291	1	NemesisMod::SimBrawl<String.Concat>		 jail
+14292	1	NemesisMod::ApplyLifeEffect<String.Format>	laid up	laid up {0}h
+14293	1	NemesisMod::ApplyLifeEffect<NemesisRecord.get_Children>		{0} {1} now
+14294	1	NemesisMod::ApplyLifeEffect<Random.Next>		a stray dog called 
+14295	1	NemesisMod::ApplyLifeEffect<NemesisRecord.get_Name>		his new friend 
+14296	1	NemesisMod::ApplyLifeEffect<NemesisRecord.get_Name>		BECAME FRIENDS with 
+14297	1	NemesisMod::ApplyLifeEffect<String.Concat>		's accusations
+14298	1	NemesisMod::ApplyLifeEffect<NemesisRecord.get_Name>		ACCUSED by 
+14299	2	NemesisMod::Dur<String.Format> ; RosterMenu::<DrawDetail>g__Left|180_14<Math.Max>		{0}h
+14300	2	NemesisMod::Dur<String.Format> ; RosterMenu::<DrawDetail>g__Left|180_14<String.Format>		{0}d
+14301	1	NemesisMod::ToggleMark<WorldEvent.get_Title>		Mark removed.
+14302	1	NemesisMod::ToggleMark<WorldEvent.get_Title>		Marked on your map: 
+14303	1	NemesisMod::UpdateAftermath<WorldEvent.get_Title>		Aftermath: 
+14304	1	NemesisMod::CycleMarkerLook<String.Concat>		MARKER look 
+14305	1	NemesisMod::SpawnAftermath<WorldEvent.get_Title>		AFTERMATH 
+14306	1	NemesisMod::SpawnAftermath<String.Concat>		: the camp (
+14307	1	NemesisMod::SpawnAftermath<String.Concat>		) streamed in for it, empty
+14308	2	NemesisMod::SpawnAftermath<WorldEvent.get_Title> ; NemesisMod::SpawnAftermath<WorldEvent.get_Title>		AFTERMATH {0} {1}: {2} bodies
+14309	1	NemesisMod::SpawnAftermath<WorldEvent.get_Title>	The 	The aftermath of it: 
+14310	1	NemesisMod::<AgendaLine>b__26_1<String.Concat>		none (seat open)
+14311	1	NemesisMod::<UpdateCalm>b__121_2<NemesisMod.WipeWorldAfterRespawn>		MISSION
+14312	1	NemesisMod::<.ctor>b__636_5<KeyCombo.Name>		SETUP menu key: 
+14313	1	NemesisMod::<.ctor>b__636_6<KeyCombo.Name>		, menu 
+14314	1	NemesisMod::<PollGamepad>g__PadOpen|1161_0<String.Concat>		MENU pad open blocked: 
+14315	1	NemesisMod::<RevealKin>g__Where|1652_0<NemesisRecord.get_Rank>		{0}, rank {1}
+14316	1	NemesisMod::<MenLine>b__1749_1<NemesisMod.MenOf>		{0} {1}/{2} (strength {3})
+14317	1	NemesisMod::<BuildPaper>g__Hour|1901_12<DateTime.get_Hour>		{0} o'clock{1}
+14318	1	NemesisMod::<BuildPaper>g__Hour|1901_12<String.Format>		 in the evening
+14319	1	NemesisMod::<BuildPaper>g__Hour|1901_12<String.Format>		 in the afternoon
+14320	1	NemesisMod::<BuildPaper>g__Hour|1901_12<String.Format>		 in the morning
+14321	1	NemesisMod::<DrawNewspaper>g__PosterAt|1930_4<NemesisMod.Pick>		DEAD OR ALIVE
+14322	1	NemesisMod::<DrawNewspaper>g__PosterAt|1930_4<NemesisMod.Pick>		FOR MURDER & ROBBERY
+14323	1	NemesisMod::<DrawNewspaper>g__PosterAt|1930_4<NemesisMod.Pick>		BY ORDER OF THE SHERIFF
+14324	1	NemesisMod::<DrawNewspaper>g__PosterAt|1930_4<String.Format>		${0} REWARD
+14325	1	NemesisMod::<DrawNewspaper>g__PosterAt|1930_4<NemesisMod.<DrawNewspaper>g__PT|1930_12>		APPLY TO ANY SHERIFF
+14326	1	NemesisMod::<DrawNewspaper>g__PosterAt|1930_4<NemesisMod.<DrawNewspaper>g__PT|1930_12>		NOTICE
+14327	1	NemesisMod::<DrawNewspaper>g__PosterAt|1930_4<NemesisMod.<DrawNewspaper>g__PT|1930_12>		TO TRAVELLERS
+14328	1	NemesisMod::<SandboxLine>b__2553_1<NemesisMod.TerritoryShare>		{0} {1:0}% ground {2:0}% men (recruits {3:0}%)
+14329	1	NemesisMod::<SandboxLine>b__2553_1<String.Concat>		 FINISHED
+14330	1	NemesisMod::<FlushSaves>b__2638_0<NemesisMod.FinishSlices>	the 	the pause menu
+14331	1	NemesisMod::<FlushSaves>b__2638_0<String.Concat>		SAVE roster write failed (tried again on the next pass): 
+14332	1	NemesisMod::<FlushSaves>b__2638_0<NemesisMod.NoteSaveTime>		xray log
+14333	1	NemesisMod::<UpdateUnease>b__3352_2<String.Format>		 (left)
+14334	1	NemesisMod::<ImportTales>b__529_4<Enumerable.DefaultIfEmpty>	the 	the backcountry
+14335	1	NemesisMod::<BuildOptions>b__541_2<String.Concat>		(x)
+14336	1	NemesisMod::<RunWorldEventAt>b__3749_1<String.Concat>		 (lived)
+14337	1	NemesisMod::<LoadFactions>b__1<String.Concat>		CONTENT factions.json 
+14338	1	NemesisMod::<GroupGreet>b__1<String.Concat>		my brother 
+14339	1	NemesisMod::<GroupGreet>b__1<String.Concat>		my sister 
+14340	1	NemesisMod::<FixSoldierNames>g__Fix|0<String.Concat>		NAMING soldier rename 
+14341	1	NemesisMod::<SpawnPatrolMen>g__One|3<NemesisMod.GetZoneName>		ON PATROL near 
+14342	1	NemesisMod::<SpawnPatrolMen>g__One|3<String.Concat>		: a rider coming on behind didn't spawn
+14343	1	NemesisMod::<UpdatePlans>b__4<Plan.get_Kind>		{0} {1} {2} {3:0} m{4}
+14344	1	NemesisMod::<UpdatePlans>b__4<String.Format>		 LIE
+14345	1	NemesisMod::<CheckSlotWritten>b__3<String.Concat>		 couldn't be read - it goes by the clock only
+14346	1	NemesisMod::<RunSelfChecks>b__3<NemesisRecord.get_Name>		, but its holder 
+14347	1	NemesisMod::<RunSelfChecks>b__3<String.Concat>		 isn't marked as known
+14348	1	NemesisMod::<RunSelfChecks>b__4<Enumerable.First>		 is known (
+14349	1	NemesisMod::<RunSelfChecks>b__4<String.Concat>		) but has no marker
+14350	1	NemesisMod::<RunSelfChecks>b__4<Enumerable.First>		" (held by 
+14351	1	NemesisMod::<RunSelfChecks>b__4<CampSite.get_Label>		 cache at 
+14352	2	NemesisMod::<RunSelfChecks>b__4<String.Concat> ; NemesisMod::<RunSelfChecks>b__4<String.Concat>		 is known but has no marker
+14353	1	NemesisMod::<RunSelfChecks>b__4<CampSite.get_Label>		 treasury at 
+14354	1	NemesisMod::<RunSelfChecks>b__5<Plan.get_DueAt>		" was due 
+14355	1	NemesisMod::<RunSelfChecks>b__5<String.Concat>		 and never resolved
+14356	1	NemesisMod::<RunSelfChecks>b__5<Plan.get_Title>	the 	the funeral "
+14357	1	NemesisMod::<RunSelfChecks>b__5<NemesisRecord.get_Name>		" is led by 
+14358	2	NemesisMod::<RunSelfChecks>b__5<String.Concat> ; NemesisMod::<RunSelfChecks>b__6<String.Concat>		, who's dead
+14359	1	NemesisMod::<RunSelfChecks>b__6<Enumerable.Count>		{0} living men are called {1}
+14360	1	NemesisMod::<RunSelfChecks>b__6<NemesisRecord.get_Name>		 leader's seat is held by 
+14361	1	NemesisMod::<RunSelfChecks>b__7<Camps.ById>		camp props at 
+14362	2	NemesisMod::<RunSelfChecks>b__7<String.Concat> ; NemesisMod::<RunSelfChecks>b__7<String.Concat>		 with no camp
+14363	1	NemesisMod::<RunSelfChecks>b__7<Camps.ById>		camp stores at 
+14364	1	NemesisMod::<RunSelfChecks>b__8<CampSite.get_Label>		a live camp of the 
+14365	1	NemesisMod::<RunSelfChecks>b__8<CampSite.get_Label>		 (not of this era) at 
+14366	1	NemesisMod::<SpawnItems>b__66<NemesisMod.ShowNotification>		enRAGE: you're not in a town.
+14367	1	NemesisMod::<SpawnItems>b__19<NemesisMod.ShowNotification>		enRAGE: a saloon fight in the next bar you walk up to or into.
+14368	1	NemesisMod::<SpawnItems>b__31<String.Concat>		with their men
+14369	1	NemesisMod::<SpawnItems>b__31<String.Concat>		props only
+14370	1	NemesisMod::<RunSuccession>b__15<Enumerable.Count>		{0} new {1}
+14371	1	NemesisMod::<OnTick>b__9<NemesisMod.QuietPrompts>	the 	the world went quiet
+14372	1	NemesisMod::<OnTick>b__43<String.Concat>		 slipped away. He'll remember this.
+14373	1	NemesisMod::<OnTick>b__43<NemesisRecord.get_Hate>		you knocked him out cold - hate {0} -> {1}, fear {2} -> {3}
+14374	1	NemesisMod::<OnTick>b__44<String.Concat>		 is already hunting you.
+14375	1	NemesisMod::<OnTick>b__44<String.Concat>		 can't ride after anyone anymore.
+14376	1	NemesisMod::<OnTick>b__44<NemesisMod.ShowNotification>		No nemesis left who can come after you. Go lose a gunfight.
+14377	1	NemesisMod::<OnTick>b__44<NemesisMod.ShowNotification>		Not now - the world is settling (fade, load, menu or no control).
+14378	1	NemesisMod::<OnTick>b__59<NemesisMod.EndConvo>		interrupted
+14379	1	NemesisMod::<OnTick>b__69<NemesisMod.ShowNotification>		No room for a patrol here.
+14380	1	NemesisMod::<OnTick>b__69<NemesisMod.ShowNotification>		No camp is live near you - ride within 170 m of one first.
+14381	2	NemesisMod::<OnAborted>g__Step|0<String.Concat> ; NemesisMod::<OnAborted>g__Step|0<>		abort step 
+14382	1	NemesisMod::<OnAborted>g__Step|0<Exception.GetType>		 failed: 
+14383	2	NemesisMod::<OnAborted>b__6<NemesisMod.EndRival> ; NemesisMod::<OnAborted>b__16<NemesisMod.QuietPrompts>		abort
+14384	1	NemesisMod/<CardReportLines>d__322::MoveNext<String.Concat>		cards for 
+14385	1	NemesisMod/<CardReportLines>d__322::MoveNext<String.Concat>		  -  no: 
+14386	1	NemesisMod/<PatrolLines>d__2051::MoveNext<String.Concat>		PATROL
+14387	1	NemesisMod/<PatrolLines>d__2051::MoveNext<String.Concat>		PATROL (responding)
+14388	1	NemesisMod/<PatrolLines>d__2051::MoveNext<String.Concat>		RAID on 
+14389	1	NemesisMod/<PatrolLines>d__2051::MoveNext<Game.get_GameTime>		watching you, {0} s more
+14390	1	NemesisMod/<PatrolLines>d__2051::MoveNext<Entity.get_Position>		marching, {0:0} m to go
+14391	1	NemesisMod/<PatrolLines>d__2051::MoveNext<String.ToUpperInvariant>		NOW {0} {1}: {2} {3} ({4}) - {5} - {6}{7}
+14392	1	NemesisMod/<PatrolLines>d__2051::MoveNext<Entity.get_Position>		slow
+14393	1	NemesisMod/<PatrolLines>d__2051::MoveNext<Entity.get_Position>		fast
+14394	1	NemesisMod/<PatrolLines>d__2051::MoveNext<String.Format>		 - AFTER YOU
+14395	1	NemesisMod/<PeopleNearLines>d__2315::MoveNext<NemesisRecord.get_Name>		{0} {1:0}m - NEMESIS {2}, hate {3}, fear {4}
+14396	1	NemesisMod/<PeopleNearLines>d__2315::MoveNext<String.Format>		 | uneasy {0:0}
+14397	1	NemesisMod/<RecentRepLines>d__2316::MoveNext<String.Concat>		m
+14398	1	NemesisMod/<ReputationLines>d__2314::MoveNext<NemesisMod.RepWord>		REPUTATION {0:+0;-0;0} ({1}) - bounty ${2} (law part {3}){4}
+14399	1	NemesisMod/<ReputationLines>d__2314::MoveNext<String.Format>		 - the law is after you
+14400	1	NemesisMod/<ReputationLines>d__2314::MoveNext<String.Concat>		notoriety: 
+14401	1	NemesisMod/<ReputationLines>d__2314::MoveNext<String.Concat>		nobody talks about you
+14402	1	NemesisMod/<ReputationLines>d__2314::MoveNext<NemesisMod.get_People>		{0} told the law, {1} kept quiet, {2} dead
+14403	1	Downed::Saw<String.Format>		FINISHED ped={0} undone - he's up again (kicked, not killed)
+14404	1	Downed::Hit<String.Format>		FINISHED ped={0} ({1})
+14405	1	Downed::KickedToDeath<String.Format>		FINISHED ped={0} (kicked to death while he lay there - presumed dead)
+14406	1	Holdings::Check<String.Concat>		 supplies are at a site that doesn't exist (
+14407	2	Holdings::Check<CampSite.get_Label> ; Holdings::Check<CampSite.get_Label>		 supplies are at 
+14408	1	Holdings::Check<String.Concat>		, which nobody holds, and it isn't a cache
+14409	1	Holdings::Check<CampSite.get_Label>		 supplies and money are both at 
+14410	1	Holdings::Check<String.Concat>		, in town
+14411	1	Holdings::Check<String.Concat>		 money is at a site that doesn't exist (
+14412	1	Holdings::Check<CampSite.get_Label>		 money is at 
+14413	1	Holdings::Check<String.Concat>		, which nobody holds, and it isn't a stash
+14414	1	Holdings::Check<String.Concat>		 stash and cache have the same keeper
+14415	1	Holdings::Check<Gangs.ById>		a cache for the 
+14416	1	Holdings::Check<String.Concat>		 with no supply site
+14417	1	Holdings::Check<Gangs.ById>		a stash for the 
+14418	1	Holdings::Check<String.Concat>		 with no treasury site
+14419	1	Holdings::Check<String.Concat>		supplies known for the 
+14420	1	Holdings::Check<String.Concat>		, who hold no camps
+14421	1	Holdings::Check<CampSite.get_Label>		 supplies moved to 
+14422	1	Holdings::From<String.Concat>		the
+14423	1	Holdings::From<String.Concat>		their
+14424	1	Holdings::PlaceTreasuries<CampSite.get_Label>		: refilled at 
+14425	1	Holdings::PlaceTreasuries<CampSite.get_Label>		: nobody holds 
+14426	1	Holdings::PlaceTreasuries<String.Concat>		 - the money you know of stays there, a stash now
+14427	1	Holdings::PlaceTreasuries<String.Format>		 - they took ${0}
+14428	1	Holdings::PlaceTreasuries<String.Concat>		. Nobody knows where it went.
+14429	1	Holdings::PlaceTreasuries<String.Concat>		: no manned camp to keep their money in - none for now
+14430	1	Holdings::PlaceTreasuries<String.Concat>		 - still empty from your robbery
+14431	2	Holdings::PlaceTreasuries<NemesisRecord.get_Name> ; Holdings::PlaceSupplies<NemesisRecord.get_Name>		, held by 
+14432	1	Holdings::PlaceStash<CampSite.get_Label>		: their stash at 
+14433	2	Holdings::PlaceStash<NemesisRecord.get_Name> ; Holdings::PlaceSupplyCache<NemesisRecord.get_Name>		 is 
+14434	1	Holdings::PlaceStash<String.Concat>		's camp now - the money stays
+14435	1	Holdings::PlaceStash<CampSite.get_Label>		TREASURY {0}: back on their feet ({1} camps) - the money leaves the stash at {2} for a camp
+14436	1	Holdings::PlaceStash<String.Concat>		 refilled
+14437	1	Holdings::PlaceStash<String.Concat>		was robbed
+14438	1	Holdings::PlaceStash<String.Concat>		is gone
+14439	1	Holdings::PlaceStash<String.Concat>		 - nowhere out of the way for another; a camp will do
+14440	1	Holdings::PlaceStash<CampSite.get_Label>		: the stash moved from 
+14441	1	Holdings::PlaceStash<String.Concat>		after you robbed it
+14442	1	Holdings::PlaceStash<String.Concat>	the 	the old one was lost
+14443	1	Holdings::PlaceSupplies<String.Concat>		 is in town - their supplies move out of it
+14444	1	Holdings::PlaceSupplies<CampSite.get_Label>		: you wrecked their supplies at 
+14445	1	Holdings::PlaceSupplies<String.Concat>		 (now: its keeper's gone / it was a cache / wiped out)
+14446	1	Holdings::PlaceSupplies<Holdings.From>		 have moved what's left of their supplies out of 
+14447	1	Holdings::PlaceSupplies<CampSite.get_Label>		you wiped out
+14448	1	Holdings::PlaceSupplies<CampSite.get_Label>		another outfit is taking
+14449	1	Holdings::PlaceSupplies<String.Concat>		 - their supplies go to another camp
+14450	1	Holdings::PlaceSupplies<Holdings.From>		 have pulled their supplies out of 
+14451	1	Holdings::PlaceSupplies<String.Concat>		: no manned camp for their supplies - none for now
+14452	1	Holdings::PlaceSupplies<CampSite.get_Label>		: their supplies at 
+14453	1	Holdings::PlaceSupplies<IHoldingsWorld.Holder>		 (moved)
+14454	1	Holdings::PlaceSupplyCache<CampSite.get_Label>		SUPPLY {0}: no manned camp left - their supplies stay at {1}, a cache (nobody keeps it for {2} hours){3}
+14455	1	Holdings::PlaceSupplyCache<String.Format>		 - you know it
+14456	2	Holdings::PlaceSupplyCache<CampSite.get_Label> ; Holdings::PlaceSupplyCache<CampSite.get_Label>		: the cache at 
+14457	1	Holdings::PlaceSupplyCache<String.Concat>		's camp now - a supply camp again
+14458	1	Holdings::PlaceSupplyCache<String.Concat>		 is lost with the site
+14459	1	Holdings::PlaceSupplyCache<CampSite.get_Label>		: a manned camp again - the supplies leave the cache at 
+14460	2	IniPanel::Capture<String.Concat> ; IniPanel::HandleKey<String.Concat>		: unchanged
+14461	1	IniPanel::Capture<String.Format>		{0} takes one key - {1} it is
+14462	1	IniPanel::Write<String.Concat>		 moved - reopen the panel
+14463	1	IniPanel::Write<String.Concat>		: the mod kept 
+14464	1	IniPanel::Write<String.Concat>		 (out of range?)
+14465	1	IniPanel::Write<String.Concat>		  (applied)
+14466	1	IniPanel::HandleKey<String.Concat>		 (a combination works: hold Shift / Ctrl / Alt)
+14467	1	IniPanel::HandleKey<String.Concat>		 - Escape cancels
+14468	1	IniPanel::HandleKey<String.Concat>		 is text - edit it in NemesisMod.ini
+14469	1	IniPanel::HandleKey<String.Concat>		Enter, then press the new key for 
+14470	1	IniPanel::Draw<UiDraw.Text>		NemesisMod.ini - changes apply at once
+14471	1	IniPanel::Draw<UiDraw.Text>		Could not read NemesisMod.ini.
+14472	2	IniPanel::Draw<String.Concat> ; IniPanel::Draw<String.Concat>		Q  
+14473	1	IniPanel::Draw<String.Concat>		     E  
+14474	1	InterroLines::Pick<InterroLines.<Pick>g__Short|5_3>		Colm's
+14475	1	KeyCombo::Problem<String.Format>		{0} closes things - pick another key
+14476	1	KeyCombo::Problem<String.Concat>		 is the encounter spawner's - pick another
+14477	1	KeyCombo::Problem<String.Format>		{0} is used in play and in the menus, even with Shift / Ctrl / Alt - pick another
+14478	1	KeyCombo::Problem<String.Concat>		 belongs to Windows - pick another
+14479	1	KeyCombo::Problem<String.Format>		{0} on its own is used in play or in the menus - an F-key, a numpad key, or hold Shift / Ctrl / Alt with it
+14480	2	KeyCombo::Problem<String.Format> ; KeyCombo::Problem<String.Format>		{0} is the {1} key - pick another
+14481	1	KeyCombo::Problem<String.Format>		{0} is used in play and in the menus - pick another
+14482	1	KeyCombo::Problem<String.Format>		{0} is the menu key
+14483	1	Loadout::ShiftWhy<String.Format>		luck {0:+0;-0}
+14484	7	Loadout::For<Loadout.TradeHas> ; StoryGang::Build<>		cook
+14485	3	Loadout::Describe<String.Concat> ; Loadout::Describe<String.Concat>		carries 
+14486	1	Mind::InitGoals<Goal.set_Text>		settle it with you, for good
+14487	1	Mind::InitGoals<Goal.set_Text>		prove himself - best you, in front of everyone
+14488	1	Mind::InitGoals<String.Concat>		climb the ranks of the 
+14489	1	Mind::InitGoals<Goal.set_Text>		a big score, one he can retire on
+14490	1	Mind::InitGoals<Goal.set_Text>		get out of this life, back to his family
+14491	1	Mind::InitGoals<Goal.set_Text>		keep his kin alive
+14492	1	Mind::Drift<Goal.set_Text>		make you pay for what you did
+14493	1	Mind::Drift<Goal.set_Text>		make you pay for who you took
+14494	1	Mind::TalkBias<Mind.F>		loyalty {0:+0;-0;0}
+14495	1	Mind::TalkBias<NemesisRecord.get_Stress>		stress {0:+0;-0;0}
+14496	1	Mind::TalkBias<Mind.V>		gang {0:+0;-0;0}
+14497	1	XPad::NoteSlow<String.Format>		up
+14498	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you shot him in 
+14499	1	NemesisRecord::get_GrudgeSummary<String.Concat>		 and left him breathing
+14500	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_Gang>		rides with the 
+14501	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you knocked him out in 
+14502	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you robbed him in 
+14503	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you stole his horse in 
+14504	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you stole his wagon in 
+14505	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you hogtied him and hauled him off in 
+14506	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you killed his horse in 
+14507	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you cut him in 
+14508	1	NemesisRecord::get_GrudgeSummary<String.Concat>		 and left him bleeding
+14509	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you beat him bloody in 
+14510	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you mouthed off to him in 
+14511	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you stuck him up in 
+14512	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		he lived through a gunfight with you in 
+14513	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you killed his friend in front of him in 
+14514	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		you greeted him in 
+14515	1	NemesisRecord::get_GrudgeSummary<NemesisRecord.get_KillLocation>		he killed you in 
+14516	2	NemesisSettings::Load<IniFile.GetValue> ; BulletImpact.BulletImpactSettings::.ctor<IniFile.GetValue>		Version
+14517	1	NemesisSettings::Save<NemesisSettings.WriteFailed>		your settings won't be kept
+14518	1	NemesisSettings::Save<StringBuilder.Append>		\r\n[
+14519	1	NemesisSettings::Save<StringBuilder.Append>		]\r\n
+14520	1	NemesisSettings::Save<NemesisSettings.WriteFailed>		notoriety and the outfits' bookkeeping won't be kept
+14521	1	NemesisSettings::WriteFailed<String.Concat>		 until it can be written (read-only? an antivirus such as Windows Defender's Controlled folder access?)
+14522	1	NemesisSettings::WriteFailed<String.Concat>		 can't be saved, so 
+14523	1	NemesisSettings::WriteFailed<String.Concat>		. Is the folder read-only, or blocked by your antivirus? (grudges.log: SAVE)
+14524	1	NemesisSettings::WriteWorked<String.Concat>		 written again
+14525	1	NemesisSettings::<Layout>b__214_581<String.Format>		Messages={0}
+14526	1	NemesisSettings::<Layout>b__214_912<String.Format>		Version={0}
+14527	1	NemesisSettings::<Layout>b__214_913<NemesisSettings.F>		Encounters=
+14528	1	Questions::.cctor<QuestionRow.set_Id>		what-orders
+14529	1	Questions::.cctor<QuestionRow.set_Text>		"What are your orders? What's the outfit planning?"
+14530	1	Questions::.cctor<QuestionRow.set_Id>		what-wants
+14531	1	Questions::.cctor<QuestionRow.set_Text>		"What are you after, really?"
+14532	1	Questions::.cctor<QuestionRow.set_Id>		what-boss
+14533	1	Questions::.cctor<QuestionRow.set_Text>		"What kind of man is your boss?"
+14534	1	Questions::.cctor<QuestionRow.set_Text>		"When can I catch your boss? Where?"
+14535	1	Questions::.cctor<QuestionRow.set_Requires>		gang&boss
+14536	1	Questions::.cctor<QuestionRow.set_Text>		"What's going on in the outfit? Anything coming?"
+14537	1	Questions::.cctor<QuestionRow.set_Requires>		gang&news
+14538	1	Questions::.cctor<QuestionRow.set_Text>		"Where's your boss holed up? Talk."
+14539	1	Questions::.cctor<QuestionRow.set_Text>		"Where do they keep the money? The guns and feed?"
+14540	1	Questions::.cctor<QuestionRow.set_Requires>		gang&named
+14541	1	Questions::.cctor<QuestionRow.set_Text>		"Your family. Your friends. Where are they?"
+14542	1	Questions::.cctor<QuestionRow.set_Id>		why-past
+14543	1	Questions::.cctor<QuestionRow.set_Text>		"Why do you ride with these men?"
+14544	1	Questions::.cctor<QuestionRow.set_Id>		why-grudge
+14545	1	Questions::.cctor<QuestionRow.set_Text>		"Who wants me dead the most? Why?"
+14546	1	Questions::.cctor<QuestionRow.set_Text>		"Give me one reason to let you live."
+14547	1	RosterMenu::DrawCrimeSheet<RosterMenu.<DrawCrimeSheet>g__Sec|1_2>		IN THE WORLD
+14548	1	RosterMenu::DrawCrimeSheet<RosterMenu.<DrawCrimeSheet>g__Sec|1_2>		NAMED DEAD
+14549	2	RosterMenu::DrawCrimeSheet<String.Format> ; BulletImpact.XRayViewer::InjuryList<List`1.get_Count>		+{0} MORE
+14550	1	RosterMenu::DrawCrimeSheet<RosterMenu.<DrawCrimeSheet>g__Sec|1_2>		BY TOWN
+14551	1	RosterMenu::DrawFactionBar<Theme.NoteBand>		Your own gang, as the story has it - their lives and minds on each page. Nobody here will come for you.
+14552	2	RosterMenu::DrawFactionBar<Theme.GroundRow> ; Theme::GroundRow<String.Format>		No ground of their own
+14553	1	RosterMenu::DrawFactionBar<Theme.GroundRow>		Finished - no ground left
+14554	1	RosterMenu::DrawFactionBar<Theme.NoteBand>		No notoriety here - each of these men holds his own grudge.
+14555	1	RosterMenu::BuildRows<Row..ctor>		One of the Boys
+14556	1	RosterMenu::DrawUnaffiliatedList<RosterMenu.DrawHeader>		Lone men with a grudge - no gang, no chain of command
+14557	1	RosterMenu::DrawUnaffiliatedList<UiDraw.Text>		Nobody you know by name yet. Greet people to learn their names.
+14558	1	RosterMenu::DrawUnaffiliatedList<String.Concat>		, limps
+14559	1	RosterMenu::DrawUnaffiliatedList<NemesisRecord.get_RestUntil>		Lying low - {0}h
+14560	1	RosterMenu::SeenText<String.Format>		1 day ago
+14561	1	RosterMenu::DrawPersonRow<Acquaintance.get_Grudge>		no grudge
+14562	2	RosterMenu::DrawPersonRow<Acquaintance.get_Grudge> ; RosterMenu::PersonLine<Acquaintance.get_Grudge>		grudge {0}
+14563	1	RosterMenu::DrawPersonRow<Acquaintance.get_Dead>		Around you
+14564	1	RosterMenu::DrawPersonRow<Acquaintance.get_Dead>		Met - around you
+14565	1	RosterMenu::PersonLine<Acquaintance.get_Fear>		afraid of you ({0}){1}
+14566	1	RosterMenu::PersonLine<Acquaintance.get_Like>		likes you ({0})
+14567	1	RosterMenu::PersonLine<Acquaintance.get_Favours>		{0} favour{1}: {2}
+14568	1	RosterMenu::PersonLine<Acquaintance.get_TimesSeen>		seen {0} times
+14569	1	RosterMenu::DrawHierarchy<Math.Round>		  -  zoom {0}%
+14570	1	RosterMenu::DrawHierarchy<String.Concat>		Hierarchy under 
+14571	1	RosterMenu::DrawHierarchy<RosterMenu.AccentOf>		No leader - the seat is open
+14572	1	RosterMenu::DrawHierarchy<RosterMenu.AccentOf>		Hierarchy  -  coming soon
+14573	1	RosterMenu::DrawHierarchy<String.Concat>		 hierarchy is coming: their ranks will rise, fall and shift on their own. Nobody has joined yet.
+14574	1	RosterMenu::DrawHierarchy<String.Concat>		Nobody of the 
+14575	1	RosterMenu::DrawHierarchy<String.Concat>		 has crossed you yet. Kill one - or let one kill you - and he takes his place here.
+14576	1	RosterMenu::DrawHierarchy<UiDraw.get_LastFrameSlots>		TEXT hierarchy {0}: last frame {1}/{2} slots, {3} texts cut, {4} rects ({5} before the cards) - now {6} used before the cards, {7} cards shown, lean{8}{9}{10}
+14577	1	RosterMenu::DrawHierarchy<String.Format>		 names
+14578	2	RosterMenu::DrawRow<Theme.MixedWidth> ; RosterMenu::DrawRow<Theme.MixedWidth>		None yet
+14579	1	RosterMenu::DrawCard<RosterMenu.T>		PARALYZED
+14580	1	RosterMenu::DrawDetail<RosterMenu.get_UsingPad>		Scroll
+14581	1	RosterMenu::DrawDetail<RosterMenu.get_NextViewName>		Arrows  Navigate     Enter  Select     Q/E  Prev/Next     R  
+14582	1	RosterMenu::DrawDetail<String.Concat>		     PgUp/PgDn  
+14583	1	RosterMenu::DrawDetail<String.Concat>		     Backspace  Back
+14584	1	RosterMenu::DrawDetail<RosterMenu.get_NextViewName>		D-pad  Navigate     A  Select     LB/RB  Prev/Next     Y  
+14585	1	RosterMenu::DrawDetail<String.Concat>		     LT/RT  
+14586	1	RosterMenu::DrawDetail<String.Concat>		     B  Back
+14587	2	RosterMenu::DrawDetail<NemesisRecord.get_Title> ; RosterMenu::DrawDetail<NemesisRecord.get_Title>		ROLE
+14588	1	RosterMenu::DrawDetail<PastEntry.get_Year>		SINCE
+14589	1	RosterMenu::DrawDetail<NemesisMod.GameYear>		{0} (born {1})
+14590	1	RosterMenu::DrawDetail<NemesisMod.RegardWord>		TOWARD YOU
+14591	1	RosterMenu::DrawDetail<NemesisMod.get_RegardChapter>		chapter {0}: the story has him at {1}{2},  your doing {3}{4}
+14592	1	RosterMenu::DrawDetail<Acquaintance.get_Dead>	You 	You know him by sight
+14593	1	RosterMenu::DrawDetail<Acquaintance.get_Dead>	You 	You know her by sight
+14594	1	RosterMenu::DrawDetail<Acquaintance.get_LastGameMin>		  -  last seen {0} {1}
+14595	1	RosterMenu::DrawDetail<Acquaintance.get_TimesSeen>		seen {0} time{1}{2}
+14596	1	RosterMenu::DrawDetail<Acquaintance.get_Note>		NOTE
+14597	1	RosterMenu::DrawDetail<Acquaintance.get_Affil>		RUNS WITH
+14598	1	RosterMenu::DrawDetail<Acquaintance.get_Affil>		friendly with the 
+14599	1	RosterMenu::DrawDetail<String.Concat>		 (debug)
+14600	1	RosterMenu::DrawDetail<Acquaintance.get_Grudge>		MILD
+14601	1	RosterMenu::DrawDetail<Acquaintance.get_Grudge>		SORE
+14602	1	RosterMenu::DrawDetail<Acquaintance.get_Grudge>		BITTER
+14603	1	RosterMenu::DrawDetail<Acquaintance.get_Like>		A LITTLE
+14604	1	RosterMenu::DrawDetail<Acquaintance.get_Witnessed>		HEARD
+14605	1	RosterMenu::DrawDetail<Acquaintance.get_Witnessed>		SAW YOU
+14606	1	RosterMenu::DrawDetail<NemesisRecord.get_RankXp>		next rank {0}/{1}
+14607	1	RosterMenu::DrawDetail<NemesisMod.CampLine>		RIDES WITH
+14608	1	RosterMenu::DrawDetail<NemesisRecord.get_RestUntil>		LYING LOW {0}H
+14609	1	RosterMenu::DrawDetail<Theme.Chip>		LIMP
+14610	1	RosterMenu::DrawDetail<Thought.get_Mood>		MOOD
+14611	1	RosterMenu::DrawDetail<Loadout.BladeAt>		blade at {0}, gun at {1}  ({2})  -  hate gains x{3:0.00}
+14612	1	RosterMenu::DrawDetail<NemesisMod.RoamText>		REACH
+14613	1	RosterMenu::DrawDetail<RosterMenu.<DrawDetail>g__T|180_15>		KO'D
+14614	1	RosterMenu::DrawDetail<RosterMenu.<DrawDetail>g__T|180_15>		TIED UP
+14615	1	RosterMenu::DrawDetail<RosterMenu.<DrawDetail>g__T|180_15>		QUESTIONED
+14616	1	RosterMenu::DrawDetail<NemesisRecord.get_TimesAntagonized>		WORDS
+14617	1	RosterMenu::DrawDetail<NemesisRecord.get_TimesAntagonized>		antagonized {0}   greeted {1}
+14618	1	RosterMenu::DrawDetail<NemesisRecord.get_Fury>		   fury {0}/{1}
+14619	1	RosterMenu::DrawDetail<NemesisRecord.get_Skills>		SKILLS
+14620	1	RosterMenu::DrawDetail<NemesisRecord.get_LiedToYou>		WITH YOU
+14621	1	RosterMenu::DrawDetail<NemesisRecord.get_LiedToYou>		lied to you {0}x
+14622	1	RosterMenu::DrawDetail<NemesisRecord.get_OwesYou>		your informer
+14623	1	RosterMenu::DrawDetail<String.get_Chars>		HABITS
+14624	1	RosterMenu::DrawDetail<NemesisRecord.get_BornYear>		{0}, {1}  -  age {2}
+14625	1	RosterMenu::DrawDetail<NemesisMod.GameYear>		who knows where
+14626	1	RosterMenu::DrawDetail<NemesisRecord.get_Trade>		Working man
+14627	1	RosterMenu::DrawDetail<NemesisRecord.get_Trade>		Comfortable
+14628	1	RosterMenu::DrawDetail<NemesisRecord.get_Trade>		LIVING
+14629	1	RosterMenu::DrawDetail<NemesisRecord.get_Children>		Widower
+14630	1	RosterMenu::DrawDetail<NemesisRecord.get_Children>		Widow
+14631	1	RosterMenu::DrawDetail<NemesisRecord.get_Children>		Married
+14632	1	RosterMenu::DrawDetail<NemesisRecord.get_Children>		, no children
+14633	2	RosterMenu::DrawDetail<String.Concat> ; RosterMenu::DrawDetail<String.Concat>		 of
+14634	1	RosterMenu::DrawDetail<Enumerable.Take>		FRIENDS
+14635	1	RosterMenu::DrawDetail<NemesisRecord.get_Pet>		PET
+14636	1	RosterMenu::DrawDetail<String.Format>		history not drawn - no room (y {0:0.000}, bottom {1:0.000})
+14637	1	RosterMenu::DrawDetail<UiDraw.get_TextSlotsLeft>		history rows not drawn - 
+14638	1	RosterMenu::DrawDetail<UiDraw.get_TextSlotsLeft>		no room
+14639	1	RosterMenu::DrawDetail<UiDraw.get_TextSlotsLeft>		text budget ({0} slots left)
+14640	1	RosterMenu::DrawDetail<String.Format>		crimes
+14641	1	RosterMenu::PageNote<NemesisRecord.get_Name>		PAGE 
+14642	1	RosterMenu::DrawMind<Pron.Her>		Unknown - face him, or make him talk.
+14643	1	RosterMenu::DrawMind<NemesisRecord.get_Stress>		Stress {0}{1}
+14644	1	RosterMenu::DrawMind<String.Format>		 - steady
+14645	1	RosterMenu::DrawMind<String.Format>		 - strained
+14646	1	RosterMenu::DrawMind<String.Format>		 - on edge
+14647	1	RosterMenu::DrawMind<String.Format>		 - about to snap
+14648	1	RosterMenu::DrawMind<Pron.Her>		He wants something - make him talk to find out what.
+14649	1	RosterMenu::DrawMind<Tie.get_Strength>		 (dead)
+14650	1	RosterMenu::DrawMind<Memory.get_Text>		 - for good
+14651	1	RosterMenu::DrawMind<String.Format>		  (you)
+14652	1	RosterMenu::DrawResetPanel<RosterMenu.get_ResetFactionName>		Reset one faction:   
+14653	1	RosterMenu::DrawResetPanel<String.Concat>		   (Left / Right)
+14654	1	RosterMenu::DrawResetPanel<RosterMenu.get_ResetFactionName>		Reset 
+14655	1	RosterMenu::DrawResetPanel<String.Concat>		  -  press again to confirm
+14656	1	RosterMenu::DrawWorld<RosterMenu.DrawHeader>		What happens while you're away
+14657	1	RosterMenu::DrawWorld<String.Concat>		Up/Down  Navigate     PgUp/PgDn  Events     Q/E  Filter     N  World News: 
+14658	4	RosterMenu::DrawWorld<String.Concat> ; RosterMenu::DrawWorld<String.Concat>		     Backspace  Close
+14659	1	RosterMenu::DrawWorld<String.Concat>		D-pad  Navigate     LT/RT  Events     LB/RB  Filter     LS  World News: 
+14660	4	RosterMenu::DrawWorld<String.Concat> ; RosterMenu::DrawWorld<String.Concat>		     B  Close
+14661	2	RosterMenu::DrawWorld<NemesisMod.get_YouShort> ; RosterMenu::MainFooter<NemesisMod.get_YouShort>		     X  
+14662	1	RosterMenu::DrawWorld<String.Concat>		     Y  
+14663	1	RosterMenu::DrawWorld<String.Concat>		     LS  World News: 
+14664	1	RosterMenu::DrawWorld<NemesisMod.get_DebugOn>		     RS  Name Cards: 
+14665	1	RosterMenu::DrawWorld<String.Concat>		     LT  Event Now     LS  Reset
+14666	2	RosterMenu::DrawWorld<NemesisMod.get_YouShort> ; RosterMenu::MainFooter<NemesisMod.get_YouShort>		     A  
+14667	1	RosterMenu::DrawWorld<String.Concat>		     P  
+14668	1	RosterMenu::DrawWorld<NemesisMod.get_DebugOn>		     C  Name Cards: 
+14669	1	RosterMenu::DrawWorld<String.Concat>		     -  Event Now     Z  Reset
+14670	1	RosterMenu::DrawWorld<String.Concat>		Up/Down  Navigate     Enter  The People     Q/E  Filter
+14671	1	RosterMenu::DrawWorld<String.Concat>		D-pad  Navigate     A  The People     LB/RB  Filter
+14672	1	RosterMenu::DrawWorld<RosterMenu.DrawFooter>		D-pad  Navigate     A  Page     B  Back
+14673	1	RosterMenu::DrawWorld<KeyCombo.get_SettingsText>		World events are switched off in the settings (
+14674	1	RosterMenu::DrawWorld<String.Concat>		 - World - Events).
+14675	1	RosterMenu::DrawWorld<String.Format>		  -  {0} dead
+14676	1	RosterMenu::DrawWorld<String.Concat>		Unnamed dead:  
+14677	1	RosterMenu::DrawWorld<WorldEvent.get_Visited>	The 	The bodies are gone by now.
+14678	1	RosterMenu::DrawWorld<WorldEvent.get_Visited>	The 	The bodies still lie there - mark it to find it (a ? shows when you're near).
+14679	1	RosterMenu::DrawWorld<WorldEvent.get_Visited>		You've seen the aftermath.
+14680	1	RosterMenu::DrawWorld<String.Concat>		  (debug: secretly lived)
+14681	1	RosterMenu::MainFooter<String.Concat>		     Y  Ambushes: 
+14682	1	RosterMenu::MainFooter<String.Concat>		     P  Promote     R  Ambushes: 
+14683	1	RosterMenu::MainFooter<NemesisMod.get_DebugOn>		Nemeses
+14684	1	RosterMenu::MainFooter<RosterMenu.get_UsingPad>		     Y  Guide
+14685	1	RosterMenu::MainFooter<String.Concat>		D-pad  Navigate     A  Details     Start  Settings
+14686	1	RosterMenu::MainFooter<String.Concat>		     LT/RT  Zoom     B  Close
+14687	1	RosterMenu::MainFooter<String.Concat>		Arrows  Navigate     Enter  Details     O  Settings
+14688	1	RosterMenu::MainFooter<String.Concat>		     G  Guide     +/-  Zoom     Z  Fit     Backspace  Close
+14689	1	RosterMenu::MainFooter<String.Concat>		Up/Down  Navigate     Enter  Details     O  Settings     F  Show: 
+14690	1	RosterMenu::MainFooter<String.Concat>		     G  Guide     Backspace  Close
+14691	2	RosterMenu::WarVerdict<RosterMenu.<WarVerdict>g__Up|215_0> ; RosterMenu::WarVerdict<RosterMenu.<WarVerdict>g__Up|215_0>		ONGOING  -  
+14692	2	RosterMenu::WarVerdict<String.Concat> ; RosterMenu::WarVerdict<String.Concat>		 AHEAD
+14693	7	RosterMenu::WarVerdict<RosterMenu.<WarVerdict>g__Up|215_0> ; RosterMenu::WarVerdict<RosterMenu.<WarVerdict>g__Up|215_0>		WON BY 
+14694	1	RosterMenu::WarVerdict<String.Concat>		  -  THEY HELD
+14695	1	RosterMenu::WarVerdict<String.Concat>		  -  THE ATTACKERS GAVE UP
+14696	1	RosterMenu::WarVerdict<String.Concat>		  -  THE ATTACKERS RAN OUT OF MEN
+14697	2	RosterMenu::WarVerdict<String.ToUpperInvariant> ; RosterMenu::WarVerdict<String.ToUpperInvariant>		  -  THE 
+14698	2	RosterMenu::WarVerdict<String.Concat> ; RosterMenu::WarVerdict<String.Concat>		 CAME OUT AHEAD
+14699	1	RosterMenu::DrawWarsPage<RosterMenu.Cap>		Why: 
+14700	1	RosterMenu::DrawWarsPage<Theme.CapsWidth>		ATTACKING
+14701	1	RosterMenu::DrawWarsPage<NemesisMod.WarCosts>		COSTS
+14702	1	RosterMenu::DrawWarsPage<DateTime.ToString>		MMM d  h:mm tt
+14703	1	RosterMenu::DrawWarsPage<String.Format>		{0} dead
+14704	1	RosterMenu::DrawWarsPage<String.Concat>		 WANT
+14705	1	RosterMenu::DrawWarsPage<RosterMenu.Cap>		nobody's said
+14706	1	RosterMenu::DrawWarsPage<String.Concat>		before - 
+14707	1	RosterMenu::DrawWarsPage<RosterMenu.Short>		You've killed {0} of the {1} and {2} of the {3}
+14708	1	RosterMenu::DrawWarsPage<String.Format>		 - {0} of them officers.
+14709	1	RosterMenu::DrawWarsPage<String.Concat>		 know you've been helping them.
+14710	4	SafeFile::WriteLater<Thread.set_Name> ; SafeFile::WriteLater<Thread.set_Name>		enRAGE writer
+14711	1	SafeFile::Block<String.Concat>		: no copy could be read - running on an empty one, and it won't be saved over this session (the bad copies are kept as .unreadable-*)
+14712	1	SafeFile::Block<String.Concat>		 couldn't be read - the mod won't save over it this session. The copies are kept beside it (.unreadable-*).
+14713	1	SafeFile::Read<String.Concat>		 instead
+14714	1	SafeFile::Read<String.Concat>		.unreadable-*
+14715	1	SafeFile::Read<DateTime.get_Now>		.unreadable-{0:yyyyMMdd-HHmmss}
+14716	1	SafeFile::Read<String.Concat>		) - kept as .unreadable-*, trying the next copy
+14717	1	SafeFile::Daily<DateTime.get_Now>		{0}-{1:yyyyMMdd}{2}
+14718	1	Pron::<Her>b__1_0<String.ToUpperInvariant>		she's
+14719	1	Pron::<Her>b__1_0<String.ToUpperInvariant>		herself
+14720	1	StoryCast::.cctor<Person..ctor>		always has a plan
+14721	1	StoryCast::.cctor<Person..ctor>	the 	the gang's conscience
+14722	1	StoryCast::.cctor<Person..ctor>		restless, scarred
+14723	1	StoryCast::.cctor<Person..ctor>		follows Dutch anywhere
+14724	1	StoryCast::.cctor<Person..ctor>		quiet, honest tracker
+14725	1	StoryCast::.cctor<Person..ctor>		a snake
+14726	1	StoryCast::.cctor<Person..ctor>		big and angry
+14727	1	StoryCast::.cctor<Person..ctor>		young and sharp
+14728	1	StoryCast::.cctor<Person..ctor>		loud mouth, big heart
+14729	1	StoryCast::.cctor<Person..ctor>		ex-O'Driscoll
+14730	1	StoryCast::.cctor<Person..ctor>		lumbago and a bottle
+14731	1	StoryCast::.cctor<Person..ctor>		camp cook, ex-Navy
+14732	1	StoryCast::.cctor<Person..ctor>		gentleman con man
+14733	1	StoryCast::.cctor<Person..ctor>		a drunk preacher
+14734	1	StoryCast::.cctor<Person..ctor>		fierce
+14735	1	StoryCast::.cctor<Person..ctor>		a bookish boy
+14736	1	StoryCast::.cctor<Person..ctor>		his father's son
+14737	1	StoryCast::.cctor<Person..ctor>		drinks hard
+14738	1	StoryCast::.cctor<Person..ctor>		sharp tongue
+14739	1	StoryCast::.cctor<Person..ctor>		a dreamer
+14740	1	StoryCast::.cctor<Person..ctor>		a vengeful widow
+14741	1	StoryCast::.cctor<Person..ctor>		Cleet
+14742	2	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		Micah's man
+14743	1	StoryCast::.cctor<Person..ctor>		Joe
+14744	1	StoryCast::.cctor<Person..ctor>	the 	the O'Driscoll boss
+14745	1	StoryCast::.cctor<Person..ctor>		Nial Whelan
+14746	1	StoryCast::.cctor<Person..ctor>		an O'Driscoll
+14747	1	StoryCast::.cctor<Person..ctor>		O'Driscoll informant
+14748	1	StoryCast::.cctor<Person..ctor>		Andrew Milton
+14749	3	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		Pinkerton agent
+14750	1	StoryCast::.cctor<Person..ctor>		Edgar Ross
+14751	1	StoryCast::.cctor<Person..ctor>		Leviticus Cornwall
+14752	1	StoryCast::.cctor<Person..ctor>		railroad tycoon
+14753	1	StoryCast::.cctor<Person..ctor>		Saint Denis boss
+14754	1	StoryCast::.cctor<Person..ctor>		Guido Martelli
+14755	1	StoryCast::.cctor<Person..ctor>		Bronte's man
+14756	1	StoryCast::.cctor<Person..ctor>		Sheriff Malloy
+14757	1	StoryCast::.cctor<Person..ctor>		Valentine sheriff
+14758	1	StoryCast::.cctor<Person..ctor>		Valentine saloon brawler
+14759	1	StoryCast::.cctor<Person..ctor>		Sheriff Freeman
+14760	1	StoryCast::.cctor<Person..ctor>		Strawberry sheriff
+14761	1	StoryCast::.cctor<Person..ctor>		Sheriff Owens
+14762	1	StoryCast::.cctor<Person..ctor>		Sheriff Leigh Gray
+14763	1	StoryCast::.cctor<Person..ctor>		Rhodes sheriff
+14764	1	StoryCast::.cctor<Person..ctor>		Captain Monroe
+14765	1	StoryCast::.cctor<Person..ctor>		an honest officer
+14766	1	StoryCast::.cctor<Person..ctor>		Catherine Braithwaite
+14767	1	StoryCast::.cctor<Person..ctor>	the 	the Braithwaite matriarch
+14768	1	StoryCast::.cctor<Person..ctor>		Gerald Braithwaite
+14769	1	StoryCast::.cctor<Person..ctor>		Gareth Braithwaite
+14770	1	StoryCast::.cctor<Person..ctor>		Bartholomew Braithwaite
+14771	1	StoryCast::.cctor<Person..ctor>		Penelope Braithwaite
+14772	1	StoryCast::.cctor<Person..ctor>		loves a Gray
+14773	1	StoryCast::.cctor<Person..ctor>		Tavish Gray
+14774	1	StoryCast::.cctor<Person..ctor>		short temper
+14775	1	StoryCast::.cctor<Person..ctor>		Beau Gray
+14776	1	StoryCast::.cctor<Person..ctor>		loves a Braithwaite
+14777	1	StoryCast::.cctor<Person..ctor>		Jock Gray
+14778	1	StoryCast::.cctor<Person..ctor>		Ian Gray
+14779	1	StoryCast::.cctor<Person..ctor>		Scott Gray
+14780	1	StoryCast::.cctor<Person..ctor>		Adam Gray
+14781	1	StoryCast::.cctor<Person..ctor>		Eagle Flies
+14782	1	StoryCast::.cctor<Person..ctor>		Rains Fall's son
+14783	1	StoryCast::.cctor<Person..ctor>		Wapiti chief
+14784	1	StoryCast::.cctor<Person..ctor>		Paytah
+14785	1	StoryCast::.cctor<Person..ctor>		Wapiti boy
+14786	1	StoryCast::.cctor<Person..ctor>		Hercule Fontaine
+14787	1	StoryCast::.cctor<Person..ctor>		Saint Denis gentleman
+14788	1	StoryCast::.cctor<Person..ctor>		Mrs. Fellows
+14789	1	StoryCast::.cctor<Person..ctor>		Dorothea Wicklow
+14790	1	StoryCast::.cctor<Person..ctor>		Thomas Downes
+14791	2	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		Edith Downes
+14792	1	StoryCast::.cctor<Person..ctor>		Archie Downes
+14793	1	StoryCast::.cctor<Person..ctor>		Albert Mason
+14794	1	StoryCast::.cctor<Person..ctor>		Professor Bell
+14795	1	StoryCast::.cctor<Person..ctor>		Marshal Thurwell
+14796	1	StoryCast::.cctor<Person..ctor>		Hamish Sinclair
+14797	1	StoryCast::.cctor<Person..ctor>		one-legged hunter
+14798	1	StoryCast::.cctor<Person..ctor>		Jim Calloway
+14799	1	StoryCast::.cctor<Person..ctor>		old gunslinger
+14800	1	StoryCast::.cctor<Person..ctor>		Hobart Crawley
+14801	1	StoryCast::.cctor<Person..ctor>		Agnes Dowd
+14802	1	StoryCast::.cctor<Person..ctor>		Obediah Hinton
+14803	1	StoryCast::.cctor<Person..ctor>	the 	the slave catcher
+14804	1	StoryCast::.cctor<Person..ctor>		Luca Napoli
+14805	1	StoryCast::.cctor<Person..ctor>		Henri Lemieux
+14806	1	StoryCast::.cctor<Person..ctor>		Charles Châtenay
+14807	1	StoryCast::.cctor<Person..ctor>	the 	the hermit
+14808	1	StoryCast::.cctor<Person..ctor>	the 	the herbalist
+14809	1	StoryCast::.cctor<Person..ctor>	the 	the taxidermist
+14810	1	StoryCast::.cctor<Person..ctor>		Dr. Malcolm MacIntosh
+14811	1	StoryCast::.cctor<Person..ctor>		Angus Geddes
+14812	1	StoryCast::.cctor<Person..ctor>		David Geddes
+14813	1	StoryCast::.cctor<Person..ctor>		Duncan Geddes
+14814	1	StoryCast::.cctor<Person..ctor>		Mrs. Geddes
+14815	1	StoryCast::.cctor<Person..ctor>		Lemoyne Raider leader
+14816	6	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		a famous gunslinger
+14817	1	StoryCast::.cctor<Person..ctor>		Mr. Wayne
+14818	1	StoryCast::.cctor<Person..ctor>		Jake Adler
+14819	1	StoryCast::.cctor<Person..ctor>		Wrobel
+14820	1	StoryCast::.cctor<Person..ctor>		Heston Jameson
+14821	1	StoryCast::.cctor<Person..ctor>		Archibald Jameson
+14822	1	StoryCast::.cctor<Person..ctor>		Gilbert Knightly
+14823	1	StoryCast::.cctor<Person..ctor>	the 	the Braithwaites' butler
+14824	1	StoryCast::.cctor<Person..ctor>		Bray Aberdeen
+14825	1	StoryCast::.cctor<Person..ctor>		Tammy Aberdeen
+14826	1	StoryCast::.cctor<Person..ctor>		an acrobat
+14827	1	StoryCast::.cctor<Person..ctor>		Albert Cakes
+14828	1	StoryCast::.cctor<Person..ctor>		Anders Helgerson
+14829	1	StoryCast::.cctor<Person..ctor>		Angel
+14830	1	StoryCast::.cctor<Person..ctor>		an angry husband
+14831	1	StoryCast::.cctor<Person..ctor>		Ansel Atherton
+14832	1	StoryCast::.cctor<Person..ctor>		Anthony Foreman
+14833	1	StoryCast::.cctor<Person..ctor>		Archer Fordham
+14834	1	StoryCast::.cctor<Person..ctor>		Professor Shiftacre
+14835	1	StoryCast::.cctor<Person..ctor>		Annesburg deputy
+14836	1	StoryCast::.cctor<Person..ctor>		Ashton
+14837	1	StoryCast::.cctor<Person..ctor>		Arturo Bullard
+14838	1	StoryCast::.cctor<Person..ctor>	the 	the band's bassist
+14839	1	StoryCast::.cctor<Person..ctor>	the 	the band's drummer
+14840	1	StoryCast::.cctor<Person..ctor>	the 	the band's pianist
+14841	1	StoryCast::.cctor<Person..ctor>	the 	the band's singer
+14842	1	StoryCast::.cctor<Person..ctor>		Baptiste
+14843	1	StoryCast::.cctor<Person..ctor>		a bathing lady
+14844	1	StoryCast::.cctor<Person..ctor>		a beaten-up captain
+14845	1	StoryCast::.cctor<Person..ctor>	the 	the coach driver
+14846	1	StoryCast::.cctor<Person..ctor>	the 	the Blackwater photographer
+14847	1	StoryCast::.cctor<Person..ctor>		Jimmy Brooks
+14848	1	StoryCast::.cctor<Person..ctor>	the 	the Braithwaites' maid
+14849	1	StoryCast::.cctor<Person..ctor>	the 	the Braithwaites' servant
+14850	1	StoryCast::.cctor<Person..ctor>		Brenda Crawley
+14851	1	StoryCast::.cctor<Person..ctor>		Bronte's butler
+14852	1	StoryCast::.cctor<Person..ctor>		Brother Dorkins
+14853	1	StoryCast::.cctor<Person..ctor>		Brynn Tildon
+14854	1	StoryCast::.cctor<Person..ctor>		Bubba
+14855	1	StoryCast::.cctor<Person..ctor>	the 	the cabaret MC
+14856	1	StoryCast::.cctor<Person..ctor>		a Cajun
+14857	4	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		a Petit Flâneur dancer
+14858	1	StoryCast::.cctor<Person..ctor>		a can-can dancer
+14859	1	StoryCast::.cctor<Person..ctor>		Blind Man Cassidy
+14860	1	StoryCast::.cctor<Person..ctor>		a cattle rustler
+14861	1	StoryCast::.cctor<Person..ctor>		Sampson Black
+14862	1	StoryCast::.cctor<Person..ctor>		Wendell White
+14863	1	StoryCast::.cctor<Person..ctor>	the 	the Chelonian Master
+14864	1	StoryCast::.cctor<Person..ctor>		Phineas T. Ramsbottom
+14865	1	StoryCast::.cctor<Person..ctor>		Clay Davies
+14866	1	StoryCast::.cctor<Person..ctor>		Clive Davies
+14867	1	StoryCast::.cctor<Person..ctor>		Cooper
+14868	1	StoryCast::.cctor<Person..ctor>	the 	the Cornwall train conductor
+14869	1	StoryCast::.cctor<Person..ctor>		Marko Dragic
+14870	1	StoryCast::.cctor<Person..ctor>	the 	the robot
+14871	1	StoryCast::.cctor<Person..ctor>		an old woman
+14872	1	StoryCast::.cctor<Person..ctor>	the 	the Creole doctor
+14873	1	StoryCast::.cctor<Person..ctor>		a Creole man
+14874	1	StoryCast::.cctor<Person..ctor>		Dale Maroney
+14875	1	StoryCast::.cctor<Person..ctor>		Davey Callander
+14876	1	StoryCast::.cctor<Person..ctor>		Desmond Blythe
+14877	1	StoryCast::.cctor<Person..ctor>		Didsbury
+14878	1	StoryCast::.cctor<Person..ctor>		Deborah MacGuiness
+14879	3	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		a man in disguise
+14880	1	StoryCast::.cctor<Person..ctor>		Dr. Lane Higgins
+14881	1	StoryCast::.cctor<Person..ctor>		Edmund Lowry Jr.
+14882	1	StoryCast::.cctor<Person..ctor>		Benjamin Lazarus
+14883	1	StoryCast::.cctor<Person..ctor>		Benjamin Lazarus's assistant
+14884	1	StoryCast::.cctor<Person..ctor>		Evelyn Miller
+14885	1	StoryCast::.cctor<Person..ctor>		a Lemoyne Raider informant
+14886	1	StoryCast::.cctor<Person..ctor>		Algernon Wasp
+14887	1	StoryCast::.cctor<Person..ctor>		Featherston Chambers
+14888	1	StoryCast::.cctor<Person..ctor>		Hortensia
+14889	1	StoryCast::.cctor<Person..ctor>	the 	the fight announcer
+14890	1	StoryCast::.cctor<Person..ctor>		Antoinette Sanseverino
+14891	1	StoryCast::.cctor<Person..ctor>		Jeremy Gill
+14892	1	StoryCast::.cctor<Person..ctor>		a husband
+14893	1	StoryCast::.cctor<Person..ctor>		a wife
+14894	1	StoryCast::.cctor<Person..ctor>		an artist's model
+14895	1	StoryCast::.cctor<Person..ctor>		Francis Sinclair
+14896	1	StoryCast::.cctor<Person..ctor>		a Frenchman
+14897	1	StoryCast::.cctor<Person..ctor>		Colonel Alberto Fussar
+14898	1	StoryCast::.cctor<Person..ctor>		Nigel
+14899	1	StoryCast::.cctor<Person..ctor>		a woman
+14900	1	StoryCast::.cctor<Person..ctor>		a settler's daughter
+14901	1	StoryCast::.cctor<Person..ctor>		a German settler
+14902	1	StoryCast::.cctor<Person..ctor>		a settler's wife
+14903	1	StoryCast::.cctor<Person..ctor>		a settler's son
+14904	1	StoryCast::.cctor<Person..ctor>		Gloria
+14905	1	StoryCast::.cctor<Person..ctor>		Jon
+14906	1	StoryCast::.cctor<Person..ctor>		Hector Fellowes Jr.
+14907	1	StoryCast::.cctor<Person..ctor>		Jamie Gillis
+14908	1	StoryCast::.cctor<Person..ctor>		Janson
+14909	1	StoryCast::.cctor<Person..ctor>		Jeb
+14910	1	StoryCast::.cctor<Person..ctor>		Joe Butler
+14911	1	StoryCast::.cctor<Person..ctor>		John the Mad Preacher
+14912	1	StoryCast::.cctor<Person..ctor>		J. John Weathers
+14913	1	StoryCast::.cctor<Person..ctor>		Jules
+14914	1	StoryCast::.cctor<Person..ctor>		Karen's mark
+14915	1	StoryCast::.cctor<Person..ctor>	the 	the Laramie gang leader
+14916	1	StoryCast::.cctor<Person..ctor>		Jean-Marc Mercier
+14917	1	StoryCast::.cctor<Person..ctor>		Leon Fuentes
+14918	1	StoryCast::.cctor<Person..ctor>		Levi Simon
+14919	1	StoryCast::.cctor<Person..ctor>		Lillian Powell
+14920	1	StoryCast::.cctor<Person..ctor>		Lilly Millet
+14921	1	StoryCast::.cctor<Person..ctor>		Mrs. Londonderry's son
+14922	1	StoryCast::.cctor<Person..ctor>		Magnifico
+14923	1	StoryCast::.cctor<Person..ctor>		Mama Watson
+14924	1	StoryCast::.cctor<Person..ctor>		Mary Linton
+14925	1	StoryCast::.cctor<Person..ctor>	the 	the meditating monk
+14926	1	StoryCast::.cctor<Person..ctor>		Meredith Buckley
+14927	1	StoryCast::.cctor<Person..ctor>		Etta Buckley
+14928	1	StoryCast::.cctor<Person..ctor>		an O'Driscoll in the cells
+14929	1	StoryCast::.cctor<Person..ctor>		Mickey
+14930	1	StoryCast::.cctor<Person..ctor>		Miss Marjorie
+14931	1	StoryCast::.cctor<Person..ctor>		a boy
+14932	1	StoryCast::.cctor<Person..ctor>		Moira Calthorpe
+14933	1	StoryCast::.cctor<Person..ctor>		Mr. Devon
+14934	1	StoryCast::.cctor<Person..ctor>		Mr. Gillis
+14935	1	StoryCast::.cctor<Person..ctor>		Olive Calhoon
+14936	1	StoryCast::.cctor<Person..ctor>		Mrs. Sinclair
+14937	1	StoryCast::.cctor<Person..ctor>		Mrs. Londonderry
+14938	1	StoryCast::.cctor<Person..ctor>		Mrs. Weathers
+14939	1	StoryCast::.cctor<Person..ctor>	the 	the strange man
+14940	1	StoryCast::.cctor<Person..ctor>		a drunk
+14941	1	StoryCast::.cctor<Person..ctor>		a condemned man
+14942	1	StoryCast::.cctor<Person..ctor>	the 	the police chief
+14943	1	StoryCast::.cctor<Person..ctor>	the 	the receptionist
+14944	1	StoryCast::.cctor<Person..ctor>		Nicholas Timmins
+14945	1	StoryCast::.cctor<Person..ctor>		Nils
+14946	1	StoryCast::.cctor<Person..ctor>		Norris Forsythe
+14947	1	StoryCast::.cctor<Person..ctor>		an Oddfellow
+14948	3	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		a working girl
+14949	1	StoryCast::.cctor<Person..ctor>	the 	the opera singer
+14950	1	StoryCast::.cctor<Person..ctor>	the 	the Butcher Creek shaman
+14951	1	StoryCast::.cctor<Person..ctor>		Poor Joe
+14952	1	StoryCast::.cctor<Person..ctor>	the 	the priest
+14953	1	StoryCast::.cctor<Person..ctor>		Princess Isabeau
+14954	1	StoryCast::.cctor<Person..ctor>		Ramon Cortez
+14955	1	StoryCast::.cctor<Person..ctor>		Reverend Peter Fotheringham
+14956	2	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		Rhodes deputy
+14957	1	StoryCast::.cctor<Person..ctor>	the 	the Rhodes clerk
+14958	1	StoryCast::.cctor<Person..ctor>		a kidnap victim
+14959	1	StoryCast::.cctor<Person..ctor>	the 	the Rhodes saloon bouncer
+14960	1	StoryCast::.cctor<Person..ctor>		Haywood Margaret
+14961	1	StoryCast::.cctor<Person..ctor>		Charlotte Balfour
+14962	1	StoryCast::.cctor<Person..ctor>		a good samaritan
+14963	4	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		a street kid
+14964	1	StoryCast::.cctor<Person..ctor>		a Saint Denis doctor
+14965	1	StoryCast::.cctor<Person..ctor>	the 	the Saint Denis priest
+14966	1	StoryCast::.cctor<Person..ctor>		a saloon drunk
+14967	1	StoryCast::.cctor<Person..ctor>		a street thief
+14968	1	StoryCast::.cctor<Person..ctor>		Sister Calderón
+14969	1	StoryCast::.cctor<Person..ctor>	the 	the soothsayer
+14970	2	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		a Strawberry outlaw
+14971	2	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		Strawberry deputy
+14972	1	StoryCast::.cctor<Person..ctor>		Sheriff Hanley
+14973	1	StoryCast::.cctor<Person..ctor>		Bob Brownlee
+14974	1	StoryCast::.cctor<Person..ctor>		a swamp dweller
+14975	1	StoryCast::.cctor<Person..ctor>		Sonny
+14976	1	StoryCast::.cctor<Person..ctor>	the 	the Mysterious Maya
+14977	1	StoryCast::.cctor<Person..ctor>		Theodore Levin
+14978	1	StoryCast::.cctor<Person..ctor>	the 	the tiger handler
+14979	1	StoryCast::.cctor<Person..ctor>		Timothy Donahue
+14980	1	StoryCast::.cctor<Person..ctor>		a hermit
+14981	1	StoryCast::.cctor<Person..ctor>		Tom Dickens
+14982	1	StoryCast::.cctor<Person..ctor>	the 	the Armadillo town crier
+14983	1	StoryCast::.cctor<Person..ctor>		a treasure hunter
+14984	2	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		one of the twins
+14985	1	StoryCast::.cctor<Person..ctor>		Helen
+14986	1	StoryCast::.cctor<Person..ctor>		a groupie
+14987	1	StoryCast::.cctor<Person..ctor>		a prisoner
+14988	1	StoryCast::.cctor<Person..ctor>		Morris Peyton
+14989	1	StoryCast::.cctor<Person..ctor>		Valentine deputy
+14990	1	StoryCast::.cctor<Person..ctor>		a praying man
+14991	1	StoryCast::.cctor<Person..ctor>	the 	the Saint Denis vampire
+14992	1	StoryCast::.cctor<Person..ctor>		a bath girl
+14993	1	StoryCast::.cctor<Person..ctor>		a war veteran
+14994	3	StoryCast::.cctor<Person..ctor> ; StoryCast::.cctor<Person..ctor>		a Watson boy
+14995	1	StoryCast::.cctor<Person..ctor>		Simon of Wales
+14996	1	StoryCast::.cctor<Person..ctor>		Winton Holmes
+14997	1	StoryGang::Build<StoryGang.Q>		Anger 50 Bravery 80 Greed 45 Loyalty 55 Pride 92 Honesty 30 Piety 20 Cruelty 40 Humour 55 Ambition 90
+14998	1	StoryGang::Build<StoryGang.Q>		Family 1 Gang 3 Money 1 Honour 2 Law -3 God -1
+14999	1	StoryGang::Build<StoryGang.Q>		Drink 30 Company 70 Faith 10 Money 70 Violence 30
+15000	1	StoryGang::Build<StoryGang.Q>		Anger 20 Bravery 60 Greed 40 Loyalty 85 Pride 50 Honesty 55 Piety 30 Cruelty 10 Humour 80 Ambition 35
+15001	1	StoryGang::Build<StoryGang.Q>		Family 2 Gang 3 Money 1 Honour 2 Law -1 God 0
+15002	1	StoryGang::Build<StoryGang.Q>		Drink 35 Company 60 Faith 20 Money 40 Violence 5
+15003	1	StoryGang::Build<Array.Empty>		Anger 50 Bravery 85 Greed 30 Loyalty 90 Pride 55 Honesty 50 Piety 20 Cruelty 40 Humour 50 Ambition 25
+15004	1	StoryGang::Build<Array.Empty>		Family 1 Gang 3 Money 0 Honour 1 Law -2 God -1
+15005	1	StoryGang::Build<Array.Empty>		Drink 40 Company 30 Faith 10 Money 30 Violence 40
+15006	1	StoryGang::Build<StoryGang.Q>		Family 0 Gang 0 Money 3 Honour -2 Law -3 God -2
+15007	1	StoryGang::Build<StoryGang.Q>		Drink 50 Company 40 Faith 0 Money 80 Violence 75
+15008	1	StoryGang::Build<Array.Empty>		Anger 55 Bravery 75 Greed 30 Loyalty 65 Pride 60 Honesty 45 Piety 15 Cruelty 30 Humour 40 Ambition 30
+15009	1	StoryGang::Build<Array.Empty>		Family 1 Gang 2 Money 1 Honour 1 Law -2 God -1
+15010	1	StoryGang::Build<Array.Empty>		Drink 40 Company 35 Faith 5 Money 40 Violence 40
+15011	1	StoryGang::Build<Array.Empty>		Anger 45 Bravery 80 Greed 25 Loyalty 92 Pride 65 Honesty 55 Piety 30 Cruelty 35 Humour 60 Ambition 30
+15012	1	StoryGang::Build<Array.Empty>		Family 1 Gang 3 Money 0 Honour 2 Law -2 God 0
+15013	1	StoryGang::Build<Array.Empty>		Drink 35 Company 60 Faith 20 Money 30 Violence 40
+15014	1	StoryGang::Build<StoryGang.Q>		Anger 75 Bravery 70 Greed 40 Loyalty 80 Pride 45 Honesty 50 Piety 10 Cruelty 45 Humour 35 Ambition 20
+15015	1	StoryGang::Build<StoryGang.Q>		Family 0 Gang 3 Money 1 Honour 0 Law -2 God -1
+15016	1	StoryGang::Build<StoryGang.Q>		Drink 70 Company 50 Faith 5 Money 40 Violence 60
+15017	1	StoryGang::Build<StoryGang.Q>		Anger 30 Bravery 85 Greed 15 Loyalty 70 Pride 40 Honesty 92 Piety 25 Cruelty 10 Humour 40 Ambition 20
+15018	1	StoryGang::Build<StoryGang.Q>		Family 1 Gang 2 Money 0 Honour 3 Law -1 God 0
+15019	1	StoryGang::Build<StoryGang.Q>		Drink 15 Company 30 Faith 15 Money 20 Violence 25
+15020	1	StoryGang::Build<Array.Empty>		Anger 30 Bravery 70 Greed 25 Loyalty 80 Pride 45 Honesty 70 Piety 20 Cruelty 10 Humour 80 Ambition 40
+15021	1	StoryGang::Build<Array.Empty>		Family 2 Gang 2 Money 0 Honour 2 Law -1 God 0
+15022	1	StoryGang::Build<Array.Empty>		Drink 30 Company 70 Faith 10 Money 25 Violence 20
+15023	1	StoryGang::Build<StoryGang.Q>		Family 1 Gang 2 Money 1 Honour 1 Law -3 God 0
+15024	1	StoryGang::Build<StoryGang.Q>		Drink 70 Company 85 Faith 10 Money 50 Violence 40
+15025	1	StoryGang::Build<Array.Empty>		Anger 85 Bravery 90 Greed 15 Loyalty 70 Pride 70 Honesty 75 Piety 15 Cruelty 45 Humour 30 Ambition 30
+15026	1	StoryGang::Build<Array.Empty>		Family 3 Gang 1 Money 0 Honour 2 Law -1 God 0
+15027	1	StoryGang::Build<Array.Empty>		Drink 30 Company 25 Faith 10 Money 15 Violence 70
+15028	1	StoryGang::Build<StoryGang.Q>		Anger 50 Bravery 75 Greed 45 Loyalty 70 Pride 55 Honesty 45 Piety 10 Cruelty 25 Humour 75 Ambition 35
+15029	1	StoryGang::Build<StoryGang.Q>		Family 0 Gang 2 Money 1 Honour 1 Law -2 God -1
+15030	1	StoryGang::Build<StoryGang.Q>		Drink 75 Company 80 Faith 5 Money 50 Violence 35
+15031	1	StoryGang::Build<Array.Empty>		Anger 60 Bravery 80 Greed 20 Loyalty 92 Pride 70 Honesty 60 Piety 15 Cruelty 45 Humour 25 Ambition 30
+15032	1	StoryGang::Build<Array.Empty>		Family 1 Gang 3 Money 0 Honour 2 Law -2 God -1
+15033	1	StoryGang::Build<Array.Empty>		Drink 25 Company 50 Faith 5 Money 20 Violence 25
+15034	1	StoryGang::Build<StoryGang.Q>		Anger 35 Bravery 45 Greed 35 Loyalty 70 Pride 70 Honesty 55 Piety 20 Cruelty 15 Humour 55 Ambition 30
+15035	1	StoryGang::Build<StoryGang.Q>		Family 1 Gang 2 Money 1 Honour 1 Law -1 God 0
+15036	1	StoryGang::Build<StoryGang.Q>		Drink 40 Company 60 Faith 10 Money 35 Violence 10
+15037	1	StoryGang::Build<Array.Empty>		Moneylender
+15038	1	StoryGang::Build<Array.Empty>		Anger 20 Bravery 25 Greed 85 Loyalty 65 Pride 45 Honesty 35 Piety 15 Cruelty 35 Humour 20 Ambition 50
+15039	1	StoryGang::Build<Array.Empty>		Family 0 Gang 2 Money 3 Honour 0 Law -1 God 0
+15040	1	StoryGang::Build<Array.Empty>		Drink 10 Company 25 Faith 15 Money 85 Violence 0

@@ -1,0 +1,828 @@
+5832	ONDE VOCÊ ESTÁ SE ESCONDENDO, COVARDE.
+5833	APAREÇA E LUTE.
+5834	CANSEI DE ESPERAR. MOSTRE A CARA.
+5835	COVARDE COVARDE COVARDE STOP
+5836	O POVO AINDA FALA DO QUE VOCÊ FEZ. LOGO VAI FALAR DO QUE EU FIZ COM VOCÊ.
+5837	VOU TER MEU NOME DE VOLTA. E O SEU COURO JUNTO.
+5838	PACIÊNCIA É UMA VIRTUDE. EU TENHO DE SOBRA.
+5839	MEUS AMIGOS TAMBÉM ESTÃO PROCURANDO. TODOS ELES.
+5840	TEM DINHEIRO PELA SUA CABEÇA. PRETENDO COBRAR.
+5841	ACHEI QUE IA DEIXAR PRA LÁ. PELO JEITO NÃO CONSIGO.
+5842	COLM MANDA LEMBRANÇAS. EU TAMBÉM. ATÉ LOGO, RAPAZ.
+5843	OS RAPAZES BEBEM AO SEU ENTERRO TODA NOITE. LOGO VAI SER DE VERDADE.
+5844	LEMOYNE NÃO É SEGURO PRA VOCÊ. NENHUM LUGAR É.
+5845	TEMOS HOMENS EM CADA PARÓQUIA. VOCÊ NÃO VAI ESCAPAR DA GENTE.
+5846	CAVALGAMOS À NOITE. FIQUE DE OUVIDO ATENTO.
+5847	SAINT DENIS TEM MUITOS BECOS. O SENHOR BRONTE É DONO DE TODOS.
+5848	A GENTE TÁ TE VIGIANDO DO MEIO DAS ÁRVORE.
+5849	A GENTE PEGOU SEU CHEIRO.
+5850	POR FAVOR ME DEIXE EM PAZ. JÁ LARGUEI TUDO ISSO.
+5851	TÔ FORA. JURO. NÃO VENHA ATRÁS DE MIM.
+5852	EU QUERO VIVER. POR FAVOR. NÃO VOU CRUZAR SEU CAMINHO DE NOVO.
+5853	ARRUMEI TRABALHO HONESTO. POR FAVOR NÃO ME TIRE ISSO.
+5854	SONHO COM VOCÊ TODA NOITE. POR FAVOR FAÇA ISSO PARAR.
+5855	O QUE QUER QUE EU TENHA FEITO ME DESCULPE STOP POR FAVOR PARE
+5856	NÃO CONSIGO COMER. NÃO CONSIGO DORMIR. POR FAVOR ME PERDOE.
+5857	TENHO UM POUCO DE DINHEIRO. É SEU. SÓ ME DEIXE EM PAZ.
+5858	LARGUEI OS RAPAZES. JURO POR MINHA MÃE. ME DEIXE EM PAZ.
+5859	PENSANDO EM VOCÊ. ESPERO QUE A ESTRADA ESTEJA SENDO BOA.
+5860	TUDO BEM POR AQUI. PASSE AQUI SE ESTIVER POR PERTO. A JANTA É POR MINHA CONTA.
+5861	SÓ QUERIA QUE SOUBESSE QUE ALGUÉM AQUI ESTÁ FELIZ POR VOCÊ EXISTIR.
+5862	AS CRIANÇAS PERGUNTAM POR VOCÊ. BOA VIAGEM.
+5863	A PRIMAVERA CHEGOU. PENSEI EM VOCÊ. SE CUIDE.
+5864	REZAMOS POR VOCÊ NO DOMINGO. DEUS TE GUARDE.
+5865	A TORTA ESTÁ MELHOR ESTE ANO. VENHA PROVAR.
+5866	SEM NOVIDADES. SÓ UM OLÁ DE UM VELHO AMIGO.
+5867	ACHEI QUE DEVIA SABER. {MAN} ESTÁ EM {TOWN} FAZENDO PERGUNTAS SOBRE VOCÊ.
+5868	DE OLHOS ABERTOS COMO VOCÊ PEDIU. {MAN} FOI VISTO PELOS LADOS DE {TOWN}.
+5869	UM AMIGO AVISA. {MAN}. {TOWN}. COM ARMA NA MÃO.
+5870	{MAN} PASSOU POR {TOWN} COM CARA FECHADA. FALOU SEU NOME.
+5871	{MAN} COMPROU CARTUCHOS EM {TOWN} HOJE. MUITOS. PERGUNTOU POR VOCÊ.
+5872	FIQUE DE OLHO EM {TOWN}. {MAN} ALUGOU UM QUARTO LÁ.
+5873	{MAN} ESTÁ BEBENDO EM {TOWN} E CONTANDO VANTAGEM SOBRE VOCÊ. TOME CUIDADO.
+5874	VI {MAN} CHEGAR A CAVALO EM {TOWN} DE MADRUGADA. ACHEI QUE DEVIA SABER.
+5875	QUE GOSTO TEM A TERRA. AINDA OUÇO VOCÊ CAINDO.
+5876	ESSA FOI A PRIMEIRA VEZ. NÃO VAI SER A ÚLTIMA.
+5877	CONTE PRA TODO MUNDO QUEM TE DERRUBOU.
+5878	AINDA DOLORIDO. ÓTIMO.
+5879	VOCÊ CAIU FEITO UM SACO DE RAÇÃO.
+5880	DA PRÓXIMA VEZ VOU GARANTIR QUE VOCÊ NÃO LEVANTE MAIS.
+5881	TODO SALOON DAQUI ATÉ SAINT DENIS CONHECE MEU NOME AGORA. AGRADEÇO POR ISSO.
+5882	AGORA CANTAM MÚSICAS SOBRE MIM. SOBRE O DIA EM QUE EU TE VENCI.
+5883	ISSO FOI BOM. VAMOS REPETIR.
+5884	VOCÊ FOI LENTO. DA PRÓXIMA VEZ SEJA MAIS RÁPIDO. OU NÃO.
+5885	OS RAPAZES AINDA RIEM DISSO. UM DOS MELHORES DO DUTCH. DE CARA NA LAMA.
+5886	HIERARQUIA
+5887	REGISTRO DE RAIO-X
+5888	=
+5889	NÊMESIS SOLITÁRIOS
+5890	HIERARQUIA DA GANGUE
+5891	{0} / 100  -  {1} em {2}
+5892	NOTORIEDADE
+5893	=
+5894	=
+5895	=
+5896	=
+5897	=
+5898	=
+5899	=
+5900	=
+5901	=
+5902	=
+5903	=
+5904	=
+5905	=
+5906	amante de Ellie Anne Swan
+5907	=
+5908	=
+5909	=
+5910	um homem procurado
+5911	um bandido procurado
+5912	um capataz de mina procurado
+5913	um velho procurado
+5914	um rancheiro procurado
+5915	um banqueiro procurado
+5916	=
+5917	=
+5918	=
+5919	=
+5920	=
+5921	=
+5922	=
+5923	=
+5924	=
+5925	=
+5926	=
+5927	=
+5928	=
+5929	armazém
+5930	=
+5931	agente da estação
+5932	estação de cargas
+5933	loja de exóticos
+5934	bilheteiro
+5935	=
+5936	centro de boas-vindas
+5937	=
+5938	leiloeiro
+5939	=
+5940	dono do hotel
+5941	=
+5942	cavalariço
+5943	=
+5944	=
+5945	chefe de polícia
+5946	=
+5947	guarda do banco
+5948	funcionário da estação
+5949	=
+5950	=
+5951	=
+5952	=
+5953	=
+5954	=
+5955	=
+5956	=
+5957	rabequeiro
+5958	=
+5959	jogador de cartas
+5960	=
+5961	=
+5962	=
+5963	=
+5964	Presbiteriano
+5965	Luterano
+5966	Episcopal
+5967	=
+5968	=
+5969	=
+5970	=
+5971	=
+5972	=
+5973	=
+5974	=
+5975	=
+5976	=
+5977	=
+5978	=
+5979	=
+5980	=
+5981	=
+5982	=
+5983	=
+5984	=
+5985	=
+5986	=
+5987	=
+5988	=
+5989	=
+5990	=
+5991	=
+5992	=
+5993	=
+5994	=
+5995	=
+5996	=
+5997	=
+5998	=
+5999	=
+6000	=
+6001	=
+6002	=
+6003	=
+6004	=
+6005	=
+6006	=
+6007	=
+6008	=
+6009	irmã
+6010	filha
+6011	mãe
+6012	sobrinha
+6013	tia
+6014	cunhada
+6015	quer você morto, mas não vai sair procurando - cruze o caminho dele e ele vai brigar
+6016	não vai começar - mas provoque ele na cidade e ele vai brigar
+6017	não pode ir atrás de você
+6018	Sob provocação
+6019	Espera
+6020	cão de caça
+6021	collie
+6022	coonhound bluetick
+6023	vira-lata
+6024	retriever
+6025	cão pastor
+6026	terrier
+6027	catahoula
+6028	=
+6029	=
+6030	=
+6031	=
+6032	=
+6033	=
+6034	=
+6035	=
+6036	=
+6037	=
+6038	=
+6039	=
+6040	=
+6041	Entendido
+6042	Tecla do menu mantida
+6043	Aperte a nova tecla - segure Shift / Ctrl / Alt para uma combinação (Escape cancela)
+6044	Aperte uma tecla do teclado (ou Escape) - o controle tem a própria linha abaixo
+6045	aperte uma tecla...
+6046	CONFIRMAR - SEGUIR PARA O GUIA
+6047	Confirmar e voltar
+6048	Continuar
+6049	=
+6050	LB/RB  Página     A  
+6051	Novidades da 0.9.5.2
+6052	Uma correção
+6053	Estrangulamentos e pisões
+6054	Estrangular um homem conta no raio-X, por trás também, e pisar num homem que você nocauteou também conta, até ele morrer. Três pisões na cabeça racham o crânio dele.
+6055	Morto a chutes
+6056	Chute um homem caído até o jogo matar ele e ele é dado como morto, não desacordado, com a chance de sempre de ter sobrevivido em segredo.
+6057	Chutes da sela
+6058	Um chute do lombo do cavalo conta no raio-X como chute. Atropelar um homem com o cavalo continua não contando.
+6059	Cumprimentos com resposta
+6060	Cumprimente os homens do próprio mod (gente de luto, homens de acampamento, pessoas que você conhece) e há uma troca de verdade: o seu olá, depois o deles, seco se odeiam você.
+6061	Aparência e trabalho
+6062	A Gangue Laramie usa o visual Laramie do próprio jogo. Homens e mulheres agora dividem os ofícios: uma mulher pode cuidar de uma forja, um homem de uma loja.
+6063	Chega de se desligar
+6064	O mod podia se desligar sozinho depois de travar alguns segundos num disco lento ou sincronizado. O salvamento do mod nos autosaves não segura mais o jogo.
+6065	Mais fluido
+6066	Sem engasgos do mod nos autosaves, ao fechar o raio-X ou ao procurar um controle. As patrulhas liberam os modelos assim que saem de cena.
+6067	Saves que ficam
+6068	A notoriedade e a contabilidade dos bandos são salvas mesmo quando a pasta scripts não aceita gravação, e você é avisado uma vez.
+6069	Corrigido
+6070	O aviso de "funções do jogo faltando" em algumas configurações. Uma briga de socos é uma linha na página de um homem, não uma linha por soco.
+6071	Também na 0.9.5.1
+6072	Assaltos a trem, muambas escondidas em Saint Denis, mantimentos e dinheiro que mudam de lugar, a Família Bronte em 1907 e brigas de socos no raio-X.
+6073	Bem-vindo ao enRAGE
+6074	Um mundo vivo que lembra o que você fez - e a quem você fez
+6075	O que é isto
+6076	Todo mundo que você enfrenta no Oeste pode virar seu NÊMESIS. Roube um homem, espanque, insulte, atire no cavalo dele - ele pode não esquecer. Ele ganha um nome, um temperamento, um passado e uma rixa, e um dia ele vem atrás de você.
+6077	Um mundo que anda sem você
+6078	Oito bandos - os O'Driscoll, os Saqueadores de Lemoyne, o Exército dos EUA, os Wapiti, a Família Bronte, a Klan, o Clã Murfree e os Irmãos Skinner - têm seus próprios postos, acampamentos, líderes e guerras. Eles lutam, brigam, promovem os seus e morrem enquanto você cavalga. No epílogo, são oito anos depois: os O'Driscoll, a Família Bronte e os Wapiti sumiram, a Gangue Laramie, a Gangue Del Lobo e o Povo da Noite cavalgam, e a aba MUNDO conta o que foi feito de todo mundo.
+6079	Este guia
+6080	Algumas páginas sobre cada sistema e como usar. Leia agora ou depois - está sempre no menu.\n- Próxima página: Direita / E / Enter (controle: RB / A)\n- Voltar uma página: Esquerda / Q (controle: LB)\n- Fechar: Backspace (controle: B)\n- Abrir de novo: F11, depois G (controle: Y)
+6081	Só no modo história
+6082	O enRAGE nunca roda no Online. Durante as missões da história o mod fica fora do caminho: nada aparece, nada interrompe.
+6083	O Menu
+6084	F11 no teclado, ou toque duas vezes no direcional para a direita
+6085	Três abas
+6086	Tab (controle: View) alterna entre elas.\n- HIERARQUIA: os postos de cada bando, do líder ao soldado raso, com os caídos embaixo. Os solitários ficam na lista Sem Afiliação.\n- MUNDO: tudo o que aconteceu - lutas, rixas, mortes, guerras, seus próprios feitos.\n- REGISTRO DE RAIO-X: cada homem que você baleou ou espancou, ferida por ferida e golpe por golpe.\nBUSCA: segure Tab (controle: segure View) em qualquer aba e digite um nome - nêmesis, pessoas, líderes, a gangue, guerras, eventos do mundo, raios-X. Escolha um para ir direto até ele.
+6087	Navegação
+6088	- Q / E (controle: LB / RB): próximo bando, ou filtro\n- Setas / direcional: mover, Enter / A: abrir a página de um homem\n- Na página dele, R (controle: Y): a história dele, a cabeça dele, os crimes dele\n- A ou Home (controle: X): sua própria página (Arthur, ou John no epílogo), de qualquer lugar\n- Backspace / B: voltar, F11: fechar\n- O mouse também funciona: passe por cima, clique, clique com o botão direito para voltar
+6089	Opções rápidas
+6090	- N (controle: LS): Mensagens - o que aparece na tela\n- C (controle: RS): Cartões de nome sobre a cabeça das pessoas\n- O (controle: Start): Opções - as mais comuns num cartão só\n- Alt+F11: Todas as opções, cada uma delas, mudando na hora
+6091	A página de um homem
+6092	Posto e posição, o ódio e o medo que ele tem de você, o temperamento e os traços dele, os parentes e amigos dele, as cicatrizes que você deixou nele, e um histórico de tudo entre vocês - além de uma história de vida que volta anos antes de ele te conhecer. A vida fez ele assim: um homem que fugiu da primeira briga se assusta mais fácil, um que caiu na bebida bebe, um criado no sufoco se irrita mais rápido.
+6093	Fazendo Inimigos
+6094	Tudo o que você faz a um estranho conta - e qualquer gentileza também
+6095	A rixa
+6096	Todo estranho com quem você lida guarda uma conta em silêncio. Insultos, assaltos, socos, roubo, amarrar, roubar o cavalo dele, atirar nele, matar os amigos dele - cada coisa aumenta a conta. Cumprimentar, acalmar e gentileza baixam a conta - mas não logo depois de você machucar ele.\nPassou do limite, ele vira seu nêmesis na hora. Abaixo disso, ele decide quando deixar pra lá - quanto maior a conta, mais provável que ele não largue.
+6097	Use uma máscara
+6098	Uma bandana puxada pra cima, ou uma máscara (capuz ou máscara de caveira também): se ele nunca viu seu rosto, não tem como guardar rixa contra você. Mortes de máscara contam só um quarto na notoriedade de um bando, e um homem mascarado assusta as pessoas mais rápido. Mas tire a máscara na frente de alguém que viu o que você fez - ou interrogue um homem de cara limpa - e ele sabe que foi você. A lei e as testemunhas continuam tendo visto um homem mascarado fazer aquilo.
+6099	Ódio
+6100	- Ressentido: ele vem pra cima de você com os punhos\n- Vingativo: uma faca, talvez uma arma\n- Assassino: ele quer você morto\nCada homem tem seus próprios limites - um esquentado puxa a arma mais cedo, um andarilho mais tarde. O ódio passa com o tempo para alguns, e apodrece em outros.
+6101	Enganando a morte
+6102	Atire num nêmesis e ele pode sobreviver - marcado, e com mais raiva. Um tiro na cabeça ou no coração, ou acabar com ele enquanto está caído, garante. Mate um estranho e ele se vai pra sempre.
+6103	Quem Eles São
+6104	Cada nêmesis é uma pessoa, não um número
+6105	- Esquentado: rápido pra brigar, lento pra perdoar\n- Orgulhoso: nunca recua, odeia ser humilhado\n- Frio: paciente, difícil de assustar, difícil de ler\n- Covarde: foge, se rende, paga outros pra fazer o serviço\n- Ganancioso: dinheiro move ele, pros dois lados\n- Leal: morre pelo bando, nunca abre o bico\n- Andarilho: pode simplesmente deixar pra lá
+6106	Cicatrizes, ferimentos que aleijam, ver você matar os amigos deles e sua fama sangrenta, tudo isso assusta os homens. Homens assustados caçam menos você, debandam nas lutas, se rendem e falam.
+6107	Mentes e memórias
+6108	Os homens lembram o que você fez - a vergonha de uma surra, a dor de um irmão morto. Alguns querem vingança, alguns querem subir no bando, alguns só querem sair. As necessidades, o estresse e os objetivos deles mudam o jeito como agem.
+6109	Família e amigos
+6110	Os homens têm irmãos, primos, filhos e amigos - no próprio bando e fora dele. Mate um e os outros ficam sabendo em horas ou dias - aí eles choram o morto, ou vêm atrás de sangue.
+6111	Bandos e Postos
+6112	Toda gangue é uma hierarquia - e você pode desmontar a gangue peça por peça
+6113	Postos
+6114	Cada bando tem um líder e três níveis abaixo dele. A cada poucos dias de jogo, cada bando tem a própria REORGANIZAÇÃO: os lugares vazios são preenchidos, os ambiciosos sobem e os sobreviventes que mereceram são promovidos. Homem novo quer pagamento - um bando sem dinheiro deixa lugares vazios. Um bando que perdeu os oficiais se reorganiza mais cedo, e preenche a maior parte dos lugares vazios - nem sempre todos - com os homens que mereceram. Mate um capitão e alguém toma o lugar dele - talvez alguém pior.
+6115	Os líderes do próprio jogo - Colm O'Driscoll, Lindsey Wofford, Coronel Favours, Angelo Bronte, Rains Fall - ficam no topo. Selecione o cartão de um líder para ver a página dele: a vida dele, o que ele quer, o dinheiro, os homens e as guerras dele. Mate ou capture um e o lugar dele abre - em um a quatro dias o bando escolhe um novo líder. Entregar o Wofford pela recompensa também conta.
+6116	Mate os homens de um bando e eles aprendem seu nome: Desconhecido, Notado, Procurado, Caçado, Rixa de Sangue. Quanto mais sobe, mais vezes eles vêm, mais homens trazem e melhor lutam. Diminui com o tempo - mais rápido se você deixar os homens deles viverem, matar os inimigos deles, ou mandar ao líder um presente ou um pedido de desculpas por telegrama.
+6117	Alguns precisam de motivo
+6118	O Exército, a Família Bronte e os Wapiti não vêm atrás de você sem provocação. Mate os homens deles e eles vêm - e uma recompensa grande o bastante pela sua cabeça também vira o Exército contra você. Nas estradas você vai encontrar mais os postos baixos; oficiais aparecem raramente.
+6119	O problema cresce em silêncio - e depois te encontra
+6120	No ermo
+6121	A tensão sobe enquanto você cavalga - mais rápido à noite e quanto mais notório você for - e quando chega no auge, alguém aparece: um homem e o bando dele acampados na beira da estrada, cavaleiros na sua cola, uma carroça à frente, um atirador numa crista. Depois de um ou dois dias tranquilos fora do ermo, o primeiro te encontra mais cedo. Uma luta grande com um encontro ou um acampamento derruba a tensão de vez; uma briga com qualquer outro só corta pela metade. Nada aparece enquanto você está numa missão (de um estranho também), em lugar fechado ou descansando.
+6122	Impasses
+6123	Muitos encontros começam com palavras. Cumprimente e ele pode recuar, dependendo do temperamento dele e do medo que ele tem de você. Provoque, saque a arma pra ele ou atire, e começa - mas um homem sem coragem pra isso pode recuar nas palavras e ir embora.
+6124	Nas cidades
+6125	As pessoas que você conheceu aparecem de novo. Homens com rixa bebem no balcão, sentam nas varandas e andam pelas ruas - a maioria guarda a rixa e não começa nada a não ser que você force, mas de vez em quando um vem até você pra acertar as contas. No máximo um homem vem atrás de você a cada visita, e os outros ficam fora de uma briga que não é deles, a não ser que você bata neles ou saque a arma pra eles. Mas se alguém do bando dele, um amigo ou um parente vê você brigando com ele, um homem leal ou corajoso vem dar apoio a ele. O povo comum da cidade costuma ficar de fora - de vez em quando um mais durão entra na briga. Oficiais têm hábitos - um saloon em certas noites, uma estrada ao entardecer: pegue um deles nisso duas vezes, ou faça os homens dele falarem, e você vai saber onde esperar por ele. Machuque ele lá e ele para de ir. Se alguém vier pra cima de você com os punhos ou uma faca, um homem da lei que vir leva ele pra cela - se ele sacar uma arma, eles atiram. Bata primeiro onde um homem da lei possa ver, ou continue batendo num homem já vencido, e a lei vem atrás de você.
+6126	O mundo ao seu redor
+6127	No interior, as patrulhas respondem a tiros - se já acabou quando chegam, olham a cena e seguem viagem. As cidades têm a própria lei. Bandos rivais se enfrentam em escaramuças em que você pode entrar ou só assistir - atire num dos lados, ou atire perto deles, e esse lado vira as armas pra você. Num saloon, pode ter soldados bebendo quando os Saqueadores entram pela porta.
+6128	O medo faz os homens falarem
+6129	Fazendo ele falar
+6130	Um homem de gangue à sua mercê - amarrado, preso na sua mão, rendido, ferido no chão, ou na mira da arma - pode ser interrogado. Procure INTERROGAR no direcional para cima nos comandos dele (I no teclado).
+6131	Assustando ele
+6132	O medo é tudo. Bata nele, corte ele, atire perto dele, mantenha a arma apontada pra ele, ameace ele, ou deixe ele ver os amigos morrerem. Cada temperamento quebra de um jeito - um covarde cede, um homem leal pode nunca falar. B (Backspace) fecha as perguntas pra você poder bater nele; direcional para cima pergunta de novo.
+6133	O que perguntar
+6134	As perguntas são agrupadas em O quê / Quando / Onde / Por quê: o próximo serviço do bando dele, quando você pode pegar o chefe dele, o que está vindo no bando, onde o chefe dele está entocado, onde o dinheiro e os mantimentos ficam guardados, a família dele, por que ele cavalga.\n- A primeira pergunta é a mais difícil - a não ser que ele esteja apavorado de verdade\n- Morrendo de medo, ele provavelmente vai falar\n- Cada pergunta mostra a chance de ele responder - quanto mais medo ele tem, mais ele entrega (sozinho vale mais que um hábito, que vale mais que um trajeto)\n- Cada homem só entrega um ou dois segredos grandes - peça mais e ele diz por que não\n- Ele pode mentir - e você vai descobrir
+6135	O que você ganha
+6136	Acampamentos e esconderijos marcados no seu mapa, planos que você pode emboscar, os hábitos de um oficial, um enterro pra assistir, parentes e amigos, o próprio passado dele. Depois solte ele - um homem com medo pode largar o bando e levar um parente ou amigo junto - ou acabe com ele.
+6137	Acampamentos e Esconderijos
+6138	Encontre, chegue de mansinho, limpe tudo
+6139	Encontrando
+6140	Os oficiais mantêm acampamentos e esconderijos - os acampamentos de gangue do jogo, Beaver Hollow, a mansão Bronte e o cais de Saint Denis, a reserva Wapiti. Chegue perto de um acampamento e você encontra; um esconderijo só vai pro mapa quando alguém entrega ou você luta lá.
+6141	Chegando perto
+6142	Os acampamentos começam desconfiados, não hostis. Agache, venha à noite ou na neblina, e fique fora de vista - a suspeita cresce enquanto eles conseguem te ver. Um tiro ou um corpo que eles encontram te denuncia.
+6143	Cofres
+6144	Todo bando menos o Exército guarda o dinheiro num acampamento - mais guardas, e cofres com boa parte do caixa. Poucos homens do bando sabem onde fica - provavelmente os homens de confiança do líder - mas você pode perguntar, ou alguém que gosta de você pode mandar uma dica por telegrama. Segure para arrombar um cofre - o acampamento ouve. Eles mudam o lugar depois de um roubo. Um bando reduzido aos últimos acampamentos esconde o dinheiro longe deles.
+6145	Todo bando menos o Exército também guarda os mantimentos num acampamento - caixotes, grandes estoques, uma carroça, cavalos. Atire nos caixotes, exploda os estoques, destrua ou leve a carroça, espante os cavalos, e o bando fica sem. Mais homens sabem onde estão os mantimentos. Carroças de mantimentos carregadas e com escolta rodam as estradas - uma que você avistar aparece no mapa - e cidades que eles controlam podem ter os caixotes deles na rua.
+6146	Limpando os acampamentos
+6147	Mate ou espante todos os homens e o acampamento fica vazio por alguns dias. O bando perde terreno. Bandos rivais podem tomar o lugar, e o Exército ataca acampamentos de foras da lei perto do próprio território. Foras da lei nos acampamentos, grupos e patrulhas deles são presa livre - sem recompensa por matar eles; soldados e os Wapiti são outra história.
+6148	Lendo o mapa
+6149	O rótulo de um acampamento diz o bando e o oficial. (?) - te contaram onde fica mas você não viu. Um baú marca um acampamento de mantimentos, uma casa um cofre; (atacado) ou (roubado) - você atacou; (reabastecendo) - eles mudaram os estoques. Um ? branco é um campo de batalha; um marcador pulsando é uma luta acontecendo (tiros lá longe não têm marcador - siga o som).
+6150	O quartel-general do Exército. Só um oficial conhece os hábitos do comandante, e mesmo esse oficial pode não entregar. Mate o comandante lá e o forte fica vazio até o Exército escolher um novo.
+6151	O Mundo Vivo
+6152	A aba MUNDO guarda todas as histórias que os jornais deixaram passar
+6153	A toda hora
+6154	Bandos brigam por acampamentos e território, homens brigam por cartas e mulheres, casam, adoecem, se embebedam, vão presos, morrem em duelos. Tudo isso vai pra aba MUNDO com as pessoas envolvidas e o que aconteceu com elas.
+6155	Território e guerras
+6156	Cada distrito é controlado por bandos. Vença lutas e o território muda. Rixas antigas, estopins e o objetivo de cada líder (mostrado na página dele na hierarquia) começam guerras. Uma guerra dura até um lado conseguir o que quer, ficar sem homens, fazer as pazes ou esfriar - pode durar semanas, com tréguas no meio. Mate os oficiais de um lado e a guerra desse lado vacila; ajude um lado e eles vão lembrar.
+6157	Força
+6158	Homens, dinheiro, mantimentos e território formam a força de um bando, mostrada na hierarquia - com os distritos que controlam embaixo. Serviços e grandes golpes enchem o caixa; roubar os homens deles e limpar os acampamentos esvaziam. Cada morte tira um homem de luta - um bando com poucos homens monta acampamentos, grupos e patrulhas menores - e o dinheiro contrata de volta; quando falta, homens da região podem entrar por uma parte. Os mantimentos vêm do território e acabam com cada homem e cada luta: um bando com pouco arma os homens com revólveres, e um com poucos mantimentos não consegue começar uma guerra nem contratar gente.
+6159	Guerras de perto
+6160	Os distritos em guerra ficam marcados no mapa e veem muito mais luta - quanto mais quente a guerra, mais frequente. Você pode ouvir uma batalha ao longe e cavalgar até lá pra ver o que sobrou, e à noite vai ouvir explosões. O lado que controla uma cidade põe barreiras nas estradas de entrada e homens nas ruas - eles deixam você passar a não ser que estejam atrás de você, e numa guerra quente podem te mandar voltar. Os inimigos ficam de fora, e quando uma guerra pega fogo eles controlam estradas no interior também. Segure o direcional para baixo para ver quem está em guerra; a página Guerras da aba MUNDO tem cada guerra completa.
+6161	Campos de batalha
+6162	Depois de uma luta grande, um ? marca o local por um tempo. Vá até lá pra encontrar os mortos - e às vezes sobreviventes, ainda lá. Os bandos enterram os seus: um dia depois que um oficial morre, os parentes e os homens dele se reúnem na beira da cova por algumas horas (um homem sem bando é enterrado por quem quiser chorar por ele). O jornal publica quando e onde. Assista, preste homenagem a pé e de mãos vazias, ou encha tudo de bala - eles vão lembrar qual foi.
+6163	Cada save tem seu mundo
+6164	Cada save do jogo guarda o próprio mundo. Troque entre seus saves e os nêmesis, o mundo e a história trocam junto. Um save que o enRAGE nunca viu ganha um mundo próprio. Shift+F11 desfaz uma troca por dois minutos.
+6165	Pessoas e Reputação
+6166	Todo mundo tem um nome - e uma memória
+6167	Nomes
+6168	Estranhos são estranhos até você cumprimentar. Cumprimente um grupo e você conhece todos. As pessoas que você conhece são lembradas, e aparecem de novo. Um cartão de nome mostra "Estranho" até você cumprimentar ele, depois o temperamento dele; quem tem rixa ou ódio mostra o temperamento e o tamanho da raiva, e os homens de um bando mostram o posto acima do nome. Crianças também têm nome: cumprimente uma e você aprende um pouco sobre ela. Elas nunca guardam rixa.
+6169	Testemunhas
+6170	Cometa um crime na frente das pessoas e elas lembram - algumas passam a ter medo de você, algumas contam pra lei, algumas podem ser intimidadas a ficar caladas. A notícia se espalha pela cidade. Se defender de alguém que veio pra cima de você - com o punho ou uma arma - assusta muito menos.
+6171	Reputação
+6172	Toda cidade com que você lidou gosta ou odeia você, e isso aparece no mapa. Boas ações aumentam a reputação onde acontecem - ajudar ou salvar estranhos na estrada, acompanhar alguém em segurança, caridade, misericórdia, expulsar foras da lei da cidade - e a boa fama some em mais ou menos uma semana. As pessoas ficam mais desconfiadas onde você é malfalado - mas boas ações suavizam o que os recém-chegados ouvem, quem gosta de você demora mais pra fugir, e o medo passa mais rápido numa cidade que gosta de você. Homens que viraram nêmesis numa cidade pesam na opinião dela sobre você, e rixas que as pessoas deixaram pra lá somem com o tempo. Se alguém bater primeiro, a lei fica do seu lado.
+6173	Gentileza
+6174	A pé, dê uns dólares a alguém (direcional para cima) - ele vai lembrar. Depois disso, você ainda pode tocar o chapéu pra ele. No balcão, pague uma bebida pra um homem ($2). Usando chapéu, toque a aba pras pessoas que encontrar - a pé ou da sela (conta uma vez por dia por pessoa). Diga olá todo dia: o primeiro cumprimento conta mais, e quem gosta de você fala bem de você pros amigos.
+6175	Telegramas
+6176	Visite qualquer funcionário da estação (direcional para cima ou T) para escrever aos seus nêmesis - fazer as pazes, ameaçar, pagar pra deixarem você em paz, perguntar do chefe deles - ou a pessoas que você conheceu: lembranças, um presente, pêsames, um favor. Cada mensagem diz o efeito provável antes de você enviar. As respostas chegam em dias e contam o que a mensagem fez - e se ele ainda vai vir atrás de você; Enviados recentemente lista o que você mandou e no que deu, e os mortos não respondem. Responda pra manter a conversa: gente amigável vira correspondente e manda notícias, mas escreva demais - ou pra alguém que não te suporta - e eles param de responder por um tempo. O funcionário também vende o jornal local (5 centavos): as notícias da região escritas do jeito dos jornais - seus próprios feitos no meio, mas seu nome só aparece num cartaz de PROCURADO - as guerras ou sua recompensa, e os enterros que vêm por aí.
+6177	O Raio-X
+6178	Cada bala, cada osso
+6179	Ferida por ferida
+6180	Cada homem que você baleia fica registrado: o caminho da bala pelo corpo dele, os ossos que ela quebrou, os órgãos que atingiu, entrada e saída. Abra a aba REGISTRO DE RAIO-X, escolha um homem e um tiro, e gire o esqueleto. Os animais que você abate (cervos, lobos, ursos, pássaros...) têm a própria lista com o próprio esqueleto - e o veredito de um caçador sobre o tiro.
+6181	A munição importa
+6182	Balas de ponta dividida se partem, as de alta velocidade atravessam, a expressa bate mais forte, as explosivas e incendiárias fazem o que o nome diz.
+6183	Ferimentos que ficam
+6184	Um tiro na coluna ou no pescoço pode aleijar um homem pra sempre - os nêmesis lembram do mancar, da cicatriz, do braço que nunca colou direito. Atire pra ferir, ou atire pra matar.
+6185	Punhos e botas
+6186	Socos, chutes, pisões e estrangulamentos também ficam registrados, golpe por golpe, de um olho roxo a um crânio rachado. Um homem que você nocauteia ou estrangula até apagar aparece como desacordado, não morto.
+6187	- Arrastar o mouse ou analógico direito: girar o esqueleto\n- Roda ou LT / RT: zoom\n- Q / E ou LB / RB: Humanos / Animais
+6188	Você Está Pronto
+6189	Pegue a estrada. Arrume uns inimigos.
+6190	Algumas dicas
+6191	- Seu primeiro nêmesis está a uma má decisão de distância\n- Máscaras mantêm seu nome limpo - na maioria das vezes\n- Interrogue oficiais, não soldados rasos, pelos grandes segredos\n- Confira a aba MUNDO: os bandos não ficam parados sem você\n- Um nêmesis caído nem sempre está morto - atire de novo pra garantir
+6192	Do seu jeito
+6193	O no menu (controle: Start) abre as Opções: as mais comuns num cartão só. A linha Todas as opções, ou Alt+F11, abre todas as opções (WASD ou as setas para mover). Outro mod na mesma tecla? A linha Tecla do menu no cartão de Opções: uma tecla, ou uma combinação como Shift+F9. Aumente ou diminua as mensagens na tela e os cartões de nome pelo menu (N e C). Notícias do Mundo decide quais eventos do mundo aparecem. Encontros define com que frequência alguém vem atrás de você: Menos, Normal, Mais ou Muitos. Outras teclas: Todas as opções, [Keys] - escolha uma, aperte Enter, depois aperte a nova tecla.
+6194	F11, depois G (controle: Y) traz o guia de volta a qualquer hora.
+6195	um menu, três páginas - Tab / View alterna entre elas
+6196	Abas
+6197	Bandos
+6198	A página dele
+6199	=
+6200	=
+6201	=
+6202	=
+6203	Opções
+6204	=
+6205	A RIXA DE UM ESTRANHO
+6206	ele pode deixar pra lá
+6207	+15 PROVOCADO
+6208	+45 ROUBADO
+6209	+8 SOCO
+6210	-6 CUMPRIMENTO
+6211	O ÓDIO DELE
+6212	punhos
+6213	faca, talvez uma arma
+6214	Sgto. Denton
+6215	Sgto. Dillard
+6216	Sgto. Eatlin
+6217	Sgto. Ketchum
+6218	alguém aparece
+6219	O IMPASSE
+6220	ele pode recuar
+6221	começa
+6222	Pegar
+6223	Libertar
+6224	Direcional para cima - ou I no teclado
+6225	ARMA APONTADA PRA ELE
+6226	UM ACAMPAMENTO OU ESCONDERIJO
+6227	descoberto no interrogatório
+6228	UM CAMPO DE BATALHA
+6229	os mortos - e sobreviventes
+6230	SUSPEITA
+6231	um homem grita
+6232	alerta
+6233	23 fev 18:53
+6234	Você matou Sd. Atwood, Sd. Spurlock  -  2 mortos
+6235	23 fev 18:07
+6236	Cel. Henry Favours foi morto em Fort Wallace  -  1 morto
+6237	23 fev 16:40
+6238	O Clã Murfree atacou a Gangue O'Driscoll nos arredores de Annesburg
+6239	REPUTAÇÃO NA CIDADE
+6240	+34  Bem-visto
+6241	+5  Conhecido
+6242	-61  Odiado
+6243	TODOS OS FERIMENTOS
+6244	Pulmão direito perfurado
+6245	GRAVE
+6246	Quarta costela fraturada
+6247	SÉRIO
+6248	A bala saiu pelas costas
+6249	=
+6250	=
+6251	Eventos do dia a dia dos homens da sua lista (WorldSim LIFE, WorldLife.cs). who: any / gang / loner / army / um id de facção. Tokens {n} ele, {t} uma cidade, {g} a gangue dele, {f} um parceiro, {b} o chefe dele, {l} o líder dele. weight: + bom / - ruim, força do humor. hours: horas na cabeça dele. when: condições ligadas por & (e) e | (ou): married single children notarmy knows poor rich dim sharp pet nopet loyal coward hothead proud cold greedy drifter friendly surly devout godless notgodless catholic uma mania (drunk gambler braggart traitor honest superstitious sadist) rank>=N rank<=N hate>=N hate<N (N ou vengeful / murderous) fear>=N fear<N aggr<N aggr>=N. odds: frequência (10 = o normal). effects: rest:H fear:N hate:N child marry single widow scar:beat|blade|claw friend sour pet nopet. Os Ids evitam que linhas embutidas sejam adicionadas duas vezes; ponha um Id em Removed para tirar uma linha embutida de vez.
+6252	{n} pegou uma febre
+6253	{n} pegou uma tosse na chuva que não sara de jeito nenhum
+6254	{n} levou um tombo do cavalo
+6255	{n} levou uma picada de cascavel
+6256	{n} se engalfinhou com um puma e sobreviveu
+6257	as garras do puma
+6258	{n} se perdeu numa nevasca lá nas montanhas
+6259	{n} pegou uma insolação na trilha
+6260	{n} comeu carne estragada e passou dois dias doente
+6261	{n} perdeu um dente numa briga de taverna em {t}
+6262	{n} levou uma surra de três bêbados em {t}
+6263	{n} achou um cachorro sem dono que agora anda atrás dele
+6264	O cachorro de {n} foi morto por um lobo
+6265	{n} viu um enforcamento em {t}
+6266	{n} passou uma noite na cadeia de {t}
+6267	{n} se casou em {t}
+6268	{n} teve mais um filho
+6269	A mulher de {n} foi embora e largou ele
+6270	A mulher de {n} morreu de tuberculose
+6271	{n} ouviu histórias do que você fez
+6272	{n} jurou na frente de testemunhas que ia te matar
+6273	{n} contou pra todo mundo em {t} como ia te vencer
+6274	{n} teve pesadelos com você
+6275	{n} afiou a faca pensando em você
+6276	{n} decidiu que não vale a pena morrer por sua causa
+6277	{n} viu seu cartaz de procurado em {t}
+6278	{n} e {f} ficaram amigos
+6279	{n} acusou {f} de desviar parte do saque
+6280	{n} pegou a febre que anda rodando o acampamento
+6281	{n} perdeu dois dedos do pé pra um jacaré no raso
+6282	o jacaré
+6283	{n} pegou a febre do pântano
+6284	{n} se desentendeu com {f} sobre qual dos dois o pântano favorece
+6285	{n} acolheu um cachorro sem dono e batizou o bicho com o nome de um morto
+6286	{n} e {f} viram um barco a vapor passar e contaram as luzes
+6287	{n} levou um coice de cavalo no curral
+6288	{n} e {f} tocaram um rebanho roubado a noite toda até Hennigan's Stead
+6289	{n} discutiu com {f} sobre quem perdeu o último rebanho
+6290	{n} passou três dias sem água em Gaptooth Ridge
+6291	{n} e {f} se esconderam de uma patrulha do Exército num leito seco o dia inteiro
+6292	{n} se meteu num empurra-empurra por causa de uma mulher em {t}
+6293	{n} perdeu o dinheiro de uma semana no faraó em {t}
+6294	{n} levou um coice de mula
+6295	{n} comeu carne estragada e ficou dois dias doente
+6296	{n} viu um fantasma perto da igreja velha, e jura de pé junto
+6297	{n} leu sobre você no jornal
+6298	{n} contou vantagem sobre você num saloon e virou piada
+6299	{n} passou a noite em claro com uma garrafa, pensando em você
+6300	{n} machucou feio um homem numa briga por nada
+6301	O caçula de {n} ficou doente lá em casa
+6302	{n} ganhou um cachorro de um fazendeiro perto de {t}
+6303	{n} discutiu com {b} sobre a divisão de um serviço
+6304	Pegaram {n} desviando parte do saque de {g}
+6305	{n} ouviu dizer que Colm queria acertar as contas com o Dutch
+6306	ponta dividida
+6307	expressa
+6308	alta velocidade
+6309	explosiva
+6310	incendiária
+6311	balote
+6312	flecha de fogo
+6313	flecha envenenada
+6314	flecha para caça pequena
+6315	flecha aprimorada
+6316	o corpo
+6317	CRÂNIO FRATURADO
+6318	MANDÍBULA ESTILHAÇADA
+6319	VÉRTEBRAS DO PESCOÇO ESTILHAÇADAS
+6320	COLUNA ROMPIDA (ALTO DAS COSTAS)
+6321	COLUNA ROMPIDA (LOMBAR)
+6322	COSTELAS ESQUERDAS ESTILHAÇADAS
+6323	COSTELAS DIREITAS ESTILHAÇADAS
+6324	ESTERNO TRINCADO
+6325	ESCÁPULA ESQUERDA TRINCADA
+6326	ESCÁPULA DIREITA TRINCADA
+6327	PELVE ESTILHAÇADA
+6328	ARTÉRIA FEMORAL ESQUERDA ROMPIDA
+6329	ARTÉRIA FEMORAL DIREITA ROMPIDA
+6330	VÉRTEBRA RASPADA (ALTO DAS COSTAS) - MEDULA INTACTA
+6331	VÉRTEBRA RASPADA (LOMBAR) - MEDULA INTACTA
+6332	VÉRTEBRA DO PESCOÇO RASPADA - MEDULA INTACTA
+6333	BALA ALOJADA NA COLUNA (ALTO DAS COSTAS) - MEDULA INTACTA
+6334	VÉRTEBRA LASCADA (ALTO DAS COSTAS) - MEDULA INTACTA
+6335	BALA ALOJADA NA COLUNA (LOMBAR) - MEDULA INTACTA
+6336	VÉRTEBRA LASCADA (LOMBAR) - MEDULA INTACTA
+6337	VÉRTEBRA DO PESCOÇO LASCADA - MEDULA INTACTA
+6338	FERIMENTO SUPERFICIAL
+6339	a lateral da cabeça
+6340	a parte de trás do crânio
+6341	o rosto
+6342	quadril
+6343	nádegas
+6344	lombar
+6345	parte de cima das costas
+6346	, lado direito
+6347	, lado esquerdo
+6348	=
+6349	CAUDA QUEBRADA
+6350	CRÂNIO ESTILHAÇADO
+6351	PESCOÇO QUEBRADO
+6352	COLUNA ROMPIDA (SOBRE OS OMBROS)
+6353	ESTERNO TRINCADO
+6354	a barriga
+6355	o peito
+6356	o dorso
+6357	a garupa
+6358	TIRO NO CÉREBRO - CAIU NA HORA
+6359	TIRO NO CORAÇÃO - MORTE LIMPA
+6360	OS DOIS PULMÕES - MORTE RÁPIDA
+6361	TIRO NA COLUNA - CAIU ONDE ESTAVA
+6362	TIRO NA BARRIGA - MORTE LENTA
+6363	=
+6364	=
+6365	=
+6366	=
+6367	=
+6368	=
+6369	=
+6370	=
+6371	=
+6372	=
+6373	=
+6374	=
+6375	=
+6376	=
+6377	=
+6378	=
+6379	=
+6380	=
+6381	=
+6382	=
+6383	=
+6384	=
+6385	=
+6386	=
+6387	=
+6388	=
+6389	=
+6390	=
+6391	=
+6392	=
+6393	=
+6394	=
+6395	=
+6396	=
+6397	=
+6398	=
+6399	=
+6400	=
+6401	=
+6402	=
+6403	=
+6404	=
+6405	=
+6406	=
+6407	=
+6408	=
+6409	=
+6410	=
+6411	=
+6412	=
+6413	=
+6414	=
+6415	=
+6416	=
+6417	=
+6418	=
+6419	=
+6420	Cavalo
+6421	Mula
+6422	Cachorro
+6423	=
+6424	=
+6425	=
+6426	=
+6427	=
+6428	=
+6429	=
+6430	=
+6431	Urso-negro
+6432	=
+6433	=
+6434	=
+6435	=
+6436	=
+6437	=
+6438	Carneiro-selvagem
+6439	=
+6440	Bisão
+6441	=
+6442	=
+6443	=
+6444	=
+6445	=
+6446	=
+6447	=
+6448	=
+6449	Javali Lendário
+6450	=
+6451	=
+6452	=
+6453	=
+6454	=
+6455	=
+6456	=
+6457	=
+6458	=
+6459	=
+6460	=
+6461	=
+6462	=
+6463	=
+6464	=
+6465	=
+6466	=
+6467	Pecari
+6468	=
+6469	=
+6470	[Meta]\r\nVersion=4\r\n\r\n[BulletImpact]\r\nEnabled={0}\r\n\r\n[Debug]\r\n; True = também grava as linhas DIAG de cada quadro no BulletImpact.log (acertos, tiros fatais e aleijamentos sempre vão pro log).\r\nLogHits={1}\r\n\r\n[Wounds]\r\n; Coluna / pelve / joelho / ossos da perna estilhaçados derrubam a pessoa de vez (ela rasteja), pescoço quebrado\r\n; paralisa, pé estilhaçado deixa mancando. Decidido pelo raio-X de cada acerto.\r\nCrippling={2}\r\n; O dano da sua arma contra todo mundo, 1.0 = original. Menor = as pessoas aguentam mais tiros antes de morrer.\r\nPlayerDamage={3}\r\n; Um tiro cujo raio-X destrói o cérebro ou perfura o coração mata na hora, seja qual for o dano.\r\nKillShots={4}\r\n\r\n[XRay]\r\n; Registro de raio-X (F11, depois Tab): as MaxEntries pessoas mais recentes e os MaxEntries animais mais recentes ficam em enRAGE\\xray_log.json.\r\nMaxEntries={5}\r\n; Detail: Auto (o melhor que cabe no limite de retângulos) / High / Medium / Low.\r\nDetail={6}\r\n; O limite por quadro do jogo para retângulos desenhados por script (ele descarta o resto sem avisar). O raio-X usa\r\n; o que o menu deixar sobrando. Meça com a tela de calibração: K no registro de raio-X.\r\nRectLimit={7}\r\n; Cada letra de texto na tela parece sair do mesmo limite por quadro (o texto do relatório do raio-X deixava o esqueleto\r\n; desenhado pela metade). O orçamento do raio-X desconta essa quantidade de unidades por letra desenhada. Aumente se ainda faltarem ossos.\r\nGlyphCost={8}\r\n
+6471	Pescoço quebrado - paralisia
+6472	Coluna rompida - paralisia
+6473	Pelve estilhaçada - não fica de pé
+6474	Joelho estilhaçado
+6475	Perna quebrada
+6476	Os dois pés estilhaçados - não fica de pé
+6477	Pé estilhaçado - mancando
+6478	As duas canelas quebradas - não fica de pé
+6479	Canela quebrada - mancando
+6480	=
+6481	a agarrada (por trás)
+6482	o estrangulamento (uma derrubada)
+6483	parte da imobilização (o estrangulamento)
+6484	=
+6485	=
+6486	=
+6487	=
+6488	=
+6489	=
+6490	=
+6491	=
+6492	=
+6493	=
+6494	, ele estava no chão
+6495	, você segurava ele
+6496	, ele estava de pés e mãos atados
+6497	Mãos nuas
+6498	=
+6499	=
+6500	=
+6501	=
+6502	=
+6503	=
+6504	=
+6505	=
+6506	=
+6507	=
+6508	=
+6509	=
+6510	=
+6511	=
+6512	=
+6513	=
+6514	=
+6515	=
+6516	=
+6517	=
+6518	=
+6519	=
+6520	=
+6521	=
+6522	=
+6523	=
+6524	=
+6525	=
+6526	=
+6527	=
+6528	=
+6529	=
+6530	=
+6531	=
+6532	=
+6533	=
+6534	=
+6535	=
+6536	=
+6537	=
+6538	=
+6539	=
+6540	=
+6541	=
+6542	=
+6543	=
+6544	=
+6545	=
+6546	=
+6547	=
+6548	=
+6549	=
+6550	=
+6551	=
+6552	=
+6553	=
+6554	=
+6555	=
+6556	=
+6557	=
+6558	=
+6559	=
+6560	ESTILHAÇOS EM {0} ({1})
+6561	 COM QUEIMADURA
+6562	CONCUSSÃO - A ONDA DE CHOQUE
+6563	=
+6564	=
+6565	=
+6566	=
+6567	CANAL DE FERIDA LARGO
+6568	ATINGIDO POR UM BALOTE
+6569	VENENO NO SANGUE
+6570	=
+6571	animais
+6572	{0} {1} abatidos  -  {2} ferimento{3} no registro
+6573	ESTE TIRO
+6574	ESTE GOLPE
+6575	ESTA SURRA
+6576	=
+6577	ARMAS
+6578	ESTADO
+6579	Nocaute
+6580	CAUSA
+6581	DESFECHO
+6582	DISTÂNCIA
+6583	=
+6584	EFEITO
+6585	=
+6586	TIRO {0} DE {1}
+6587	=
+6588	=
+6589	=
+6590	=
+6591	=
+6592	=
+6593	{0:0} cm atravessando o corpo{1}
+6594	Socos
+6595	Chutes
+6596	Com a arma
+6597	Estrangulamento
+6598	LEVE
+6599	MODERADO
+6600	CRÍTICO
+6601	FATAL
+6602	LASCADO
+6603	COMO ACONTECEU
+6604	ESQUELETO
+6605	ÓRGÃOS
+6606	VASOS E VIAS AÉREAS
+6607	TECIDO MOLE
+6608	+{0} a mais
+6609	Osso contundido, não quebrado - ainda funciona
+6610	Osso contundido; medula intacta - ele ainda consegue se mexer
+6611	Morte instantânea
+6612	O coração para em segundos
+6613	Sangra até morrer em menos de um minuto
+6614	Sangra até morrer em minutos sem um torniquete
+6615	Engasgando com o próprio sangue
+6616	O pulmão colapsa - afogando em sangue
+6617	Hemorragia interna forte
+6618	Hemorragia interna, declínio lento
+6619	Ferida na barriga - infecção, morte agonizante
+6620	Ferida na barriga - septicemia em poucos dias
+6621	Dói muito, raramente mata
+6622	Concussão, provável dano cerebral
+6623	Não consegue falar nem comer direito
+6624	Paralisia do pescoço para baixo
+6625	Paralisia abaixo do ferimento
+6626	Cada respiração dói
+6627	Peito esmagado, respiração difícil
+6628	Ombro fraco, braço difícil de levantar
+6629	Não consegue levantar o braço
+6630	Braço inútil
+6631	Não consegue segurar uma arma nessa mão
+6632	Não consegue agarrar
+6633	Não consegue ficar de pé
+6634	A perna não aguenta peso
+6635	Perna travada - não fica de pé
+6636	Não consegue apoiar o peso na perna
+6637	Anda mancando
+6638	Sangra, mas nada vital
+6639	SOBREVIVEU
+6640	APAGOU NO ESTRANGULAMENTO
+6641	ESTRANGULADO
+6642	ESPANCADO
+6643	Balote de espingarda
+6644	Chumbo incendiário
+6645	Cartucho de pistola
+6646	Cartucho de revólver
+6647	Cartucho de repetição
+6648	Cartucho de rifle
+6649	Bala de rifle de alta velocidade
+6650	Chumbo grosso
+6651	Lâmina - estocada
+6652	Lâmina - corte
+6653	Lâmina pesada - machadada
+6654	Explosão - estilhaços
+6655	Flecha
+6656	Arma desconhecida
+6657	Cima/Baixo  Navegar     Q/E  Humanos / Animais     A/D W/S  Girar     Z/X  Zoom     Espaço  Rodar     R  Reiniciar
+6658	Humanos
+6659	=

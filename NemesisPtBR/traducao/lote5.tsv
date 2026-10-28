@@ -1,0 +1,834 @@
+id	usos	contexto	prefixo_fixo	texto
+3333	1	InterroLines::.cctor<Dictionary`2.set_Item>		Mother Mary, I'm still breathin'...
+3334	1	InterroLines::.cctor<Dictionary`2.set_Item>		Here - ${dollars}, every cent. Take it and I was never here.
+3335	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. That's me boat fare home. Take it.
+3336	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ye want paid? ${dollars}. Now let me up, for God's sake.
+3337	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell ye where the boys ride. Every job. Just let me breathe.
+3338	1	InterroLines::.cctor<Dictionary`2.set_Item>		Colm'd skin me for this... aye, I'll send word before every job.
+3339	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll be yer ears in the camp, God forgive me.
+3340	1	InterroLines::.cctor<Dictionary`2.set_Item>		Then I owe ye one. One, mind.
+3341	1	InterroLines::.cctor<Dictionary`2.set_Item>		An Irishman pays his debts. Once. Then we're square.
+3342	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll stand down the next time, boyo. Just the once.
+3343	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll be on the next boat. Ye'll never see me again.
+3344	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm done with the boys and done with this country. I swear it.
+3345	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll ride so far ye'll need a map to hate me.
+3346	1	InterroLines::.cctor<Dictionary`2.set_Item>		I already bought me life off ye once. Go on and finish it.
+3347	1	InterroLines::.cctor<Dictionary`2.set_Item>		We had a deal last time. There's no second deal, boyo.
+3348	1	InterroLines::.cctor<Dictionary`2.set_Item>		I've a mam in Cork, mister! Let me go home to her!
+3349	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm nobody, I swear! Let me walk and ye'll never see me!
+3350	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please - I only joined for the grub!
+3351	1	InterroLines::.cctor<>		Unhand me, you damned carpetbagger.
+3352	1	InterroLines::.cctor<>	You 	You ain't from Lemoyne. I can smell it on you.
+3353	1	InterroLines::.cctor<>		Another Yankee thinks he owns this state.
+3354	1	InterroLines::.cctor<>		I fought at Petersburg. You think you scare me?
+3355	2	InterroLines::.cctor<> ; TelegramLines::.cctor<ValueTuple`2..ctor>	The 	The General will hear of this.
+3356	1	InterroLines::.cctor<>		This is Lemoyne soil you're standing on, mister.
+3357	1	InterroLines::.cctor<>		Get your filthy hands off a veteran.
+3358	1	InterroLines::.cctor<>		{leader}'ll have you strung up at Fort Brennand.
+3359	1	InterroLines::.cctor<>		Lemoyne don't need your kind, mister.
+3360	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You some Yankee lawman? Or just a thief?
+3361	1	InterroLines::.cctor<Dictionary`2.set_Item>		I've been in tighter spots than this. Ask Sherman.
+3362	1	InterroLines::.cctor<Dictionary`2.set_Item>		Well? Say your piece, carpetbagger.
+3363	1	InterroLines::.cctor<>		Easy now... easy. I'm just a farmer, I swear it.
+3364	1	InterroLines::.cctor<>		Don't shoot - I got a wife in Rhodes!
+3365	1	InterroLines::.cctor<>		Lord have mercy... what do you want with me?
+3366	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, mister, I only joined up for the meals.
+3367	1	InterroLines::.cctor<Dictionary`2.set_Item>		I wasn't even at the war, I swear it!
+3368	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lord, don't let it end like this. Not here.
+3369	1	InterroLines::.cctor<>		I'd sooner kiss a Yankee boot.
+3370	1	InterroLines::.cctor<>		I didn't talk to Sherman's men. I sure won't talk to you.
+3371	1	InterroLines::.cctor<>	The 	The Cause ain't dead, mister. Neither's my mouth shut.
+3372	1	InterroLines::.cctor<>		Go on back north where you belong.
+3373	1	InterroLines::.cctor<>		You'll get nothing from a son of Lemoyne.
+3374	1	InterroLines::.cctor<>		My daddy died at Shiloh with his mouth shut. I'll do the same.
+3375	1	InterroLines::.cctor<>	The 	The General treats his men right. You won't turn me.
+3376	1	InterroLines::.cctor<>		Carpetbagger questions get carpetbagger answers. None.
+3377	1	InterroLines::.cctor<>		I've held my tongue before Yankee officers. You're nothing next to them.
+3378	1	InterroLines::.cctor<>		Lemoyne keeps its own secrets.
+3379	1	InterroLines::.cctor<>		You'll have to shoot me, Yankee.
+3380	1	InterroLines::.cctor<>		{leader} never broke faith with us. I won't break it with him.
+3381	1	InterroLines::.cctor<>		I'll tell you where to go. North.
+3382	1	InterroLines::.cctor<Dictionary`2.set_Item>		Not one word. Not for you, not for any Yankee.
+3383	1	InterroLines::.cctor<Dictionary`2.set_Item>		We lost the war. We ain't lost our pride.
+3384	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ask the carpetbaggers. They know everything that's for sale.
+3385	1	InterroLines::.cctor<>		They'd hang me from the courthouse oak if I talked.
+3386	1	InterroLines::.cctor<>		Please... the General don't forgive.
+3387	1	InterroLines::.cctor<>		I can't. They'll burn my place. My wife's in it.
+3388	1	InterroLines::.cctor<Dictionary`2.set_Item>		They'd tar and feather me, mister. Worse.
+3389	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, {leader} has men in every parish!
+3390	1	InterroLines::.cctor<Dictionary`2.set_Item>		I can't talk. They'd know it was me.
+3391	1	InterroLines::.cctor<>		That's my last word on it, Yankee.
+3392	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ask all you like. That door's shut.
+3393	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm done talking, Yankee.
+3394	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's buried, mister. Deep as the Cause.
+3395	1	InterroLines::.cctor<>		I've been hit by Union shot. That's nothing.
+3396	1	InterroLines::.cctor<>	You 	You hit like a Yankee quartermaster.
+3397	1	InterroLines::.cctor<>		Is that how they fight up north?
+3398	1	InterroLines::.cctor<Dictionary`2.set_Item>		My mammy hit harder with a switch.
+3399	1	InterroLines::.cctor<Dictionary`2.set_Item>		That all the North taught you?
+3400	1	InterroLines::.cctor<Dictionary`2.set_Item>		Go on. I've had my teeth knocked out before.
+3401	1	InterroLines::.cctor<>		Enough! Lord, enough!
+3402	1	InterroLines::.cctor<Dictionary`2.set_Item>		Stop, stop - I'm an old soldier!
+3403	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lord have mercy! No more!
+3404	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! I'm done, I'm done!
+3405	1	InterroLines::.cctor<>		You'll hang for that, boy.
+3406	1	InterroLines::.cctor<Dictionary`2.set_Item>		Cut me, then. Lemoyne bleeds for its own.
+3407	1	InterroLines::.cctor<Dictionary`2.set_Item>		Yankee bayonets did worse at Chancellorsville.
+3408	1	InterroLines::.cctor<Dictionary`2.set_Item>		That'll cost you, Yankee. Mark it.
+3409	1	InterroLines::.cctor<>		Oh God, the blood - stop!
+3410	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't, please! I'll bleed out!
+3411	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lord, I'm cut open! Stop!
+3412	1	InterroLines::.cctor<Dictionary`2.set_Item>		Put that blade down, please, sir!
+3413	1	InterroLines::.cctor<>		Argh! The General will skin you!
+3414	1	InterroLines::.cctor<Dictionary`2.set_Item>		Damn you to hell!
+3415	1	InterroLines::.cctor<Dictionary`2.set_Item>		Shot by a carpetbagger. Of all the luck.
+3416	1	InterroLines::.cctor<Dictionary`2.set_Item>		Argh! You yellow-bellied Yankee!
+3417	1	InterroLines::.cctor<>		Mercy! I'll say it, I'll say anything!
+3418	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't shoot again! I yield, I yield!
+3419	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lord Jesus, I'll talk! I'll talk!
+3420	1	InterroLines::.cctor<Dictionary`2.set_Item>		No more! No more, I surrender!
+3421	1	InterroLines::.cctor<>	You 	You call that shooting?
+3422	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The boys at Antietam shot closer than that.
+3423	1	InterroLines::.cctor<Dictionary`2.set_Item>		Hah. Sherman's boys couldn't shoot neither.
+3424	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll need more practice than that.
+3425	1	InterroLines::.cctor<>		Jesus Christ! Don't!
+3426	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright! Lord, alright!
+3427	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lord! You near killed me!
+3428	1	InterroLines::.cctor<Dictionary`2.set_Item>		Easy! Easy with that!
+3429	1	InterroLines::.cctor<>		I've stared down worse at Gettysburg.
+3430	1	InterroLines::.cctor<Dictionary`2.set_Item>		Do your worst. Lemoyne remembers.
+3431	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lemoyne buried better men than you.
+3432	1	InterroLines::.cctor<Dictionary`2.set_Item>		I've had Yankees threaten me since I was fifteen.
+3433	1	InterroLines::.cctor<>		No sir! Please, sir!
+3434	1	InterroLines::.cctor<Dictionary`2.set_Item>		I got children, mister. Please.
+3435	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, mister, I'll leave the county!
+3436	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't, sir! I'm begging you!
+3437	1	InterroLines::.cctor<Dictionary`2.set_Item>		Yankee talk.
+3438	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You talk mighty big for a carpetbagger.
+3439	1	InterroLines::.cctor<Dictionary`2.set_Item>		We'll see, mister. We'll see.
+3440	1	InterroLines::.cctor<>		Yankee dollars. Keep 'em.
+3441	1	InterroLines::.cctor<Dictionary`2.set_Item>		I don't sell out my own, not for any price.
+3442	1	InterroLines::.cctor<Dictionary`2.set_Item>		I didn't fight four years to be bought by your kind.
+3443	1	InterroLines::.cctor<Dictionary`2.set_Item>		Keep your blood money, Yankee.
+3444	1	InterroLines::.cctor<>		Well now. Money's money, whoever's it is.
+3445	1	InterroLines::.cctor<Dictionary`2.set_Item>		A man's got to eat, even in Lemoyne.
+3446	1	InterroLines::.cctor<Dictionary`2.set_Item>		Well, the Cause don't pay much these days.
+3447	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lemoyne's a poor state, mister. I'll take it.
+3448	1	InterroLines::.cctor<Dictionary`2.set_Item>		My family had land here before your kind came. Keep it.
+3449	1	InterroLines::.cctor<Dictionary`2.set_Item>		I don't need Yankee charity.
+3450	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lord knows the war took everything. Alright.
+3451	1	InterroLines::.cctor<Dictionary`2.set_Item>		That'll feed my young'uns a week. Ask.
+3452	1	InterroLines::.cctor<Dictionary`2.set_Item>		Money. Well, it's something.
+3453	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright. But this don't make us friends.
+3454	1	InterroLines::.cctor<>		Fine. But you didn't get it from me.
+3455	1	InterroLines::.cctor<>		Alright, damn you.
+3456	1	InterroLines::.cctor<>		Listen close, 'cause I won't say it twice.
+3457	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You want the truth? Here it is.
+3458	1	InterroLines::.cctor<Dictionary`2.set_Item>		God help me. Alright.
+3459	1	InterroLines::.cctor<Dictionary`2.set_Item>		Keep this between us and the Lord.
+3460	1	InterroLines::.cctor<>		Alright, alright! God forgive me...
+3461	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you - just don't hurt me no more.
+3462	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright, I'll tell it! Just put that down!
+3463	1	InterroLines::.cctor<Dictionary`2.set_Item>		Mercy, I'll tell you all of it!
+3464	1	InterroLines::.cctor<>		Mercy from a Yankee. Don't that beat all.
+3465	1	InterroLines::.cctor<>		I'll remember this, mister. Can't say how yet.
+3466	1	InterroLines::.cctor<>		You're lettin' me walk? Huh. Alright.
+3467	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't think this makes us friends.
+3468	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The General'd have hanged you. Fool.
+3469	1	InterroLines::.cctor<Dictionary`2.set_Item>		Much obliged, I suppose.
+3470	1	InterroLines::.cctor<>		Bless you, sir. Bless you!
+3471	1	InterroLines::.cctor<>		I'm goin', I'm goin' - back to the farm!
+3472	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lord be praised. I'm gone.
+3473	1	InterroLines::.cctor<Dictionary`2.set_Item>		Thank you kindly, mister - you won't see me again.
+3474	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll pray for you, sir. Honest I will.
+3475	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. Every Yankee dollar I own. Take it.
+3476	1	InterroLines::.cctor<Dictionary`2.set_Item>		Here's ${dollars} - take it and let a man go home.
+3477	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. The war took the rest.
+3478	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you where the boys ride. Every job, before they mount up.
+3479	1	InterroLines::.cctor<Dictionary`2.set_Item>		God help me... I'll send word of what the General's planning.
+3480	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll be your man inside. Just let me live.
+3481	1	InterroLines::.cctor<Dictionary`2.set_Item>		Then I owe you a debt. A Southern man pays his debts.
+3482	1	InterroLines::.cctor<Dictionary`2.set_Item>		One time, mister. I'll back off one time. Then we're even.
+3483	1	InterroLines::.cctor<Dictionary`2.set_Item>		On my honor, I owe you. Once.
+3484	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll go west. Far from Lemoyne. You have my word.
+3485	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm done with the Cause. I'll leave the state tonight.
+3486	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll take my family and go. You'll never see me again.
+3487	1	InterroLines::.cctor<Dictionary`2.set_Item>		I already bought my life off you. That's all the mercy there is.
+3488	1	InterroLines::.cctor<Dictionary`2.set_Item>		We made a deal last time, Yankee. Don't push it.
+3489	1	InterroLines::.cctor<Dictionary`2.set_Item>		I got young'uns in Rhodes, mister! Please!
+3490	1	InterroLines::.cctor<Dictionary`2.set_Item>		I only rode with 'em for the pay! Let me go home!
+3491	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm an old soldier, sir. Let me die in my bed.
+3492	1	InterroLines::.cctor<>		You're assaulting a soldier of the United States.
+3493	1	InterroLines::.cctor<>		Let me go and you might only hang once.
+3494	1	InterroLines::.cctor<>		Colonel Favours will have every trooper at Fort Wallace on you.
+3495	1	InterroLines::.cctor<>		Private. That's all you get. Private.
+3496	1	InterroLines::.cctor<>		You'll swing for this, outlaw.
+3497	1	InterroLines::.cctor<>		Unhand me. That's an order.
+3498	1	InterroLines::.cctor<>		You've just made the worst mistake of your life.
+3499	1	InterroLines::.cctor<>		There's a patrol out here somewhere. They'll find you.
+3500	1	InterroLines::.cctor<>		Do you know the penalty for this? Do you?
+3501	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm a soldier, outlaw. I've been trained for worse.
+3502	1	InterroLines::.cctor<Dictionary`2.set_Item>		{leader} hangs men like you, and he sleeps fine after.
+3503	1	InterroLines::.cctor<Dictionary`2.set_Item>		Get your hands off the uniform.
+3504	1	InterroLines::.cctor<>		Easy - easy! I'm just a private, I only do what I'm told!
+3505	1	InterroLines::.cctor<>		Don't shoot, mister, I enlisted for the pay!
+3506	1	InterroLines::.cctor<>		Please... I'm only nineteen.
+3507	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't shoot! I've only been in a year!
+3508	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, I just drive the supply wagon!
+3509	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please - I just cook for the company!
+3510	1	InterroLines::.cctor<>		I took an oath.
+3511	1	InterroLines::.cctor<>		Name and rank, outlaw. That's all the army owes you.
+3512	1	InterroLines::.cctor<>		You'll get nothing. Not from a soldier.
+3513	1	InterroLines::.cctor<>	The 	The Colonel would have me court-martialed for less.
+3514	1	InterroLines::.cctor<>		You'll hang either way. I won't help you along.
+3515	1	InterroLines::.cctor<>		I'm not talking to a common thief.
+3516	1	InterroLines::.cctor<>		Go to hell. Sir.
+3517	1	InterroLines::.cctor<>	The 	The army doesn't bargain with bandits.
+3518	1	InterroLines::.cctor<>		I'll answer to the Colonel. Not to you.
+3519	1	InterroLines::.cctor<>	You 	You can beat me. I've been beaten by sergeants.
+3520	1	InterroLines::.cctor<>		Private, United States Army. And that's it.
+3521	1	InterroLines::.cctor<Dictionary`2.set_Item>		Every word I give you gets a trooper killed. Not happening.
+3522	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'd rather the stockade than talk to you.
+3523	1	InterroLines::.cctor<Dictionary`2.set_Item>		Regulations. I don't talk.
+3524	1	InterroLines::.cctor<>		They'd court-martial me. They'd shoot me!
+3525	1	InterroLines::.cctor<>		I can't. Favours would have me flogged.
+3526	1	InterroLines::.cctor<>		Please, I'd lose everything - my pay, my pension...
+3527	1	InterroLines::.cctor<Dictionary`2.set_Item>		If the Colonel found out, I'd be in irons for life!
+3528	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, they shoot deserters, they'd shoot me too!
+3529	1	InterroLines::.cctor<Dictionary`2.set_Item>		I can't! They'd drum me out and hang me after!
+3530	1	InterroLines::.cctor<>		That's classified. To you, everything is.
+3531	1	InterroLines::.cctor<Dictionary`2.set_Item>		No further comment, outlaw.
+3532	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's all the army's telling you.
+3533	1	InterroLines::.cctor<Dictionary`2.set_Item>		Request denied, outlaw.
+3534	1	InterroLines::.cctor<>		Our sergeant hits harder at drill.
+3535	1	InterroLines::.cctor<Dictionary`2.set_Item>		Striking a soldier. Add it to the list.
+3536	1	InterroLines::.cctor<Dictionary`2.set_Item>		Basic drill was worse than this.
+3537	1	InterroLines::.cctor<Dictionary`2.set_Item>		That'll look good at your trial.
+3538	1	InterroLines::.cctor<>		Stop! Please, stop!
+3539	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright! Christ, alright!
+3540	1	InterroLines::.cctor<Dictionary`2.set_Item>		Enough! Enough, for God's sake!
+3541	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! I'm just a private!
+3542	1	InterroLines::.cctor<>		You'll hang twice for that.
+3543	1	InterroLines::.cctor<Dictionary`2.set_Item>		Medic! ...Damn you.
+3544	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's another count against you.
+3545	1	InterroLines::.cctor<Dictionary`2.set_Item>		I've had worse from a mule.
+3546	1	InterroLines::.cctor<>		I'm cut - I'm cut bad! Stop!
+3547	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! I'll bleed out out here!
+3548	1	InterroLines::.cctor<Dictionary`2.set_Item>		Christ, it's deep! Stop!
+3549	1	InterroLines::.cctor<Dictionary`2.set_Item>		Get the surgeon! Please!
+3550	1	InterroLines::.cctor<>		Argh! You've shot a soldier of the Republic!
+3551	1	InterroLines::.cctor<Dictionary`2.set_Item>		They'll send the whole cavalry for this!
+3552	1	InterroLines::.cctor<Dictionary`2.set_Item>		You've just signed your own warrant!
+3553	1	InterroLines::.cctor<Dictionary`2.set_Item>		Argh! The whole regiment will hunt you!
+3554	1	InterroLines::.cctor<>		Don't! I'll tell you, I'll tell you!
+3555	1	InterroLines::.cctor<Dictionary`2.set_Item>		Mercy! I'm just a private!
+3556	1	InterroLines::.cctor<Dictionary`2.set_Item>		Stop! I'll talk, for God's sake!
+3557	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't fire! I yield, I yield!
+3558	1	InterroLines::.cctor<>		Worst marksmanship I've seen west of the Dakota.
+3559	1	InterroLines::.cctor<Dictionary`2.set_Item>		Is that supposed to rattle me?
+3560	1	InterroLines::.cctor<Dictionary`2.set_Item>		Our recruits shoot better than that.
+3561	1	InterroLines::.cctor<Dictionary`2.set_Item>		You're wasting cartridges, outlaw.
+3562	1	InterroLines::.cctor<>		Holy -! Don't, please!
+3563	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright! Alright, don't shoot!
+3564	1	InterroLines::.cctor<Dictionary`2.set_Item>		Jesus! Hold your fire!
+3565	1	InterroLines::.cctor<Dictionary`2.set_Item>		Cease fire! Please!
+3566	1	InterroLines::.cctor<>		Kill a soldier and the army never stops hunting you.
+3567	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm not afraid of you.
+3568	1	InterroLines::.cctor<Dictionary`2.set_Item>		Threatening a soldier. That's another rope.
+3569	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The army's buried a thousand like you.
+3570	1	InterroLines::.cctor<>		No! Please - I've got a mother in Ohio!
+3571	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't, sir. Please don't.
+3572	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, I'll desert, I'll never wear the blue again!
+3573	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't, sir! I've a girl back home!
+3574	1	InterroLines::.cctor<Dictionary`2.set_Item>		Is that a threat against the United States?
+3575	1	InterroLines::.cctor<Dictionary`2.set_Item>		Noted, outlaw.
+3576	1	InterroLines::.cctor<Dictionary`2.set_Item>		We'll see what the Colonel says about that.
+3577	1	InterroLines::.cctor<>		A soldier's honor isn't for sale.
+3578	1	InterroLines::.cctor<Dictionary`2.set_Item>		Keep it. I'm not some saloon informer.
+3579	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's attempted bribery of a soldier. Another charge.
+3580	1	InterroLines::.cctor<Dictionary`2.set_Item>		My loyalty's to the flag. Not your purse.
+3581	1	InterroLines::.cctor<>		Thirteen dollars a month don't go far. Alright.
+3582	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The army barely pays me. Fine.
+3583	1	InterroLines::.cctor<Dictionary`2.set_Item>		Paymaster's three months late. Alright.
+3584	1	InterroLines::.cctor<Dictionary`2.set_Item>		Well. Nobody at the fort needs to know.
+3585	1	InterroLines::.cctor<Dictionary`2.set_Item>		My family's in banking back in Philadelphia. Keep it.
+3586	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You think an officer's son needs your money?
+3587	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's a month's pay. God help me. Ask.
+3588	1	InterroLines::.cctor<Dictionary`2.set_Item>		I send every cent home to my mother. Alright.
+3589	1	InterroLines::.cctor<Dictionary`2.set_Item>		Not much of a bribe. But alright.
+3590	1	InterroLines::.cctor<Dictionary`2.set_Item>		Fine. Ask quickly.
+3591	1	InterroLines::.cctor<>		This stays between us.
+3592	1	InterroLines::.cctor<>		Fine. But the Colonel never hears this.
+3593	1	InterroLines::.cctor<>		Alright. Listen.
+3594	1	InterroLines::.cctor<Dictionary`2.set_Item>		If anyone asks, you beat it out of me.
+3595	1	InterroLines::.cctor<Dictionary`2.set_Item>		Off the record. Understood?
+3596	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll say it once, outlaw.
+3597	1	InterroLines::.cctor<>		I'll tell you! Just let me go after!
+3598	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright - alright, I'll say it!
+3599	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't hurt me, I'll tell you everything!
+3600	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright - God, alright, here it is!
+3601	1	InterroLines::.cctor<>		You're... letting a soldier go?
+3602	1	InterroLines::.cctor<>		This doesn't clear your name, outlaw.
+3603	1	InterroLines::.cctor<>		I'll still have to report this.
+3604	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll say I lost you in the woods.
+3605	1	InterroLines::.cctor<Dictionary`2.set_Item>		Strange kind of outlaw.
+3606	1	InterroLines::.cctor<Dictionary`2.set_Item>		Obliged. Don't make me regret it.
+3607	1	InterroLines::.cctor<>		Thank you - thank you, I'll go back to the fort!
+3608	1	InterroLines::.cctor<>		I'm going! I won't say I saw you!
+3609	2	InterroLines::.cctor<Dictionary`2.set_Item> ; InterroLines::.cctor<>		God bless you, mister!
+3610	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm done with the army, I swear it!
+3611	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll desert. I'll go home. Thank you.
+3612	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. My pay for the month. Take it.
+3613	1	InterroLines::.cctor<Dictionary`2.set_Item>		Here - ${dollars}. That's all a private's got.
+3614	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. Take it and I never saw you.
+3615	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you when the patrols ride out. Every one.
+3616	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll pass you the orders. God help me if they find out.
+3617	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll send word from the fort. Just let me live.
+3618	1	InterroLines::.cctor<Dictionary`2.set_Item>		Then I owe you. I'll look the other way. Once.
+3619	1	InterroLines::.cctor<Dictionary`2.set_Item>		Once, outlaw. I'll stand down once.
+3620	1	InterroLines::.cctor<Dictionary`2.set_Item>		A soldier honors a debt. One time.
+3621	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll desert. Tonight. You'll never see this uniform again.
+3622	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm done with the army. I'll go back east.
+3623	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll take off the blue and go home. I swear it.
+3624	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You already let me go once. There's no second time.
+3625	1	InterroLines::.cctor<Dictionary`2.set_Item>		We had our bargain. I'm out of things to give you.
+3626	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm just a private! I enlisted for the pay!
+3627	1	InterroLines::.cctor<Dictionary`2.set_Item>		I got a mother in Ohio, please!
+3628	1	InterroLines::.cctor<Dictionary`2.set_Item>		I've never even fired at anyone, I swear!
+3629	1	InterroLines::.cctor<>	You 	You are no different from the soldiers.
+3630	1	InterroLines::.cctor<>		Take your hands off me.
+3631	1	InterroLines::.cctor<>		Rains Fall said men like you would come.
+3632	1	InterroLines::.cctor<>		What do you want from me?
+3633	1	InterroLines::.cctor<>		My people have nothing left for you to take.
+3634	1	InterroLines::.cctor<>		Speak. Then let me go.
+3635	1	InterroLines::.cctor<>	You 	You come with a gun, like all of them.
+3636	1	InterroLines::.cctor<>		Why do you do this?
+3637	1	InterroLines::.cctor<>		Let me stand, at least.
+3638	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The soldiers took our land. What will you take?
+3639	1	InterroLines::.cctor<Dictionary`2.set_Item>		Say what you came to say.
+3640	1	InterroLines::.cctor<Dictionary`2.set_Item>		There is nothing for you here.
+3641	1	InterroLines::.cctor<>		Please. I have a family on the reservation.
+3642	1	InterroLines::.cctor<Dictionary`2.set_Item>		I have done nothing to you.
+3643	1	InterroLines::.cctor<Dictionary`2.set_Item>		Do not hurt me. I am only a hunter.
+3644	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please. My mother is old, and she needs me.
+3645	1	InterroLines::.cctor<>		I will not speak.
+3646	1	InterroLines::.cctor<>	You 	You have taken enough from us.
+3647	1	InterroLines::.cctor<>		I will not betray my people to you.
+3648	1	InterroLines::.cctor<>		Ask the soldiers. They know everything about us.
+3649	1	InterroLines::.cctor<>		My father died rather than talk. I am his son.
+3650	1	InterroLines::.cctor<>		Hurt me if you want. I will still say nothing.
+3651	1	InterroLines::.cctor<>		My words are not yours to take.
+3652	1	InterroLines::.cctor<>	You 	You will learn nothing from me.
+3653	1	InterroLines::.cctor<>		Rains Fall would not forgive me. I would not forgive myself.
+3654	1	InterroLines::.cctor<Dictionary`2.set_Item>		Many men have asked. None have heard.
+3655	1	InterroLines::.cctor<Dictionary`2.set_Item>		I am silent. Do what you will.
+3656	1	InterroLines::.cctor<Dictionary`2.set_Item>		We have been lied to for many years. Now you want the truth from us?
+3657	1	InterroLines::.cctor<>		If I speak, they will know. Please.
+3658	1	InterroLines::.cctor<Dictionary`2.set_Item>		I cannot. They would never forgive me.
+3659	1	InterroLines::.cctor<Dictionary`2.set_Item>		If I speak, my people suffer for it.
+3660	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please. Do not ask me this.
+3661	1	InterroLines::.cctor<>		I have said all I will say about that.
+3662	1	InterroLines::.cctor<Dictionary`2.set_Item>		No. Not that.
+3663	1	InterroLines::.cctor<Dictionary`2.set_Item>		That is all.
+3664	1	InterroLines::.cctor<Dictionary`2.set_Item>		Do not ask again.
+3665	1	InterroLines::.cctor<>	The 	The soldiers hit harder.
+3666	2	InterroLines::.cctor<Dictionary`2.set_Item> ; InterroLines::.cctor<Dictionary`2.set_Item>		This changes nothing.
+3667	1	InterroLines::.cctor<Dictionary`2.set_Item>		I have known worse pain.
+3668	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You only show who you are.
+3669	1	InterroLines::.cctor<>		Stop. Please stop.
+3670	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please. No more.
+3671	1	InterroLines::.cctor<Dictionary`2.set_Item>		Stop. I am hurt.
+3672	1	InterroLines::.cctor<>	You 	You are like them. All of you.
+3673	1	InterroLines::.cctor<Dictionary`2.set_Item>		Is this how you treat a man?
+3674	1	InterroLines::.cctor<Dictionary`2.set_Item>		My blood is on your hands now.
+3675	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You cut a man who cannot fight back.
+3676	1	InterroLines::.cctor<>		Stop! Stop, please!
+3677	1	InterroLines::.cctor<Dictionary`2.set_Item>		Enough... enough.
+3678	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, the bleeding...
+3679	1	InterroLines::.cctor<Dictionary`2.set_Item>		Stop. I beg you.
+3680	1	InterroLines::.cctor<>	You 	You shot me... for nothing.
+3681	1	InterroLines::.cctor<Dictionary`2.set_Item>		My people will remember this.
+3682	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You are a coward.
+3683	1	InterroLines::.cctor<Dictionary`2.set_Item>		Rains Fall will hear what you did.
+3684	1	InterroLines::.cctor<>		Do not shoot again. I will speak.
+3685	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please... I will tell you.
+3686	1	InterroLines::.cctor<Dictionary`2.set_Item>		Stop. I will tell you what I know.
+3687	1	InterroLines::.cctor<Dictionary`2.set_Item>		No more. Please.
+3688	1	InterroLines::.cctor<>	You 	You will not frighten me that way.
+3689	1	InterroLines::.cctor<Dictionary`2.set_Item>		I have heard guns before.
+3690	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You waste your bullets.
+3691	1	InterroLines::.cctor<Dictionary`2.set_Item>		I am still here.
+3692	1	InterroLines::.cctor<>		No! Please!
+3693	1	InterroLines::.cctor<Dictionary`2.set_Item>		Stop! I will listen.
+3694	1	InterroLines::.cctor<Dictionary`2.set_Item>		Do not! Please!
+3695	1	InterroLines::.cctor<Dictionary`2.set_Item>		Enough. I hear you.
+3696	1	InterroLines::.cctor<>		Then do it. I am not afraid to die.
+3697	1	InterroLines::.cctor<Dictionary`2.set_Item>		I have seen worse than you.
+3698	1	InterroLines::.cctor<Dictionary`2.set_Item>		Many of my people have died. I am no better than them.
+3699	1	InterroLines::.cctor<Dictionary`2.set_Item>		Kill me, and you will be no different from the soldiers.
+3700	1	InterroLines::.cctor<>		Please. My children.
+3701	1	InterroLines::.cctor<Dictionary`2.set_Item>		No... please.
+3702	1	InterroLines::.cctor<Dictionary`2.set_Item>		Do not. My wife is waiting for me.
+3703	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please. I want to see my children again.
+3704	1	InterroLines::.cctor<Dictionary`2.set_Item>		I have heard such words from the soldiers.
+3705	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You say that easily.
+3706	1	InterroLines::.cctor<>		I will not sell my people for your money.
+3707	1	InterroLines::.cctor<Dictionary`2.set_Item>		Keep it. It is worth nothing to me.
+3708	1	InterroLines::.cctor<Dictionary`2.set_Item>		My people are not for sale.
+3709	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The government also offered money. We remember what it bought.
+3710	1	InterroLines::.cctor<>		Money buys food for the winter. Ask.
+3711	1	InterroLines::.cctor<Dictionary`2.set_Item>		...The reservation is hungry. Ask your question.
+3712	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The agent gives us little. I will take it.
+3713	1	InterroLines::.cctor<Dictionary`2.set_Item>		Coin buys blankets. Ask.
+3714	1	InterroLines::.cctor<Dictionary`2.set_Item>		My family is hungry. I will answer.
+3715	1	InterroLines::.cctor<Dictionary`2.set_Item>		This will buy flour. Ask.
+3716	1	InterroLines::.cctor<Dictionary`2.set_Item>		I will take it. Ask.
+3717	1	InterroLines::.cctor<Dictionary`2.set_Item>		Money. Very well.
+3718	1	InterroLines::.cctor<>		I will tell you this once.
+3719	1	InterroLines::.cctor<>		Listen, then.
+3720	1	InterroLines::.cctor<>	You 	You will leave us alone after.
+3721	1	InterroLines::.cctor<Dictionary`2.set_Item>		This, and nothing more.
+3722	1	InterroLines::.cctor<Dictionary`2.set_Item>		Hear me, then.
+3723	1	InterroLines::.cctor<Dictionary`2.set_Item>		I tell you this for my family's sake.
+3724	1	InterroLines::.cctor<>		I will tell you. Then let me go.
+3725	2	InterroLines::.cctor<Dictionary`2.set_Item> ; InterroLines::.cctor<>		Alright. Alright.
+3726	1	InterroLines::.cctor<Dictionary`2.set_Item>		I will tell you. Please, then go.
+3727	1	InterroLines::.cctor<Dictionary`2.set_Item>		Listen. I will say it.
+3728	1	InterroLines::.cctor<>	You 	You let me go. I will remember.
+3729	1	InterroLines::.cctor<>		Hm. Not all of you are the same, then.
+3730	1	InterroLines::.cctor<>		Go your way. I will go mine.
+3731	1	InterroLines::.cctor<Dictionary`2.set_Item>		My people will hear of this.
+3732	1	InterroLines::.cctor<Dictionary`2.set_Item>		This is a strange mercy.
+3733	1	InterroLines::.cctor<Dictionary`2.set_Item>		I will not thank you. But I will not forget.
+3734	1	InterroLines::.cctor<>		I go. I go now.
+3735	1	InterroLines::.cctor<Dictionary`2.set_Item>		Thank you. I will go home to my family.
+3736	1	InterroLines::.cctor<Dictionary`2.set_Item>		I will not come back here.
+3737	1	InterroLines::.cctor<Dictionary`2.set_Item>		My children will see me again. Thank you.
+3738	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. It is all I carry.
+3739	1	InterroLines::.cctor<Dictionary`2.set_Item>		Take it. ${dollars}. Let me go to my family.
+3740	1	InterroLines::.cctor<Dictionary`2.set_Item>		I will tell you where the young men ride. Before they go.
+3741	1	InterroLines::.cctor<Dictionary`2.set_Item>		I will send word. Only so no more of us die.
+3742	1	InterroLines::.cctor<Dictionary`2.set_Item>		Then I owe you a life. I will remember it, once.
+3743	1	InterroLines::.cctor<Dictionary`2.set_Item>		One debt. I will repay it, and then it is done.
+3744	1	InterroLines::.cctor<Dictionary`2.set_Item>		I will go north. Far from here.
+3745	1	InterroLines::.cctor<Dictionary`2.set_Item>		I will leave with the others. You will not see me again.
+3746	1	InterroLines::.cctor<Dictionary`2.set_Item>		I will go where the soldiers are not.
+3747	1	InterroLines::.cctor<Dictionary`2.set_Item>		I have already given you what I had. There is nothing more.
+3748	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You spared me once. That was the bargain.
+3749	1	InterroLines::.cctor<Dictionary`2.set_Item>		I have children. They are waiting for me.
+3750	1	InterroLines::.cctor<Dictionary`2.set_Item>		I am no warrior. Let me go to my people.
+3751	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please. My family has lost enough.
+3752	1	InterroLines::.cctor<>	You 	You don't know who you're dealing with.
+3753	1	InterroLines::.cctor<>		Take your hands off me, boy. We're everywhere.
+3754	1	InterroLines::.cctor<>	The 	The High Warden will hear about this.
+3755	1	InterroLines::.cctor<>		There's a lot more of us than you think.
+3756	1	InterroLines::.cctor<>	You 	You lay a hand on me, you'll answer for it.
+3757	1	InterroLines::.cctor<Dictionary`2.set_Item>		We've got friends in high places, mister.
+3758	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll be sorry when the riders come.
+3759	1	InterroLines::.cctor<Dictionary`2.set_Item>		I got nothing to say to you.
+3760	1	InterroLines::.cctor<>		Don't hurt me! It's - it was just a meeting, that's all!
+3761	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, mister, I just stand at the back!
+3762	1	InterroLines::.cctor<Dictionary`2.set_Item>		I ain't really one of 'em, I swear! I just hold the horses!
+3763	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! My brother made me come along!
+3764	1	InterroLines::.cctor<>		You'll get nothing from me.
+3765	1	InterroLines::.cctor<>		We look after our own.
+3766	1	InterroLines::.cctor<>		Ask all you like, the brotherhood don't talk.
+3767	1	InterroLines::.cctor<>		You'll find out who we are soon enough.
+3768	1	InterroLines::.cctor<>		I ain't saying a damn word.
+3769	1	InterroLines::.cctor<>		Some oaths a man keeps.
+3770	1	InterroLines::.cctor<>	The 	The High Warden'd know if I talked.
+3771	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll get the same as the sheriff gets. Nothing.
+3772	1	InterroLines::.cctor<Dictionary`2.set_Item>		I don't know nothing about no riders.
+3773	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ain't nobody talks. Not ever.
+3774	1	InterroLines::.cctor<>		They'd burn me out if I talked!
+3775	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please - they know where I live!
+3776	1	InterroLines::.cctor<Dictionary`2.set_Item>		They'd find me. They always find who talks!
+3777	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, mister, I got a family!
+3778	1	InterroLines::.cctor<>		That's all you're getting.
+3779	1	InterroLines::.cctor<Dictionary`2.set_Item>		Never. Not that.
+3780	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm done.
+3781	1	InterroLines::.cctor<Dictionary`2.set_Item>		Not another word, you hear?
+3782	3	InterroLines::.cctor<> ; InterroLines::.cctor<>		That all you got?
+3783	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll regret that.
+3784	1	InterroLines::.cctor<Dictionary`2.set_Item>		That supposed to hurt?
+3785	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll get yours.
+3786	1	InterroLines::.cctor<>		Stop! Please stop!
+3787	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright! Enough!
+3788	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! I'm sorry!
+3789	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't! Don't hit me no more!
+3790	1	InterroLines::.cctor<>		You're dead, you hear me? Dead!
+3791	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll pay for that!
+3792	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You crazy? You cut me!
+3793	1	InterroLines::.cctor<Dictionary`2.set_Item>		They'll come for you for that!
+3794	1	InterroLines::.cctor<>		I'm bleeding! Stop, please!
+3795	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't! Don't cut me again!
+3796	1	InterroLines::.cctor<Dictionary`2.set_Item>		Oh Lord, oh Lord, I'm bleeding!
+3797	1	InterroLines::.cctor<Dictionary`2.set_Item>		Stop! I'll do anything!
+3798	1	InterroLines::.cctor<>		Argh! You'll burn for this!
+3799	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You son of a -
+3800	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You shot me! You actually shot me!
+3801	1	InterroLines::.cctor<Dictionary`2.set_Item>		Argh! They'll hang you for this!
+3802	1	InterroLines::.cctor<>		Don't shoot! I'll talk, I swear!
+3803	1	InterroLines::.cctor<Dictionary`2.set_Item>		Mercy! Please!
+3804	1	InterroLines::.cctor<Dictionary`2.set_Item>		Stop! Stop! I'll say it!
+3805	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't kill me! Please!
+3806	1	InterroLines::.cctor<Dictionary`2.set_Item>		That supposed to scare me?
+3807	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ha. Bad shot.
+3808	1	InterroLines::.cctor<Dictionary`2.set_Item>		Try that again, I dare you.
+3809	1	InterroLines::.cctor<>		God! Don't! Please!
+3810	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright! Alright!
+3811	1	InterroLines::.cctor<Dictionary`2.set_Item>		Lord! Don't!
+3812	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! I'll talk!
+3813	1	InterroLines::.cctor<>		Go on then. They'll come for you.
+3814	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You won't.
+3815	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You don't know who my friends are.
+3816	1	InterroLines::.cctor<Dictionary`2.set_Item>		There's more of us than bullets in that gun.
+3817	1	InterroLines::.cctor<>		No! Please, no!
+3818	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll do anything, mister!
+3819	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, mister, I ain't even important!
+3820	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll quit 'em! I swear I'll quit!
+3821	1	InterroLines::.cctor<Dictionary`2.set_Item>		Big words.
+3822	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll be singing a different tune.
+3823	1	InterroLines::.cctor<>		Keep your money.
+3824	1	InterroLines::.cctor<Dictionary`2.set_Item>		Brotherhood ain't for sale.
+3825	1	InterroLines::.cctor<Dictionary`2.set_Item>		I don't take money from strangers.
+3826	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You can't buy a sworn man.
+3827	1	InterroLines::.cctor<>		...Money talks, I guess.
+3828	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright. For that, alright.
+3829	1	InterroLines::.cctor<Dictionary`2.set_Item>		Well... that's real money.
+3830	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright, alright. Ask quick.
+3831	1	InterroLines::.cctor<Dictionary`2.set_Item>		I could use that. Ask.
+3832	1	InterroLines::.cctor<Dictionary`2.set_Item>		Times are hard. Fine.
+3833	1	InterroLines::.cctor<Dictionary`2.set_Item>		Fine. But I never seen you.
+3834	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright, I'll take it.
+3835	1	InterroLines::.cctor<>		Fine. Fine!
+3836	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You didn't hear this from me.
+3837	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright, here's what I know.
+3838	1	InterroLines::.cctor<Dictionary`2.set_Item>		Keep my name out of it.
+3839	1	InterroLines::.cctor<>		I'll tell you! Just let me go!
+3840	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright, alright!
+3841	1	InterroLines::.cctor<Dictionary`2.set_Item>		Okay! Okay, here it is!
+3842	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't hurt me, I'm telling you!
+3843	1	InterroLines::.cctor<>		Knew you didn't have the guts.
+3844	1	InterroLines::.cctor<>		You'll regret this. We're everywhere.
+3845	1	InterroLines::.cctor<>		Heh. Soft. Real soft.
+3846	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't think this makes us square.
+3847	1	InterroLines::.cctor<Dictionary`2.set_Item>		We'll see you again. At night.
+3848	1	InterroLines::.cctor<Dictionary`2.set_Item>		Huh. Fine.
+3849	1	InterroLines::.cctor<>		I'm goin'! I'm done with all of it!
+3850	1	InterroLines::.cctor<>		Thank you, mister - I'll burn the hood, I swear!
+3851	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm gone! I'm gone!
+3852	1	InterroLines::.cctor<Dictionary`2.set_Item>		Never again, mister. Never again.
+3853	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll go home and stay home.
+3854	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. Take it. Take it all.
+3855	1	InterroLines::.cctor<Dictionary`2.set_Item>		Here, ${dollars} - just don't tell nobody you caught me.
+3856	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. Don't tell the others.
+3857	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you where the next meetin' is. Every one.
+3858	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll give you names. Just let me live.
+3859	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll send word before the next ride. Promise.
+3860	1	InterroLines::.cctor<Dictionary`2.set_Item>		Fine. I owe you. Once.
+3861	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll back off once. That's it.
+3862	1	InterroLines::.cctor<Dictionary`2.set_Item>		One time, mister. Then we're even.
+3863	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll leave the county. Tonight.
+3864	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm done with 'em. I'll go somewhere nobody knows me.
+3865	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll never see me again. I swear it.
+3866	1	InterroLines::.cctor<Dictionary`2.set_Item>		I already paid you once. What more you want?
+3867	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You let me go before. That was the deal.
+3868	1	InterroLines::.cctor<Dictionary`2.set_Item>		I only went 'cause my brother made me!
+3869	1	InterroLines::.cctor<Dictionary`2.set_Item>		I ain't never hurt nobody, I swear!
+3870	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, mister, I got a wife!
+3871	1	InterroLines::.cctor<>	You 	You know who I work for? You're already dead.
+3872	1	InterroLines::.cctor<>		{leader} owns this city. Now he owns your funeral.
+3873	1	InterroLines::.cctor<>		Hands off the suit, cafone.
+3874	1	InterroLines::.cctor<>	You 	You want something? Make an appointment.
+3875	1	InterroLines::.cctor<>		Madonna... you got no idea what you just did.
+3876	1	InterroLines::.cctor<Dictionary`2.set_Item>		In Saint Denis, nobody touches a man of the family.
+3877	1	InterroLines::.cctor<Dictionary`2.set_Item>		What is this, huh? What is this?
+3878	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The police chief eats at the boss's table. Think about that.
+3879	1	InterroLines::.cctor<>		Please, I just collect for the family, that's all!
+3880	1	InterroLines::.cctor<Dictionary`2.set_Item>		Dio mio, don't shoot! I got a mother!
+3881	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm nobody, I just stand at the door!
+3882	1	InterroLines::.cctor<Dictionary`2.set_Item>		Okay, okay - what you want, huh?
+3883	1	InterroLines::.cctor<>		Silence, my friend. That's how the family works.
+3884	1	InterroLines::.cctor<>		I don't know nothing. I don't see nothing.
+3885	1	InterroLines::.cctor<>	The 	The family don't talk to outsiders.
+3886	1	InterroLines::.cctor<>	You 	You ask the wrong man, amico.
+3887	1	InterroLines::.cctor<>		I talk, I'm in the river by morning. I don't talk.
+3888	1	InterroLines::.cctor<Dictionary`2.set_Item>		{leader} feeds rats to the alligators. Not me.
+3889	1	InterroLines::.cctor<Dictionary`2.set_Item>		Go ask the police. They work for us anyway.
+3890	1	InterroLines::.cctor<Dictionary`2.set_Item>		Silence is good business, mister.
+3891	1	InterroLines::.cctor<>		They'd feed me to the gators, I swear to God!
+3892	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, they cut out tongues for this!
+3893	1	InterroLines::.cctor<Dictionary`2.set_Item>		My whole family, they'd hurt them, capisci?
+3894	1	InterroLines::.cctor<Dictionary`2.set_Item>		I can't, I can't, the boss would know by supper.
+3895	1	InterroLines::.cctor<Dictionary`2.set_Item>		Basta. That's it.
+3896	1	InterroLines::.cctor<Dictionary`2.set_Item>		No more about that. Finito.
+3897	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's family business. Closed.
+3898	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ha, you hit like a dockworker's wife.
+3899	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's all? In the Old Country they hit harder.
+3900	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You just made it personal, cafone.
+3901	1	InterroLines::.cctor<Dictionary`2.set_Item>		Basta! Basta, please!
+3902	1	InterroLines::.cctor<Dictionary`2.set_Item>		Okay! Okay, no more!
+3903	1	InterroLines::.cctor<Dictionary`2.set_Item>		Madonna, stop!
+3904	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You cut a man of the family. You're finished.
+3905	1	InterroLines::.cctor<Dictionary`2.set_Item>		This suit cost more than your horse.
+3906	1	InterroLines::.cctor<Dictionary`2.set_Item>		Dio, the blood! Stop!
+3907	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, put the knife away!
+3908	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You shot me! The family will bury you!
+3909	1	InterroLines::.cctor<Dictionary`2.set_Item>		Argh! You know who I am?
+3910	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't shoot! I talk, I talk!
+3911	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! Mercy, I tell you everything!
+3912	1	InterroLines::.cctor<Dictionary`2.set_Item>		In Saint Denis we shoot better.
+3913	1	InterroLines::.cctor<Dictionary`2.set_Item>		Missed. Lucky for me.
+3914	1	InterroLines::.cctor<Dictionary`2.set_Item>		Madonna! Watch it!
+3915	1	InterroLines::.cctor<Dictionary`2.set_Item>		Okay! Okay! Easy!
+3916	1	InterroLines::.cctor<Dictionary`2.set_Item>		Kill me, and you never sleep again.
+3917	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The family has a long memory, my friend.
+3918	1	InterroLines::.cctor<Dictionary`2.set_Item>		Go ahead. They'll find you face down in the bayou.
+3919	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, I got kids, little ones!
+3920	1	InterroLines::.cctor<Dictionary`2.set_Item>		No, no, no! I do whatever you want!
+3921	1	InterroLines::.cctor<Dictionary`2.set_Item>		Tough guy, huh?
+3922	1	InterroLines::.cctor<Dictionary`2.set_Item>		We'll see, amico.
+3923	1	InterroLines::.cctor<Dictionary`2.set_Item>		Big words for a country boy.
+3924	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You insult the family with this.
+3925	1	InterroLines::.cctor<Dictionary`2.set_Item>		Put your money away. I'm no rat.
+3926	1	InterroLines::.cctor<Dictionary`2.set_Item>		Now we talk business.
+3927	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ah, a man who understands Saint Denis.
+3928	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You think I need your money? Look at my shoes.
+3929	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's tip money, my friend.
+3930	1	InterroLines::.cctor<Dictionary`2.set_Item>		Okay. Okay, I need it. Ask.
+3931	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The family pays late. Fine.
+3932	1	InterroLines::.cctor<Dictionary`2.set_Item>		Money is money. Ask.
+3933	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright. This stays between us.
+3934	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You didn't hear it from me, capisci?
+3935	1	InterroLines::.cctor<Dictionary`2.set_Item>		Okay. Listen good.
+3936	1	InterroLines::.cctor<Dictionary`2.set_Item>		This is between you and me.
+3937	1	InterroLines::.cctor<Dictionary`2.set_Item>		Okay, okay, I tell you!
+3938	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, I tell you, then let me go!
+3939	1	InterroLines::.cctor<Dictionary`2.set_Item>		Madonna... here it is.
+3940	1	InterroLines::.cctor<>	You 	You let me walk? The family remembers, my friend.
+3941	1	InterroLines::.cctor<>		Hm. Respect. I didn't expect it.
+3942	1	InterroLines::.cctor<>		Molto bene. I owe you nothing, though.
+3943	1	InterroLines::.cctor<Dictionary`2.set_Item>		Next time, maybe I let you walk too.
+3944	1	InterroLines::.cctor<Dictionary`2.set_Item>		Strange. Most men would have finished it.
+3945	1	InterroLines::.cctor<Dictionary`2.set_Item>		Grazie. Don't tell anyone.
+3946	1	InterroLines::.cctor<>		Grazie, grazie! I'm gone!
+3947	1	InterroLines::.cctor<>		Madonna... thank you, thank you!
+3948	1	InterroLines::.cctor<Dictionary`2.set_Item>		I go home to my mother. You never see me again!
+3949	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm going! I swear on my mother!
+3950	1	InterroLines::.cctor<Dictionary`2.set_Item>		Thank God. Thank God.
+3951	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. Cash. The family always pays.
+3952	1	InterroLines::.cctor<Dictionary`2.set_Item>		Here - ${dollars}. Take it, capisci? We never met.
+3953	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. A good price for a life, no?
+3954	1	InterroLines::.cctor<Dictionary`2.set_Item>		I tell you what the family plans. Every job, before it happens.
+3955	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You want ears in Saint Denis? You got them. Just let me live.
+3956	1	InterroLines::.cctor<Dictionary`2.set_Item>		I send word. If they find out, I'm in the swamp. But I send word.
+3957	1	InterroLines::.cctor<Dictionary`2.set_Item>		Then I owe you a favor. The family pays its favors. Once.
+3958	1	InterroLines::.cctor<Dictionary`2.set_Item>		One favor, my friend. Then we are even.
+3959	1	InterroLines::.cctor<Dictionary`2.set_Item>		A debt of honor. I pay it once.
+3960	1	InterroLines::.cctor<Dictionary`2.set_Item>		I take the next boat to Napoli. I swear it.
+3961	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm done with the family. I leave the city tonight.
+3962	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You never see my face in Saint Denis again.
+3963	1	InterroLines::.cctor<Dictionary`2.set_Item>		I already bought my life from you. No more deals, my friend.
+3964	1	InterroLines::.cctor<Dictionary`2.set_Item>		We made our deal. The family doesn't pay twice.
+3965	1	InterroLines::.cctor<Dictionary`2.set_Item>		I have a mother, a sister! Please!
+3966	1	InterroLines::.cctor<Dictionary`2.set_Item>		I just carry crates, signore! I'm nobody!
+3967	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, I'm just a driver for them!
+3968	1	InterroLines::.cctor<>		Pa's gonna hear you hollerin'.
+3969	1	InterroLines::.cctor<>	You 	You smell like town. Smells good.
+3970	1	InterroLines::.cctor<>		Ain't nobody comes up the ridge and leaves.
+3971	1	InterroLines::.cctor<>		Brood's watchin' you right now, stranger.
+3972	1	InterroLines::.cctor<>		Let go a' me. I bite.
+3973	1	InterroLines::.cctor<Dictionary`2.set_Item>		Heh. You're a big one.
+3974	1	InterroLines::.cctor<Dictionary`2.set_Item>		What you want? Ain't got nothin' but my teeth.
+3975	1	InterroLines::.cctor<Dictionary`2.set_Item>		Kin's gonna find you. Then we eat good.
+3976	1	InterroLines::.cctor<>		Don't hurt me, I'm just the young'un!
+3977	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, mister, Pa makes me do it!
+3978	1	InterroLines::.cctor<Dictionary`2.set_Item>		I ain't done nothin', mister, they made me!
+3979	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't! Don't put me in the pit!
+3980	1	InterroLines::.cctor<>		Brood don't talk to outsiders.
+3981	1	InterroLines::.cctor<>	You 	You ain't kin. You get nothin'.
+3982	1	InterroLines::.cctor<>		Heh. Go ask the ones in the cellar.
+3983	1	InterroLines::.cctor<>		Ain't sayin'. Pa'd skin me.
+3984	1	InterroLines::.cctor<>		Hills keep secrets. So do I.
+3985	1	InterroLines::.cctor<Dictionary`2.set_Item>		{leader}'ll have your hide for askin'.
+3986	1	InterroLines::.cctor<Dictionary`2.set_Item>		Go on back down the mountain.
+3987	1	InterroLines::.cctor<Dictionary`2.set_Item>		Nothin' for you. Nothin'.
+3988	1	InterroLines::.cctor<Dictionary`2.set_Item>		Pa'd chain me in the dark if I told!
+3989	1	InterroLines::.cctor<Dictionary`2.set_Item>		They'd put me in the pit with the others!
+3990	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, they'd know, they always know!
+3991	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ain't sayin' more.
+3992	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's Brood business. Shut.
+3993	1	InterroLines::.cctor<Dictionary`2.set_Item>		No more. Hills got ears.
+3994	1	InterroLines::.cctor<Dictionary`2.set_Item>		Heh. Do it again.
+3995	1	InterroLines::.cctor<Dictionary`2.set_Item>		Pa hits harder'n that.
+3996	1	InterroLines::.cctor<Dictionary`2.set_Item>		That tickles, stranger.
+3997	1	InterroLines::.cctor<Dictionary`2.set_Item>		Stop! Stop it!
+3998	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ow! Please, no more!
+3999	1	InterroLines::.cctor<Dictionary`2.set_Item>		Heh... I like the red.
+4000	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll bleed worse when kin finds you.
+4001	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ah! It hurts, it hurts!
+4002	1	InterroLines::.cctor<Dictionary`2.set_Item>		Stop! I'm leakin'!
+4003	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You shot me! Kin's gonna gut you!
+4004	1	InterroLines::.cctor<Dictionary`2.set_Item>		Agh! Brood'll get you for that!
+4005	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't shoot! I'll tell, I'll tell!
+4006	1	InterroLines::.cctor<Dictionary`2.set_Item>		No more, mister! I'll say it!
+4007	1	InterroLines::.cctor<Dictionary`2.set_Item>		Heh. Missed me.
+4008	1	InterroLines::.cctor<Dictionary`2.set_Item>		Can't shoot neither, city man.
+4009	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't! Don't!
+4010	1	InterroLines::.cctor<Dictionary`2.set_Item>		Okay! Okay, mister!
+4011	1	InterroLines::.cctor<Dictionary`2.set_Item>		Kill me. Brood's got plenty more.
+4012	1	InterroLines::.cctor<Dictionary`2.set_Item>		Go on. I ain't scared a' dyin'.
+4013	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! I don't wanna go in the ground!
+4014	1	InterroLines::.cctor<Dictionary`2.set_Item>		No! I'll be good, I'll be good!
+4015	1	InterroLines::.cctor<Dictionary`2.set_Item>		Talk all you want.
+4016	1	InterroLines::.cctor<Dictionary`2.set_Item>		Pa says worse at supper.
+4017	1	InterroLines::.cctor<Dictionary`2.set_Item>		Kin's kin. Keep your money.
+4018	1	InterroLines::.cctor<Dictionary`2.set_Item>		Brood don't need town money.
+4019	1	InterroLines::.cctor<Dictionary`2.set_Item>		Shiny. Alright.
+4020	1	InterroLines::.cctor<Dictionary`2.set_Item>		Heh. I'll take that.
+4021	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ain't never held that much. Ask.
+4022	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright. Alright, ask.
+4023	1	InterroLines::.cctor<Dictionary`2.set_Item>		What's that for? ...Fine.
+4024	1	InterroLines::.cctor<Dictionary`2.set_Item>		Money. Huh. Ask then.
+4025	1	InterroLines::.cctor<Dictionary`2.set_Item>		Heh. Alright.
+4026	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You want it? Here.
+4027	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't tell Pa.
+4028	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell! Just don't hurt me!
+4029	1	InterroLines::.cctor<Dictionary`2.set_Item>		Okay, okay, here!
+4030	1	InterroLines::.cctor<>	You 	You lettin' me go? Pa won't believe it.
+4031	1	InterroLines::.cctor<>		Heh. You'll be back. They always come back.
+4032	1	InterroLines::.cctor<>		Huh. Nobody ever let me go before.
+4033	1	InterroLines::.cctor<Dictionary`2.set_Item>		Go on then. The hills'll get you anyhow.
+4034	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll remember your face, mister. Real good.
+4035	1	InterroLines::.cctor<Dictionary`2.set_Item>		Strange one, ain't ya.
+4036	1	InterroLines::.cctor<>		I'm goin' home! I'm goin'!
+4037	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't tell Pa! I'm goin'!
+4038	1	InterroLines::.cctor<Dictionary`2.set_Item>		Thank you, thank you, mister!
+4039	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll hide in the hollow, you'll never find me!
+4040	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. Took it off a fella. Yours now.
+4041	1	InterroLines::.cctor<Dictionary`2.set_Item>		Here. ${dollars}. Don't ask where from.
+4042	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you where the kin go huntin'. All of it.
+4043	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you where they keep 'em. Just let me go.
+4044	1	InterroLines::.cctor<Dictionary`2.set_Item>		Then I owe ya. Once. Kin pays once.
+4045	1	InterroLines::.cctor<Dictionary`2.set_Item>		One time, mister. Then I'll hunt you like the rest.
+4046	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll go far off. Past the mountains. Swear.
+4047	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll leave the Ridge. You'll never see me.
+4048	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm done with the kin. I'll run off for good.
+4049	1	InterroLines::.cctor<Dictionary`2.set_Item>		Already let me go once. Ain't nothin' left to trade.
+4050	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You done had your deal, mister.
+4051	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm just the youngest! Pa makes me do it!
+4052	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, I don't wanna go in the pit!
+4053	1	InterroLines::.cctor<Dictionary`2.set_Item>		Let me go, mister! I didn't hurt nobody!
+4054	1	InterroLines::.cctor<>		You'll make a fine pelt.
+4055	1	InterroLines::.cctor<>		Tall Trees don't forgive trespass.
+4056	1	InterroLines::.cctor<>		My brothers are in the trees. Watching.
+4057	1	InterroLines::.cctor<>		Let go. I'll take your skin slow.
+4058	1	InterroLines::.cctor<>	You 	You come into our woods? Fool.
+4059	1	InterroLines::.cctor<Dictionary`2.set_Item>		Smell of you. Town man.
+4060	1	InterroLines::.cctor<Dictionary`2.set_Item>		What do you want, meat?
+4061	1	InterroLines::.cctor<Dictionary`2.set_Item>		Brothers'll hang you from a pine.
+4062	1	InterroLines::.cctor<>		Don't! I just set the traps!
+4063	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please, I ain't the one does the skinning!
+4064	1	InterroLines::.cctor<Dictionary`2.set_Item>		Easy... easy, mister.
+4065	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't kill me in the woods. Not here.
+4066	1	InterroLines::.cctor<>		Skinners don't talk.
+4067	1	InterroLines::.cctor<>		You'll get nothin' but my teeth.
+4068	1	InterroLines::.cctor<>		Ask the trees.
+4069	1	InterroLines::.cctor<>		I'll be skinnin' you before I'm talkin' to you.
+4070	1	InterroLines::.cctor<>		Brothers'd cut my tongue for less.
+4071	1	InterroLines::.cctor<Dictionary`2.set_Item>		Nothin'.
+4072	1	InterroLines::.cctor<Dictionary`2.set_Item>		Go on, cut. I've cut worse.
+4073	1	InterroLines::.cctor<Dictionary`2.set_Item>		Woods keep our secrets.
+4074	1	InterroLines::.cctor<Dictionary`2.set_Item>		They'd hang me up like a buck!
+4075	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please... they'd skin me, they'd skin me!
+4076	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The brothers know. They always know.
+4077	1	InterroLines::.cctor<Dictionary`2.set_Item>		Done talkin'.
+4078	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's all. Woods are listenin'.
+4079	1	InterroLines::.cctor<Dictionary`2.set_Item>		Nothing more.
+4080	1	InterroLines::.cctor<Dictionary`2.set_Item>		Hah. Bear hits harder.
+4081	1	InterroLines::.cctor<Dictionary`2.set_Item>		Do it again, I'll remember.
+4082	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's nothin'.
+4083	1	InterroLines::.cctor<Dictionary`2.set_Item>		Stop! Stop!
+4084	1	InterroLines::.cctor<Dictionary`2.set_Item>		Enough, enough!
+4085	1	InterroLines::.cctor<Dictionary`2.set_Item>		Cut me? I cut for a living.
+4086	1	InterroLines::.cctor<Dictionary`2.set_Item>		I know a blade. That's a poor one.
+4087	1	InterroLines::.cctor<Dictionary`2.set_Item>		Ah! Stop it!
+4088	1	InterroLines::.cctor<Dictionary`2.set_Item>	The 	The blood! Stop!
+4089	1	InterroLines::.cctor<Dictionary`2.set_Item>		Agh! Brothers'll have your hide!
+4090	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll hang from a tree for that!
+4091	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't shoot! I'll say!
+4092	1	InterroLines::.cctor<Dictionary`2.set_Item>		No more! I'll tell you!
+4093	1	InterroLines::.cctor<Dictionary`2.set_Item>		Missed. Brothers don't miss.
+4094	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'd starve out here.
+4095	1	InterroLines::.cctor<Dictionary`2.set_Item>		Whoa! Don't!
+4096	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright! Alright, easy!
+4097	1	InterroLines::.cctor<Dictionary`2.set_Item>		Kill me. Brothers'll make a coat of you.
+4098	1	InterroLines::.cctor<Dictionary`2.set_Item>		I've seen men die harder than you'd ever manage.
+4099	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please! I'll leave the woods!
+4100	1	InterroLines::.cctor<Dictionary`2.set_Item>		Don't! I'll talk!
+4101	1	InterroLines::.cctor<Dictionary`2.set_Item>		Big talk.
+4102	1	InterroLines::.cctor<Dictionary`2.set_Item>		Out here, words don't mean much.
+4103	1	InterroLines::.cctor<Dictionary`2.set_Item>		Brothers ain't for sale.
+4104	1	InterroLines::.cctor<Dictionary`2.set_Item>		Keep your coin.
+4105	1	InterroLines::.cctor<Dictionary`2.set_Item>		Pelts don't sell much. Alright.
+4106	1	InterroLines::.cctor<Dictionary`2.set_Item>		Money. Good. Ask.
+4107	1	InterroLines::.cctor<Dictionary`2.set_Item>		That's a season of furs. Ask.
+4108	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright. Need it.
+4109	1	InterroLines::.cctor<Dictionary`2.set_Item>		Coin is coin. Ask.
+4110	1	InterroLines::.cctor<Dictionary`2.set_Item>		Huh. Alright.
+4111	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright. Hear it.
+4112	1	InterroLines::.cctor<Dictionary`2.set_Item>		Tell no one.
+4113	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell! Don't hurt me!
+4114	1	InterroLines::.cctor<Dictionary`2.set_Item>		Alright, alright, here it is!
+4115	1	InterroLines::.cctor<>		Hm. Go on, then.
+4116	1	InterroLines::.cctor<>	The 	The brothers won't hear of this.
+4117	1	InterroLines::.cctor<>		You'll not get that twice.
+4118	1	InterroLines::.cctor<Dictionary`2.set_Item>		Strange. A hunter lettin' the game go.
+4119	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll remember the smell of you.
+4120	1	InterroLines::.cctor<>		I'm goin'. Into the trees. Gone.
+4121	1	InterroLines::.cctor<Dictionary`2.set_Item>		Thank you. I'll leave the woods.
+4122	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll not come back. Swear.
+4123	1	InterroLines::.cctor<Dictionary`2.set_Item>		Gone. You won't see me.
+4124	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. From the pelts. Take it.
+4125	1	InterroLines::.cctor<Dictionary`2.set_Item>		Here. ${dollars}. Now leave me be.
+4126	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you where the brothers set the traps. Every trail.
+4127	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll send word when they go out. Every time.
+4128	1	InterroLines::.cctor<Dictionary`2.set_Item>		I owe you. Once. Then we're square.
+4129	1	InterroLines::.cctor<Dictionary`2.set_Item>		One debt. I'll pay it.
+4130	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll go north. Far from Tall Trees.
+4131	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll leave the brothers. Tonight.
+4132	1	InterroLines::.cctor<Dictionary`2.set_Item>		You'll not see me in these woods again.
+4133	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You had your deal. There's no other.
+4134	1	InterroLines::.cctor<Dictionary`2.set_Item>		Already bought my life. Nothing left.
+4135	1	InterroLines::.cctor<Dictionary`2.set_Item>		I just skin what they bring in. Let me go.
+4136	1	InterroLines::.cctor<Dictionary`2.set_Item>		Please. I'm nobody to them.
+4137	1	InterroLines::.cctor<Dictionary`2.set_Item>		I only trap rabbits, mister. Please.
+4138	1	InterroLines::.cctor<>		You're turnin' me loose? Huh. Your mistake.
+4139	1	InterroLines::.cctor<>		Don't figure I'll do the same for you.
+4140	1	InterroLines::.cctor<>		Well, I'll be damned.
+4141	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell the boys you got soft.
+4142	1	InterroLines::.cctor<Dictionary`2.set_Item>		Much obliged. Don't come looking for thanks.
+4143	1	InterroLines::.cctor<Dictionary`2.set_Item>		Fine by me.
+4144	1	InterroLines::.cctor<>		I'm ridin'! I'm ridin' out!
+4145	1	InterroLines::.cctor<Dictionary`2.set_Item>		Thank you, mister - I'm done with the gang!
+4146	1	InterroLines::.cctor<Dictionary`2.set_Item>	You 	You won't see me again, I swear it!
+4147	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm gone, mister. Gone.
+4148	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. All my take. Take it.
+4149	1	InterroLines::.cctor<Dictionary`2.set_Item>		Here's ${dollars} - now we're done here.
+4150	1	InterroLines::.cctor<Dictionary`2.set_Item>		${dollars}. That's a month of rustlin'.
+4151	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll tell you which ranch they hit next. Every time.
+4152	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll send word before they ride. Just let me live.
+4153	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll keep you posted on the gang. God help me.
+4154	1	InterroLines::.cctor<Dictionary`2.set_Item>		Fine. I owe you. One time.
+4155	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll stand off once. That's it.
+4156	1	InterroLines::.cctor<Dictionary`2.set_Item>		A debt's a debt. Once.
+4157	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll ride to Montana. Tonight.
+4158	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm done with this outfit. I swear it.
+4159	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'll go somewhere they never heard of me.
+4160	1	InterroLines::.cctor<Dictionary`2.set_Item>		I already paid you once. Ain't payin' twice.
+4161	1	InterroLines::.cctor<Dictionary`2.set_Item>		We had a deal. There ain't another.
+4162	1	InterroLines::.cctor<Dictionary`2.set_Item>		I only mind the horses! Please!
+4163	1	InterroLines::.cctor<Dictionary`2.set_Item>		I got a girl in Blackwater, mister!
+4164	1	InterroLines::.cctor<Dictionary`2.set_Item>		I'm new, I ain't done nothin' yet!
+4165	1	InterroLines::.cctor<>	You 	You let me go, gringo? Hm.

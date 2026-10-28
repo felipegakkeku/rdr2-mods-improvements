@@ -1,0 +1,841 @@
+id	usos	contexto	prefixo_fixo	texto
+13361	1	NemesisMod::SpawnItems<Action..ctor>		He waits on the road out
+13362	1	NemesisMod::SpawnItems<Action..ctor>		a murderous man waits outside this town
+13363	1	NemesisMod::SpawnItems<Action..ctor>		A laid-up man
+13364	1	NemesisMod::SpawnItems<Action..ctor>	in 	in a town: a paralyzed nemesis at the doctor's or a hotel bed you've marked
+13365	1	NemesisMod::SpawnItems<Action..ctor>		Mark a hotel bed here
+13366	1	NemesisMod::SpawnItems<Action..ctor>		stand by a hotel bed: laid-up men can be found there
+13367	1	NemesisMod::SpawnItems<Action..ctor>		A war checkpoint
+13368	1	NemesisMod::SpawnItems<Action..ctor>		men watching the street (any town, war or not)
+13369	1	NemesisMod::SpawnItems<Action..ctor>	in 	in the next bar you walk up to or into
+13370	1	NemesisMod::SpawnItems<Action..ctor>		two outfits fighting ahead of you
+13371	1	NemesisMod::SpawnItems<Action..ctor>		A road patrol
+13372	1	NemesisMod::SpawnItems<Action..ctor>		riders of the outfit that patrols here
+13373	1	NemesisMod::SpawnItems<Action..ctor>		Riders heard your shots
+13374	1	NemesisMod::SpawnItems<Action..ctor>		a patrol rides in to where you stand
+13375	1	NemesisMod::SpawnItems<Action..ctor>		A raid on the nearest camp
+13376	1	NemesisMod::SpawnItems<Action..ctor>		a live camp within 170 m gets hit
+13377	2	NemesisMod::SpawnItems<Action..ctor> ; NemesisMod/<PatrolLines>d__2051::MoveNext<String.Concat>		Riders on a ridge
+13378	1	NemesisMod::SpawnItems<Action..ctor>	the 	the Wapiti watching you from high ground
+13379	1	NemesisMod::SpawnItems<Action..ctor>		Place a camp site here
+13380	1	NemesisMod::SpawnItems<Action..ctor>		a real camp site of the strongest outfit here, saved in camps.json - then spawn it, and revert it if it's bad
+13381	1	NemesisMod::SpawnItems<Action..ctor>		Spawn the placed camp
+13382	1	NemesisMod::SpawnItems<Action..ctor>	the 	the camp at the site you placed last, now (an officer of theirs and his men, with its props)
+13383	1	NemesisMod::SpawnItems<Action..ctor>		Revert the placed camp
+13384	1	NemesisMod::SpawnItems<Action..ctor>	the 	the camp gone and the site out of camps.json - again for the one placed before it
+13385	1	NemesisMod::SpawnItems<Action..ctor>		A camp here now
+13386	1	NemesisMod::SpawnItems<Action..ctor>		a real camp of the strongest outfit here, 14 m ahead, with its props - it goes when you ride off
+13387	1	NemesisMod::SpawnItems<Action..ctor>		Camp kit here (props only)
+13388	1	NemesisMod::SpawnItems<Action..ctor>	the 	the camp props in the look of the outfit here, 8 m ahead - again to take it away (log: which models loaded)
+13389	2	NemesisMod::SpawnItems<Action..ctor> ; NemesisMod::<SpawnItems>b__30<Action`1..ctor>		Despawn camp
+13390	1	NemesisMod::SpawnItems<Action..ctor>		test camps gone (the ones below, a camp here now, the kit) - else the nearest camp, held off 3 minutes
+13391	1	NemesisMod::SpawnItems<Action..ctor>	the 	the rows below bring the outfit's men too (Enter: props only)
+13392	1	NemesisMod::SpawnItems<Action..ctor>	the 	the rows below lay just the camp - props, wagon, horses, no men (Enter: with men)
+13393	1	NemesisMod::SpawnItems<String.Concat>		 camp
+13394	1	NemesisMod::SpawnItems<Gangs.InEra>	at 	at the nearest camp site (250 m; else 20 m ahead of you) in their look
+13395	1	NemesisMod::SpawnItems<String.Concat>		 - not of this era: props only
+13396	1	NemesisMod::SpawnItems<Action..ctor>		An officer's habit, now
+13397	1	NemesisMod::SpawnItems<Action..ctor>	the 	the habit nearest you is on now (3 h) - marked
+13398	1	NemesisMod::SpawnItems<Action..ctor>		A funeral ahead
+13399	1	NemesisMod::SpawnItems<Action..ctor>	the 	the last outfit man to die is buried at the nearest cemetery (1.5 km)
+13400	1	NemesisMod::SpawnItems<Action..ctor>		Voice test (nearest person)
+13401	1	NemesisMod::SpawnItems<Action..ctor>	the 	the nearest person tries the game's speech lines - the ones said are logged and used
+13402	1	NemesisMod::SpawnItems<Action..ctor>		Voice check: every outfit model
+13403	1	NemesisMod::SpawnItems<Action..ctor>		each outfit model made out of sight for a second: which have a voice (MODELVOICE lines)
+13404	1	NemesisMod::SpawnItems<Action..ctor>		Mark a funeral plot here
+13405	1	NemesisMod::SpawnItems<Action..ctor>		stand among graves: funerals are held here (anywhere - a new graveyard if none is near)
+13406	1	NemesisMod::SpawnItems<Action..ctor>		Read the newspaper
+13407	1	NemesisMod::SpawnItems<Action..ctor>		this region's paper, as it would print today
+13408	1	NemesisMod::SpawnItems<Action..ctor>		An old 0.9.4 epilogue world (test)
+13409	1	NemesisMod::SpawnItems<Action..ctor>		John's save: the 1899 outfits on the 1907 clock, like 0.9.4 made - the conversion held so you can play in it first
+13410	1	NemesisMod::SpawnItems<Action..ctor>		Convert it now (test)
+13411	1	NemesisMod::SpawnItems<Action..ctor>	the 	the conversion a player updating in the epilogue gets: the outfits change, everything you did stays
+13412	1	NemesisMod::SpawnItems<Action..ctor>		Jump to 1907 (test)
+13413	1	NemesisMod::SpawnItems<Action..ctor>		eight years later on this world - a save point first; Shift + the menu key within 2 minutes puts 1899 back
+13414	1	NemesisMod::SpawnItems<Action..ctor>		Start a war here
+13415	1	NemesisMod::SpawnItems<Action..ctor>	the 	the two biggest outfits in this district go to war
+13416	1	NemesisMod::SpawnItems<Action..ctor>		A warband
+13417	1	NemesisMod::SpawnItems<Action..ctor>		one side rides past, the other waits for it
+13418	1	NemesisMod::SpawnItems<Action..ctor>		An ambush on the road
+13419	1	NemesisMod::SpawnItems<Action..ctor>		men lying in wait, riders coming (40% a wagon)
+13420	1	NemesisMod::SpawnItems<Action..ctor>		An ambush on a wagon
+13421	1	NemesisMod::SpawnItems<Action..ctor>	the 	the riders come on a wagon - dynamite
+13422	1	NemesisMod::SpawnItems<Action..ctor>		Just after a battle
+13423	1	NemesisMod::SpawnItems<Action..ctor>	the 	the dead and the ones still standing
+13424	1	NemesisMod::SpawnItems<Action..ctor>		Bodies on the road ahead
+13425	1	NemesisMod::SpawnItems<Action..ctor>		a fight between the two just ended (war here)
+13426	1	NemesisMod::SpawnItems<Action..ctor>		A war patrol
+13427	1	NemesisMod::SpawnItems<Action..ctor>		riders of one side (war here)
+13428	1	NemesisMod::SpawnItems<Action..ctor>		A roadblock on the road
+13429	1	NemesisMod::SpawnItems<Action..ctor>	in 	in a war district, out of town: a side holds the road ahead
+13430	1	NemesisMod::SpawnItems<Action..ctor>		A distant battle
+13431	1	NemesisMod::SpawnItems<Action..ctor>		a fight 200-250 m off you can hear (a war near you)
+13432	1	NemesisMod::SpawnItems<Action..ctor>		A distant explosion
+13433	1	NemesisMod::SpawnItems<Action..ctor>		one blast 200-235 m off, out of sight
+13434	1	NemesisMod::SpawnItems<Action..ctor>		War heat +20
+13435	1	NemesisMod::SpawnItems<Action..ctor>	the 	the war here (or the nearest) burns hotter
+13436	1	NemesisMod::SpawnItems<Action..ctor>		War heat -20
+13437	1	NemesisMod::SpawnItems<Action..ctor>	the 	the war here (or the nearest) cools
+13438	1	NemesisMod::SpawnItems<Action..ctor>		Supplies -30
+13439	2	NemesisMod::SpawnItems<Action..ctor> ; NemesisMod::SpawnItems<Action..ctor>	the 	the outfit holding most ground here
+13440	1	NemesisMod::SpawnItems<Action..ctor>		Supplies +30
+13441	2	NemesisMod::SpawnItems<Action..ctor> ; NemesisMod::<SpawnItems>b__55<Action`1..ctor>		Supply camp here
+13442	1	NemesisMod::SpawnItems<Action..ctor>	the 	the nearest manned camp keeps its outfit's supplies
+13443	1	NemesisMod::SpawnItems<Action..ctor>		Supply camp restocked
+13444	1	NemesisMod::SpawnItems<Action..ctor>	the 	the nearest supply camp, full again
+13445	1	NemesisMod::SpawnItems<Action..ctor>		A supply wagon
+13446	1	NemesisMod::SpawnItems<Action..ctor>	the 	the outfit holding the ground here runs supplies past you
+13447	1	NemesisMod::SpawnItems<Action..ctor>		Supply crates in this town
+13448	1	NemesisMod::SpawnItems<Action..ctor>		a stash of the district holder's at a placed spot (up to 2 a town, 150 m apart)
+13449	1	NemesisMod::SpawnItems<Action..ctor>		Place a town stash spot here
+13450	1	NemesisMod::SpawnItems<Action..ctor>		a stash can pile up where you stand, facing the way you face (content\\stash_spots.json)
+13451	1	NemesisMod::SpawnItems<Action..ctor>		Remove the nearest stash spot
+13452	1	NemesisMod::SpawnItems<Action..ctor>	the 	the placed stash spot within 15 m
+13453	1	NemesisMod::SpawnItems<Action..ctor>		Show stash spots
+13454	1	NemesisMod::SpawnItems<Action..ctor>		every placed stash spot on the map (again to hide)
+13455	1	NemesisMod::SpawnItems<Action..ctor>		Treasury camp here
+13456	1	NemesisMod::SpawnItems<Action..ctor>	the 	the nearest manned camp becomes its outfit's treasury
+13457	1	NemesisMod::SpawnItems<Action..ctor>		Reveal all treasuries
+13458	1	NemesisMod::SpawnItems<Action..ctor>		every outfit's treasury on the map
+13459	1	NemesisMod::SpawnItems<Action..ctor>		Refill the nearest treasury
+13460	1	NemesisMod::SpawnItems<Action..ctor>		+$300 and the robbery forgotten
+13461	1	NemesisMod::SpawnItems<Action..ctor>		Self-check now
+13462	1	NemesisMod::SpawnItems<Action..ctor>	the 	the mod checks its own rules against the world now (SELFCHECK lines in grudges.log; a fault is looked at again in 30 s)
+13463	1	NemesisMod::ToggleSpawnMenu<NemesisMod.ShowNotification>		enRAGE: close the menu first to open the encounter spawner.
+13464	2	NemesisMod::SpawnMenuKey<String.Concat> ; NemesisMod::Spawner<String.Concat>		SPAWNER 
+13465	1	NemesisMod::RunSpawnMenuRequests<NemesisMod.ShowNotification>		A skirmish is already on.
+13466	1	NemesisMod::RunSpawnMenuRequests<NemesisMod.ShowNotification>		No skirmish could start here (no two outfits to fight, or no room).
+13467	1	NemesisMod::RunSpawnMenuRequests<NemesisMod.ShowNotification>		No high ground for riders near you.
+13468	1	NemesisMod::RunSpawnMenuRequests<NemesisMod.ShowNotification>		Nobody on your roster could send bounty hunters.
+13469	1	NemesisMod::DrawSpawnMenu<Theme.CapsWidth>		ENCOUNTER SPAWNER
+13470	1	NemesisMod::SpawnerSays<String.Concat>		SPAWNER says: 
+13471	1	NemesisMod::SpawnerTown<NemesisMod.SpawnerSays>		go into a town first.
+13472	1	NemesisMod::ShowStashSpots<String.Concat>		 (built in)
+13473	8	NemesisMod::UpdateStoryProgress<String.Format> ; NemesisMod::TestWarCard<String.Concat>		unknown
+13474	1	NemesisMod::UpdateStoryProgress<NemesisMod.get_RegardChapter>		REGARD the story moved them (chapter {0}): 
+13475	1	NemesisMod::UpdateStoryProgress<String.Join>		REGARD the camp's feelings moved with the story: 
+13476	1	NemesisMod::ApplyStoryChapter<String.Concat>		 is dead
+13477	1	NemesisMod::ApplyStoryChapter<Math.Min>		STORY chapter {0} ({1}): {2}
+13478	1	NemesisMod::ApplyStoryChapter<String.Concat>	The 	The gang made camp at 
+13479	1	NemesisMod::ApplyStoryChapter<WorldEvent.set_Title>	The 	The gang washed up on Guarma
+13480	1	NemesisMod::ApplyStoryChapter<WorldEvent.set_Place>		years later
+13481	1	NemesisMod::ApplyStoryChapter<Math.Min>		STORY 
+13482	1	NemesisMod::UpdateSuccession<String.Format>		NOTORIETY {0} {1} holds
+13483	1	NemesisMod::ScheduleNextSuccession<String.Format>		SUCCESSION next shake-up in {0} days ({1})
+13484	1	NemesisMod::Standing<NemesisRecord.get_TimesAmbushed>		next in line
+13485	1	NemesisMod::Standing<NemesisRecord.get_TimesAmbushed>		has a score to settle
+13486	1	NemesisMod::Standing<NemesisRecord.get_TimesAmbushed>		has come for you {0}x
+13487	1	NemesisMod::Standing<NemesisRecord.get_TimesKilledPlayer>		a scarred veteran
+13488	1	NemesisMod::Standing<NemesisRecord.get_TimesKilledPlayer>		carries your scar
+13489	1	NemesisMod::Standing<NemesisRecord.get_TimesKilledPlayer>	killed	killed you 
+13490	1	NemesisMod::Standing<String.Concat>		once
+13491	1	NemesisMod::RunSuccession<NemesisMod.PurseOf>		SUCCESSION {0}: purse ${1} - ${2} to spend on new men
+13492	1	NemesisMod::RunSuccession<NemesisRecord.get_Name>		 (best: {0}, xp {1}/{2}, standing {3})
+13493	1	NemesisMod::RunSuccession<NemesisRecord.get_Name>		SUCCESSION {0}: hate {1} -> {2} with the promotion ({3})
+13494	1	NemesisMod::RunSuccession<String.Concat>		 over him
+13495	1	NemesisMod::RunSuccession<NemesisRecord.get_Name>		passed over - 
+13496	1	NemesisMod::RunSuccession<NemesisMod.PartFor>		a local man
+13497	1	NemesisMod::RunSuccession<String.Concat>		  -  a local man
+13498	1	NemesisMod::RunSuccession<NemesisMod.MenOf>		men {0} of {1}
+13499	1	NemesisMod::RunSuccession<String.Format>		no money for a new man
+13500	1	NemesisMod::RunSuccession<NemesisMod.PartFor>		a new man
+13501	1	NemesisMod::RunSuccession<String.Concat>		 brought in
+13502	1	NemesisMod::RunSuccession<String.Format>	The 	The {0} rebuild their ranks - {1} new officers
+13503	2	NemesisMod::LocalRecruit<NemesisMod.Singular> ; NemesisMod::Recruit<NemesisMod.Singular>		 as 
+13504	1	NemesisMod::LocalRecruit<String.Concat>		 - a local who threw in with them
+13505	1	NemesisMod::Recruit<NemesisRecord.get_Name>		HISTORY recruit {0}: {1} of the late {2} - born {3} (his {4}), life rewritten
+13506	1	NemesisMod::Recruit<NemesisRecord.get_Name>		 of the late 
+13507	1	NemesisMod::Recruit<String.Concat>		, come to settle it
+13508	1	NemesisMod::DrawSuccessionCard<UiDraw.Text>	The 	The ranks have shifted.
+13509	1	NemesisMod::DailySupplies<String.Format>		bought supplies ({0} day(s))
+13510	1	NemesisMod::DailySupplies<String.Format>		, bought {0}
+13511	1	NemesisMod::SupplyLine<Gangs.get_All>		supplies: 
+13512	1	NemesisMod::UpdateSupplyCaches<CampSite.get_Label>		: you found their supplies - 
+13513	2	NemesisMod::UpdateSupplyCaches<NemesisMod.DespawnUnguardedCache> ; NemesisMod::UpdateSkirmish<String.Format>		you rode off
+13514	1	NemesisMod::UpdateSupplyCaches<CampSite.get_Label>		SUPPLY {0}: their cache at {1} ({2:0} m) - kept by {3}
+13515	1	NemesisMod::UpdateSupplyCaches<CampSite.get_Label>		: none of theirs free to keep the cache at 
+13516	1	NemesisMod::UpdateSupplyCaches<CampSite.get_Label>		SUPPLY {0}: their cache at {1} ({2:0} m) - unguarded
+13517	1	NemesisMod::DespawnUnguardedCache<Camps.ById>		SUPPLY cache at 
+13518	1	NemesisMod::DespawnUnguardedCache<String.Concat>		 - taken down
+13519	1	NemesisMod::DespawnSupplyCaches<NemesisMod.DespawnUnguardedCache>		cleanup
+13520	1	NemesisMod::FoundSupplyCache<CampSite.get_Label>		: you found their cache - 
+13521	2	NemesisMod::FoundSupplyCache<NemesisMod.OutfitPoss> ; NemesisMod::FoundStash<NemesisMod.OutfitPoss>		You've found the 
+13522	1	NemesisMod::FoundSupplyCache<String.Concat>		 supplies. Marked on your map.
+13523	1	NemesisMod::RevealSupplyCache<CampSite.get_Label>		: you know the cache now - 
+13524	1	NemesisMod::RefreshCacheBlips<NemesisMod.SupplyRaidedRecently>		 (unguarded)
+13525	1	NemesisMod::RefreshCacheBlips<CampSite.get_Label>		" at 
+13526	1	NemesisMod::RefreshCacheBlips<String.Concat>		red
+13527	1	NemesisMod::RefreshCacheBlips<String.Concat>		white
+13528	1	NemesisMod::SpawnSupplies<CampSite.get_Label>		SUPPLY {0}: {1} - {2} crate stacks, {3}, {4} horses{5}; supplies {6}; open ground: {7} moved, {8} dropped
+13529	1	NemesisMod::SpawnSupplies<String.Concat>		a wagon (
+13530	1	NemesisMod::SpawnSupplies<NemesisMod.SuppliesOf>		 (raided - not restocked yet)
+13531	1	NemesisMod::UpdateSupplyHits<NemesisMod.SupplyHit>		you blew up their stores
+13532	1	NemesisMod::UpdateSupplyHits<NemesisMod.SupplyHit>		you burned their stores
+13533	2	NemesisMod::UpdateSupplyHits<NemesisMod.ShortOutfit> ; NemesisMod::UpdateSupplyHits<NemesisMod.ShortOutfit>	You 	You destroyed the 
+13534	1	NemesisMod::UpdateSupplyHits<String.Concat>		 stash is destroyed - every crate gone
+13535	1	NemesisMod::UpdateSupplyHits<NemesisMod.ShortOutfit>	You 	You made off with the 
+13536	3	NemesisMod::UpdateSupplyHits<String.Concat> ; NemesisMod::UpdateSupplyHits<String.Concat>		 supply wagon.
+13537	1	NemesisMod::UpdateSupplyHits<NemesisMod.SupplyHit>		you killed one of their horses
+13538	1	NemesisMod::UpdateSupplyHits<NemesisMod.SupplyHit>		you ran off one of their horses
+13539	1	NemesisMod::SupplyHit<String.Concat>		 (not you)
+13540	1	NemesisMod::SupplyHit<NemesisMod.OutfitPoss>	The 	The {0} supplies: {1} - {2}.
+13541	1	NemesisMod::SupplyHit<String.Format>		SUPPLIES {0}: -{1} ({2})
+13542	1	NemesisMod::SupplyHit<String.Concat>		 have lost all they can here - the rest is just wreckage.
+13543	1	NemesisMod::SupplyHit<NemesisMod.AddNotoriety>		you broke into their crates in town
+13544	1	NemesisMod::SupplyHit<NemesisMod.OutfitPoss>	You 	You broke into the 
+13545	1	NemesisMod::SupplyHit<NemesisMod.AddNotoriety>		you hit their supplies
+13546	1	NemesisMod::SupplyHit<CampSite.get_Label>		RAIDED: you hit the supplies he kept at 
+13547	1	NemesisMod::SupplyHit<NemesisMod.OutfitPoss>	You 	You hit the 
+13548	1	NemesisMod::SupplyHit<String.Concat>		 supplies
+13549	1	NemesisMod::CrateBreaking<NemesisMod.SupplyHit>		you broke open their crates
+13550	1	NemesisMod::CrateBreaking<String.Format>	You 	You broke open a crate - ${0} and their stores spoiled.
+13551	2	NemesisMod::CrateBreaking<NemesisMod.MakePrompt> ; NemesisMod::UpdateStrongboxes<NemesisMod.MakePrompt>		Break It Open
+13552	1	NemesisMod::CrateBreaking<String.Concat>		: they heard you at the crates - the camp turns on you
+13553	1	NemesisMod::SpawnSupplyWagon<String.Concat>		SUPPLY wagon: 
+13554	1	NemesisMod::SpawnSupplyWagon<String.Concat>		 has no horses to pull it - skipped
+13555	1	NemesisMod::SpawnSupplyWagon<NemesisMod.OutfitPoss>		SUPPLY wagon: the {0} supplies on the road - a {1}, {2} aboard + {3} riding with it, {4:0} m {5} of you{6}
+13556	1	NemesisMod::SpawnSupplyWagon<String.Format>		 - no main road behind you: it drives on along its road
+13557	1	NemesisMod::RunSupplyWagon<NemesisMod.AddSupplies>		you wrecked their supply wagon on the road
+13558	1	NemesisMod::RunSupplyWagon<NemesisMod.AddNotoriety>		you hit their supply wagon
+13559	1	NemesisMod::RunSupplyWagon<NemesisMod.ShortOutfit>	You 	You made off with
+13560	1	NemesisMod::RunSupplyWagon<NemesisMod.ShortOutfit>	You 	You destroyed
+13561	2	NemesisMod::RunSupplyWagon<NemesisMod.ShortOutfit> ; NemesisMod::RunSupplyWagon<NemesisMod.OutfitPoss>		 the 
+13562	1	NemesisMod::RunSupplyWagon<String.Concat>		SUPPLIES 
+13563	1	NemesisMod::RunSupplyWagon<String.Concat>		: -12 (their wagon)
+13564	1	NemesisMod::RunSupplyWagon<NemesisMod.OutfitPoss>		made off with
+13565	1	NemesisMod::RunSupplyWagon<NemesisMod.OutfitPoss>		destroyed
+13566	2	NemesisMod::RunSupplyWagon<String.Concat> ; NemesisMod::RunSupplyWagon<String.Concat>		 supply wagon
+13567	1	NemesisMod::RunSupplyWagon<Vector3.DistanceTo>		there - on along the road ({0:0} m)
+13568	1	NemesisMod::RunSupplyWagon<String.Format>		try {0}: 
+13569	1	NemesisMod::RunSupplyWagon<Vector3.DistanceTo>		out of sight - moved {0:0} m on along the road and told to drive again
+13570	1	NemesisMod::RunSupplyWagon<String.Concat>		 (its horse was spooked - calmed)
+13571	1	NemesisMod::RunSupplyWagon<NemesisMod.WagonState>		 | WAGONDIAG 
+13572	1	NemesisMod::RunSupplyWagon<String.Concat>		they know your face
+13573	1	NemesisMod::RunSupplyWagon<String.Concat>		you took the wagon
+13574	1	NemesisMod::RunSupplyWagon<String.Concat>		you hit them
+13575	1	NemesisMod::EndSupplyWagon<String.Concat>		 (hit)
+13576	1	NemesisMod::UpdateTownCrates<String.Concat>		: no outfit's crates on the street this visit
+13577	1	NemesisMod::FreeTownStashKey<String.Format>	town:	town:{0}#{1}
+13578	1	NemesisMod::SpawnTownCrates<String.Concat>		: no stash spots placed here - no stash
+13579	1	NemesisMod::SpawnTownCrates<NemesisMod.OutfitPoss>		SUPPLY {0}: no placed spot fits the {1} stash ({2} here: {3} in view, {4} too near you, {5} too near the other stash)
+13580	1	NemesisMod::SpawnTownCrates<NemesisMod.OutfitPoss>		: no room at the placed spot for the 
+13581	1	NemesisMod::SpawnTownCrates<String.Concat>		 stash (debug)
+13582	1	NemesisMod::SpawnTownCrates<NemesisMod.OutfitPoss>		SUPPLY {0}: the {1} stash at a placed spot {2:0},{3:0}{4} - {5} crates{6}{7}
+13583	1	NemesisMod::SpawnTownCrates<String.Format>		, a lookout
+13584	1	NemesisMod::MaybeSpawnSurvivors<WorldEvent.get_Title>		WENT BACK for his dead after it: 
+13585	1	NemesisMod::MaybeSpawnSurvivors<WorldEvent.get_Title>		STILL HOLDING the field after it: 
+13586	1	NemesisMod::MaybeSpawnSurvivors<NemesisMod.MemberWord>		SURVIVORS a 
+13587	1	NemesisMod::MaybeSpawnSurvivors<WorldEvent.get_Title>		SURVIVORS at {0}: {1} {2} ({3}), 
+13588	1	NemesisMod::MaybeSpawnSurvivors<String.Format>	the 	the losers came back
+13589	1	NemesisMod::MaybeSpawnSurvivors<String.Format>	the 	the winners still hold it
+13590	1	NemesisMod::MaybeSpawnSurvivors<String.Format>		came back for their dead
+13591	1	NemesisMod::MaybeSpawnSurvivors<String.Format>		holding it
+13592	1	NemesisMod::UpdateSurvivors<String.Format>		they saw you at {0:0} m ({1})
+13593	1	NemesisMod::UpdateSurvivors<Enumerator.MoveNext>		you fired
+13594	1	NemesisMod::UpdateSurvivors<String.Concat>		SURVIVORS turned on you: 
+13595	1	NemesisMod::UpdateSurvivors<String.Concat>		 at the battlefield turned on you (
+13596	1	NemesisMod::UpdateTelegraph<String.Format>		Telegraph ({0} new)
+13597	1	NemesisMod::OpenTelegraph<TelegraphPanel..ctor>	the 	the station
+13598	1	NemesisMod::OpenTelegraph<String.Format>		Wire's open. Who you sending to?
+13599	1	NemesisMod::OpenTelegraph<String.Format>		Wire came in for you - {0} of 'em. Or you sending?
+13600	1	NemesisMod::OpenTelegraph<NemesisMod.get_Telegrams>		TELEGRAPH opened at {0} station ({1} unread, {2} on the wire)
+13601	1	NemesisMod::TelegraphRows<String.Format>		Check telegrams  ({0} new)
+13602	1	NemesisMod::TelegraphRows<NemesisMod.get_Telegrams>		Recently sent
+13603	1	NemesisMod::TelegraphRows<Telegram.get_ArriveAt>		On the wire: {0} waiting for an answer  -  the next about {1:MMM d}
+13604	2	NemesisMod::TelegraphRows<Telegram.get_Text> ; NemesisMod::TelegraphRows<Telegram.get_Text>	You 	You wrote {0} from {1} on {2:MMM d}
+13605	2	NemesisMod::TelegraphRows<Telegram.get_ToName> ; NemesisMod::RecipientDetail<NemesisRecord.get_KillLocation>		From 
+13606	1	NemesisMod::TelegraphRows<Telegram.get_ArriveAt>		Arrived {0:MMM d}  -  {1}
+13607	1	NemesisMod::TelegraphRows<Telegram.get_ArriveAt>		Answered {0:MMM d}{1}
+13608	1	NemesisMod::TelegraphRows<String.Format>		 - unread
+13609	1	NemesisMod::TelegraphRows<Telegram.get_ArriveAt>		Never delivered
+13610	1	NemesisMod::TelegraphRows<Telegram.get_ArriveAt>		On the wire - due {0:MMM d}
+13611	2	NemesisMod::AgoText<String.Format> ; RosterMenu::SeenText<String.Format>		{0} days ago
+13612	1	NemesisMod::RecipientDetail<String.Concat>		last dealt with 
+13613	1	NemesisMod::RecipientDetail<Acquaintance.get_Like>		like {0} / fear {1}
+13614	1	NemesisMod::RecipientDetail<String.Concat>		last seen 
+13615	1	NemesisMod::RecipientDetail<Acquaintance.get_Favours>		you did him 
+13616	1	NemesisMod::RecipientDetail<String.Concat>		 favours
+13617	1	NemesisMod::TelegramOptions<String.Concat>		 ride from? Worth your while."  - ask after his boss
+13618	1	NemesisMod::TelegramOptions<String.Concat>		 is selling you out. Ask him why."  - turn him on his boss
+13619	1	NemesisMod::TelegramOptions<String.Concat>		 died squealing. You're next."  - taunt him about his 
+13620	2	NemesisMod::TelegramOptions<NemesisRecord.get_Name> ; NemesisMod::TelegramOptions<String.Concat>		"Heard about 
+13621	1	NemesisMod::TelegramOptions<String.Concat>		. I'm sorry."  - your condolences for his 
+13622	1	NemesisMod::TelegramOptions<String.Concat>		, with my respects."  - a gift for the 
+13623	1	NemesisMod::TelegramOptions<String.Concat>		. I'm sorry."  - your condolences
+13624	1	NemesisMod::TelegraphPick<Telegram.get_ArriveAt>		That one's still on the wire. Due {0:MMM d}.
+13625	1	NemesisMod::TelegraphPick<String.Format>		To {0}. What's it say?  Answers take {1}-{2} days.
+13626	1	NemesisMod::TelegraphPick<Telegram.get_Money>		TELEGRAPH ${0} from {1}
+13627	1	NemesisMod::TelegraphPick<Telegram.get_TreasurySite>		 had moved their money from 
+13628	1	NemesisMod::TelegraphPick<Telegram.get_ToName>		TREASURY tip from 
+13629	1	NemesisMod::TelegraphPick<String.Concat>		: stale - the money moved since
+13630	1	NemesisMod::TelegraphPick<Telegram.get_ToName>		TELEGRAPH read: from 
+13631	1	NemesisMod::TelegraphPick<Telegram.get_ToName>		Writing back to {0}. What's it say?  Answers take {1}-{2} days.
+13632	1	NemesisMod::SendTelegram<Telegram.get_Text>		TELEGRAM from you: 
+13633	1	NemesisMod::SendTelegram<Telegram.get_ToName>		TELEGRAPH sent to {0} from {1}: {2} - an answer in about {3} day{4}
+13634	1	NemesisMod::SendTelegram<Telegram.get_ToName>		TELEGRAPH sent to {0} ({1}, {2}) from {3}, answer due {4:MMM d HH:mm}
+13635	1	NemesisMod::DeliverTelegrams<String.Format>		{0} telegrams are waiting for you at the station.
+13636	1	NemesisMod::DeliverTelegrams<NemesisMod.ReplyNotice>		A telegram is waiting for you at the station.
+13637	2	NemesisMod::AnswerTelegram<Telegram.get_ToName> ; NemesisMod::AnswerTelegram<Telegram.get_ToName>	WESTERN UNION REGRETS	WESTERN UNION REGRETS. 
+13638	2	NemesisMod::AnswerTelegram<String.Concat> ; NemesisMod::AnswerTelegram<String.Concat>		 COULD NOT BE REACHED.
+13639	2	NemesisMod::AnswerTelegram<Telegram.set_Result> ; NemesisMod::AnswerTelegram<Telegram.set_Result>		It never reached him.
+13640	1	NemesisMod::AnswerTelegram<Telegram.get_ToName>		TELEGRAPH answer from 
+13641	2	NemesisMod::AnswerTelegram<Telegram.get_ToName> ; NemesisMod::UnaskedTelegrams<Telegram.get_ToName>		TELEGRAPH 
+13642	1	NemesisMod::AnswerTelegram<Telegram.get_Message>		 answered (
+13643	1	NemesisMod::OutlookOf<String.Concat>		 won't come looking for you now.
+13644	1	NemesisMod::OutlookOf<String.Concat>		'll come looking for you now.
+13645	1	NemesisMod::OutlookOf<String.Concat>		 holds it closer - but won't ride out for it.
+13646	1	NemesisMod::OutlookOf<String.Join>		'll come for you 
+13647	3	NemesisMod::AnswerNemesis<NemesisRecord.get_Name> ; NemesisMod::TgColumns<ValueTuple`7..ctor>		name
+13648	1	NemesisMod::AnswerNemesis<NemesisMod.Remember>		you wrote to make peace
+13649	1	NemesisMod::AnswerNemesis<NemesisMod.Remember>		you wrote to say sorry
+13650	2	NemesisMod::AnswerNemesis<NemesisMod.Remember> ; NemesisMod::AnswerNemesis<NemesisMod.Remember>		you threatened him by wire
+13651	2	NemesisMod::AnswerNemesis<NemesisMod.Remember> ; NemesisMod::AnswerNemesis<NemesisMod.Remember>		you threatened his family
+13652	1	NemesisMod::AnswerNemesis<NemesisMod.Remember>		you mocked him by wire
+13653	1	NemesisMod::AnswerNemesis<String.Format>		money again - worth {0:P0}
+13654	1	NemesisMod::AnswerNemesis<NemesisMod.Remember>		you paid him off
+13655	1	NemesisMod::AnswerNemesis<String.Concat>		 gave away where he rides from - by telegram
+13656	1	NemesisMod::AnswerNemesis<NemesisMod.Remember>		he gave up his boss by wire
+13657	1	NemesisMod::AnswerNemesis<Tie.set_Note>		your telegram
+13658	1	NemesisMod::AnswerNemesis<NemesisRecord.get_Name>		you wrote that 
+13659	1	NemesisMod::AnswerNemesis<String.Concat>		 was selling him out
+13660	1	NemesisMod::AnswerNemesis<NemesisRecord.get_FullName>		TURNED ON 
+13661	1	NemesisMod::AnswerNemesis<String.Concat>		 after your telegram
+13662	1	NemesisMod::AnswerNemesis<NemesisMod.Remember>		you wrote to wish him well
+13663	1	NemesisMod::AnswerNemesis<NemesisRecord.get_Name>		you wrote when 
+13664	1	NemesisMod::AnswerNemesis<String.Concat>		you sent the 
+13665	1	NemesisMod::AnswerNemesis<String.Concat>		 a gift
+13666	1	NemesisMod::AnswerNemesis<String.Concat>		 took your apology to the 
+13667	1	NemesisMod::AnswerNemesis<String.Format>		notoriety -{0}
+13668	2	NemesisMod::AnswerNemesis<Telegram.get_Money> ; NemesisMod::AnswerPerson<Telegram.get_Money>		  (${0} ENCLOSED)
+13669	2	NemesisMod::AnswerNemesis<String.Join> ; NemesisMod::AnswerPerson<String.Join>		Nothing much changed between you.
+13670	1	NemesisMod::AnswerNemesis<String.Join>		It didn't move him.
+13671	2	NemesisMod::AnswerNemesis<String.Join> ; NemesisMod::AnswerPerson<String.Join>		He 
+13672	1	NemesisMod::AnswerNemesis<String.Concat>		 think a little better of you.
+13673	1	NemesisMod::AnswerPerson<String.Format>		letters this week - worth {0:P0}
+13674	1	NemesisMod::AnswerPerson<NemesisRecord.get_Name>		named 
+13675	1	NemesisMod::AnswerPerson<Acquaintance.get_Like>		he knows it was you
+13676	1	NemesisMod::AnswerPerson<Acquaintance.get_Like>		likes you {0} -> {1}, fear {2} -> {3}{4}{5}
+13677	1	NemesisMod::AnswerPerson<Acquaintance.get_Grudge>		, grudge {0} -> {1}
+13678	1	NemesisMod::AnswerPerson<Acquaintance.get_Town>		He'll wire you if trouble turns up near 
+13679	1	NemesisMod::UnaskedTelegrams<Telegram.get_Reply>		WIRED YOU: "
+13680	1	NemesisMod::UnaskedTelegrams<Telegram.get_Reply>		WIRED YOU, BEGGING: "
+13681	2	NemesisMod::UnaskedTelegrams<CampSite.get_Label> ; NemesisMod::RevealTreasury<CampSite.get_Label>		 KEEP THEIR MONEY AT 
+13682	1	NemesisMod::UnaskedTelegrams<String.Concat>		. STRONGBOXES. YOU DID NOT HEAR IT FROM ME.
+13683	1	NemesisMod::UnaskedTelegrams<Telegram.get_ToName>		TELEGRAPH unasked from 
+13684	1	NemesisMod::UnaskedTelegrams<Telegram.get_Message>		 wired you: 
+13685	1	NemesisMod::TownNewsFor<String.ToUpperInvariant>		 HAS BEEN SEEN ABOUT 
+13686	1	NemesisMod::TownNewsFor<String.Concat>		. HE ASKS AFTER YOU. WATCH YOURSELF.
+13687	1	NemesisMod::TownNewsFor<WorldEvent.get_Title>		PEOPLE ARE TALKING ABOUT IT HERE: 
+13688	1	NemesisMod::DrawTelegraph<String.ToUpperInvariant>		WESTERN UNION  -  
+13689	4	NemesisMod::DrawTelegraph<Theme.MixedWidth> ; NemesisMod::DrawTelegraph<Theme.Tag>		WAITING
+13690	1	NemesisMod::DrawTelegramSheet<Telegram.get_Text>	You 	You wrote:  
+13691	3	NemesisMod::DrawTelegramSheet<Telegram.get_ArriveAt> ; NemesisMod::DrawTelegramSheet<Theme.CapsWidth>		WESTERN UNION
+13692	1	NemesisMod::DrawTelegramSheet<Telegram.get_ArriveAt>		Wired {0:MMM d, h:mm tt}
+13693	1	NemesisMod::DrawTelegramSheet<Telegram.get_ArriveAt>		Telegram received at {0}, {1:MMM d, h:mm tt}
+13694	1	NemesisMod::DrawTelegramSheet<Telegram.get_Money>		${0} enclosed{1}
+13695	1	NemesisMod::DrawTelegramSheet<String.Format>		  -  paid to you
+13696	2	NemesisMod::DrawTelegramSheet<Theme.CapsWidth> ; NemesisMod::DrawTelegramSheet<Theme.CapsWidth>		WHAT IT DID
+13697	1	NemesisMod::TelegramGreeting<String.Concat>		MR 
+13698	1	NemesisMod::WildEncounterCame<String.Format>		TENSION the next quick one (first of the day) after {0:0.0} game days
+13699	1	NemesisMod::UpdateTension<String.Format>		TENSION restored {0:0} (fires at {1:0})
+13700	1	NemesisMod::UpdateTension<String.Format>		a fight started -{0:0}
+13701	1	NemesisMod::UpdateTension<String.Format>		 ({0} an encounter's / a camp's, x{1:0.#})
+13702	1	NemesisMod::UpdateTension<String.Format>		, -{0:0} for {1} killed
+13703	1	NemesisMod::UpdateTension<String.Concat>		a nemesis
+13704	1	NemesisMod::UpdateTension<String.Concat>		 is out there
+13705	1	NemesisMod::UpdateTension<String.Format>		base {0:0.#}
+13706	1	NemesisMod::UpdateTension<String.Format>		notoriety +{0:0.#}
+13707	1	NemesisMod::UpdateTension<String.Format>		night +{0:0.#}
+13708	1	NemesisMod::UpdateTension<String.Format>		town x{0:0.#}
+13709	1	NemesisMod::UpdateTension<String.Format>		hurt x{0:0.#}
+13710	1	NemesisMod::UpdateTension<String.Format>		storm x{0:0.#}
+13711	1	NemesisMod::UpdateTension<String.Format>		a stranger fight - held at {0:0}
+13712	1	NemesisMod::UpdateTension<NemesisMod.Mark>		fight over
+13713	1	NemesisMod::UpdateTension<String.Format>		 (a scrap)
+13714	1	NemesisMod::UpdateTension<String.Format>		 (an encounter / a camp)
+13715	1	NemesisMod::UpdateTension<NemesisMod.get_FireLevel>		TENSION {0:0} (fires at {1:0}) {2:+0.0;-0.0}/min - {3}
+13716	1	NemesisMod::UpdateTension<NemesisMod.get_FireLevel>		TENSION first of the day: the wild fires at {0:0} until one comes
+13717	1	NemesisMod::UpdateTension<String.Concat>	the 	the world instead (
+13718	1	NemesisMod::UpdateTension<NemesisMod.get_FireLevel>		TENSION fired at {0:0}/{1:0}: {2}{3}
+13719	1	NemesisMod::UpdateTension<String.Format>		nothing came - 
+13720	1	NemesisMod::UpdateTension<NemesisMod.TensionReleased>		world card
+13721	1	NemesisMod::TensionMarksLine<Enumerable.Any>		graph: last 15 min, gold = fire level, blue = something came
+13722	1	NemesisMod::ShiftControl<String.Concat>		 are losing their grip on 
+13723	1	NemesisMod::ShiftControl<String.Concat>		 are gaining ground in 
+13724	1	NemesisMod::ShiftControl<String.Format>		TERRITORY {0} ({1} to {2})
+13725	1	NemesisMod::ControlAfterClash<String.Concat>		, took a camp
+13726	1	NemesisMod::ControlAfterClash<String.Concat>		 hold more of it now.
+13727	2	NemesisMod::ControlAfterKill<String.Format> ; NemesisMod::ControlAfterKill<String.Format>		you killed one of their men
+13728	2	NemesisMod::ControlAfterKill<String.Format> ; NemesisMod::ControlAfterKill<String.Format>		you killed one of their rank {0} men
+13729	1	NemesisMod::DriftControl<String.Format>		 of {0}: its strength
+13730	1	NemesisMod::UpdateWarZones<String.Format>		WAR dropped {0} malformed war-zone entries and {1} wars in districts that no longer exist
+13731	1	NemesisMod::UpdateWarZones<String.Format>		WAR {0} game day(s) went by unchecked (a time skip) - their war days run now
+13732	1	NemesisMod::UpdateWarZones<String.Concat>		 are fighting over it.
+13733	3	NemesisMod::UpdateWarZones<String.Concat> ; NemesisMod::UpdateWarZones<String.Concat>		TERRITORY 
+13734	1	NemesisMod::UpdateWarZones<NemesisMod.HoldOf>		missing
+13735	1	NemesisMod::UpdateWarZones<String.Format>		, a side is finished
+13736	1	NemesisMod::UpdateWarZones<String.Concat>		 hold it.
+13737	1	NemesisMod::UpdateWarZones<String.Concat>		: the record outlived its war - ended
+13738	1	NemesisMod::ControlAfterSkirmish<String.Concat>	held	held the field against the 
+13739	1	NemesisMod::ControlAfterSkirmish<String.Concat>		lost a skirmish to the 
+13740	1	NemesisMod::TidyTestKits<String.Concat>		CAMPLOOK 
+13741	1	NemesisMod::TidyTestKits<String.Concat>		: you rode off - the test camp is gone
+13742	1	NemesisMod::ValidateTimeline<String.Concat>		STORY gang failed to build: 
+13743	1	NemesisMod::ValidateTimeline<NemesisRecord.get_Name>		TIMELINE {0} (born {1}): dropped '{2}' ({3}{4}, {5})
+13744	1	NemesisMod::ValidateTimeline<WorldEvent.set_When>		Feb 1899
+13745	1	NemesisMod::ValidateTimeline<NemesisRecord.get_Name>		TIMELINE {0} (born {1}) was too young for '{2}' ({3}) - taken out of it
+13746	1	NemesisMod::ValidateTimeline<NemesisMod.get_Roster>		TIMELINE checked {0} lives and {1} past events for {2}/{3}: 
+13747	1	NemesisMod::HealFutureTimeline<GameDate.FromMinutes>		TIMESHIFT the world is ahead of your clock: newest {0:MMM d HH:mm}, clock {1:MMM d HH:mm}
+13748	1	NemesisMod::HealFutureTimeline<NemesisMod.ShiftTimeline>	the 	the world was ahead of this save's clock
+13749	1	NemesisMod::HealFutureTimeline<NemesisMod.ShowNotification>		enRAGE: the world was ahead of this save's clock - its timers moved back to fit.
+13750	1	NemesisMod::ShiftTimeline<String.Format>		TIMESHIFT {0} timers moved {1:+0.#;-0.#} h ({2}) - rest, cooldowns, news, telegrams, plans, world events, shake-up dates
+13751	1	NemesisMod::TrackTownVisit<String.Concat>		TOWNCALM new visit: 
+13752	1	NemesisMod::TakeAggressorSlot<String.Format>		quiet for {0}s more
+13753	1	NemesisMod::get_TownCalmNote<String.Concat>		 waits on the road out
+13754	1	NemesisMod::WaitOutsideChance<NemesisMod.<WaitOutsideChance>g__Add|3168_0>		anger
+13755	1	NemesisMod::WaitOutsideChance<NemesisMod.<WaitOutsideChance>g__Add|3168_0>		bravery
+13756	1	NemesisMod::WaitOutsideChance<NemesisMod.<WaitOutsideChance>g__Add|3168_0>		pride
+13757	1	NemesisMod::WaitOutsideChance<NemesisMod.<WaitOutsideChance>g__Add|3168_0>	on 	on edge
+13758	1	NemesisMod::WaitOutsideChance<NemesisMod.<WaitOutsideChance>g__Add|3168_0>		wants to prove it
+13759	1	NemesisMod::WaitOutsideChance<NemesisMod.<WaitOutsideChance>g__Add|3168_0>		wants it now
+13760	1	NemesisMod::WaitOutsideChance<NemesisMod.<WaitOutsideChance>g__Add|3168_0>	killed	killed you before
+13761	1	NemesisMod::RollWaitOutside<String.Concat>		: no taking it outside - you've already hurt him / he's fighting you
+13762	1	NemesisMod::RollWaitOutside<NemesisRecord.get_Name>		TOWNCALM {0} saw you in {1}: wait outside {2}% ({3}), rolled {4} -> {5}
+13763	1	NemesisMod::RollWaitOutside<String.Format>		he stays put, holding it
+13764	1	NemesisMod::RollWaitOutside<String.Format>		he'll do it here
+13765	1	NemesisMod::RollWaitOutside<String.Format>		he'll wait on the road
+13766	1	NemesisMod::RollWaitOutside<NemesisRecord.get_Name>		TOWN {0}: take it outside? {1}%, rolled {2} -> {3}
+13767	1	NemesisMod::RollWaitOutside<String.Format>		he stays put
+13768	1	NemesisMod::RollWaitOutside<String.Format>		here and now
+13769	1	NemesisMod::RollWaitOutside<String.Format>		he walks off - he'll be waiting
+13770	1	NemesisMod::RollWaitOutside<NemesisRecord.get_Name>		Not here. You ride out of this town - I'll be waiting.
+13771	1	NemesisMod::RollWaitOutside<NemesisRecord.get_Name>		Not in town. You'll keep.
+13772	1	NemesisMod::RollWaitOutside<NemesisRecord.get_Name>		Not here. Too many eyes.
+13773	1	NemesisMod::RollWaitOutside<NemesisRecord.get_Name>		...Not here. Not with the law about.
+13774	1	NemesisMod::RollWaitOutside<String.ToUpperInvariant>		SAW YOU IN 
+13775	1	NemesisMod::RollWaitOutside<String.Concat>		 - and went to wait for you on the road out
+13776	1	NemesisMod::RollWaitOutside<String.Concat>		let you walk through 
+13777	1	NemesisMod::UpdateRoadAmbush<String.Concat>		 gave up waiting outside 
+13778	1	NemesisMod::UpdateRoadAmbush<String.Concat>		 waited outside 
+13779	1	NemesisMod::UpdateRoadAmbush<String.Concat>		, but you never rode out that way
+13780	1	NemesisMod::UpdateRoadAmbush<String.Concat>		WAITED FOR YOU outside 
+13781	1	NemesisMod::UpdateRoadAmbush<String.Concat>		 was waiting for you outside 
+13782	1	NemesisMod::UpdateRoadAmbush<EncounterCard.get_Id>		's road ambush failed to spawn (
+13783	1	NemesisMod::UpdateRoadAmbush<String.Concat>		) - dropped
+13784	1	NemesisMod::OnEnterTownPresence<String.Concat>		TOWN arrival in 
+13785	1	NemesisMod::OnEnterTownPresence<String.Concat>		 waits - you're at the edge of its zone
+13786	1	NemesisMod::OnEnterTownPresence<Game.get_GameTime>		TOWN back in {0} within its cooldown ({1}s left): {2} of the same men still about, no new arrivals
+13787	1	NemesisMod::OnEnterTownPresence<NemesisMod.HomeTown>		 came lately, but 
+13788	1	NemesisMod::OnEnterTownPresence<String.Concat>		he's about
+13789	1	NemesisMod::OnEnterTownPresence<String.Concat>		he lives here
+13790	1	NemesisMod::OnEnterTownPresence<String.Concat>		 - in town again
+13791	1	NemesisMod::OnEnterTownPresence<NemesisMod.TownPoolNote>		TOWN pool for 
+13792	1	NemesisMod::UpdateTownArrivalsSpawn<NemesisRecord.get_Name>		TOWN arrival: {0} turns up ({1} still to come)
+13793	1	NemesisMod::LoreTownRoll<String.Concat>		? the 
+13794	1	NemesisMod::LoreTownRoll<String.Concat>		 hold it and they're at war - stays away
+13795	1	NemesisMod::LoreTownRoll<String.Concat>		? outside the outfit's own country (
+13796	1	NemesisMod::LoreTownRoll<String.Concat>		) - stays away
+13797	1	NemesisMod::LoreTownRoll<NemesisRecord.get_Name>		TOWN {0} ({1}) in {2}? not one of his outfit's towns - {3} ({4}%)
+13798	1	NemesisMod::LoreTownRoll<String.Format>		stays away
+13799	1	NemesisMod::LoreTownRoll<String.Format>		comes anyway
+13800	1	NemesisMod::SpawnTownHunter<NemesisMod.SpawnTestRegular>		no nemesis free to come into town
+13801	1	NemesisMod::SpawnTestRegular<String.Concat>		everyone you know from 
+13802	1	NemesisMod::SpawnTestRegular<String.Concat>		 is already here
+13803	1	NemesisMod::SpawnTestRegular<String.Concat>		you don't know anyone from 
+13804	1	NemesisMod::SpawnTestRegular<String.Concat>		 yet
+13805	1	NemesisMod::SpawnTestRegular<String.Format>		{0} people you know are already around
+13806	1	NemesisMod::SpawnTestRegular<String.get_Chars>		remembering people is off
+13807	1	NemesisMod::SpawnTestRegular<String.Concat>		 - and 
+13808	1	NemesisMod::SpawnTownPresence<NemesisRecord.get_Name>		TOWN {0}: the only spot was {1:0} m off - he turns up later
+13809	1	NemesisMod::SpawnTownPresence<NemesisRecord.get_Name>		TOWN spot for 
+13810	1	NemesisMod::SpawnTownPresence<NemesisRecord.get_Name>		TOWN {0} ({1}) will come for you when he sees you
+13811	1	NemesisMod::SpawnTownPresence<NemesisRecord.get_FullName>		ENCOUNTER TOWN: 
+13812	1	NemesisMod::SpawnTownPresence<String.Concat>		, looking for you (
+13813	1	NemesisMod::SpawnTownPresence<String.Concat>		 (holds a grudge)
+13814	1	NemesisMod::SpawnTownPresence<String.Concat>		. He won't start anything - but he hasn't forgotten.
+13815	1	NemesisMod::SpawnTownPresence<NemesisRecord.get_Name>		TOWN {0} in {1} {2}: {3} (hate {4}, fear {5}) - {6} in town
+13816	1	NemesisMod::UpdateTownPresence<NemesisRecord.get_Name>		TOWN top-up: 
+13817	1	NemesisMod::UpdateTownPresence<String.Concat>		 will turn up as you walk about 
+13818	1	NemesisMod::UpdateTownPresence<String.Concat>		 left 
+13819	1	NemesisMod::UpdateTownPresence<NemesisRecord.get_Name>		TOWN {0} saw you in {1} - he comes over ({2:0} m, {3})
+13820	1	NemesisMod::UpdateTownPresence<String.Concat>		 saw you - he's coming over
+13821	1	NemesisMod::UpdateTownPresence<String.Concat>		 would have come for you - 
+13822	1	NemesisMod::JoinsTheFight<NemesisMod.BystanderLog>		joined: you hurt him
+13823	1	NemesisMod::JoinsTheFight<NemesisMod.BystanderLog>		joined: you drew on him
+13824	2	NemesisMod::JoinsTheFight<NemesisRecord.get_Name> ; NemesisMod::JoinsTheFight<NemesisRecord.get_Name>		joined: backs up 
+13825	1	NemesisMod::JoinsTheFight<String.Concat>		, his outfit's man
+13826	1	NemesisMod::JoinsTheFight<NemesisMod.BystanderLog>		joined: no other fight on - the game's combat stands
+13827	2	NemesisMod::JoinsTheFight<NemesisMod.FightersText> ; NemesisMod::JoinsTheFight<NemesisMod.FightersText>		stayed out: not his fight (
+13828	1	NemesisMod::JoinsTheFight<String.Concat>		) - he stands and watches
+13829	1	NemesisMod::JoinsTheFight<String.Concat>		) - he leaves town
+13830	1	NemesisMod::TownBackup<NemesisRecord.get_Name>		TOWN backup {0} saw {1} ({2:0} m) - joins {3}, {4} (loyalty {5}, bravery {6})
+13831	1	NemesisMod::TownBackup<NemesisRecord.get_Name>		 comes to back up 
+13832	1	NemesisMod::TownBackup<NemesisRecord.get_Name>		TOWN backup {0} saw {1} ({2:0} m) - won't back {3}, {4} (loyalty {5}, bravery {6}) - hangs back
+13833	1	NemesisMod::TownNoPanic<String.Concat>		he walks off instead
+13834	1	NemesisMod::TownNoPanic<String.Concat>		he stands and watches instead
+13835	1	NemesisMod::TownFolkStayOut<String.Format>		TOWN folk {0} ({1}) stays in the fight - the one townsman this fight ({2}% roll)
+13836	1	NemesisMod::TownFolkStayOut<String.Concat>		 (not a tough temper)
+13837	1	NemesisMod::TownFolkStayOut<String.Concat>		 (this fight's one townsman is already in)
+13838	1	NemesisMod::BystanderLog<NemesisRecord.get_Name>		TOWN bystander 
+13839	1	NemesisMod::TownManApproach<NemesisRecord.get_Name>		I been waiting on you. Put 'em up.
+13840	1	NemesisMod::TownManApproach<NemesisRecord.get_Name>		Remember me? I sure remember you.
+13841	1	NemesisMod::TownManApproach<NemesisRecord.get_Name>		TOWN {0} has it out with you ({1:0} m)
+13842	1	NemesisMod::TownProvoked<NemesisRecord.get_Name>		I- I got no quarrel with you. Not now.
+13843	1	NemesisMod::TownProvoked<NemesisRecord.get_Name>	You 	You ain't worth it. I'm going.
+13844	1	NemesisMod::TownProvoked<NemesisRecord.get_Name>		TOWN {0} ({1}) backs down at the words - nerve {2:0}, under 30: he walks off (hate {3}, fear {4})
+13845	2	NemesisMod::TownProvoked<NemesisRecord.get_Name> ; NemesisMod::TownProvoked<NemesisRecord.get_Name>		ANTAGONIZE 
+13846	1	NemesisMod::TownProvoked<String.Concat>		: he won't take the bait - he walks off
+13847	1	NemesisMod::TownProvoked<String.Concat>		 -> he fights
+13848	1	NemesisMod::EngageTownMan<String.Concat>		 gets up out of his seat to fight (hurt - at once)
+13849	1	NemesisMod::EngageTownMan<String.Concat>		 gets up out of his seat to fight
+13850	1	NemesisMod::EngageTownMan<String.Concat>		 engaged
+13851	1	NemesisMod::EngageTownMan<NemesisRecord.get_Name>		FIGHT {0} in {1} ({2})
+13852	1	NemesisMod::UnstickTownFighter<NemesisRecord.get_Name>		TOWN {0} engaged 5 s ago but isn't fighting ({1:0} m, {2}) - pulled out and sent again
+13853	2	NemesisMod::UnstickTownFighter<String.Format> ; RosterMenu::DrawDetail<<>c__DisplayClass180_0.<DrawDetail>g__Sec|2>		standing
+13854	1	NemesisMod::UnstickTownFighter<String.Format>		still in a scenario
+13855	1	NemesisMod::UnstickTownFighter<String.Concat>		: no hidden walkable spot to move him to
+13856	1	NemesisMod::UnstickTownFighter<NemesisRecord.get_Name>		TOWN {0} still not fighting after 10 s ({1:0} m, {2}) - sent again, last try
+13857	1	NemesisMod::UnstickTownFighter<String.Format>	on 	on walkable ground
+13858	1	NemesisMod::UnstickTownFighter<String.Format>		off the walkways - moved
+13859	1	NemesisMod::UpdateTownRepBlips<String.Concat>		 town, at war
+13860	1	NemesisMod::UpdateTownRepBlips<String.Format>		{0} - {1}, rep {2:+0;-0;0}
+13861	1	NemesisMod::UpdateTownRepBlips<NemesisMod.RepWord>		{0} - reputation {1:+0;-0;0} ({2})
+13862	1	NemesisMod::UpdateTownRepBlips<NemesisMod.TownRepLine>		REPUTATION map: 
+13863	1	NemesisMod::UpdateTrainRobbery<String.Format>		TRAIN bounty +${0} by a train - not a robbery: {1}
+13864	1	NemesisMod::TrainNotCounted<Game.get_GameTime>	near 	near the train only {0} s (15 s)
+13865	1	NemesisMod::TrainRobbed<String.Format>		, masked
+13866	2	NemesisMod::TrainRobbed<String.Concat> ; NemesisMod::CheckTrainUnmasked<String.Concat>	You 	You robbed the train near 
+13867	1	NemesisMod::TrainRobbed<String.Concat>		A masked man robbed the train near 
+13868	1	NemesisMod::TrainRobbed<String.Format>		 (a masked man - they don't know it was you)
+13869	1	NemesisMod::TrainRobbed<TownTalk.get_Word>		{0}: the train robbery - word {1:0} -> {2:0}
+13870	2	NemesisMod::TrainRobbed<NemesisMod.LowerNotoriety> ; NemesisMod::TrainRobbed<NemesisMod.AddNotoriety>		you robbed a train
+13871	1	NemesisMod::TrainRobbed<String.Format>		TRAIN {0} aboard held up - a stick-up each
+13872	1	NemesisMod::CheckTrainUnmasked<TownTalk.get_Word>		TRAIN {0}: they know it was you - word {1:0} -> {2:0}
+13873	1	NemesisMod::CheckTrainUnmasked<NemesisMod.AddNotoriety>		they saw your face after the train robbery
+13874	1	NemesisMod::CheckTrainUnmasked<Entity.get_Position>		TRAIN unmasked: someone saw your face {0:0} m off, {1:0} m from the robbery - the World tab says it was you
+13875	1	NemesisMod::CheckTrainUnmasked<NemesisMod.ReplyNotice>		They saw your face. Word is out that you robbed that train.
+13876	1	NemesisMod::AddPurse<String.Concat>		 are out of money
+13877	1	NemesisMod::AddPurse<String.Concat>		 are out of money.
+13878	1	NemesisMod::DailyPurses<Math.Min>		short pay - money's tight
+13879	1	NemesisMod::PurseForJob<NemesisMod.AddPurse>		you broke up its job
+13880	1	NemesisMod::PurseForJob<NemesisMod.AddPurse>		a job that went wrong
+13881	1	NemesisMod::PurseForJob<NemesisMod.AddPurse>		a desperate job that went wrong
+13882	1	NemesisMod::PurseForJob<NemesisMod.AddPurse>		a desperate job that paid
+13883	1	NemesisMod::BrokeDay<String.Format>		PURSE {0}: out of the red after {1} broke day(s)
+13884	1	NemesisMod::BrokeDay<NemesisMod.LoseMen>		unpaid men walked away
+13885	1	NemesisMod::BrokeDay<String.Concat>		Men are leaving the 
+13886	1	NemesisMod::BrokeDay<String.Format>		No pay for {0} days - the {1}'s men are drifting off. More will go until the money comes back.
+13887	1	NemesisMod::BrokeDay<String.Format>		SUCCESSION {0}: broke {1} days - the men want change, a shake-up tomorrow
+13888	1	NemesisMod::BossUnderPressure<String.Concat>		's men lean on him over the empty purse
+13889	1	NemesisMod::BossUnderPressure<String.Format>		{0} days without pay. Money comes first now: the {1} mean to get rich.
+13890	1	NemesisMod::BossUnderPressure<String.Concat>		 talked against 
+13891	1	NemesisMod::BossUnderPressure<String.Concat>		 - and paid for it
+13892	1	NemesisMod::BossUnderPressure<NemesisMod.PartFor>		PUT DOWN
+13893	1	NemesisMod::BossUnderPressure<NemesisMod.PartFor>		spoke against the boss
+13894	1	NemesisMod::BossUnderPressure<String.Concat>		's men
+13895	1	NemesisMod::BossUnderPressure<NemesisRecord.get_Name>		{0} days without pay, and {1} said so once too often.
+13896	1	NemesisMod::BossUnderPressure<String.Concat>		 paid his men out of his own pocket
+13897	1	NemesisMod::BossUnderPressure<String.Concat>		 pays the 
+13898	1	NemesisMod::BossUnderPressure<String.Concat>		 out of his own pocket
+13899	1	NemesisMod::BossUnderPressure<String.Format>		{0} days without pay - he dug into his own stash (${1}) to keep them.
+13900	3	NemesisMod::BrokeEvent<String.Concat> ; NemesisMod::RunWorldEventAt<WorldEvent.get_Kind>		WORLD 
+13901	1	NemesisMod::PurseRobbed<NemesisMod.AddPurse>		you robbed one of its men
+13902	1	NemesisMod::PurseCampCleared<String.Concat>		you cleared 
+13903	1	NemesisMod::PurseCampCleared<String.Concat>		 - what they kept there is gone
+13904	1	NemesisMod::PurseLine<Gangs.get_All>		purses: 
+13905	1	NemesisMod::RevealTreasury<CampSite.get_Label>		: you know it now - 
+13906	1	NemesisMod::SpawnStrongboxes<String.Concat>		 - you emptied it; nothing in it until they move it
+13907	1	NemesisMod::SpawnStrongboxes<CampSite.get_Label>		TREASURY {0}: {1} - the purse is too thin to fill a box (${2})
+13908	1	NemesisMod::SpawnStrongboxes<CampSite.get_Label>		TREASURY {0}: {1} - {2} strongboxes ({3}), ${4} of their ${5}
+13909	1	NemesisMod::MakeStrongbox<String.Join>		TREASURY none of the strongbox models could be made: 
+13910	1	NemesisMod::UpdateStrongboxes<String.Concat>		: they heard you at the strongbox - the camp turns on you
+13911	1	NemesisMod::OpenStrongbox<NemesisMod.MemberWord>	The 	The strongbox is empty.
+13912	1	NemesisMod::OpenStrongbox<NemesisMod.MemberWord>		${0} from the {1} strongbox.
+13913	1	NemesisMod::OpenStrongbox<NemesisMod.OutfitPoss>		TREASURY ${0} from the {1} strongbox{2}
+13914	1	NemesisMod::OpenStrongbox<String.Format>		 - {0} more
+13915	1	NemesisMod::OpenStrongbox<NemesisMod.AddNotoriety>		you robbed their treasury
+13916	1	NemesisMod::OpenStrongbox<CampSite.get_Label>		ROBBED: you broke open the strongboxes he kept at 
+13917	1	NemesisMod::OpenStrongbox<NemesisMod.OutfitPoss>	You 	You robbed the 
+13918	1	NemesisMod::OpenStrongbox<String.Concat>		 treasury
+13919	1	NemesisMod::FoundStash<CampSite.get_Label>		: you found their stash - 
+13920	1	NemesisMod::FoundStash<String.Concat>		 stash. Marked on your map.
+13921	1	NemesisMod::FoundStash<CampSite.get_Label>		: stash found - 
+13922	3	NemesisMod::UpdateStashes<CampSite.get_Label> ; Holdings::PlaceStash<CampSite.get_Label>		: the stash at 
+13923	1	NemesisMod::UpdateStashes<String.Concat>		 - none of theirs free to keep it, nobody there
+13924	1	NemesisMod::UpdateStashes<CampSite.get_Label>		TREASURY {0}: their stash at {1} ({2:0} m) - kept by {3}
+13925	1	NemesisMod::RefreshStashBlips<NemesisMod.TreasuryRobbedNow>		 Treasury - stash
+13926	2	NemesisMod::UpdateUnease<Entity.get_Position> ; NemesisMod::UpdateUnease<String.Concat>		gun
+13927	1	NemesisMod::UpdateUnease<String.Format>		, {0} with him
+13928	1	NemesisMod::UpdateUnease<NemesisMod.AddSeen>		didn't like your blade out
+13929	1	NemesisMod::UpdateUnease<NemesisMod.AddSeen>		didn't like your gun out
+13930	1	NemesisMod::UpdateUnease<String.Concat>		 - your 
+13931	1	NemesisMod::UpdateLawApproach<String.Concat>	the 	the game took over
+13932	1	NemesisMod::UpdateLawApproach<NemesisMod.ShowSubtitle>		Lawman: That's better. Move along.
+13933	1	NemesisMod::UpdateLawApproach<NemesisMod.ShowSubtitle>		Lawman: Much obliged.
+13934	1	NemesisMod::UpdateLawApproach<NemesisMod.RepNote>		LAW you put it away - he moved on
+13935	1	NemesisMod::UpdateLawApproach<Game.get_GameTime>		LAW lawman {0} got to you ({1} s) - first warning
+13936	1	NemesisMod::UpdateLawApproach<Entity.get_Model>		LAW lawman {0} ({1}) saw your gun out at {2:0} m - walking over
+13937	1	NemesisMod::UpdateLawApproach<String.Format>		LAW a lawman saw your gun out at {0:0} m - walking over
+13938	1	NemesisMod::Leave<String.Concat>		: the walk off your path didn't take - away from you instead
+13939	1	NemesisMod::Leave<String.Concat>		away from you
+13940	1	NemesisMod::Leave<String.Concat>		off to the side of your path
+13941	2	NemesisMod::Liking<Acquaintance.get_Name> ; NemesisMod::LikeBy<Acquaintance.get_Name>		LIKE {0}: {1} -> {2} ({3})
+13942	2	NemesisMod::Liking<Acquaintance.get_Name> ; NemesisMod::LikeBy<Acquaintance.get_Name>		LIKE {0}: {1} to {2} ({3})
+13943	1	NemesisMod::SpreadLiking<Acquaintance.get_Name>		LIKE 
+13944	1	NemesisMod::SpreadLiking<String.Join>		 speaks well of you to his friends: 
+13945	1	NemesisMod::HateBarWhy<String.Concat>		 s
+13946	1	NemesisMod::DrawCardBars<NemesisMod.<DrawCardBars>g__Bar|3392_0>		DISLIKE
+13947	3	NemesisMod::DrawCardBars<NemesisMod.<DrawCardBars>g__Bar|3392_0> ; RosterMenu::DrawDetail<NemesisRecord.get_HateTier>		HATE
+13948	1	NemesisMod::UpdateUnmasking<String.Format>		, decides again
+13949	1	NemesisMod::Recognised<String.Concat>		 was you
+13950	1	NemesisMod::Recognised<NemesisRecord.get_Name>		UNMASKED {0} (nemesis) saw your face - fear {1} -> {2}
+13951	1	NemesisMod::Recognised<NemesisRecord.get_Name>		UNMASKED {0} saw your face - fear {1} -> {2}
+13952	1	NemesisMod::Recognised<NemesisMod.GetZoneName>		 (masked) - then saw your face - 
+13953	1	NemesisMod::Recognised<Acquaintance.get_Name>		UNMASKED {0} saw your face - the masked man who {1} was you: fear {2} -> {3}
+13954	1	NemesisMod::Recognised<Acquaintance.get_Name>		UNMASKED {0} saw your face - he knows it was you (fear {1} -> {2})
+13955	1	NemesisMod::OutfitLearnsYourName<String.Concat>		 knows the masked man was you
+13956	1	NemesisMod::FaceSeenInQuestioning<PoolObject.get_Handle>		UNMASKED {0} has seen your face - you questioned him barefaced (grudge {1:0})
+13957	1	NemesisMod::SimVanDerLinde<NemesisMod.PartFor>		SWORE ON IT
+13958	1	NemesisMod::SimVanDerLinde<NemesisMod.PartFor>		Dutch's boys will pay
+13959	1	NemesisMod::SimVanDerLinde<NemesisMod.AddThought>		Dutch van der Linde's gang
+13960	1	NemesisMod::UpdateMissionDeeds<String.Format>		VDL {0} old 'You rode with the gang' entries taken out of the World tab
+13961	1	NemesisMod::UpdateMissionDeeds<String.Format>		VDL mission over after {0}s - no story character with you: not chronicled
+13962	1	NemesisMod::UpdateMissionDeeds<NemesisMod.<UpdateMissionDeeds>g__Two|3416_8>		Rode out with 
+13963	1	NemesisMod::UpdateMissionDeeds<NemesisMod.<UpdateMissionDeeds>g__Two|3416_8>		A stranger mission with 
+13964	1	NemesisMod::UpdateMissionDeeds<Math.Max>		{0} minutes{1}.
+13965	1	NemesisMod::UpdateMissionDeeds<String.Concat>		, from 
+13966	1	NemesisMod::UpdateMissionDeeds<String.Concat>		, around 
+13967	1	NemesisMod::UpdateMissionDeeds<WorldEvent.get_Title>		VDL mission over after {0}s - chronicled: {1} ({2})
+13968	1	NemesisMod::GiveVoice<String.Concat>		still missing
+13969	1	NemesisMod::UpdateVoiceProbe<String.Format>		VOICE test: {0} is gone - stopped after {1} lines
+13970	1	NemesisMod::UpdateVoiceProbe<String.Concat>		' (the form for 
+13971	1	NemesisMod::UpdateVoiceProbe<String.Format>		VOICE test: no voice name NNNN_{0} answered ({1} tried)
+13972	1	NemesisMod::EndProbe<String.Format>		Voice test: {0} said none of {1} lines.
+13973	1	NemesisMod::UpdateVoiceCensus<String.Concat>		|game
+13974	1	NemesisMod::UpdateVoiceCensus<String.Concat>		|ours
+13975	1	NemesisMod::UpdateVoiceCensus<String.Format>		, released
+13976	1	NemesisMod::UpdateVoiceCensus<String.Format>		, held
+13977	1	NemesisMod::UpdateModelVoices<String.Concat>		: couldn't be made
+13978	1	NemesisMod::UpdateGreetReplies<String.Concat>		 (borrowed voice)
+13979	1	NemesisMod::UpdateGreetReplies<String.Concat>		said nothing - none of your lines was heard
+13980	1	NemesisMod::UpdateGreetReplies<String.Concat>		said 
+13981	1	NemesisMod::UpdateGreetReplies<String.Concat>		answered curtly
+13982	1	NemesisMod::UpdateGreetReplies<NemesisRecord.get_Hate>		 (hate {0})
+13983	1	NemesisMod::VoiceKey<String.Concat>		|him
+13984	1	NemesisMod::VoiceKey<String.Concat>		|you
+13985	1	NemesisMod::WagonState<String.Format>		{0} of {1}
+13986	1	NemesisMod::WagonState<PoolObject.get_Handle>		speed {0:0.0} m/s, horses in harness {1}, reins: {2}, team speed {3:0.0}{4}, driven with {5}
+13987	1	NemesisMod::WagonState<String.Format>		, NOT a draft vehicle
+13988	1	NemesisMod::WagonTry<String.Concat>		R*'s driving flags, to 
+13989	1	NemesisMod::WagonRolled<String.Format>		WAGONDIAG {0}: rolling again after try {1} - {2}
+13990	1	NemesisMod::WagonRolled<String.Concat>		WAGONDIAG the mod's wagons drive with 
+13991	1	NemesisMod::WagonRolled<String.Concat>		 from now on (this session)
+13992	1	NemesisMod::StartWarband<String.Format>		{0} warband ({1}) riding to hit the {2}
+13993	1	NemesisMod::StartWarband<String.Format>		ENCOUNTER WARBAND: {0} {1} ride past you to hit the {2} - follow them
+13994	1	NemesisMod::StartWarband<String.Concat>		 go by - they're out for the 
+13995	1	NemesisMod::StartAmbush<Vector3.get_Zero>		WAR ambush: no spot out of your sight for 
+13996	1	NemesisMod::StartAmbush<String.Concat>	the 	the riders
+13997	1	NemesisMod::StartAmbush<String.Concat>	the 	the men lying in wait
+13998	1	NemesisMod::StartAmbush<String.Concat>		 - not now
+13999	1	NemesisMod::UpdateWarBuildUp<String.Concat>		 left behind - it plays out without you
+14000	1	NemesisMod::UpdateWarBuildUp<Gangs.ById>	the 	the {0} warband hit {1} {2} {3}
+14001	1	NemesisMod::UpdateWarBuildUp<String.Format>	on 	on the way
+14002	1	NemesisMod::UpdateWarBuildUp<String.Format>		where they were headed
+14003	1	NemesisMod::UpdateWarBuildUp<NemesisMod.ModExplosion>		war ambush dynamite
+14004	1	NemesisMod::UpdateWarBuildUp<Vector3.DistanceTo>		WAR ambush: dynamite by the wagon ({0:0} m from you)
+14005	1	NemesisMod::UpdateWarBuildUp<NemesisMod.TriggerWarFight>		dynamite on the road - they hit the wagon
+14006	1	NemesisMod::UpdateWarBuildUp<NemesisMod.TriggerWarFight>	the 	the riders smelled it - it starts early
+14007	1	NemesisMod::UpdateWarBuildUp<NemesisMod.TriggerWarFight>		you fired first
+14008	1	NemesisMod::UpdateWarBuildUp<NemesisMod.TriggerWarFight>	the 	the riders rode into it
+14009	1	NemesisMod::TriggerWarFight<String.Concat>		WAR the fight starts: 
+14010	1	NemesisMod::TriggerWarFight<String.Concat>		 -> skirmish: 
+14011	1	NemesisMod::WarWagon<String.Concat>		WAR ambush: 
+14012	1	NemesisMod::WarWagon<String.Concat>		 not in the game files - riders instead
+14013	1	NemesisMod::WarWagon<String.Concat>		WAR ambush: no 
+14014	1	NemesisMod::WarWagon<String.Concat>		 - riders instead
+14015	1	NemesisMod::StartJustAfter<WorldEvent.get_Title>		ENCOUNTER JUST AFTER: {0} - {1} dead, {2:0} m ahead
+14016	1	NemesisMod::StartJustAfter<WorldEvent.get_Title>		Shots ahead - then quiet. 
+14017	1	NemesisMod::StartJustAfter<WorldEvent.get_Title>		WAR aftermath: {0} at {1:0},{2:0} ({3:0} m), {4} dead
+14018	1	NemesisMod::TestWarCard<NemesisMod.get_WarHere>		 - war here: 
+14019	1	NemesisMod::TestWarCard<NemesisMod.get_CurrentDistrict>		, district 
+14020	1	NemesisMod::TestWarCard<NemesisMod.ShowNotification>		A skirmish is already on - wait for it to end.
+14021	1	NemesisMod::TestWarCard<String.Concat>		 couldn't start here (see grudges.log).
+14022	1	NemesisMod::WarEncounterLine<String.ToUpperInvariant>		NOW WAR {0}: {1} - {2}s, the spot {3:0} m from you
+14023	1	NemesisMod::DailyWarTurn<NemesisMod.AddHeat>		a day of war wears them down
+14024	1	NemesisMod::DailyWarTurn<String.Concat>		 have nobody in the leader's seat
+14025	1	NemesisMod::DailyWarTurn<String.Concat>		 have lost their leader and nobody leads them now - the fight is going out of them.
+14026	1	NemesisMod::DailyWarTurn<String.Concat>		 new leader wants blood
+14027	1	NemesisMod::DailyWarTurn<String.Concat>		 new leader, 
+14028	1	NemesisMod::DailyWarTurn<String.Concat>		, swears to avenge the old one.
+14029	1	NemesisMod::DailyWarTurn<String.Concat>		 new leader is cautious
+14030	1	NemesisMod::DailyWarTurn<String.Concat>		they mean to drive the leaderless 
+14031	1	NemesisMod::DailyWarTurn<String.Concat>		 lost their leader
+14032	1	NemesisMod::DailyWarTurn<String.Format>		, {0} of them officers
+14033	1	NemesisMod::DailyWarTurn<NemesisMod.HeatWord>	The 	The war is {0} ({1}).
+14034	1	NemesisMod::SetWarAim<NemesisMod.GameMinutesNow>		{0:MMM d}: {1} ({2})
+14035	2	NemesisMod::RetargetWar<CampSite.get_Label> ; NemesisMod::PickWarGoal<CampSite.get_Label>		they want the camp at 
+14036	3	NemesisMod::RetargetWar<String.Concat> ; NemesisMod::ShiftWarGoal<String.Concat>		they want more of 
+14037	1	NemesisMod::ShiftWarGoal<NemesisMod.RetargetWar>	the 	the camp they came for is gone
+14038	1	NemesisMod::ShiftWarGoal<String.Concat>		they're holding on to what's left of 
+14039	1	NemesisMod::ShiftWarGoal<NemesisMod.SetWarAim>	the 	the war is going against them
+14040	1	NemesisMod::ShiftWarGoal<NemesisMod.SetWarAim>		they've won their ground back
+14041	1	NemesisMod::ShiftWarGoal<NemesisMod.SetWarAim>		they smell victory
+14042	1	NemesisMod::NoteWarKill<String.Concat>		you killed a 
+14043	1	NemesisMod::NoteWarKill<String.Concat>		 officer
+14044	1	NemesisMod::NoteWarKill<NemesisMod.OutfitPoss>		WAR you killed one of the 
+14045	1	NemesisMod::NoteWarKill<String.Concat>		 falters
+14046	1	NemesisMod::NoteWarKill<NemesisMod.OutfitPoss>		 hear you've been killing the 
+14047	1	NemesisMod::NoteWarKill<String.Concat>		 men - they're glad of it (notoriety with them -3)
+14048	1	NemesisMod::SimWarBattle<String.Concat>		 had the better of it.
+14049	1	NemesisMod::SimWarBattle<String.Concat>		won a fight with the 
+14050	2	NemesisMod::SimWarBattle<String.Concat> ; NemesisMod::SkirmishForWar<String.Concat>		lost a fight to the 
+14051	1	NemesisMod::SimWarBattle<WorldEvent.get_Title>		WAR battle {0}: {1} - {2} dead (heat {3}, {4} today)
+14052	2	NemesisMod::SimWarBattle<String.Format> ; NemesisMod::RunWorldEventAt<String.Format>		 ({0} dead)
+14053	1	NemesisMod::SkirmishForWar<String.Format>		won a fight with the {0} ({1} of theirs down)
+14054	1	NemesisMod::SkirmishForWar<String.Format>		a fight you heard - {0} men down
+14055	1	NemesisMod::SkirmishForWar<NemesisMod.WarName>	Part of	Part of {0}: the {1} took ground in {2} (+{3}).
+14056	1	NemesisMod::SkirmishForWar<NemesisMod.WarName>		WAR {0}: a live fight - the {1} +{2} ground, {3} of the {4} and {5} of theirs down
+14057	1	NemesisMod::RoadBodiesNow<WorldEvent.get_Title>		WAR road bodies: {0} - {1:0} m ahead (heat {2})
+14058	1	NemesisMod::WarDefenders<String.Concat>		Out to break the 
+14059	1	NemesisMod::WarDefenders<String.Concat>		 in turn
+14060	1	NemesisMod::WarDefenders<String.Format>		Holding firm - they've gained ground (+{0})
+14061	1	NemesisMod::WarDefenders<String.Format>		Giving ground - {0} lost so far
+14062	1	NemesisMod::WarDefenders<NemesisMod.StretchedThin>		Fighting for what pays
+14063	1	NemesisMod::WarDefenders<NemesisMod.StretchedThin>		Standing by their own
+14064	1	NemesisMod::WarDefenders<NemesisMod.StretchedThin>		Not much heart for it
+14065	1	NemesisMod::WarDefenders<String.Concat>		 - stretched thin by another war
+14066	1	NemesisMod::WarDefenders<String.Concat>		 - short of money
+14067	2	NemesisMod::WarOutlook<String.Concat> ; NemesisMod::WarOutlook<String.Concat>		Leaderless - the 
+14068	2	NemesisMod::WarOutlook<String.Concat> ; NemesisMod::WarOutlook<String.Concat>		 may break
+14069	1	NemesisMod::WarOutlook<String.Concat>		 are close to being driven out
+14070	1	NemesisMod::WarOutlook<String.Concat>		 are close to losing their foothold
+14071	2	NemesisMod::WarOutlook<String.Concat> ; NemesisMod::WarOutlook<String.Concat>		 are close to breaking - men and money running out
+14072	1	NemesisMod::WarOutlook<NemesisMod.HasPurse>		Wearing thin - talk of peace
+14073	2	NemesisMod::WarOutlook<String.Concat> ; NemesisMod::WarOutlook<String.Concat>		 are running out of money
+14074	1	NemesisMod::WarOutlook<NemesisMod.get_DebugOn>		Cooling - both sides tired
+14075	1	NemesisMod::WarOutlook<NemesisMod.get_DebugOn>		No end in sight yet
+14076	2	NemesisMod::WatchCamped<String.Format> ; NemesisMod::WatchSleep<String.Format>		a quiet night
+14077	1	NemesisMod::WatchCamped<String.Format>		gunfire soon
+14078	1	NemesisMod::UpdateWarPatrolRoll<String.Format>		 (night)
+14079	1	NemesisMod::UpdateWarEncounterRoll<String.Format>		WAR encounter roll: heat {0}, {1:0}% - rolled {2:0}, nothing
+14080	1	NemesisMod::UpdateWarEncounterRoll<String.Format>		WAR encounter roll: heat {0}, {1:0}% - rolled {2:0}, but nothing fitted or could be placed
+14081	1	NemesisMod::UpdateDistantBattle<NemesisMod.DistantNo>		turned off ([World] DistantBattles)
+14082	1	NemesisMod::UpdateDistantBattle<Game.get_GameTime>		too soon after the last ({0} s to wait)
+14083	1	NemesisMod::UpdateDistantBattle<NemesisMod.DistantNo>		a skirmish / war encounter is already on
+14084	1	NemesisMod::UpdateDistantBattle<NemesisMod.DistantNo>		an encounter came less than 5 minutes ago
+14085	1	NemesisMod::UpdateDistantBattle<NemesisMod.DistantNo>	the 	the world is busy (fade / no control)
+14086	1	NemesisMod::UpdateDistantBattle<NemesisMod.DistantNo>	in 	in a town
+14087	1	NemesisMod::UpdateDistantBattle<NemesisMod.DistantNo>		your own encounter is on
+14088	1	NemesisMod::UpdateDistantBattle<String.Concat>		: a truce
+14089	1	NemesisMod::UpdateDistantBattle<String.Concat>		: a side has no troops
+14090	1	NemesisMod::UpdateDistantBattle<String.Format>		{0}: {1:0} m off (needs under 1800)
+14091	1	NemesisMod::UpdateDistantBattle<String.Join>		no war near you - 
+14092	1	NemesisMod::UpdateDistantBattle<NemesisMod.DistantNo>		no war on
+14093	1	NemesisMod::UpdateDistantBattle<NemesisMod.WarName>		WAR distant battle roll: {0}, heat {1}{2} - {3:0}%, rolled {4:0}
+14094	1	NemesisMod::UpdateDistantBattle<String.Concat>		: no
+14095	1	NemesisMod::UpdateDistantBattle<String.Concat>		: yes
+14096	1	NemesisMod::UpdateDistantBattle<String.Concat>	the 	the skirmish wouldn't start
+14097	1	NemesisMod::UpdateDistantBattle<String.Concat>		 (next try in 2 min)
+14098	1	NemesisMod::DistantNo<String.Concat>		WAR distant battle roll: skipped - 
+14099	1	NemesisMod::WatchSleep<String.Format>		WAR sleep {0}h: this half day already rolled
+14100	1	NemesisMod::WatchSleep<String.Format>		gunfire when you wake
+14101	4	NemesisMod::NameWar<String.Concat> ; NemesisMod::NameWar<String.Concat>		 War
+14102	1	NemesisMod::NameWar<CampSite.get_Label>	The 	The War for 
+14103	1	NemesisMod::NameWar<String.Concat>		 Blood Feud
+14104	1	NemesisMod::NameWar<String.Concat>		's War
+14105	1	NemesisMod::NameWar<String.Concat>		Summer
+14106	1	NemesisMod::NameWar<String.Concat>		Spring
+14107	1	NemesisMod::NameWar<String.Concat>		Winter
+14108	1	NemesisMod::NameWar<String.Concat>		 War in 
+14109	1	NemesisMod::WarPurse<NemesisMod.PurseWord>		${0:N0}  -  {1}
+14110	1	NemesisMod::WarCosts<String.Format>		 ({0} wars)
+14111	1	NemesisMod::DrawWarHud<String.ToUpperInvariant>		  VS  
+14112	1	NemesisMod::DrawWarHud<NemesisMod.WarDay>		Day {0}  -  since {1}
+14113	1	NemesisMod::AddGrievance<Gangs.ById>		GRIEVANCE {0} / {1}: {2} -> {3} ({4})
+14114	1	NemesisMod::LeaderWord<String.Concat>		, with nobody in the leader's seat,
+14115	1	NemesisMod::RollWarDeclarations<String.Format>		WAR roll skipped: a war started {0:0.0} days ago (one every 3 days at most)
+14116	1	NemesisMod::RollWarDeclarations<String.Concat>		 chose to fight
+14117	1	NemesisMod::DeclareWar<String.Concat>		 were beaten here lately - no war from them yet
+14118	1	NemesisMod::DeclareWar<String.Concat>	the 	the war spreads to 
+14119	1	NemesisMod::DeclareWar<NemesisMod.GameMinutesNow>		{0:MMM d}: the fighting spread to {1}
+14120	1	NemesisMod::DeclareWar<NemesisMod.WarName>		 are already at war (
+14121	1	NemesisMod::DeclareWar<String.Concat>		) - it spreads here, no second war
+14122	1	NemesisMod::WarSettled<String.Concat>	the 	the fighting in 
+14123	1	NemesisMod::WarSettled<String.Concat>		 joined it
+14124	1	NemesisMod::WarSettled<NemesisMod.WarName>		: a second war between the same outfits - folded into 
+14125	1	NemesisMod::WarSettled<NemesisMod.RetargetWar>	the 	the camp they came for fell to someone else
+14126	1	NemesisMod::WarResultText<String.Concat>		 won the ground they wanted
+14127	1	NemesisMod::WarResultText<String.Concat>		 out
+14128	1	NemesisMod::WarResultText<String.Concat>		 took the camp they came for
+14129	1	NemesisMod::WarResultText<String.Concat>		 off
+14130	1	NemesisMod::WarResultText<String.Concat>		 gave up on it (
+14131	1	NemesisMod::WarResultText<String.Concat>		 ran out of men and broke
+14132	1	NemesisMod::WarResultText<String.Concat>		 were already fighting
+14133	1	NemesisMod::WarResultText<String.Concat>		 ran out of men and went home
+14134	1	NemesisMod::WarResultText<String.Concat>		 made peace
+14135	1	NemesisMod::LeadersSueForPeace<NemesisMod.LeaderWord>		 offered peace. 
+14136	1	NemesisMod::LeadersSueForPeace<String.Concat>		 wouldn't hear of it.
+14137	1	NemesisMod::LeadersSueForPeace<NemesisMod.AddHeat>		a peace offer refused
+14138	1	NemesisMod::LeadersSueForPeace<String.Concat>		 turned down peace
+14139	1	NemesisMod::LeadersSueForPeace<NemesisMod.LeaderWord>		WAR {0}: {1} offered peace ({2}%) - {3} refused ({4}%, rolled {5})
+14140	1	NemesisMod::LeadersSueForPeace<NemesisMod.LeaderWord>		{0} sued for peace - a truce for {1} days.
+14141	1	NemesisMod::LeadersSueForPeace<String.Concat>		 sued for peace
+14142	1	NemesisMod::LeadersSueForPeace<NemesisMod.LeaderWord>		WAR {0}: {1} sued for peace ({2}%) - truce {3} days{4}
+14143	1	NemesisMod::LeadersSueForPeace<String.Format>		, the war is paused
+14144	1	NemesisMod::LeadersSueForPeace<String.Format>		, and it ends the war
+14145	1	NemesisMod::RollFlashpoint<NemesisMod.AddGrievance>		a flashpoint
+14146	2	NemesisMod::RollFlashpoint<NemesisMod.ShiftRelation> ; NemesisMod::RollFlashpoint<NemesisMod.AddGrievance>		broke the truce
+14147	1	NemesisMod::RollFlashpoint<String.Format>		 - no war possible here
+14148	1	NemesisMod::GrievanceLine<NemesisMod.get_Grievances>		grievances: 
+14149	1	NemesisMod::FixPearseKeogh<String.Concat>		a renamed man
+14150	1	NemesisMod::FixPearseKeogh<String.Concat>		 - the stray entry removed
+14151	1	NemesisMod::FixValentineSelfDefence<Acquaintance.get_Name>		PEOPLE {0}: Valentine Feb 22 was self-defence - fear {1} -> {2}
+14152	1	NemesisMod::FixValentineSelfDefence<String.Format>		PEOPLE {0} Valentine witnesses: those fights were self-defence (fear cut)
+14153	1	NemesisMod::AttackerLabel<Enumerable.FirstOrDefault>		AEIOU
+14154	1	NemesisMod::AttackerLabel<String.Concat>		an 
+14155	1	NemesisMod::Witness<NemesisMod.NameOf>	saw	saw you fight off 
+14156	1	NemesisMod::Witness<String.Concat>	saw	saw you shoot 
+14157	2	NemesisMod::Witness<String.Concat> ; NemesisMod::Witness<String.Concat>		 who came at you
+14158	1	NemesisMod::Witness<String.Concat>	saw	saw you gun down 
+14159	1	NemesisMod::Witness<NemesisMod.NameOf>	saw	saw you tie up 
+14160	1	NemesisMod::Witness<String.Concat>		 after he went for you
+14161	1	NemesisMod::Witness<PoolObject.get_Handle>		 (fighting you, 
+14162	1	NemesisMod::WitnessDone<String.Format>		WITNESSES ({0}) {1}
+14163	1	NemesisMod::WitnessDone<String.Concat>		 - you were masked
+14164	1	NemesisMod::WitnessDone<String.Concat>		 - you were masked: they don't know it was you
+14165	1	NemesisMod::WitnessOne<String.Concat>		you killed his friend 
+14166	1	NemesisMod::WitnessOne<String.Concat>		 in front of him
+14167	1	NemesisMod::WitnessOne<String.Concat>		SAW YOU KILL his friend 
+14168	2	NemesisMod::WitnessOne<NemesisRecord.get_Name> ; NemesisMod::WitnessOne<NemesisRecord.get_Name>		{0} (nemesis, {1} friend) hate {2} to {3}
+14169	1	NemesisMod::WitnessOne<NemesisRecord.get_Name>		{0} (nemesis) fear {1} to {2}
+14170	1	NemesisMod::WitnessOne<Acquaintance.get_Name>		{0} ({1}, x{2:0.0}{3}) fear {4} to {5}
+14171	1	NemesisMod::WitnessOne<Acquaintance.get_Fear>		, his friend
+14172	1	NemesisMod::WitnessOne<Acquaintance.get_Fear>		, her friend
+14173	1	NemesisMod::WitnessOne<Acquaintance.get_Name>		WITNESS {0} {1} at {2:0} m ({3}, fear x{4:0.00}): fear {5} -> {6}
+14174	1	NemesisMod::Rescued<PoolObject.get_Handle>	the 	the men who were after 
+14175	1	NemesisMod::Rescued<PoolObject.get_Handle>		you saved 
+14176	1	NemesisMod::Rescued<PoolObject.get_Handle>		RESCUE 
+14177	1	NemesisMod::PressedAfterLeaving<String.Concat>		: Please - I don't want no trouble!
+14178	1	NemesisMod::PressedAfterLeaving<String.Format>		RECOGNISED {0}: you went after him ({1}) after he walked off - {2}
+14179	1	NemesisMod::UpdateWitnessRecognition<Acquaintance.get_Name>		RECOGNISED {0} ({1}, fear {2}, likes you {3}) - lets you by
+14180	1	NemesisMod::UpdateWitnessRecognition<Acquaintance.get_Name>		...I remember you.
+14181	1	NemesisMod::UpdateWitnessRecognition<Acquaintance.get_Name>		I know who you are. So does everyone else.
+14182	1	NemesisMod::UpdateWitnessRecognition<Acquaintance.get_Name>		I saw what you did. I ain't scared of you.
+14183	1	NemesisMod::UpdateWitnessRecognition<String.Concat>		: Please - I didn't see nothing!
+14184	1	NemesisMod::UpdateWitnessRecognition<NemesisMod.GoAway>		walks off, glancing back (he likes you)
+14185	1	NemesisMod::UpdateWitnessRecognition<String.Concat>		: It's him!
+14186	1	NemesisMod::UpdateWitnessRecognition<Acquaintance.get_Name>		RECOGNISED {0} ({1}, fear {2}) - {3} - {4}
+14187	1	NemesisMod::UpdateWitnessRecognition<Acquaintance.get_Name>		RECOGNISED {0} ({1}, fear {2}): {3} - {4}
+14188	1	NemesisMod::UpdateWitnessReports<Vector3.DistanceTo>		 - A MOD EXPLOSION {0:0.0} s before, {1:0} m off
+14189	1	NemesisMod::UpdateWitnessReports<NemesisMod.AddSeen>		told the law about you
+14190	1	NemesisMod::UpdateWitnessReports<Acquaintance.get_Name>		REPORTED {0} told the law (bounty ${1} -> ${2}) - {3}, {4} s before
+14191	1	NemesisMod::UpdateWitnessReports<Acquaintance.get_Name>		REPORTED {0} told the law about you (bounty ${1} to ${2})
+14192	1	NemesisMod::WitnessIntimidated<NemesisMod.AddSeen>		you scared him into keeping quiet
+14193	1	NemesisMod::WitnessIntimidated<NemesisMod.AddSeen>		you threatened him (too late - he told the law)
+14194	1	NemesisMod::WitnessIntimidated<Acquaintance.get_Name>		KEPT QUIET {0}: fear {1} -> {2}{3}
+14195	1	NemesisMod::WitnessIntimidated<String.Format>		 (he had already reported)
+14196	1	NemesisMod::WitnessIntimidated<Acquaintance.get_Name>		KEPT QUIET {0}: fear {1} to {2}{3}
+14197	1	NemesisMod::WitnessIntimidated<String.Format>		 - he won't talk
+14198	1	NemesisMod::WitnessIntimidated<String.Format>		 - too late, he told the law
+14199	2	NemesisMod::WitnessSilenced<Acquaintance.get_Name> ; NemesisMod::WitnessSilenced<Acquaintance.get_Name>		SILENCED 
+14200	1	NemesisMod::WitnessSilenced<Acquaintance.get_Reported>		 (right after he saw you)

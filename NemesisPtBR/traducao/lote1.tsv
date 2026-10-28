@@ -1,0 +1,834 @@
+id	usos	contexto	prefixo_fixo	texto
+1	1	LivesContent::.ctor<campo <About>k__BackingField>		Life events for every man's past (Backstory.cs). Edit, add rows, reload the mod (Insert). who: any / man / woman / gang / loner / irish / irishborn / south / north / rich / poor / a faction id / trade:<Trade> (| = or). tilt: temper:points. fx: aggr:+N fear:+N friendly surly devout godless sharp dim. text tokens: {home} {town} {n}. mirrorTitle tokens: {name} {town}.
+2	1	Backstory::BirthplaceFor<>	the 	the northern plains
+3	2	Backstory::War<> ; Backstory::War<>		Kept the farm going while the men were away at the War
+4	1	Backstory::War<>		Nursed Union wounded in a field hospital
+5	1	Backstory::War<>		Sewed uniforms for the regiment in '62
+6	1	Backstory::War<>		Lost two brothers to the War
+7	1	Backstory::War<>		Nursed Confederate wounded in a church turned hospital
+8	1	Backstory::War<>		Watched Union soldiers burn the barn in '64
+9	1	Backstory::War<desvio>		Fought for the 
+10	1	Backstory::JoinUp<>		Rode out with the warriors for the first time
+11	1	Backstory::JoinUp<>		Put on the hood for the first time
+12	1	Backstory::JoinUp<>		Enlisted in the U.S. Army at 
+13	1	Backstory::Family<>	the 	the fever
+14	1	Backstory::Family<desvio>		his wife
+15	1	Backstory::Family<desvio>		her husband
+16	3	Backstory::Family<desvio> ; NemesisMod::WriteUp<>		 to 
+17	1	Backstory::.cctor<>	County	County Cork
+18	1	Backstory::.cctor<>	County	County Kerry
+19	1	Backstory::.cctor<>	County	County Galway
+20	1	Backstory::.cctor<>	County	County Mayo
+21	1	Backstory::.cctor<>	County	County Clare
+22	1	Backstory::.cctor<>	County	County Donegal
+23	1	Backstory::.cctor<>	County	County Limerick
+24	1	Backstory::.cctor<campo IrishCounties>	County	County Sligo
+25	1	Backstory::.cctor<campo IrishCounties>	County	County Wexford
+26	1	Backstory::.cctor<campo IrishCounties>	County	County Tipperary
+27	1	Backstory::.cctor<campo IrishAmerican>		Five Points, New York, to Irish parents
+28	1	Backstory::.cctor<campo IrishAmerican>		Boston, to Irish parents
+29	1	Backstory::.cctor<campo IrishAmerican>		Saint Denis, to Irish dock hands
+30	1	Backstory::.cctor<>		Scarlett Meadows, Lemoyne
+31	1	Backstory::.cctor<>		Bluewater Marsh, Lemoyne
+32	1	Backstory::.cctor<>		Bayou Nwa, Lemoyne
+33	2	Backstory::.cctor<> ; Backstory::.cctor<>		Rhodes, Lemoyne
+34	2	Backstory::.cctor<> ; Backstory::.cctor<>		Saint Denis, Lemoyne
+35	1	Backstory::.cctor<>		Georgia
+36	1	Backstory::.cctor<>		Alabama
+37	1	Backstory::.cctor<campo Southern>		Mississippi
+38	1	Backstory::.cctor<campo Southern>	the 	the Carolinas
+39	1	Backstory::.cctor<campo Southern>		Tennessee
+40	2	Backstory::.cctor<> ; Backstory::.cctor<campo Frontier>		Ohio
+41	2	Backstory::.cctor<> ; NemesisMod::.cctor<ValueTuple`3..ctor>		Pennsylvania
+42	3	Backstory::.cctor<> ; Backstory::.cctor<>		New York
+43	1	Backstory::.cctor<>		Massachusetts
+44	1	Backstory::.cctor<>		Indiana
+45	1	Backstory::.cctor<>		Illinois
+46	1	Backstory::.cctor<>		Michigan
+47	1	Backstory::.cctor<>		Kentucky
+48	2	Backstory::.cctor<campo Northern> ; Backstory::.cctor<>		Blackwater, West Elizabeth
+49	2	Backstory::.cctor<campo Northern> ; Backstory::.cctor<>		Valentine, New Hanover
+50	1	Backstory::.cctor<campo Northern>	Bavaria	Bavaria - came over as a boy
+51	1	Backstory::.cctor<>		Annesburg, New Hanover
+52	1	Backstory::.cctor<>		Emerald Ranch, New Hanover
+53	1	Backstory::.cctor<>		Van Horn, New Hanover
+54	1	Backstory::.cctor<>		Strawberry, West Elizabeth
+55	1	Backstory::.cctor<>		Big Valley, West Elizabeth
+56	1	Backstory::.cctor<>		Armadillo, New Austin
+57	1	Backstory::.cctor<>		Tumbleweed, New Austin
+58	1	Backstory::.cctor<>	the 	the Ambarino high country
+59	1	Backstory::.cctor<>		Boston
+60	1	Backstory::.cctor<>		Philadelphia
+61	1	Backstory::.cctor<campo Frontier>		Missouri
+62	1	Backstory::.cctor<campo Frontier>		Kansas
+63	15	Backstory::.cctor<campo Towns> ; NemesisMod::.cctor<>		Annesburg
+64	2	Backstory::.cctor<> ; NemesisMod::.cctor<>		Mary
+65	1	Backstory::.cctor<>		Bridget
+66	1	Backstory::.cctor<>		Kathleen
+67	1	Backstory::.cctor<>		Nora
+68	1	Backstory::.cctor<>		Margaret
+69	1	Backstory::.cctor<campo IrishWives>		Eileen
+70	1	Backstory::.cctor<campo IrishWives>		Siobhan
+71	1	Backstory::.cctor<campo IrishWives>		Honora
+72	1	Backstory::.cctor<>		Patrick
+73	1	Backstory::.cctor<>		Michael
+74	8	Backstory::.cctor<> ; NemesisMod::.cctor<Dictionary`2.set_Item>		Sean
+75	2	Backstory::.cctor<> ; Backstory::.cctor<>		Thomas
+76	1	Backstory::.cctor<>		Daniel
+77	1	Backstory::.cctor<campo IrishHusbands>		Cornelius
+78	1	Backstory::.cctor<campo IrishHusbands>		Dermot
+79	1	Backstory::.cctor<campo IrishHusbands>		Owen
+80	9	Backstory::.cctor<> ; NemesisMod::.cctor<Dictionary`2.set_Item>		John
+81	1	Backstory::.cctor<>		William
+82	1	Backstory::.cctor<>		Samuel
+83	1	Backstory::.cctor<>		Henry
+84	1	Backstory::.cctor<>		Charles
+85	1	Backstory::.cctor<>		Jacob
+86	2	Backstory::.cctor<campo Husbands> ; NemesisMod::.cctor<>		Walter
+87	2	Backstory::.cctor<campo Husbands> ; NemesisMod::.cctor<>		Amos
+88	1	Backstory::.cctor<campo Husbands>		Eli
+89	1	Backstory::.cctor<>		Sarah
+90	1	Backstory::.cctor<>		Martha
+91	1	Backstory::.cctor<>		Elizabeth
+92	1	Backstory::.cctor<>		Anna
+93	2	Backstory::.cctor<> ; NemesisMod::.cctor<>		Clara
+94	1	Backstory::.cctor<>		Emma
+95	1	Backstory::.cctor<>		Lucy
+96	1	Backstory::.cctor<>		Ruth
+97	2	Backstory::.cctor<> ; NemesisMod::.cctor<>		Hattie
+98	2	Backstory::.cctor<campo Wives> ; NemesisMod::.cctor<>		Ida
+99	1	Backstory::.cctor<campo Wives>		Mae
+100	1	Backstory::.cctor<campo Wives>		Josephine
+101	2	Backstory::.cctor<ValueTuple`2..ctor> ; Backstory::.cctor<ValueTuple`2..ctor>		Shiloh
+102	2	Backstory::.cctor<ValueTuple`2..ctor> ; Backstory::.cctor<ValueTuple`2..ctor>		Antietam
+103	1	Backstory::.cctor<ValueTuple`2..ctor>		Chickamauga
+104	2	Backstory::.cctor<ValueTuple`2..ctor> ; Backstory::.cctor<ValueTuple`2..ctor>		Gettysburg
+105	2	Backstory::.cctor<ValueTuple`2..ctor> ; Backstory::.cctor<ValueTuple`2..ctor>	the 	the Wilderness
+106	1	Backstory::.cctor<ValueTuple`2..ctor>		Franklin
+107	2	Backstory::.cctor<ValueTuple`2..ctor> ; Backstory::.cctor<ValueTuple`2..ctor>		Atlanta
+108	2	Backstory::.cctor<ValueTuple`2..ctor> ; Backstory::.cctor<ValueTuple`2..ctor>		Petersburg
+109	1	Backstory::.cctor<ValueTuple`2..ctor>		Vicksburg
+110	55	Backstory::.cctor<> ; Backstory::.cctor<>		youth
+111	1	Backstory::.cctor<>		north|man
+112	1	Backstory::.cctor<>		north|woman
+113	2	Backstory::.cctor<> ; Backstory::.cctor<>	trade:	trade:Railroad man
+114	2	Backstory::.cctor<> ; Backstory::.cctor<>	trade:	trade:Hunter|trade:Trapper
+115	1	Backstory::.cctor<>	trade:	trade:Doctor|man
+116	1	Backstory::.cctor<>	trade:	trade:Outlaw|trade:Drifter
+117	2	Backstory::.cctor<> ; Backstory::.cctor<>	trade:	trade:Blacksmith|woman
+118	1	Backstory::.cctor<>	trade:	trade:Doctor|woman
+119	1	Backstory::.cctor<>	trade:	trade:Shopkeeper|woman
+120	1	Backstory::.cctor<>	trade:	trade:Cook|trade:Camp cook
+121	1	Backstory::.cctor<>	trade:	trade:Camp cook
+122	1	Backstory::.cctor<>	trade:	trade:Boarding-house keeper
+123	1	Backstory::.cctor<>	trade:	trade:Telegraph operator
+124	1	Backstory::.cctor<>	trade:	trade:Preacher's wife
+125	1	Backstory::.cctor<>	trade:	trade:Lady|trade:Schoolteacher|trade:Seamstress|woman
+126	2	Backstory::.cctor<> ; Backstory::.cctor<>	trade:	trade:Saloon girl
+127	1	Backstory::.cctor<>	trade:	trade:Homesteader|trade:Farm wife
+128	1	Backstory::.cctor<>	trade:	trade:Farm wife
+129	1	Backstory::.cctor<>	trade:	trade:Farm wife|trade:Homesteader
+130	2	Backstory::.cctor<> ; Backstory::.cctor<>	trade:	trade:Market seller
+131	21	Backstory::.cctor<> ; Backstory::.cctor<>		adult
+132	1	Backstory::.cctor<Func`1..ctor>		boyhood
+133	1	Backstory::.cctor<Func`1..ctor>		southern
+134	1	Backstory::.cctor<Func`1..ctor>		northern
+135	1	Backstory::.cctor<Func`1..ctor>		frontier
+136	1	Backstory::.cctor<Func`1..ctor>		towns
+137	1	Backstory::.cctor<Func`1..ctor>		wives
+138	1	CampKit::Spawn<List`1.get_Count>		CAMPKIT {0}: {1} props laid out ({2})
+139	1	CampKit::Prop<>		CAMPKIT 
+140	1	CampKit::Prop<desvio>		: none of 
+141	1	CampKit::SpawnRig<List`1.get_Count>		CAMPKIT {0}: {1}, {2} horse(s) tied up
+142	1	CampKit::SpawnRig<desvio>		no wagon
+143	1	CampKit::SpawnRig<desvio>		no wagon (no room / no model)
+144	1	CampKit::SpawnRig<List`1.get_Count>		 ({0} more: no room / no model)
+145	8	CampKit::.cctor<ValueTuple`3..ctor> ; CampKit::.cctor<ValueTuple`3..ctor>		wagon04x
+146	6	CampKit::.cctor<ValueTuple`3..ctor> ; CampKit::.cctor<ValueTuple`3..ctor>		wagon02x
+147	5	CampKit::.cctor<ValueTuple`3..ctor> ; CampKit::.cctor<ValueTuple`3..ctor>		cart03
+148	5	CampKit::.cctor<ValueTuple`3..ctor> ; CampKit::.cctor<ValueTuple`3..ctor>		wagon05x
+149	4	CampKit::.cctor<ValueTuple`3..ctor> ; NemesisMod::.cctor<>		wagon06x
+150	4	CampKit::.cctor<ValueTuple`3..ctor> ; CampKit::.cctor<ValueTuple`3..ctor>		cart06
+151	1	CampKit::.cctor<ValueTuple`3..ctor>		coach2
+152	1	CampKit::.cctor<ValueTuple`3..ctor>		buggy01
+153	4	CampKit::.cctor<ValueTuple`3..ctor> ; NemesisMod::.cctor<campo SupplyWagonModels>		chuckwagon000x
+154	3	CampKit::.cctor<ValueTuple`3..ctor> ; NemesisMod::.cctor<campo SupplyWagonModels>		chuckwagon002x
+155	1	EventStory::Build<>		It started 
+156	1	EventStory::Build<>		, when 
+157	1	EventStory::Build<>		 had been looking for 
+158	1	EventStory::Build<>		What followed was short and ugly - men behind wagons, behind rocks, behind each other.
+159	1	EventStory::Build<>	The 	The shooting went on longer than anyone there would admit.
+160	1	EventStory::Build<List`1.get_Count>		Bad blood inside 
+161	1	EventStory::Build<>		 came to a head 
+162	1	EventStory::Build<>		A card game, a word too many, an old debt - the reason changes depending on who tells it. It happened 
+163	1	EventStory::Build<>	The 	The rest of the outfit stood back and let them settle it.
+164	1	EventStory::Build<>		It began over nothing much, 
+165	1	EventStory::Build<>		Half the street turned out to watch, 
+166	1	EventStory::Build<>		Folk still argue about who threw the first punch.
+167	1	EventStory::Build<>	The 	The word was out on the road for a week before it happened - 
+168	1	EventStory::Build<>		That was your doing, 
+169	1	EventStory::Build<>		You'll remember it one way. The people who saw it will remember it another.
+170	2	EventStory::Build<> ; EventStory::Build<>		It happened 
+171	1	EventStory::Build<>	You 	You saw it with your own eyes, 
+172	1	EventStory::Build<>		Word went round 
+173	1	EventStory::Build<List`1.get_Count>		, the ground moved under 
+174	1	EventStory::Build<>		There will be men who profit from it, and men who don't live to see how it ends.
+175	1	EventStory::Build<>	The 	The fighting 
+176	1	EventStory::Build<>		Graves are being dug faster than anyone can mark them.
+177	1	EventStory::Build<>	The 	The roads there aren't safe for anyone wearing the wrong colours.
+178	1	EventStory::Build<>		 was killed 
+179	1	EventStory::Build<>		where he stood
+180	1	EventStory::Build<>		trying to reach his horse
+181	1	EventStory::Build<>	the 	the next morning
+182	1	EventStory::Build<>		where he fell
+183	1	EventStory::Build<desvio>		 died there
+184	1	EventStory::Build<List`1.get_Count>		{0} more named men fell with them.
+185	1	EventStory::Build<List`1.get_Count>		 came through without a scratch
+186	1	EventStory::Build<>		Whatever was left there has been cleared away.
+187	1	EventStory::Build<List`1.Add>		You've been to the spot since.
+188	1	EventStory::Build<>	Neither side	Neither side will forget it.
+189	1	EventStory::Build<>		It won't be the last time.
+190	1	EventStory::TemperWord<ret>		a hothead
+191	1	EventStory::TemperWord<ret>		never the bravest
+192	1	EventStory::TemperWord<ret>		a proud man
+193	1	EventStory::TemperWord<ret>		a cold one
+194	1	EventStory::TemperWord<ret>		always counting his money
+195	1	EventStory::TemperWord<ret>		loyal to a fault
+196	1	EventStory::TemperWord<ret>		a drifter
+197	1	EventStory::SideName<ret>		some loners
+198	1	EventStory::PlacePhrase<ret>		out in the country
+199	1	EventStory::TimeOfDay<ret>		one day
+200	1	FactionsContent::.ctor<campo <About>k__BackingField>		Every faction (Gangs.cs fields by name). Leave a field out to keep the built-in value; a new Id = a new faction. Name lists: a NameBank name ("IrishFirst") or a list. Districts: zone hashes as hex. Tiers: Label / MinRank / Seats, top first. Seed: Rank / Count / Models. Relations: other faction id -> -100..100 (either side may say it). Jobs: Title / Place with {t} = the town, Crew; JobTowns: where they happen.
+201	1	PlacesContent::.ctor<campo <About>k__BackingField>		Districts: Key, Name, X / Y (its middle), Hashes (the zone hashes the game gives for it, hex), Lore (faction id -> starting hold 0-100; a faction's encounter weight there = hold / 18). Towns: Name (the game's zone name), Doctor / Saloon [x, y, z] (either may be missing), CoreRadius (the busy part, m).
+202	1	WildcardsContent::.ctor<campo <About>k__BackingField>		TURMOIL world events (Sandbox.cs): Weight = how often turmoil comes up next to the [World] weights (clash 20, life 60...), Kinds = each wildcard's weight (0 = never). Incident lines: {a} {b} = the two factions, {p} / {d} = the district.
+203	2	FactionContent::FillNew<ValueTuple`3..ctor> ; Gangs::.cctor<ValueTuple`3..ctor>		OFFICERS
+204	1	FactionContent::FillNew<ValueTuple`3..ctor>		HANDS
+205	6	FactionContent::FillNew<ValueTuple`3..ctor> ; NemesisMod::UpdateTension<desvio>		MEN
+206	1	NemesisMod::AffiliateWronged<>		AFFILIATE 
+207	1	NemesisMod::AgendaText<Func`2..ctor>		take 
+208	1	NemesisMod::AgendaText<ret>		get rich
+209	1	NemesisMod::AgendaText<ret>		see you dead
+210	1	NemesisMod::AgendaText<ret>		hold what they have
+211	1	NemesisMod::DailyAgendas<>		AGENDA 
+212	1	NemesisMod::DailyAgendas<>		 turns the 
+213	1	NemesisMod::DailyAgendas<>		 meant to 
+214	1	NemesisMod::DailyAgendas<>		He means to 
+215	1	NemesisMod::RefreshArmyNames<>		NAMING army: two of them were 
+216	1	NemesisMod::RefreshArmyNames<ValueTuple`2..ctor>		Colonel
+217	2	NemesisMod::RefreshArmyNames<ValueTuple`2..ctor> ; NemesisMod::<RaiderInfighting>g__What|1014_6<ret>		Sergeant
+218	1	NemesisMod::RefreshArmyNames<ValueTuple`2..ctor>		Private
+219	1	NemesisMod::SpawnArmyCrew<desvio>		 (Army): 
+220	1	NemesisMod::UpdateGeneral<Nullable`1..ctor>		HIDEOUT Fort Wallace cleared - its commander is dead
+221	1	NemesisMod::SpawnFortHQ<>		ARMY fort: the commander at {0:0},{1:0},{2:0} ({3})
+222	1	NemesisMod::SpawnFortHQ<desvio>		no commander
+223	1	NemesisMod::FortNotMine<>	The 	The Colonel's quarters? Mister, I muck out stables. Ask an officer.
+224	1	NemesisMod::FortNotMine<>		I don't get past the parade ground. Only the officers know the fort.
+225	1	NemesisMod::FortHedge<>	The 	The Colonel? He moves about. Different quarters every week. I don't know which.
+226	1	NemesisMod::FortHedge<>		There's the fort, sure - and a hundred men in it. Which door's his? I couldn't say.
+227	1	NemesisMod::RevealFort<>	The 	The commander
+228	1	NemesisMod::RevealFort<>	INTEL	INTEL 
+229	1	NemesisMod::RevealFort<ret>		Fort Wallace. I run the whole of it from the yard. You'd never get near me.
+230	1	NemesisMod::NoSpawnReason<desvio>	resting	resting (sitting / at a fire)
+231	1	NemesisMod::UpdateCampObjectives<ValueTuple`3..ctor>		Their crates
+232	1	NemesisMod::UpdateCampObjectives<ValueTuple`3..ctor>		Their stores - dynamite
+233	1	NemesisMod::UpdateCampObjectives<ValueTuple`3..ctor>		Their supply wagon
+234	1	NemesisMod::UpdateCampObjectives<ValueTuple`3..ctor>		Strongbox
+235	1	NemesisMod::RegardWord<ret>		can't stand you
+236	1	NemesisMod::RegardWord<ret>		dislikes you
+237	1	NemesisMod::RegardWord<ret>		cool on you
+238	1	NemesisMod::RegardWord<ret>	on 	on the fence about you
+239	1	NemesisMod::RegardWord<ret>		warm to you
+240	2	NemesisMod::RegardWord<ret> ; NemesisMod::FeelingOf<ValueTuple`3..ctor>		likes you
+241	1	NemesisMod::RegardWord<ret>		would ride through hell for you
+242	1	NemesisMod::AddRegard<>		REGARD {0} {1} -> {2} ({3})
+243	1	NemesisMod::AddRegard<>		REGARD {0}: {1} -> {2} - {3}
+244	2	NemesisMod::SiteInTown<> ; NemesisMod::AddCampSite<>		CAMP site 
+245	1	NemesisMod::BeginTakeover<>		 stands empty - the 
+246	1	NemesisMod::UpdateTakeovers<>		: back to the 
+247	1	NemesisMod::TakeCamp<>		 belongs to the 
+248	1	NemesisMod::AssignCamps<desvio>		CAMPS {0} camp{1} let go - within {2:0} m of another manned camp
+249	1	NemesisMod::AssignCamps<desvio>		: moved out of 
+250	1	NemesisMod::AssignCamps<desvio>		 has moved out of 
+251	1	NemesisMod::AssignCamps<>		his camp
+252	1	NemesisMod::AssignCamps<List`1.get_Count>		Word is {0} camps you knew have changed hands or moved: {1}. Your map shows where they are now.
+253	2	NemesisMod::RetireSites<> ; NemesisMod::RetireSites<>		Word is 
+254	1	NemesisMod::RetireSites<>		CAMPS 
+255	1	NemesisMod::UpdateCamps<desvio>		site empty {0} day{1}
+256	1	NemesisMod::SpawnCamp<desvio>		CAMP {0}: the {1} have {2} men left - {3} hired guns, not {4}
+257	4	NemesisMod::RevealCamp<desvio> ; NemesisMod::TrackCamp<desvio>		's 
+258	3	NemesisMod::OfficerTitle<ret> ; NemesisMod::.cctor<ValueTuple`2..ctor>		Captain
+259	3	NemesisMod::OfficerTitle<ret> ; NemesisMod::.cctor<ValueTuple`2..ctor>		Lieutenant
+260	4	NemesisMod::RefreshCampBlips<desvio> ; NemesisMod::.cctor<ValueTuple`2..ctor>		Camp
+261	1	NemesisMod::RefreshCampBlips<desvio>		Hideout
+262	4	NemesisMod::RefreshCampBlips<desvio> ; NemesisMod::SpawnItems<<>c__DisplayClass2795_0.<SpawnItems>g__H|0>		Supplies
+263	2	NemesisMod::RefreshCampBlips<desvio> ; NemesisMod::SpawnItems<<>c__DisplayClass2795_0.<SpawnItems>g__H|0>		Treasury
+264	1	NemesisMod::CheckCampRoute<desvio>		you set your own waypoint
+265	1	NemesisMod::CheckCampRoute<desvio>		nobody you know holds it now
+266	1	NemesisMod::CheckCampRoute<desvio>	the 	the camp was cleared
+267	1	NemesisMod::CheckCampRoute<desvio>	the 	the camp is gone
+268	1	NemesisMod::CheckCampRoute<desvio>		CAMP route to 
+269	1	NemesisMod::CheckCampRoute<desvio>		Route to 
+270	1	NemesisMod::CheckCampRoute<>	the 	the camp
+271	1	NemesisMod::LoadCampSites<List`1.get_Count>		CONTENT camps.json: {0} sites{1}
+272	1	NemesisMod::LearnCampSites<>		CAMPSITE {0} gathered at {1:0},{2:0} again, {3:0} min after first - learned
+273	1	NemesisMod::UpdateCampAwareness<desvio>		a fight broke out
+274	1	NemesisMod::UpdateCampAwareness<desvio>	heard	heard gunfire
+275	1	NemesisMod::UpdateCampAwareness<campo Sense>	heard	heard something
+276	1	NemesisMod::UpdateCampAwareness<>		unseen
+277	3	NemesisMod::BuiltInCards<List`1.Add> ; NemesisMod::LoadCards<List`1.Add>		Murderous
+278	1	NemesisMod::BuiltInCards<List`1.Add>	You 	You were warned to leave us be.
+279	1	NemesisMod::BuiltInCards<List`1.Add>	You 	You came back. That was a mistake.
+280	1	NemesisMod::BuiltInCards<List`1.Add>	You 	You don't ride here any more.
+281	1	NemesisMod::BuiltInCards<List`1.Add>		There he is!
+282	1	NemesisMod::BuiltInCards<List`1.Add>	You 	You should have stayed off our land.
+283	2	NemesisMod::BuiltInCards<List`1.Add> ; NemesisMod::ActionName<ret>		knocked out
+284	1	NemesisMod::BuiltInCards<List`1.Add>	You 	You put me in the dirt, {name}. Brought some friends this time.
+285	1	NemesisMod::BuiltInCards<List`1.Add>		Remember me? I remember you.
+286	1	NemesisMod::BuiltInCards<List`1.Add>		Surprised? You should've made sure.
+287	1	NemesisMod::BuiltInCards<List`1.Add>		Takes more than that to kill me.
+288	1	NemesisMod::BuiltInCards<List`1.Add>		backed off
+289	19	NemesisMod::BuiltInCards<List`1.Add> ; TelegramLines::.cctor<>		Loyal
+290	1	NemesisMod::BuiltInCards<List`1.Add>	You 	You let me walk. I came to say it - we're square. This once.
+291	1	NemesisMod::BuiltInCards<List`1.Add>		No trouble. Just wanted you to know I ain't forgot.
+292	1	NemesisMod::BuiltInCards<List`1.Add>		got away
+293	1	NemesisMod::BuiltInCards<List`1.Add>	You 	You keep running, {name}. Not this time.
+294	1	NemesisMod::BuiltInCards<List`1.Add>	killed	killed you
+295	1	NemesisMod::BuiltInCards<List`1.Add>		Back for more? Last time didn't take?
+296	1	NemesisMod::BuiltInCards<List`1.Add>		I killed you once already.
+297	1	NemesisMod::LoadCards<List`1.Add>		Dark enough for you?
+298	1	NemesisMod::LoadCards<List`1.Add>		Nobody'll hear you out here.
+299	2	NemesisMod::LoadCards<List`1.Add> ; WelcomePics::Grudge<ValueTuple`3..ctor>		Resentful
+300	2	NemesisMod::LoadCards<List`1.Add> ; WelcomePics::Grudge<ValueTuple`3..ctor>		Vengeful
+301	1	NemesisMod::LoadCards<List`1.Add>		You... I know you. You owe me.
+302	1	NemesisMod::LoadCards<List`1.Add>		Hey! Hey, you! Remember me?
+303	1	NemesisMod::LoadCards<List`1.get_Count>		CARD {0} new built-in card(s) not in your files: {1}
+304	1	NemesisMod::LoadCards<List`1.get_Count>		CARD {0} encounter cards loaded ({1} enabled): {2}
+305	1	NemesisMod::get_RegionKey<ret>		other
+306	3	NemesisMod::CardBlock<ret> ; NemesisMod::MaskFollow<desvio>		off
+307	1	NemesisMod::CardBlock<ret>		wild only
+308	1	NemesisMod::CardBlock<ret>		town only
+309	1	NemesisMod::CardBlock<ret>		riding only
+310	1	NemesisMod::CardBlock<ret>	on 	on foot only
+311	1	NemesisMod::CardBlock<ret>		not their country
+312	1	NemesisMod::CardBlock<ret>		unknown faction
+313	1	NemesisMod::CardBlock<ret>		squads play own cards
+314	1	NemesisMod::CardBlock<ret>		must have killed you
+315	2	NemesisMod::ResolveNemesisDeath<> ; NemesisMod::ResolveNemesisDeath<desvio>		 near 
+316	3	NemesisMod::KillerDesc<ret> ; NemesisMod::KillerDesc<ret>		someone
+317	1	NemesisMod::KillerDesc<ret>	the 	the O'Driscoll Boys
+318	1	NemesisMod::KinReact<>		 heard his 
+319	2	NemesisMod::KinReact<> ; NemesisMod::KinReact<>		 heard you killed his 
+320	1	NemesisMod::ScarFromWound<ValueTuple`3..ctor>		ears that still ring from the blast
+321	1	NemesisMod::ScarFromWound<ValueTuple`3..ctor>		a puckered bullet scar in his gut
+322	1	NemesisMod::ScarFromWound<ValueTuple`3..ctor>		a bullet scar low on his back
+323	1	NemesisMod::ScarFromWound<ValueTuple`3..ctor>	ribs	ribs that knitted back crooked
+324	1	NemesisMod::ScarFromWound<ValueTuple`3..ctor>		a ragged bullet scar across his throat
+325	1	NemesisMod::ScarFromWound<ValueTuple`3..ctor>		a jaw wired back together
+326	1	NemesisMod::ScarFromWound<ValueTuple`3..ctor>		a dent in his skull where your bullet glanced off
+327	1	NemesisMod::ScarFromWound<ValueTuple`3..ctor>		a hip that grinds with every step
+328	1	NemesisMod::ScarFromWound<ValueTuple`3..ctor>		a back that's never been straight since
+329	1	NemesisMod::ScarFromWound<ValueTuple`3..ctor>		a bullet scar
+330	1	NemesisMod::EntrancesOf<List`1.get_Count>		CHECKPOINT {0}: {1} ways in - 
+331	1	NemesisMod::UpdateCheckpoint<>		CHECKPOINT {0}: the {1} hold the way in {2} ({3} men, {4}, {5:0} m from you) - the war in {6}
+332	1	NemesisMod::TryRoadBlock<>		CHECKPOINT road: the {0} hold the road in {1} ({2} men, heat {3:0}) - {4:0} m {5} of you
+333	3	NemesisMod::TownWarTier<ret> ; NemesisMod::TownWarTier<ret>		warm
+334	3	NemesisMod::RunRoadblock<> ; NemesisMod::RunRoadblock<>		CHECKPOINT 
+335	3	NemesisMod::DropRoadblock<desvio> ; NemesisMod::.cctor<ValueTuple`2..ctor>		checkpoint
+336	1	NemesisMod::SpawnWalkers<List`1.get_Count>		CHECKPOINT {0}: {1} {2} men walk the streets ({3:0} m from you)
+337	1	NemesisMod::CheckpointSpot<>		36 tries: no road {0}, out of town {1}, too near / far {2}, water {3}, our people {4}, in your view {5}
+338	2	NemesisMod::CompassTo<> ; NemesisMod::Compass<>		north-east
+339	2	NemesisMod::CompassTo<> ; NemesisMod::Compass<>		east
+340	2	NemesisMod::CompassTo<> ; NemesisMod::Compass<>		south-east
+341	2	NemesisMod::CompassTo<> ; NemesisMod::Compass<>		south-west
+342	2	NemesisMod::KidFor<desvio> ; NemesisMod::<Her>b__2777_0<ret>		her
+343	1	NemesisMod::KidFor<>		Lives above 
+344	1	NemesisMod::KidFor<desvio>		 folks farm outside 
+345	1	NemesisMod::KidFor<>		Collects arrowheads
+346	1	NemesisMod::KidFor<>		wants to be a cowboy
+347	1	NemesisMod::KidFor<>		wants to be a lawman
+348	1	NemesisMod::KidFor<>		wants to drive a train
+349	1	NemesisMod::KidFor<>		wants to be a gunslinger like in the dime novels
+350	1	NemesisMod::MeetKid<>		CHILD {0}, {1} ({2}). {3}. {4}. {5}.
+351	1	NemesisMod::MeetKid<>		CHILD met 
+352	1	NemesisMod::Ask<desvio>		refuse2
+353	1	NemesisMod::Ask<desvio>		agree2
+354	1	NemesisMod::Ask<desvio>		COMPANION asked {0}: {1} ({2}%{3}, {4} already with you)
+355	5	NemesisMod::Ask<desvio> ; NemesisMod::.cctor<>		no
+356	1	NemesisMod::Ask<List`1.get_Count>		, doesn't ride - no prompt from now on
+357	1	NemesisMod::SpawnCompanion<>		COMPANION {0} joined you at {1:0},{2:0} ({3}, {4:0} m back)
+358	4	NemesisMod::SendHome<> ; NemesisMod::MaskFollow<>		COMPANION 
+359	1	NemesisMod::Chronicle_Ride<desvio>		rode out with you (
+360	1	NemesisMod::Chronicle_Ride<List`1.get_Count>	You 	You rode out with 
+361	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		hats
+362	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		masks
+363	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		neckwear
+364	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		neckties
+365	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		BANDANAS
+366	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		coats
+367	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		vests
+368	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		pants
+369	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		boots
+370	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		gloves
+371	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		belts
+372	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		gunbelts
+373	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		satchels
+374	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		suspenders
+375	2	NemesisMod::CatName<> ; NemesisMod::.cctor<campo KnownCategories>		chaps
+376	1	NemesisMod::CatName<>		spurs
+377	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		spats
+378	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		eyewear
+379	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		ponchos
+380	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		cloaks
+381	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		loadouts
+382	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		hair
+383	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		heads
+384	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		teeth
+385	2	NemesisMod::CatName<> ; NemesisMod::.cctor<>		eyes
+386	1	NemesisMod::CatName<>		badges
+387	1	NemesisMod::CatName<>		accessories
+388	1	NemesisMod::CatName<>		gauntlets
+389	1	NemesisMod::CatName<>		armor
+390	1	NemesisMod::CatName<>		dresses
+391	1	NemesisMod::CatName<>		skirts
+392	1	NemesisMod::MaskFollow<desvio>		: mask 
+393	3	NemesisMod::MaskFollow<desvio> ; NemesisMod::OnOff<ret>		on
+394	1	NemesisMod::LoadContent<>		CONTENT factions.json: {0} factions - places.json: {1} districts, {2} towns - wildcards.json: {3} kinds, {4} bad-blood / {5} deal lines
+395	1	NemesisMod::LoadContent<desvio>		CONTENT questions.json: {0} questions{1}
+396	1	NemesisMod::LoadContent<desvio>		CONTENT world_life.json: {0} everyday events{1}
+397	1	NemesisMod::LoadContent<desvio>		CONTENT lives.json: {0} life events{1} - tales.json: {2} lore and tales
+398	2	NemesisMod::StartConvo<campo PlayerName> ; StoryGang::Build<>		John Marston
+399	20	NemesisMod::StartConvo<desvio> ; NemesisMod::<SetupRowsAll>b__793_19<ret>		open
+400	1	NemesisMod::StartConvo<campo Line>		You're a dead man, you hear me? DEAD.
+401	2	NemesisMod::StartConvo<campo Line> ; InterroLines::.cctor<>		Get your hands off me.
+402	2	NemesisMod::StartConvo<campo Line> ; InterroLines::.cctor<>		W-what do you want? I don't know nothin'!
+403	1	NemesisMod::EndConvo<>		CONVO end (
+404	1	NemesisMod::EndPeacefully<ValueTuple`2..ctor>		it ended without a fight
+405	2	NemesisMod::InterroChips<ValueTuple`3..ctor> ; NemesisMod::LieChance<ret>		TOO SCARED TO LIE
+406	1	NemesisMod::InterroNature<ValueTuple`2..ctor>		DIM
+407	1	NemesisMod::InterroNature<ValueTuple`2..ctor>		SHARP
+408	1	NemesisMod::InterroNature<ValueTuple`2..ctor>		FRIENDLY
+409	1	NemesisMod::InterroNature<ValueTuple`2..ctor>		SURLY
+410	1	NemesisMod::InterroNature<ValueTuple`2..ctor>		HAS CHILDREN
+411	1	NemesisMod::DrawConvo<>		v
+412	11	NemesisMod::DrawConvo<ValueTuple`2..ctor> ; NemesisMod::DrawConvo<ValueTuple`2..ctor>		Navigate
+413	12	NemesisMod::DrawConvo<ValueTuple`2..ctor> ; NemesisMod::DrawConvo<ValueTuple`2..ctor>		Select
+414	15	NemesisMod::DrawConvo<ValueTuple`2..ctor> ; NemesisMod::DrawConvo<ValueTuple`2..ctor>		Close
+415	1	NemesisMod::OpenCopiesWarning<desvio>		Two copies of enRAGE
+416	1	NemesisMod::OpenCopiesWarning<desvio>		Another copy of the mod is installed alongside this one
+417	1	NemesisMod::OpenCopiesWarning<desvio>		Both copies run at once: the menus draw over each other (overlapping text, names off their boxes), and the world is played - and saved - twice. An old copy can overwrite your world with an older format.
+418	1	NemesisMod::OpenCopiesWarning<desvio>	The 	The extra copies are here
+419	1	NemesisMod::CheckOtherCopies<List`1.get_Count>		COPIES {0} other cop{1} of the mod besides {2} - two copies draw over each other:
+420	1	NemesisMod::ActiveCopy<>		COPIES a newer copy runs (
+421	3	NemesisMod::CrimeBadge<ret> ; NemesisMod::.cctor<ValueTuple`2..ctor>		HORSE THIEF
+422	1	NemesisMod::CrimeBadge<ret>		HOLDUP
+423	1	NemesisMod::CrimeBadge<ret>		BANK JOB
+424	2	NemesisMod::CrimeBadge<ret> ; NemesisMod::EightYearsFor<>		ROBBERY
+425	1	NemesisMod::CrimeBadge<ret>		KILLING
+426	1	NemesisMod::CrimeBadge<ret>		PRISON
+427	1	NemesisMod::CrimeBadge<ret>		CARDS
+428	1	NemesisMod::CrimeBadge<ret>		ARSON
+429	1	NemesisMod::CrimeBadge<ret>		RUSTLING
+430	1	NemesisMod::BuildCrimeSheet<campo CrimesTitle>		KNOWN CRIMES
+431	1	NemesisMod::BuildCrimeSheet<List`1.get_Count>		There may be more - make him talk
+432	3	NemesisMod::BuildCrimeSheet<List`1.get_Count> ; NemesisMod::BuildCrimeSheet<List`1.get_Count>		and {0} more
+433	1	NemesisMod::BuildCrimeSheet<campo CrimesNote>		Unknown - make him talk
+434	1	NemesisMod::BuildCrimeSheet<campo CrimesNote>		Nothing you know of
+435	1	NemesisMod::BuildCrimeSheet<campo EventsNote>		Nothing on record
+436	1	NemesisMod::BuildCrimeSheet<desvio>		IN WITH THE 
+437	1	NemesisMod::BuildCrimeSheet<campo Side>		NO GANG
+438	2	NemesisMod::BuildCrimeSheet<campo BannerLabel> ; NemesisMod::DrawNameCards<ValueTuple`3..ctor>		RIDES WITH YOU
+439	1	NemesisMod::BuildCrimeSheet<campo BannerWord>	the 	the law knows the gang, not the man
+440	1	NemesisMod::BuildCrimeSheet<campo BannerLabel>		NOBODY'S PAYING
+441	1	NemesisMod::BuildCrimeSheet<campo BannerLabel>		SMALL TIME
+442	5	NemesisMod::BuildCrimeSheet<campo BannerLabel> ; NemesisMod::YourCrimeSheet<campo BannerLabel>		WANTED
+443	1	NemesisMod::BuildCrimeSheet<campo BannerWord>		no price on him
+444	2	NemesisMod::BuildCrimeSheet<campo BannerWord> ; NemesisMod::RunSuccession<campo _successionTitle>		word on the trail
+445	1	NemesisMod::BuildCrimeSheet<campo TilesTitle>		AGAINST YOU
+446	1	NemesisMod::YourCrimeSheet<campo BannerLabel>		NO BOUNTY
+447	1	NemesisMod::YourCrimeSheet<campo TilesTitle>		ON RECORD
+448	1	NemesisMod::YourCrimeSheet<desvio>		SAW SOMETHING
+449	1	NemesisMod::YourCrimeSheet<desvio>		TOLD THE LAW
+450	2	NemesisMod::YourCrimeSheet<desvio> ; NemesisMod::.cctor<>		KEPT QUIET
+451	1	NemesisMod::YourCrimeSheet<List`1.get_Count>		and {0} more in the World tab
+452	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Major
+453	1	NemesisMod::.cctor<>		Sgt. 
+454	1	NemesisMod::.cctor<>	Maj.	Maj. 
+455	1	NemesisMod::.cctor<campo Prefixes>	Capt.	Capt. 
+456	1	NemesisMod::.cctor<campo Prefixes>		Lt. 
+457	1	NemesisMod::.cctor<campo Prefixes>		Col. 
+458	8	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		dutch
+459	8	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		hosea
+460	4	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		abigail
+461	6	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		jack
+462	7	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		lenny
+463	7	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		javier
+464	7	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		bill
+465	8	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		micah
+466	6	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		karen
+467	7	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		sadie
+468	4	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		tilly
+469	4	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		marybeth
+470	6	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		molly
+471	5	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		grimshaw
+472	5	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		pearson
+473	5	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		strauss
+474	4	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		swanson
+475	4	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		trelawny
+476	1	NemesisMod::.cctor<>		Hey... who's there?
+477	1	NemesisMod::.cctor<>	You 	You hear something?
+478	1	NemesisMod::.cctor<campo CallOuts>		Somebody out there?
+479	1	NemesisMod::.cctor<campo CallOuts>		Show yourself!
+480	1	NemesisMod::.cctor<campo CallOuts>		Thought I saw something...
+481	1	NemesisMod::.cctor<>		Hold it. Where you headed?
+482	1	NemesisMod::.cctor<>		Easy, mister. We're watching this road.
+483	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Keep your hands where I can see 'em and move along.
+484	1	NemesisMod::.cctor<Dictionary`2.set_Item>		There's a war on. Don't make yourself part of it.
+485	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Nobody rides through here without us seeing. Go on.
+486	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Colm's watching this town now. Mind yourself.
+487	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Move along, friend - this is O'Driscoll business.
+488	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Eyes front and keep riding.
+489	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Lemoyne's ours. You just passing through?
+490	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Move along - and don't go telling no Yankees what you seen.
+491	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Keep riding, stranger.
+492	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Halt. State your business - never mind, move along.
+493	1	NemesisMod::.cctor<Dictionary`2.set_Item>		This town's under watch. Keep it peaceful.
+494	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Move along, citizen.
+495	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Mr Bronte's men are minding the street. Be on your way.
+496	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Nothing to see here. Keep walking.
+497	1	NemesisMod::.cctor<Dictionary`2.set_Item>		You'd do well to keep riding.
+498	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Ain't no business of yours what goes on here.
+499	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Hehe. Keep walkin', pretty.
+500	1	NemesisMod::.cctor<Dictionary`2.set_Item>	You 	You lost? Best get lost further.
+501	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Keep moving. We're hunting.
+502	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Don't stop here.
+503	1	NemesisMod::.cctor<campo TruceLines>		Truce holds. Come on through.
+504	1	NemesisMod::.cctor<campo TruceLines>		Evenin'. Quiet tonight, thank God.
+505	1	NemesisMod::.cctor<campo TruceLines>		Go on through, friend. Nobody's shooting today.
+506	1	NemesisMod::.cctor<campo TurnBackLines>		That's far enough. Turn around - we know who you are.
+507	1	NemesisMod::.cctor<campo TurnBackLines>		Turn back. Your kind don't ride through here.
+508	1	NemesisMod::.cctor<campo TurnBackLines>		Not another step. Go back the way you came.
+509	1	NemesisMod::.cctor<>		Tommy
+510	1	NemesisMod::.cctor<>		Billy
+511	1	NemesisMod::.cctor<>		Jimmy
+512	1	NemesisMod::.cctor<>		Johnny
+513	1	NemesisMod::.cctor<>		Eddie
+514	1	NemesisMod::.cctor<>		Charlie
+515	1	NemesisMod::.cctor<>		Frankie
+516	1	NemesisMod::.cctor<>		Georgie
+517	1	NemesisMod::.cctor<>		Harry
+518	1	NemesisMod::.cctor<>		Joey
+519	1	NemesisMod::.cctor<>		Sammy
+520	1	NemesisMod::.cctor<>		Danny
+521	1	NemesisMod::.cctor<>		Bobby
+522	1	NemesisMod::.cctor<>		Freddie
+523	1	NemesisMod::.cctor<>		Albert
+524	1	NemesisMod::.cctor<>		Elmer
+525	1	NemesisMod::.cctor<>		Otis
+526	1	NemesisMod::.cctor<>		Homer
+527	1	NemesisMod::.cctor<>		Clyde
+528	1	NemesisMod::.cctor<>		Wesley
+529	1	NemesisMod::.cctor<>		Luther
+530	1	NemesisMod::.cctor<>		Silas
+531	1	NemesisMod::.cctor<>		Willie
+532	1	NemesisMod::.cctor<campo BoyNames>		Ollie
+533	1	NemesisMod::.cctor<campo BoyNames>		Abe
+534	1	NemesisMod::.cctor<campo BoyNames>		Ned
+535	1	NemesisMod::.cctor<>		Annie
+536	1	NemesisMod::.cctor<>		Lizzie
+537	1	NemesisMod::.cctor<>		Ellie
+538	1	NemesisMod::.cctor<>		Lottie
+539	1	NemesisMod::.cctor<>		Minnie
+540	1	NemesisMod::.cctor<>		Nellie
+541	1	NemesisMod::.cctor<>		Rosie
+542	1	NemesisMod::.cctor<>		Daisy
+543	1	NemesisMod::.cctor<>		Pearl
+544	1	NemesisMod::.cctor<>		Ruby
+545	1	NemesisMod::.cctor<>		Mabel
+546	1	NemesisMod::.cctor<>		Edna
+547	1	NemesisMod::.cctor<>		Effie
+548	1	NemesisMod::.cctor<>		Lula
+549	1	NemesisMod::.cctor<>		Bessie
+550	1	NemesisMod::.cctor<>		Grace
+551	1	NemesisMod::.cctor<>		Josie
+552	1	NemesisMod::.cctor<>		Cora
+553	1	NemesisMod::.cctor<>		Etta
+554	1	NemesisMod::.cctor<campo GirlNames>		Maggie
+555	1	NemesisMod::.cctor<campo GirlNames>		Winnie
+556	1	NemesisMod::.cctor<campo GirlNames>		Polly
+557	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the stockyards
+558	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the livery
+559	2	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the doctor's
+560	1	NemesisMod::.cctor<>	the 	the docks
+561	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the factory
+562	1	NemesisMod::.cctor<Dictionary`2.set_Item>		a laundry
+563	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the trolley line
+564	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the cotton fields
+565	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the gunsmith's
+566	3	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the general store
+567	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the mine
+568	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the coal tipple
+569	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the fishery
+570	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the lumber yard
+571	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the hotel
+572	3	NemesisMod::.cctor<> ; NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the railroad
+573	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the bank
+574	2	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the stables
+575	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the photo studio
+576	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the trading post
+577	3	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the saloon
+578	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the lighthouse
+579	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the undertaker's
+580	1	NemesisMod::.cctor<Dictionary`2.set_Item>	the 	the mine up the hill
+581	1	NemesisMod::.cctor<>		a farm outside town
+582	1	NemesisMod::.cctor<campo AnyWork>		a ranch nearby
+583	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Sure. I could use the air.
+584	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Alright. Lead the way.
+585	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I'll get my horse.
+586	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Hell yes, Arthur. Let's go!
+587	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Thought you'd never ask.
+588	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Let me grab my hat.
+589	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Vámonos, amigo.
+590	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Why not. Dutch won't miss me for a while.
+591	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I'm with you.
+592	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Fine. Beats sittin' here.
+593	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Alright, Arthur. Don't get us killed.
+594	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Let's go, then.
+595	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Now you're talking! Me and you, Arthur - legends!
+596	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Grand. I'll bring the charm.
+597	1	NemesisMod::.cctor<Dictionary`2.set_Item>		About time somebody asked!
+598	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Yeah, alright. Somebody's gotta watch your back.
+599	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Fine. But I ain't cleaning nothing.
+600	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Let's go shoot somethin'.
+601	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Thank God. One more pot of stew and I'd scream.
+602	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Let's ride.
+603	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I'll keep up. Don't you worry.
+604	1	NemesisMod::.cctor<Dictionary`2.set_Item>		An old man's company? Very well.
+605	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Why not. My bones could use the road.
+606	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Lead on, my boy.
+607	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Is there whiskey where we're going?
+608	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Sure, sugar. Let's raise some hell.
+609	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Finally, some fun.
+610	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Well now, Black Lung wants company. Sure.
+611	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Fine, cowpoke. Try and keep up.
+612	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Why not. Could be profitable.
+613	1	NemesisMod::.cctor<Dictionary`2.set_Item>		M-me? Alright... alright, I'll come.
+614	1	NemesisMod::.cctor<Dictionary`2.set_Item>		If you'll have me, Mister Morgan.
+615	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I won't let you down.
+616	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Alright, Arthur. Let's see what this country holds.
+617	1	NemesisMod::.cctor<Dictionary`2.set_Item>		For you, son - I'll make the time.
+618	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I'll come... but I ain't doing no lifting.
+619	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Fine, fine. My lumbago and me.
+620	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Sure, let's go.
+621	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Lead the way.
+622	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Not now, Arthur. I've got plans to make.
+623	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Later, son. I need to think.
+624	1	NemesisMod::.cctor<Dictionary`2.set_Item>		My lumbago, Arthur. You know how it is.
+625	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I'd love to... but I just sat down.
+626	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Ride with you? Pass.
+627	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I got my own business, Morgan.
+628	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Somebody has to run this camp, Mister Morgan.
+629	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Don't be ridiculous.
+630	1	NemesisMod::.cctor<Dictionary`2.set_Item>		And who'll feed this lot? No, sir.
+631	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I've a stew on, Arthur.
+632	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I have accounts to settle, Mister Morgan.
+633	1	NemesisMod::.cctor<Dictionary`2.set_Item>		No, no. Business.
+634	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I got Jack to look after.
+635	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Ask John.
+636	1	NemesisMod::.cctor<Dictionary`2.set_Item>		With you? Don't be absurd.
+637	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I'm waiting for Dutch.
+638	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Ma says I can't.
+639	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Not today, Arthur.
+640	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Maybe another time.
+641	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I got work to do here.
+642	1	NemesisMod::.cctor<>		Tracks here. Deer, a day old.
+643	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Quiet out here. I like it.
+644	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Weather's turning.
+645	1	NemesisMod::.cctor<Dictionary`2.set_Item>	You 	You ever think about leaving all this?
+646	1	NemesisMod::.cctor<>	You 	You think Dutch's got a plan? A real one?
+647	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I read about this country in a book once.
+648	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Race you to the next ridge!
+649	1	NemesisMod::.cctor<Dictionary`2.set_Item>		This is the life, Arthur.
+650	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Reminds me of home, a little.
+651	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I'd play the guitar if I'd brought it.
+652	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Dutch will see us through. He always does.
+653	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Abigail's on at me again.
+654	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Don't look at me like that.
+655	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Some days I think about runnin'.
+656	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Did I ever tell you about me da?
+657	1	NemesisMod::.cctor<Dictionary`2.set_Item>		We should rob a train. A big one.
+658	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Ireland's got nothing on these hills. Well, maybe a bit.
+659	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I could eat a whole horse.
+660	1	NemesisMod::.cctor<Dictionary`2.set_Item>	You 	You think I'm stupid, don't you.
+661	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Army taught me one thing - keep your powder dry.
+662	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Jake would've liked this view.
+663	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I can shoot as well as any of you.
+664	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Don't treat me soft, Arthur.
+665	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Dutch and I rode roads like this, years ago.
+666	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Mind the man, not the gun.
+667	1	NemesisMod::.cctor<Dictionary`2.set_Item>		You're a better man than you think, Arthur.
+668	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Somebody's gotta have a drink.
+669	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I'm bored. Let's rob somebody.
+670	1	NemesisMod::.cctor<Dictionary`2.set_Item>		You're handsome when you scowl.
+671	1	NemesisMod::.cctor<Dictionary`2.set_Item>		This land's ripe for the picking.
+672	1	NemesisMod::.cctor<Dictionary`2.set_Item>	You 	You and me, Morgan - we ain't so different.
+673	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Smell that? Opportunity.
+674	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I'm grateful, Mister Morgan. Truly.
+675	1	NemesisMod::.cctor<Dictionary`2.set_Item>	The 	The O'Driscolls'd skin me if they saw me.
+676	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I like horses better than people.
+677	1	NemesisMod::.cctor<Dictionary`2.set_Item>		We just need a little more money.
+678	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Have faith, Arthur.
+679	1	NemesisMod::.cctor<Dictionary`2.set_Item>		This country is changing, son.
+680	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Fine day.
+681	2	NemesisMod::.cctor<Dictionary`2.set_Item> ; NemesisMod::.cctor<ValueTuple`2..ctor>		Quiet out here.
+682	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Long way from camp.
+683	3	NemesisMod::.cctor<campo RefuseVoice> ; NemesisMod::.cctor<>		ANTAGONIZE
+684	1	NemesisMod::.cctor<>		Get down!
+685	1	NemesisMod::.cctor<>		Behind you, Arthur!
+686	1	NemesisMod::.cctor<campo FightLines>		I got this one!
+687	1	NemesisMod::.cctor<campo FightLines>		They're everywhere!
+688	1	NemesisMod::.cctor<campo FightLines>		Keep shootin'!
+689	1	NemesisMod::.cctor<campo HurtLines>		I'm hit! I'm out, Arthur!
+690	1	NemesisMod::.cctor<campo HurtLines>		Argh - I'm done, I'm done! I'll see you at camp!
+691	1	NemesisMod::.cctor<campo HurtLines>		They got me! I'm pullin' back!
+692	1	NemesisMod::.cctor<campo HomeLines>		I'll see you back at camp.
+693	1	NemesisMod::.cctor<campo HomeLines>		Good riding with you, Arthur.
+694	1	NemesisMod::.cctor<campo HomeLines>		Same time next week.
+695	1	NemesisMod::.cctor<>		Looks like {0}'s got something for you. I'll head back.
+696	1	NemesisMod::.cctor<campo GiverLines>		That's {0} - gang business. I'll see you at camp.
+697	1	NemesisMod::.cctor<campo GiverLines>		{0}'s waiting on you. I'll get out of the way.
+698	1	NemesisMod::.cctor<campo GiverLines>	You 	You go see {0}. I'll ride on back.
+699	1	NemesisMod::.cctor<ValueTuple`2..ctor>		karen|sean
+700	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Sean, you owe me a drink.
+701	1	NemesisMod::.cctor<ValueTuple`2..ctor>		I owe everyone a drink, Karen. That's the beauty of it.
+702	1	NemesisMod::.cctor<ValueTuple`2..ctor>	You 	You talk too much, Irish.
+703	1	NemesisMod::.cctor<ValueTuple`2..ctor>		And you love every word of it.
+704	1	NemesisMod::.cctor<ValueTuple`2..ctor>		charles|lenny
+705	1	NemesisMod::.cctor<ValueTuple`2..ctor>	You 	You keep up all right, Lenny.
+706	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Learned from the best, Charles.
+707	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Tracks are fresh. Stay sharp.
+708	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Always am.
+709	1	NemesisMod::.cctor<ValueTuple`2..ctor>		john|micah
+710	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Keep your eyes to yourself, Micah.
+711	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Ooh, touchy, Marston.
+712	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Something about you I don't trust.
+713	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Feeling's mutual, cowpoke.
+714	1	NemesisMod::.cctor<ValueTuple`2..ctor>		javier|micah
+715	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Dutch trusts you, Micah. I don't.
+716	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Lucky I don't need your trust, amigo.
+717	1	NemesisMod::.cctor<ValueTuple`2..ctor>		bill|micah
+718	1	NemesisMod::.cctor<ValueTuple`2..ctor>	You 	You think you're smarter'n me, Bell?
+719	1	NemesisMod::.cctor<ValueTuple`2..ctor>		I know I am, Bill.
+720	1	NemesisMod::.cctor<ValueTuple`2..ctor>		hosea|john
+721	1	NemesisMod::.cctor<ValueTuple`2..ctor>	You 	You should spend more time with your son, John.
+722	1	NemesisMod::.cctor<ValueTuple`2..ctor>		I know, Hosea. I know.
+723	1	NemesisMod::.cctor<ValueTuple`2..ctor>		kieran|sean
+724	1	NemesisMod::.cctor<ValueTuple`2..ctor>		I-I never meant no harm, Sean.
+725	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Ah, you're grand, Kieran. Mostly.
+726	1	NemesisMod::.cctor<ValueTuple`2..ctor>		lenny|sean
+727	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Sean, you ever shut up?
+728	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Not if I can help it, Lenny boy.
+729	1	NemesisMod::.cctor<ValueTuple`2..ctor>		charles|javier
+730	1	NemesisMod::.cctor<ValueTuple`2..ctor>	You 	You play beautifully, Javier.
+731	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Gracias, Charles. You should sing with me sometime.
+732	1	NemesisMod::.cctor<ValueTuple`2..ctor>		dutch|hosea
+733	1	NemesisMod::.cctor<ValueTuple`2..ctor>		We need a plan, Hosea.
+734	1	NemesisMod::.cctor<ValueTuple`2..ctor>		We always need a plan, Dutch. We need a good one.
+735	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Good to be out of that camp.
+736	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Damn right it is.
+737	1	NemesisMod::.cctor<ValueTuple`2..ctor>	You 	You keeping all right?
+738	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Better out here.
+739	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Remember that job in Blackwater?
+740	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Let's not.
+741	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Arthur rides like he's got somewhere to be.
+742	1	NemesisMod::.cctor<ValueTuple`2..ctor>		He always does.
+743	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Weather's holding.
+744	1	NemesisMod::.cctor<ValueTuple`2..ctor>		For now.
+745	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Ride somewhere else, would you?
+746	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Free country.
+747	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Don't talk to me.
+748	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Wasn't planning on it.
+749	1	NemesisMod::.cctor<ValueTuple`2..ctor>	You 	You slow us down.
+750	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Funny, I was gonna say the same.
+751	1	NemesisMod::.cctor<ValueTuple`2..ctor>		How far you reckon we're going?
+752	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Ask Arthur.
+753	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Hungry yet?
+754	1	NemesisMod::.cctor<ValueTuple`2..ctor>		Too quiet.
+755	1	NemesisMod::.cctor<>		Nice to sit a minute.
+756	1	NemesisMod::.cctor<>		Quiet out here. Too quiet, maybe.
+757	1	NemesisMod::.cctor<>	You 	You ever think about just... stopping? Somewhere like this?
+758	1	NemesisMod::.cctor<>		My feet are killin' me.
+759	1	NemesisMod::.cctor<>		Take your time, Arthur. I ain't in a hurry.
+760	1	NemesisMod::.cctor<>		Smell that? Rain's coming.
+761	1	NemesisMod::.cctor<>		Don't see country like this back east.
+762	1	NemesisMod::.cctor<campo IdleOutdoors>		We waitin' on something, or just waitin'?
+763	1	NemesisMod::.cctor<campo IdleOutdoors>		Wake me when you're done brooding.
+764	1	NemesisMod::.cctor<campo IdleOutdoors>		Horses could use the rest too.
+765	1	NemesisMod::.cctor<>		Good to be out of the weather.
+766	1	NemesisMod::.cctor<>		Keep an eye on that door.
+767	1	NemesisMod::.cctor<>		Folks are lookin' at us, Arthur.
+768	1	NemesisMod::.cctor<campo IdleIndoors>		Whose place is this?
+769	1	NemesisMod::.cctor<campo IdleIndoors>		Don't touch nothing you can't pay for.
+770	1	NemesisMod::.cctor<campo IdleIndoors>		Smells like old coffee in here.
+771	1	NemesisMod::.cctor<>		Buy a man a drink, Arthur?
+772	1	NemesisMod::.cctor<>		This whiskey's watered. Again.
+773	1	NemesisMod::.cctor<>		That fella at the table's been cheating all night.
+774	1	NemesisMod::.cctor<>		One drink. Then we go.
+775	1	NemesisMod::.cctor<>		I'd sit in on a hand if I had any money.
+776	1	NemesisMod::.cctor<campo IdleSaloon>		Piano player's drunker than me.
+777	1	NemesisMod::.cctor<campo IdleSaloon>		Keep your voice down - half this room's wanted somewhere.
+778	1	NemesisMod::.cctor<campo IdleSaloon>		Barkeep's eyeing us.
+779	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Me ma would've loved a place like this. Or hated it.
+780	1	NemesisMod::.cctor<Dictionary`2.set_Item>		If I had a dollar for every time we stopped...
+781	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Arthur, you ever been to Ireland? You'd hate it.
+782	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I've been reading again, Arthur.
+783	1	NemesisMod::.cctor<Dictionary`2.set_Item>	You 	You alright? You look tired.
+784	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Pop always said sit when you can.
+785	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Good country for hunting.
+786	1	NemesisMod::.cctor<Dictionary`2.set_Item>	You 	You can hear everything, if you listen.
+787	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I'll keep watch.
+788	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I could play something, if I had my guitar.
+789	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Back home we'd be eating by now.
+790	1	NemesisMod::.cctor<Dictionary`2.set_Item>	You 	You think Dutch knows what he's doing?
+791	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Abigail'd have my hide if she saw me sittin' around.
+792	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Don't start, Arthur.
+793	1	NemesisMod::.cctor<Dictionary`2.set_Item>		We gonna do something or not?
+794	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Sit with an old man a while.
+795	1	NemesisMod::.cctor<Dictionary`2.set_Item>		When you're my age, every chair's a blessing.
+796	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Dutch used to be different, you know.
+797	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I ain't stupid, Arthur. I know what you're thinking.
+798	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Could use a drink.
+799	1	NemesisMod::.cctor<Dictionary`2.set_Item>		This is boring.
+800	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Sittin' around like old women.
+801	1	NemesisMod::.cctor<Dictionary`2.set_Item>	You 	You and me, cowpoke. We think alike.
+802	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Hurry it up.
+803	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Don't get comfortable, Arthur.
+804	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Jake liked places like this.
+805	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I ain't one for sitting.
+806	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Mr. Morgan... thank you. For bringing me.
+807	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I don't mind waitin'.
+808	1	NemesisMod::.cctor<Dictionary`2.set_Item>	The 	The horses like it here.
+809	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Finally, a rest. My lumbago, Arthur.
+810	1	NemesisMod::.cctor<Dictionary`2.set_Item>		Wake me when we leave.
+811	1	NemesisMod::.cctor<Dictionary`2.set_Item>		I was a cowboy once, you know.
+812	1	NemesisMod::.cctor<campo NightFolkSilence>		*tries to whistle*
+813	1	NemesisMod::.cctor<ValueTuple`2..ctor>		killings
+814	1	NemesisMod::.cctor<ValueTuple`2..ctor>		butchered
+815	1	NemesisMod::.cctor<ValueTuple`2..ctor>		shootings
+816	16	NemesisMod::.cctor<ValueTuple`2..ctor> ; NemesisMod::.cctor<ValueTuple`4..ctor>		cut
+817	1	NemesisMod::.cctor<ValueTuple`2..ctor>		knifings
+818	1	NemesisMod::.cctor<ValueTuple`2..ctor>		beatings
+819	1	NemesisMod::.cctor<ValueTuple`2..ctor>		knocked cold
+820	1	NemesisMod::.cctor<ValueTuple`2..ctor>		robberies
+821	3	NemesisMod::.cctor<ValueTuple`2..ctor> ; NemesisMod::.cctor<ValueTuple`4..ctor>		stickup
+822	1	NemesisMod::.cctor<ValueTuple`2..ctor>		stick-ups
+823	1	NemesisMod::.cctor<ValueTuple`2..ctor>		kidnappings
+824	1	NemesisMod::.cctor<ValueTuple`2..ctor>	horse	horses stolen
+825	1	NemesisMod::.cctor<ValueTuple`2..ctor>		wagons stolen
+826	1	NemesisMod::.cctor<ValueTuple`2..ctor>	horse	horses killed
+827	3	NemesisMod::.cctor<Dictionary`2.Add> ; NemesisMod::.cctor<Dictionary`2.Add>		Aguasdulces
+828	1	NemesisMod::.cctor<Dictionary`2.Add>		Beecher's Hope
+829	1	NemesisMod::.cctor<Dictionary`2.Add>		Braithwaite Manor
+830	1	NemesisMod::.cctor<Dictionary`2.Add>		Butcher Creek
+831	1	NemesisMod::.cctor<Dictionary`2.Add>		Caliga Hall
+832	1	NemesisMod::.cctor<Dictionary`2.Add>		Cornwall Kerosene & Tar
+833	3	NemesisMod::.cctor<Dictionary`2.Add> ; NemesisMod::.cctor<>		Emerald Ranch

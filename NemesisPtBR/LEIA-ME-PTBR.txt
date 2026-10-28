@@ -1,0 +1,107 @@
+=====================================================================
+  enRAGE v0.9.5 - TRADUÇÃO PT-BR
+  Tradução do usuário para o mod
+  "A nemesis system for Red Dead Redemption 2"
+=====================================================================
+
+O QUE É ISTO
+    É o mod enRAGE com seus textos traduzidos para português do Brasil:
+    menus, guia de boas-vindas, crônicas de vingança (o "journal" do
+    nêmesis), notícias do mundo, telegramas, histórico de tiros/X-ray e
+    a maior parte dos registros (logs).
+
+    IMPORTANTE: nomes de personagens, lugares e facções do jogo
+    (Saint Denis, Valentine, Fort Wallace, Dead Eye, Dutch, Colm
+    O'Driscoll etc.) permanecem como no jogo, de propósito.
+
+---------------------------------------------------------------------
+  COMO INSTALAR
+---------------------------------------------------------------------
+Pré-requisitos (iguais ao mod original, ver INSTALL-GUIDE-ORIGINAL.txt):
+
+  1. ScriptHookRDR2 (Alexander Blade):
+       http://www.dev-c.com/rdr2/scripthookrdr2/
+       -> copie ScriptHookRDR2.dll e dinput8.dll para a raiz de RDR2
+
+  2. ScriptHookRDR2DotNet V2, versão 2.2.0 ou mais novo:
+       https://github.com/Halen84/ScriptHookRDR2DotNet-V2/releases
+       -> copie ScriptHookRDRDotNet.asi, ScriptHookRDRDotNet.ini e
+          ScriptHookRDRNetAPI.dll para a raiz de RDR2 (ou scripts\)
+
+Aí instale a tradução:
+
+  3. Copie a pasta "scripts" desta tradução para a raiz de RDR2
+     (a pasta com RDR2.exe). Se perguntar, seleciona "substituir".
+     O que vai mudar: <GAME>\scripts\NemesisMod.dll (versão PT-BR).
+     Newtonsoft.Json.dll é o mesmo de sempre (incluso por garantia).
+
+  4. Abra o jogo no MODO HISTÓRIA (STORY MODE) e aperte F11.
+
+COMO DESFAZER
+    Substitua o NemesisMod.dll PT-BR pelo original que está em
+    Downloads\enrage\scripts\NemesisMod.dll (ou apague, e reinstale
+    o mod original). A volta do idioma inglês é só isso.
+
+---------------------------------------------------------------------
+  NOTAS DE TRADUÇÃO
+---------------------------------------------------------------------
+  - 16.512 frases traduzidas (menus, crônicas, notícias, telegramas,
+    rótulos de personalidade/estado, guias, logs de combate), revisadas
+    para português brasileiro natural. ~720 elementos ficam de propósito
+    no inglês: nomes próprios de NPC, apelidos procedurais do sistema,
+    chaves de configuração do mod (para você poder comparar com
+    tutoriais/foruns oficiais) e tags de log técnico que servem para
+    buscar erro.
+
+  NOVIDADES DESTA VERSÃO (v5 — correção do telégrafo):
+    - CORRIGIDO: enviar e ler telegramas não funcionava com a tradução
+      (clicar e nada acontecer). O código do mod usa prefixos internos
+      invisíveis ("what:", "read:", "sent:") para saber qual linha você
+      clicou; a tradução tinha alterado esses prefixos e a leitura fixa
+      de 5 caracteres cortava a chave errada. Voltaram ao inglês, que
+      é o que o jogador nunca vê.
+    - Corrigido também um detalhe nas atividades do mundo: frases tipo
+      "Você roubou um tal de..." viravam "u ..." no jornal por causa da
+      diferença de comprimento das frases na conversão interna. Agora
+      os cortes internos acompanham o tamanho em português.
+    - O restante continua igual à v4 (hierarquia em PT, régua GERAL,
+      cartões, temperamento do líder etc.).
+
+  NOVIDADES A PARTIR DA v4:
+    - Rótulos de temperamento nas abas de hierarquia agora saem em PT:
+      HOMICIDA, VINGATIVO, RANCOROSO (eram MURDEROUS, VENGEFUL, RESENTFUL).
+    - O temperamento do líder (parênteses sob o nome, ex.: PROUD) e os
+      traços de personalidade dos cartões também saem em PT: ORGULHOSO,
+      EXPLOSIVO, COVARDE, FRIO, GANANCIOSO, LEAL, ANDARILHO.
+    - Tendências nos detalhes do cartão também em PT: RESERVADO/EXPANSIVO,
+      AMISTOSO/NEUTRO/CARRANCUDO, LERDO/MÉDIO/SAGAZ e fé (DEVOTO,
+      PRATICANTE, ESFARIOU NA FÉ, SEM DEUS).
+    - Régua de FORÇA na hierarquia: o rótulo da barra geral virou
+      GERAL (antes aparecia SEGURANDO sem sentido).
+    - Palavras que o mod usa por dentro para comparar com dados do
+      próprio jogo (postos de guarda, cenários, perfis de modelo de
+      NPC etc.) foram deliberadamente deixadas em inglês para não
+      quebrar lógica.
+    - Se você já jogava o mod em inglês e algum laço de família,
+      amizade ou temperamento se comportar estranho num save antigo,
+      teste primeiro com um save novo/mundo do zero — o mod hoje
+      mantém o mundo dele junto do save do jogo.
+   - Gênero da narrativa: usa neutro quando possível, masculino
+    quando não é (padrão do jogo).
+  - Formatação de tela: placeholders {0} {1} {n} {place} {BOSS} etc.
+    foram preservados igual ao original. Quantidade de espaços nas
+    bordas também.
+  - O mod é o mesmo de sempre e salva em:
+        Documents\Rockstar Games\Red Dead Redemption 2\enRAGE
+
+---------------------------------------------------------------------
+  AVISOS
+---------------------------------------------------------------------
+  - Tradução feita para uso pessoal; não afiliada ao autor do
+    enRAGE nem à Rockstar. Use por sua conta e risco e JAMAIS no
+    Red Dead Online (o Script Hook fecha o Online).
+  - Se um texto parecer esquisito na tela, anote (F8 abre o console
+    do ScriptHookRDRDotNet) e fale com quem te deu o arquivo.
+
+    Divirta-se que as balas encontrem a estrada certa.
+=====================================================================

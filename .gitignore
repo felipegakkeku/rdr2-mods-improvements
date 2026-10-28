@@ -1,0 +1,26 @@
+# Backups locais e mods desativados
+backup-20261026-mods/
+desativados/
+ferramentas/
+
+# Pacotes de terceiros (mantemos apenas OutlawPact que faz parte do laboratório)
+pacotes/*
+!pacotes/OutlawPact/
+pacotes/OutlawPact/OutlawPact/profiles/
+
+# Binários proprietários do enRAGE e dumps intermediários (a licença do enRAGE permite compartilhar apenas o patch/tradução)
+NemesisPtBR/NemesisMod*.dll
+NemesisPtBR/roundtrip.dll
+NemesisPtBR/Mono.Cecil.dll
+NemesisPtBR/instancias.tsv
+NemesisPtBR/strings.tsv
+NemesisPtBR/strings-deles.tsv
+NemesisPtBR/pares-deles.csv
+NemesisPtBR/unicos.tsv
+NemesisPtBR/lotes/
+
+# Capturas temporárias de teste
+ddshot/*.png
+ddshot/*.jpg
+*.log
+*.bak

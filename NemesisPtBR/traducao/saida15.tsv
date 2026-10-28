@@ -1,0 +1,836 @@
+15041	=
+15042	=
+15043	=
+15044	=
+15045	=
+15046	=
+15047	=
+15048	=
+15049	=
+15050	=
+15051	=
+15052	=
+15053	=
+15054	=
+15055	=
+15056	=
+15057	=
+15058	=
+15059	=
+15060	=
+15061	=
+15062	=
+15063	=
+15064	=
+15065	=
+15066	=
+15067	=
+15068	=
+15069	o amigo mais antigo dele
+15070	criou ele
+15071	salvou ele da forca
+15072	o novo favorito dele
+15073	a mulher dele
+15074	já foi a mulher dele
+15075	como um filho
+15076	irmãos que nem sempre se entendem
+15077	não suporta ele
+15078	confia nele
+15079	cuida dele
+15080	os dois leem juntos
+15081	a mãe do filho dele
+15082	o filho dele
+15083	o filho dela
+15084	trouxe ela para o bando
+15085	acredita nele
+15086	deve tudo a ele
+15087	ensinou ela a ler
+15088	salvou a vida dele uma vez
+15089	velhos amigos
+15090	cuidam do acampamento juntos
+15091	um O'Driscoll no acampamento
+15092	parceiros de copo
+15093	chegaram juntos
+15094	Você me largou pra morrer em 
+15095	. Devia ter conferido.
+15096	Devia ter ficado de boca fechada em 
+15097	Ainda tem alguma coisa pra dizer? Falou um bocado em 
+15098	Tirou o chapéu pra mim em 
+15099	. Educação não te salva duas vezes.
+15100	 mandou lembranças.
+15101	rapazes
+15102	 nunca esquecem um Van der Linde.
+15103	Você atirou em mim em 
+15104	 e não terminou o serviço. Eu vou terminar.
+15105	Você me rasgou em 
+15106	. Os pontos aguentaram. Vamos ver se os seus aguentam.
+15107	Você matou meu cavalo em 
+15108	. Melhor amigo que eu já tive.
+15109	Me amarrou feito bezerro em 
+15110	. As marcas da corda ainda num sararam.
+15111	Me depenou em 
+15112	. Vim cobrar, com juros.
+15113	Acordei de cara na lama em 
+15114	. Agora é sua vez de dormir.
+15115	Você me surrou feito cachorro em 
+15116	. Andei treinando.
+15117	Aquela valentia toda em 
+15118	... vamos terminar isso.
+15119	Já te botei debaixo da terra {0} vezes, rapaz.
+15120	Achou que eu ia esquecer 
+15121	? Eu num esqueço nada.
+15122	Lembra de 
+15123	? Eu num erro duas vezes.
+15124	=
+15125	SEGURE  BUSCAR
+15126	{0} / 100  -  nunca vão esquecer você
+15127	TERRITÓRIO: em {0} distritos
+15128	=
+15129	 chamado 
+15130	=
+15131	=
+15132	=
+15133	=
+15134	=
+15135	=
+15136	=
+15137	=
+15138	=
+15139	=
+15140	=
+15141	=
+15142	=
+15143	=
+15144	=
+15145	=
+15146	=
+15147	=
+15148	=
+15149	=
+15150	=
+15151	=
+15152	=
+15153	=
+15154	=
+15155	=
+15156	=
+15157	=
+15158	=
+15159	=
+15160	=
+15161	O QUE FAZER
+15162	ENTENDI
+15163	Tecla do menu: 
+15164	OPÇÕES
+15165	Dá para mudar tudo isso depois nas opções.
+15166	Versão 
+15167	CONTINUAR
+15168	Enter  Começar a jogar     Backspace  Fechar
+15169	A  Começar a jogar     B  Fechar
+15170	Próximo
+15171	Começar a jogar
+15172	OITO BANDOS - CADA UM COM SEUS POSTOS, ACAMPAMENTOS, LÍDER E GUERRAS
+15173	=
+15174	=
+15175	Desconhecido - Notado - Procurado - Caçado - Rixa de Sangue
+15176	mate os homens deles e eles aprendem o seu nome
+15177	SACAR / ATIRAR
+15178	=
+15179	=
+15180	agache, chegue à noite ou na neblina, fique fora de vista
+15181	Bayou Nwa: Saqueadores de Lemoyne contra Família Bronte
+15182	=
+15183	Cabeça-quente - Valentine
+15184	=
+15185	uma tosse que não passa
+15186	{n} quebrou dois dedos caindo de uma cerca
+15187	dois dedos na tala
+15188	as costas doendo da queda
+15189	uma perna inchada de picada de cobra
+15190	{n} quase se afogou atravessando um rio
+15191	quase se afogar atravessando um rio
+15192	o frio das montanhas
+15193	uma dor de cabeça de insolação
+15194	{n} arrancou um dente podre em {t}
+15195	o queixo dolorido
+15196	um estômago que ainda não sarou
+15197	uma falha nos dentes
+15198	a surra em {t}
+15199	{n} abriu a mão esfolando um cervo
+15200	uma mão enfaixada
+15201	{n} teve pesadelos com os homens que matou
+15202	pesadelos
+15203	=
+15204	{n} derrubou um cervo dos grandes
+15205	o maior cervo que ele já abateu
+15206	{n} espantou uma alcateia sem ajuda de ninguém
+15207	os lobos que ele espantou
+15208	{n} se perdeu na mata e passou a noite lá
+15209	uma noite perdida na mata
+15210	{n} viu um fantasma na estrada à noite - ou diz que viu
+15211	algo que ele viu na estrada à noite
+15212	{n} achou uma pepita de ouro num riacho
+15213	uma pepita de ouro no bolso
+15214	{n} levou um assalto na estrada
+15215	o assalto na estrada
+15216	{n} viu um homem morrer de febre
+15217	o rosto de um moribundo
+15218	{n} enterrou um desconhecido à beira da estrada
+15219	uma cova à beira da estrada
+15220	{n} ajudou uma família cuja carroça quebrou
+15221	a família que ficou na mão na estrada
+15222	o vira-lata que anda atrás dele
+15223	o cachorro dele, morto
+15224	{n} dormiu ao relento debaixo das estrelas
+15225	uma noite fria ao relento
+15226	o enforcamento em {t}
+15227	{n} ganhou uma corrida de cavalos nos arredores de {t}
+15228	a vitória na corrida de cavalos
+15229	{n} comprou um cavalo novo
+15230	o cavalo novo dele
+15231	O cavalo de {n} ficou manco e teve que ser sacrificado
+15232	ter que sacrificar o próprio cavalo
+15233	{n} comprou um chapéu novo em {t}
+15234	um belo chapéu novo
+15235	{n} fez a barba e tomou um banho quente em {t}
+15236	um banho quente
+15237	{n} tirou um retrato em {t}
+15238	o retrato dele
+15239	{n} secou todos os bares de {t}
+15240	uma noite longa em {t}
+15241	{n} bebeu sem companhia em {t} por três dias
+15242	{n} jurou largar a bebida
+15243	ficar longe da bebida
+15244	{n} teve uma recaída - voltou a beber
+15245	a garrafa de novo
+15246	{n} ganhou uma bolada no pôquer em {t}
+15247	um pote gordo de pôquer
+15248	{n} perdeu todo o dinheiro nas cartas em {t}
+15249	perder nas cartas
+15250	{n} perdeu o cavalo num jogo de cartas em {t}
+15251	ter perdido o cavalo nas cartas
+15252	{n} ganhou uma queda de braço em {t}
+15253	ter vencido o grandalhão na queda de braço
+15254	{n} ganhou um concurso de tiro em {t}
+15255	o concurso de tiro que ele ganhou
+15256	{n} perdeu um concurso de tiro em {t}
+15257	ter perdido o concurso de tiro
+15258	{n} se meteu num bate-boca em {t}
+15259	o bate-boca em {t}
+15260	Botaram {n} pra fora do saloon de {t}
+15261	a expulsão do saloon
+15262	uma noite na cadeia
+15263	{n} levou uma multa do xerife de {t}
+15264	a multa do xerife
+15265	{n} escapou de uma prisão em {t} só na conversa
+15266	ter enganado o xerife
+15267	{n} levou um golpe de um comerciante em {t}
+15268	o comerciante trapaceiro
+15269	{n} teve a arma roubada em {t}
+15270	a arma roubada dele
+15271	{n} comprou um belo revólver novo em {t}
+15272	o revólver novo dele
+15273	{n} quitou as dívidas
+15274	estar quite com todo mundo
+15275	{n} deve dinheiro pra gente errada
+15276	os homens a quem ele deve
+15277	{n} emprestou dinheiro a um homem que fugiu da cidade
+15278	o dinheiro que ele nunca mais vai ver
+15279	{n} foi ler a sorte em {t} - e não deu boa coisa
+15280	o que a cartomante disse
+15281	{n} viu um espetáculo itinerante em {t}
+15282	o espetáculo itinerante
+15283	{n} comemorou o aniversário em {t}
+15284	o aniversário dele
+15285	{n} começou a tocar gaita
+15286	aprender a tocar gaita
+15287	{n} leu um romance barato sobre foras da lei
+15288	um romance barato
+15289	{n} aprendeu a escrever o próprio nome
+15290	escrever o próprio nome
+15291	{n} foi à igreja em {t}
+15292	o sermão em {t}
+15293	{n} rezou a noite inteira
+15294	rezar pela própria alma
+15295	{n} amaldiçoou Deus depois de uma semana ruim
+15296	um Deus que não escuta
+15297	{n} confessou os pecados a um padre em {t}
+15298	a confissão
+15299	=
+15300	a nova esposa dele
+15301	{n} se apaixonou por uma moça do saloon em {t}
+15302	uma moça em {t}
+15303	{n} levou um fora de uma mulher em {t}
+15304	a mulher que largou ele
+15305	um bebê novo em casa
+15306	O filho de {n} caiu doente
+15307	o filho doente dele
+15308	=
+15309	a esposa dele indo embora
+15310	a falecida esposa dele
+15311	{n} voltou pra casa pra ver a família
+15312	rever a família
+15313	{n} mandou dinheiro pra família
+15314	o dinheiro que ele mandou pra casa
+15315	A esposa de {n} adoeceu
+15316	a esposa doente dele, longe dali
+15317	{n} recebeu uma carta de casa - boas notícias
+15318	boas notícias de casa
+15319	{n} recebeu uma carta de casa - más notícias
+15320	más notícias de casa
+15321	{n} soube que o irmão lá no leste tinha morrido
+15322	o irmão morto dele
+15323	{n} recebeu a notícia de que o pai tinha morrido
+15324	a morte do pai
+15325	{n} visitou o túmulo da mãe
+15326	o túmulo da mãe
+15327	{n} falou em deixar o território de vez
+15328	deixar tudo isso pra trás
+15329	as histórias sobre você
+15330	matar você
+15331	=
+15332	as bravatas dele sobre você
+15333	=
+15334	a sua cara
+15335	=
+15336	{n} limpou e lubrificou as armas a noite toda
+15337	o dia em que ele te encontrar
+15338	=
+15339	a sua garganta
+15340	=
+15341	{n} saiu perguntando de você por {t}
+15342	por onde você anda
+15343	=
+15344	deixar pra lá
+15345	=
+15346	a sua cara no cartaz
+15347	{n} participou de um assalto a diligência que rendeu bem
+15348	a parte dele na diligência
+15349	{n} participou de um serviço que deu errado
+15350	o serviço que deu errado
+15351	{n} roubou uma propriedade com os rapazes
+15352	o serviço na propriedade
+15353	{n} ajudou a assaltar um trem
+15354	o serviço do trem
+15355	=
+15356	Os homens da lei quase pegaram {n}
+15357	a lei no encalço dele
+15358	{n} ficou de fora da promoção
+15359	o lugar que ele acha que merece
+15360	=
+15361	{n} recebeu elogios de {b}
+15362	os elogios de {b}
+15363	{n} levou uma bronca de {b} na frente dos outros
+15364	a bronca de {b}
+15365	{n} ficou de vigia três noites seguidas
+15366	noites demais de vigia
+15367	o novo amigo dele, {f}
+15368	{f} e o dinheiro sumido
+15369	{n} ensinou um novato a atirar
+15370	o novato que ele está ensinando
+15371	{n} ganhou o carteado do acampamento
+15372	o pote que ele tirou dos rapazes
+15373	{n} perdeu a parte dele nas cartas para {f}
+15374	{f} e aquela sorte toda
+15375	{n} jurou lealdade a {l} de novo
+15376	a lealdade a {l}
+15377	{n} pensou em largar {g}
+15378	cair fora
+15379	=
+15380	{n} bebeu aos mortos do bando
+15381	os rapazes que não sobreviveram
+15382	{n} ficou com o melhor saco de dormir do acampamento
+15383	um bom saco de dormir
+15384	{n} cantou músicas irlandesas junto à fogueira a noite toda
+15385	as velhas canções
+15386	{n} ouviu dizer que {l} quer resultados
+15387	o que {l} espera
+15388	{n} roubou uma carroça de uísque
+15389	o uísque roubado
+15390	{n} ergueu um brinde à velha causa
+15391	a guerra que nunca acabou
+15392	{n} fez ordem-unida com os rapazes como se ainda fosse 63
+15393	a velha ordem-unida
+15394	{n} xingou o Exército com uma garrafa na mão
+15395	os casacas-azuis
+15396	{n} escondeu o manto pra esposa não ver
+15397	guardar o segredo
+15398	Em {t}, todo mundo virou a cara pra {n}
+15399	os olhares que ele recebe em {t}
+15400	{n} trouxe um alce para as famílias
+15401	a caçada ao alce
+15402	{n} ficou sem comer quando a ração faltou de novo
+15403	a ração curta
+15404	{n} domou um cavalo selvagem
+15405	o cavalo novo
+15406	Barraram {n} no entreposto de Valentine
+15407	{n} viu soldados passarem a cavalo pela reserva
+15408	os soldados
+15409	{n} passou a noite com os anciãos
+15410	as palavras dos anciãos
+15411	{n} discutiu com {f} sobre lutar contra o Exército
+15412	a discussão com {f}
+15413	{n} perdeu um cavalo na travessia do rio
+15414	o cavalo perdido
+15415	{n} passou a noite nas montanhas sem ninguém
+15416	a noite nas montanhas
+15417	{n} ganhou uma corrida de cavalos contra {f}
+15418	a corrida
+15419	{n} fez flechas novas a noite toda
+15420	as flechas novas
+15421	{n} pendurou uma lanterna no cipreste e esperou alguma coisa vir até a luz
+15422	a lanterna no cipreste
+15423	{n} ouviu alguém chamar o nome dele da água três noites seguidas
+15424	a voz na água
+15425	{n} voltou do pântano com lama até o peito e não diz onde esteve
+15426	onde ele esteve
+15427	{n} enterrou alguma coisa debaixo do assoalho do barraco
+15428	o que tem debaixo do assoalho
+15429	{n} passou a noite em claro com {l}, e nenhum dos dois disse uma palavra
+15430	a noite com {l}
+15431	{n} achou o relógio de bolso de um homem de Saint Denis num ninho de garça
+15432	o relógio de bolso
+15433	{n} entalhou um rosto num toco de cipreste e vive conversando com o toco
+15434	o rosto no toco
+15435	{n} seguiu uma luz para além de Lagras até o amanhecer
+15436	a luz depois de Lagras
+15437	{n} não fala há nove dias
+15438	o silêncio
+15439	{n} trocou um pote de dentes por uma espingarda
+15440	a troca
+15441	Viram {n} à luz do dia, e os outros não olham mais pra ele
+15442	a vez que viram ele à luz do dia
+15443	a febre do pântano
+15444	{n} cantou para os mortos no junco até os sapos se calarem
+15445	a cantoria
+15446	{n} e {f} remaram até a velha fazenda e voltaram com um remo a menos
+15447	a noite na fazenda
+15448	{n} pendurou o chapéu de um Saqueador nas árvores à beira da estrada
+15449	o chapéu nas árvores
+15450	{n} tirou um afogado da água e revirou os bolsos do morto
+15451	os bolsos do afogado
+15452	{n} não passa mais perto da velha igreja de Shady Belle
+15453	a velha igreja
+15454	=
+15455	{n} assobiou no escuro até alguma coisa assobiar de volta
+15456	o que assobiou de volta
+15457	o cachorro
+15458	{n} passou a noite diante de uma casa em Saint Denis, até as lamparinas se apagarem
+15459	a casa em Saint Denis
+15460	{n} agora guarda um crânio de garça ao lado da cama, pra dar sorte
+15461	o crânio de garça
+15462	{l} marcou {n} por uma coisa que ele jura que não fez
+15463	a marca de {l}
+15464	=
+15465	o barco a vapor com {f}
+15466	{n} trocou a marca de um novilho roubado tão bem que o próprio dono comprou o bicho de volta
+15467	o novilho
+15468	o coice
+15469	{n} vigiou a boiada a noite inteira, sem ninguém, debaixo de tempestade
+15470	a tempestade
+15471	{n} perdeu a parte dele nas cartas em Blackwater
+15472	a parte perdida
+15473	=
+15474	{n} vendeu um cavalo roubado em Armadillo pelo dobro do que valia
+15475	a venda
+15476	{n} laçou um mustangue selvagem em Great Plains
+15477	o mustangue
+15478	{n} achou a própria cara num cartaz da associação dos criadores de gado
+15479	o cartaz
+15480	a tocada da boiada com {f}
+15481	Um rancheiro pegou {n} na cerca e meteu bala nele
+15482	a espingarda do rancheiro
+15483	{n} marcou a própria mão com ferro sem querer
+15484	a queimadura
+15485	{n} ouviu dizer que {l} quer que ele comande o próprio grupo
+15486	a palavra de {l}
+15487	{n} atravessou o rio pra ver a mãe
+15488	a mãe do outro lado do rio
+15489	{n} acendeu uma vela na missão pelos homens que perderam
+15490	a vela pelos mortos
+15491	{n} ganhou uma corrida de cavalos em Tumbleweed contra um americano
+15492	{n} torrou a parte dele do dinheiro do trem numa noite só em Armadillo
+15493	a noite em Armadillo
+15494	Uma cascavel debaixo do saco de dormir quase picou {n}
+15495	a cascavel
+15496	os dias de seca
+15497	{n} contrabandeou armas pelo rio à luz da lua
+15498	as armas
+15499	{n} tocou violão junto à fogueira até o jefe mandar ele parar
+15500	o violão
+15501	{n} soube que os rurales andam perguntando por ele em Nuevo Paraiso
+15502	os rurales
+15503	o dia no arroio seco com {f}
+15504	{n} levou um golpe de um negociante de cavalos em Armadillo
+15505	o negociante de cavalos
+15506	{n} escreveu uma carta pra casa que nunca mandou
+15507	a carta
+15508	=
+15509	{n} pegou serviço extra no Fort Wallace
+15510	serviço extra
+15511	{n} recebeu o soldo
+15512	dia de pagamento
+15513	O sargento pegou pesado com {n} no treino
+15514	o treino do sargento
+15515	{n} recebeu um elogio do oficial
+15516	o elogio
+15517	{n} levou uma advertência por bebedeira
+15518	a advertência
+15519	{n} ficou de guarda a noite toda no frio
+15520	a noite fria de guarda
+15521	{n} escreveu uma carta pra mãe
+15522	casa
+15523	{n} perdeu dinheiro apostando numa luta de boxe no forte
+15524	a aposta no boxe
+15525	{n} levou despachos a cavalo até Valentine e voltou
+15526	a cavalgada com os despachos
+15527	{n} ganhou botas novas do intendente
+15528	botas novas
+15529	{n} levou punição por perder o rifle
+15530	o rifle perdido
+15531	{n} perseguiu desertores pelas colinas
+15532	os desertores
+15533	{n} foi parar em {t} procurando trabalho
+15534	arranjar trabalho
+15535	{n} pegou um serviço domando cavalos perto de {t}
+15536	domar cavalos
+15537	{n} trabalhou uma semana num rancho perto de {t}
+15538	o trabalho no rancho
+15539	{n} largou o emprego em {t}
+15540	o emprego que ele largou
+15541	{n} vendeu peles em {t}
+15542	um bom preço pelas peles
+15543	{n} jogou cartas com desconhecidos em {t} e ganhou
+15544	o dinheiro dos desconhecidos
+15545	{n} roubou um viajante na estrada
+15546	o viajante que ele roubou
+15547	{n} arrumou serviço de guarda numa caravana de carroças
+15548	a caravana de carroças
+15549	{n} fez um amigo em {t}
+15550	um amigo em {t}
+15551	{n} perdeu o chapéu pro vento na trilha
+15552	o chapéu bom dele, perdido
+15553	{n} achou um relógio de bolso na lama nos arredores de {t}
+15554	o relógio achado
+15555	a mulher em {t}
+15556	{n} pagou um dentista em {t} pra arrancar um dente podre
+15557	o dente arrancado
+15558	Roubaram as botas de {n} enquanto ele dormia
+15559	as botas roubadas dele
+15560	{n} ganhou um concurso de tiro nos arredores de {t}
+15561	a vitória no concurso de tiro
+15562	=
+15563	{n} perdeu um concurso de tiro nos arredores de {t}
+15564	{n} bebeu demais e dormiu numa vala
+15565	a vala onde ele acordou
+15566	Botaram {n} pra fora de um saloon em {t}
+15567	o saloon em {t}
+15568	=
+15569	a mesa de faro
+15570	{n} limpou uma mesa de cartas em {t}
+15571	o pote do pôquer
+15572	{n} comprou um rifle novo do armeiro em {t}
+15573	o rifle novo
+15574	O cavalo de {n} perdeu uma ferradura no meio do nada
+15575	a longa caminhada
+15576	{n} assistiu a um enforcamento em {t}
+15577	o enforcamento
+15578	{n} ajudou a tirar uma carroça da lama
+15579	uma boa ação
+15580	o coice da mula
+15581	a carne estragada
+15582	o que ele viu perto da igreja
+15583	{n} acendeu uma vela pela mãe em {t}
+15584	a mãe dele
+15585	=
+15586	{n} recebeu uma carta dizendo que o pai morreu
+15587	o pai dele, que se foi
+15588	o que o jornal disse sobre você
+15589	as risadas
+15590	=
+15591	=
+15592	{n} contou a um desconhecido que tinha visto você, por um dólar
+15593	o dólar
+15594	=
+15595	{n} tomou banho e fez a barba em {t}
+15596	uma barba bem feita
+15597	{n} foi ler a sorte em {t}
+15598	o homem que ele machucou
+15599	{n} entalhou as iniciais numa árvore da trilha
+15600	{n} vendeu o cavalo velho e comprou um melhor
+15601	=
+15602	{n} perdeu o rifle atravessando um rio
+15603	{n} pegou um ladrão no acampamento e deixou o sujeito ir embora
+15604	o ladrão que ele soltou
+15605	{n} pegou um ladrão no acampamento e surrou o sujeito até sangrar
+15606	o ladrão que ele surrou
+15607	=
+15608	{n} passou uma noite numa caverna esperando a tempestade passar
+15609	{n} passou a noite em claro depois de um pesadelo com a guerra
+15610	=
+15611	{n} escreveu um testamento, só por garantia
+15612	morrer
+15613	=
+15614	{n} mandou o salário pra esposa
+15615	a família dele
+15616	A esposa de {n} escreveu pedindo pra ele voltar pra casa
+15617	a carta da esposa
+15618	o cachorro novo
+15619	{n} cochilou na vigia e pegaram ele no flagra
+15620	dormir na vigia
+15621	{n} e {f} saíram a cavalo pra roubar um cavaleiro solitário
+15622	o cavaleiro solitário
+15623	Mandaram {n} fazer o reconhecimento das estradas perto de {t}
+15624	o reconhecimento
+15625	a partilha
+15626	{n} caiu nas graças de {b} num serviço
+15627	as graças de {b}
+15628	{n} enterrou um dos homens de {g} nas colinas
+15629	o homem que ele enterrou
+15630	{n} ficou de guarda a noite toda enquanto o pessoal de {g} dormia
+15631	a longa vigia
+15632	{n} roubou um caixote de uísque de uma carroça
+15633	o uísque
+15634	{n} fez uma tatuagem nova em {t}
+15635	a tatuagem nova
+15636	{n} ensinou um rapaz mais novo de {g} a atirar
+15637	o mais novo
+15638	o flagra no desvio de dinheiro
+15639	=
+15640	{n} bebeu à saúde de Colm em {t}
+15641	a velha rixa
+15642	{n} cantou músicas irlandesas no acampamento até o amanhecer
+15643	{n} desfilou a cavalo com velhos veteranos nos arredores de {t}
+15644	a velha causa
+15645	{n} queimou uma bandeira da União no acampamento
+15646	a velha guerra
+15647	{n} discutiu por dinheiro com um capanga dos Braithwaite
+15648	os Braithwaite
+15649	{n} escondeu os mantos pra esposa não ver
+15650	a esposa descobrir
+15651	Riram de {n} em {t} - o povo sabe o que ele é
+15652	todo mundo saber quem ele é
+15653	{n} fez ordem-unida na chuva a manhã inteira
+15654	a ordem-unida
+15655	Prometeram licença a {n} e depois negaram
+15656	a licença que ele perdeu
+15657	{n} matou uma cascavel a tiro na patrulha
+15658	a cobra
+15659	{n} perdeu uma aposta na corrida de cavalos do regimento
+15660	a corrida de cavalos
+15661	{n} recebeu elogios do coronel Favours
+15662	os elogios do coronel
+15663	{n} vigiou prisioneiros no forte a noite toda
+15664	os prisioneiros
+15665	{n} trabalhou um dia no estábulo de {t}
+15666	{n} dormiu ao relento nos arredores de {t}
+15667	o chão frio
+15668	{n} pagou uma rodada pra desconhecidos em {t}
+15669	os desconhecidos
+15670	=
+15671	Passaram a perna em {n} nas cartas em {t}
+15672	o trapaceiro
+15673	=
+15674	{n} caçou um cervo e vendeu o couro em {t}
+15675	o couro
+15676	{n} viu soldados atravessarem o rio perto da reserva
+15677	{n} contou as velhas histórias às crianças
+15678	as velhas histórias
+15679	{n} trouxe um belo alce
+15680	o alce
+15681	braço
+15682	CLAVÍCULA ESQUERDA PARTIDA
+15683	CLAVÍCULA DIREITA PARTIDA
+15684	ÚMERO ESQUERDO QUEBRADO
+15685	ÚMERO DIREITO QUEBRADO
+15686	OSSOS DO ANTEBRAÇO ESQUERDO QUEBRADOS
+15687	OSSOS DO ANTEBRAÇO DIREITO QUEBRADOS
+15688	JOELHO ESQUERDO ESTILHAÇADO
+15689	JOELHO DIREITO ESTILHAÇADO
+15690	FÊMUR ESQUERDO ESTILHAÇADO
+15691	FÊMUR DIREITO ESTILHAÇADO
+15692	TÍBIA ESQUERDA QUEBRADA
+15693	TÍBIA DIREITA QUEBRADA
+15694	MÃO ESQUERDA ESTRAÇALHADA
+15695	MÃO DIREITA ESTRAÇALHADA
+15696	PÉ ESQUERDO ESTRAÇALHADO
+15697	PÉ DIREITO ESTRAÇALHADO
+15698	CÉREBRO DESTRUÍDO
+15699	CORAÇÃO PERFURADO
+15700	PULMÃO ESQUERDO PERFURADO
+15701	PULMÃO DIREITO PERFURADO
+15702	FÍGADO ROMPIDO
+15703	ESTÔMAGO PERFURADO
+15704	RIM ESQUERDO DESTRUÍDO
+15705	RIM DIREITO DESTRUÍDO
+15706	INTESTINOS RASGADOS
+15707	BEXIGA ROMPIDA
+15708	 DE RASPÃO
+15709	 COM LASCA
+15710	 ombro
+15711	 pata dianteira
+15712	 canela dianteira
+15713	 pé dianteiro
+15714	 anca
+15715	 pata traseira
+15716	 canela traseira
+15717	 pé traseiro
+15718	 ESCÁPULA QUEBRADA
+15719	 PARTE ALTA DA PATA DIANTEIRA QUEBRADA
+15720	 PATA DIANTEIRA QUEBRADA
+15721	 CANELA DIANTEIRA QUEBRADA
+15722	 PÉ DIANTEIRO ESTRAÇALHADO
+15723	 FÊMUR ESTILHAÇADO
+15724	 PATA TRASEIRA QUEBRADA
+15725	 CANELA TRASEIRA QUEBRADA
+15726	 PÉ TRASEIRO ESTRAÇALHADO
+15727	 ARTÉRIA FEMORAL CORTADA
+15728	a cauda
+15729	TIRO NO CORAÇÃO
+15730	PULMÃO ESQUERDO ATINGIDO
+15731	PULMÃO DIREITO ATINGIDO
+15732	FÍGADO ATINGIDO
+15733	ESTÔMAGO ATINGIDO
+15734	RIM ESQUERDO ATINGIDO
+15735	RIM DIREITO ATINGIDO
+15736	 lado de 
+15737	=
+15738	=
+15739	=
+15740	=
+15741	=
+15742	=
+15743	=
+15744	=
+15745	=
+15746	=
+15747	coronhada com 
+15748	, sem sentidos
+15749	=
+15750	=
+15751	=
+15752	=
+15753	=
+15754	 - não consegue ficar de pé
+15755	=
+15756	=
+15757	=
+15758	=
+15759	=
+15760	=
+15761	=
+15762	=
+15763	=
+15764	=
+15765	=
+15766	=
+15767	=
+15768	=
+15769	=
+15770	=
+15771	=
+15772	=
+15773	=
+15774	=
+15775	=
+15776	=
+15777	=
+15778	=
+15779	=
+15780	=
+15781	=
+15782	=
+15783	estrangulamento, {0:0.0} s segurando
+15784	só aproximação
+15785	movimento da lâmina {0:0.00} m
+15786	=
+15787	=
+15788	=
+15789	=
+15790	=
+15791	 - EM PROFUNDIDADE
+15792	 COM RASGO ABERTO - CHUMBO GROSSO
+15793	 EM PEDAÇOS - CHUMBO GROSSO
+15794	 COM ROMBO - CHUMBO GROSSO
+15795	chutes
+15796	pisões
+15797	socos
+15798	coronhadas
+15799	estrangulamentos
+15800	CHUTADO NO CHÃO - LARGADO PARA MORRER
+15801	estrangulado
+15802	ESTRANGULADO ATÉ DESMAIAR
+15803	TRAQUEIA MACHUCADA - ROUCO
+15804	GARGANTA MACHUCADA - MARCAS DE DEDOS
+15805	NOCAUTEADO
+15806	CONCUSSÃO
+15807	MANDÍBULA TRINCADA
+15808	nariz
+15809	NARIZ QUEBRADO
+15810	OLHO ROXO
+15811	ROSTO MACHUCADO
+15812	GARGANTA INCHADA - ROUCO
+15813	GARGANTA MACHUCADA
+15814	COSTELAS DIREITAS TRINCADAS
+15815	COSTELAS ESQUERDAS TRINCADAS
+15816	PEITO MACHUCADO
+15817	barriga
+15818	SEM FÔLEGO - BARRIGA MUITO MACHUCADA
+15819	ESTÔMAGO MACHUCADO
+15820	RINS MACHUCADOS
+15821	COSTAS MACHUCADAS
+15822	HEMATOMA: 
+15823	COM HEMATOMA
+15824	BALA ACHATADA
+15825	BALA SE PARTIU - {0} FRAGMENTOS
+15826	PROJÉTIL EXPLODIU NO FERIMENTO - {0} FRAGMENTOS
+15827	 COM QUEIMADURA - FLECHA INCENDIÁRIA
+15828	=
+15829	Nenhum ferimento registrado ainda. Sempre que você atirar, cortar ou explodir uma pessoa, o ferimento fica registrado aqui.
+15830	Nenhum animal registrado ainda. Atire, corte ou exploda um animal de quatro patas e o ferimento fica registrado aqui.
+15831	TODOS OS TIROS
+15832	O TIRO
+15833	Perda de sangue
+15834	ARMA
+15835	GOLPES
+15836	MUNIÇÃO
+15837	GOLPE
+15838	DISTÂNCIA
+15839	{0:0.0} m  -  {1} {2} (estim.)
+15840	fragmentos
+15841	queimaduras
+15842	1 bago de chumbo
+15843	{0} bagos de chumbo ({1} estim.)
+15844	VÍTIMAS
+15845	=
+15846	   {0} extras ignorados
+15847	TODOS OS FERIMENTOS
+15848	detalhe {0}
+15849	Detalhe automático: {0}
+15850	trajetos finos / apagados são estimados
+15851	girando
+15852	PÁGINA 1/2  LIMITE DE RETÂNGULOS - ache a PRIMEIRA linha com alguma célula faltando, ponha as setas na linha ACIMA dela e aperte Enter.
+15853	Backspace cancela.  Esquerda/Direita: página 2 (teste de sprite).
+15854	Limite salvo atual: {0}.   Selecionado: {1}
+15855	PÁGINA 2/2  TESTE DE SPRITE - diga quais números mostram barras SÓLIDAS limpas nas colunas A, B e C.  Esquerda/Direita: página 1.
+15856	TRAJETO DA BALA
+15857	TRAJETO DO FERIMENTO
+15858	ENTRADA
+15859	ENTRA
+15860	  (estim.)
+15861	, atravessou
+15862	, cortou de lado a lado
+15863	ALOJADA
+15864	PAROU
+15865	SAÍDA
+15866	{0} golpes
+15867	1 golpe
+15868	TRAUMA
+15869	Só ferimento na carne - nada vital atingido
+15870	Andava com 
+15871	Nêmesis  -  
+15872	De raspão: 
+15873	DANO
+15874	Aperte Delete de novo para apagar todo o registro do raio-X
+15875	D-pad  Navegar     LB/RB  Humanos / Animais     Analógico direito  Girar     LT/RT  Zoom     Y  Rodar     RS  Redefinir     X  Arthur     B  Fechar
+15876	     F  Detalhe     K  Calibrar     Del  Limpar

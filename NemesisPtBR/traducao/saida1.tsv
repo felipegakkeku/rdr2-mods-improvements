@@ -1,0 +1,833 @@
+1	Eventos de vida para o passado de cada homem (Backstory.cs). Edite, adicione linhas, recarregue o mod (Insert). who: any / man / woman / gang / loner / irish / irishborn / south / north / rich / poor / um id de facção / trade:<Trade> (| = ou). tilt: temper:pontos. fx: aggr:+N fear:+N friendly surly devout godless sharp dim. tokens de texto: {home} {town} {n}. tokens de mirrorTitle: {name} {town}.
+2	as planícies do norte
+3	Manteve a fazenda de pé enquanto os homens estavam fora, na Guerra
+4	Cuidou de feridos da União num hospital de campanha
+5	Costurou fardas para o regimento em 62
+6	Perdeu dois irmãos na Guerra
+7	Cuidou de feridos confederados numa igreja que virou hospital
+8	Viu soldados da União queimarem o celeiro em 64
+9	Lutou pela 
+10	Cavalgou com os guerreiros pela primeira vez
+11	Vestiu o capuz pela primeira vez
+12	Alistou-se no Exército dos EUA em 
+13	a febre
+14	a esposa
+15	o marido
+16	 para 
+17	=
+18	=
+19	=
+20	=
+21	=
+22	=
+23	=
+24	=
+25	=
+26	=
+27	Five Points, Nova York, de pais irlandeses
+28	Boston, de pais irlandeses
+29	Saint Denis, de estivadores irlandeses
+30	=
+31	=
+32	=
+33	=
+34	=
+35	Geórgia
+36	=
+37	=
+38	as Carolinas
+39	=
+40	=
+41	Pensilvânia
+42	Nova York
+43	=
+44	=
+45	=
+46	=
+47	=
+48	=
+49	=
+50	=
+51	=
+52	=
+53	=
+54	=
+55	=
+56	=
+57	=
+58	as terras altas de Ambarino
+59	=
+60	Filadélfia
+61	=
+62	=
+63	=
+64	=
+65	=
+66	=
+67	=
+68	=
+69	=
+70	=
+71	=
+72	=
+73	=
+74	=
+75	=
+76	=
+77	=
+78	=
+79	=
+80	=
+81	=
+82	=
+83	=
+84	=
+85	=
+86	=
+87	=
+88	=
+89	=
+90	=
+91	=
+92	=
+93	=
+94	=
+95	=
+96	=
+97	=
+98	=
+99	=
+100	=
+101	=
+102	=
+103	=
+104	=
+105	Wilderness
+106	=
+107	=
+108	=
+109	=
+110	=
+111	=
+112	=
+113	=
+114	=
+115	=
+116	=
+117	=
+118	=
+119	=
+120	=
+121	=
+122	=
+123	=
+124	=
+125	=
+126	=
+127	=
+128	=
+129	=
+130	=
+131	=
+132	=
+133	=
+134	=
+135	=
+136	=
+137	=
+138	=
+139	=
+140	=
+141	=
+142	=
+143	=
+144	=
+145	=
+146	=
+147	=
+148	=
+149	=
+150	=
+151	=
+152	=
+153	=
+154	=
+155	Começou 
+156	, quando 
+157	 andava procurando 
+158	O que veio depois foi curto e feio - homens atrás de carroças, atrás de pedras, atrás uns dos outros.
+159	O tiroteio durou mais do que qualquer um ali admitiria.
+160	Rancor dentro de 
+161	 chegou ao limite 
+162	Um jogo de cartas, uma palavra a mais, uma dívida antiga - o motivo muda conforme quem conta. Aconteceu 
+163	O resto do bando ficou de lado e deixou que eles resolvessem.
+164	Começou por quase nada, 
+165	Meia rua saiu para assistir, 
+166	O pessoal ainda discute quem deu o primeiro soco.
+167	A notícia correu pela estrada uma semana antes de acontecer - 
+168	Isso foi obra sua, 
+169	Você vai lembrar de um jeito. Quem viu vai lembrar de outro.
+170	Aconteceu 
+171	Você viu com os próprios olhos, 
+172	A notícia correu 
+173	, o chão se mexeu debaixo de 
+174	Vai ter homem que lucra com isso, e homem que não vive para ver como termina.
+175	A luta 
+176	Estão cavando covas mais rápido do que alguém consegue marcar.
+177	As estradas por lá não são seguras para ninguém que vista as cores erradas.
+178	 perdeu a vida 
+179	onde estava
+180	tentando chegar ao cavalo
+181	na manhã seguinte
+182	onde caiu
+183	 morreu ali
+184	Mais {0} homens conhecidos caíram com eles.
+185	 saiu sem um arranhão
+186	O que restou ali já foi recolhido.
+187	Você já voltou ao lugar desde então.
+188	=
+189	Não vai ser a última vez.
+190	pavio curto
+191	nunca dos mais corajosos
+192	cheio de orgulho
+193	de sangue frio
+194	sempre contando dinheiro
+195	leal até demais
+196	sem paradeiro
+197	uns lobos solitários
+198	lá no interior
+199	um dia
+200	Cada facção (campos de Gangs.cs pelo nome). Deixe um campo de fora para manter o valor embutido; um Id novo = uma facção nova. Listas de nomes: um nome do NameBank ("IrishFirst") ou uma lista. Districts: hashes de zona em hex. Tiers: Label / MinRank / Seats, do topo para baixo. Seed: Rank / Count / Models. Relations: id de outra facção -> -100..100 (qualquer um dos lados pode declarar). Jobs: Title / Place com {t} = a cidade, Crew; JobTowns: onde acontecem.
+201	Districts: Key, Name, X / Y (o centro), Hashes (os hashes de zona que o jogo dá para ele, hex), Lore (id de facção -> domínio inicial 0-100; o peso de encontros de uma facção ali = domínio / 18). Towns: Name (o nome de zona do jogo), Doctor / Saloon [x, y, z] (qualquer um pode faltar), CoreRadius (a parte movimentada, m).
+202	Eventos de mundo TURMOIL (Sandbox.cs): Weight = com que frequência a turbulência aparece ao lado dos pesos de [World] (clash 20, life 60...), Kinds = o peso de cada curinga (0 = nunca). Linhas de incidente: {a} {b} = as duas facções, {p} / {d} = o distrito.
+203	OFICIAIS
+204	AJUDANTES
+205	HOMENS
+206	=
+207	tomar 
+208	enriquecer
+209	ver você morto
+210	manter o que têm
+211	=
+212	 desvia 
+213	 pretendia 
+214	Ele pretende 
+215	=
+216	Coronel
+217	Sargento
+218	Soldado
+219	=
+220	=
+221	=
+222	=
+223	Os aposentos do Coronel? Moço, eu limpo estrebaria. Pergunta pra um oficial.
+224	Eu num passo do pátio de desfile. Só os oficiais conhecem o forte.
+225	O Coronel? Ele vive mudando. Cada semana num alojamento diferente. Num sei qual.
+226	O forte tá ali, claro - e cem homens dentro. Qual porta é a dele? Num sei dizer.
+227	O comandante
+228	=
+229	Fort Wallace. Eu comando tudo aquilo do pátio. Você nunca ia chegar perto de mim.
+230	=
+231	Os caixotes deles
+232	Os mantimentos deles - dinamite
+233	A carroça de mantimentos deles
+234	Cofre
+235	não suporta você
+236	não gosta de você
+237	anda frio com você
+238	está em cima do muro com você
+239	simpatiza com você
+240	gosta de você
+241	cavalgaria pelo inferno por você
+242	=
+243	=
+244	=
+245	=
+246	=
+247	=
+248	=
+249	=
+250	 saiu de 
+251	o acampamento dele
+252	Dizem que {0} acampamentos que você conhecia trocaram de dono ou mudaram de lugar: {1}. Seu mapa mostra onde estão agora.
+253	Dizem que 
+254	=
+255	=
+256	=
+257	 - 
+258	Capitão
+259	Tenente
+260	Acampamento
+261	Esconderijo
+262	Mantimentos
+263	Tesouro
+264	você marcou seu próprio destino
+265	ninguém que você conhece ocupa o lugar agora
+266	o acampamento foi limpo
+267	o acampamento não existe mais
+268	=
+269	Rota para 
+270	o acampamento
+271	=
+272	=
+273	=
+274	=
+275	=
+276	=
+277	=
+278	Você foi avisado pra deixar a gente em paz.
+279	Você voltou. Foi um erro.
+280	Você não cavalga mais por aqui.
+281	Lá está ele!
+282	Você devia ter ficado longe da nossa terra.
+283	=
+284	Você me jogou no chão, {name}. Dessa vez eu trouxe uns amigos.
+285	Lembra de mim? Eu lembro de você.
+286	Surpreso? Devia ter garantido o serviço.
+287	Precisa de mais que isso pra me matar.
+288	=
+289	=
+290	Você me deixou ir. Vim dizer - estamos quites. Só dessa vez.
+291	Sem confusão. Só queria que você soubesse que eu não esqueci.
+292	=
+293	Você vive fugindo, {name}. Dessa vez não.
+294	=
+295	Voltou pra mais? Da última vez não aprendeu?
+296	Eu já matei você uma vez.
+297	Escuro o bastante pra você?
+298	Ninguém vai te ouvir aqui fora.
+299	=
+300	=
+301	Você... Eu conheço você. Você me deve.
+302	Ei! Ei, você! Lembra de mim?
+303	=
+304	=
+305	=
+306	=
+307	=
+308	=
+309	=
+310	=
+311	=
+312	=
+313	=
+314	=
+315	 perto de 
+316	alguém
+317	a Gangue O'Driscoll
+318	=
+319	 soube que você matou seu 
+320	ouvidos que ainda zumbem da explosão
+321	uma cicatriz de bala enrugada na barriga dele
+322	uma cicatriz de bala no fim das costas dele
+323	=
+324	uma cicatriz de bala irregular atravessando a garganta dele
+325	um queixo remendado com arame
+326	um amassado no crânio dele onde a sua bala raspou
+327	um quadril que range a cada passo
+328	umas costas que nunca mais ficaram retas
+329	uma cicatriz de bala
+330	=
+331	=
+332	=
+333	=
+334	=
+335	=
+336	=
+337	=
+338	nordeste
+339	leste
+340	sudeste
+341	sudoeste
+342	=
+343	Mora em cima de 
+344	 família tem uma fazenda nos arredores de 
+345	Coleciona pontas de flecha
+346	quer ser caubói
+347	quer ser homem da lei
+348	quer ser maquinista de trem
+349	quer ser pistoleiro como nos romances baratos
+350	=
+351	=
+352	=
+353	=
+354	=
+355	=
+356	=
+357	=
+358	=
+359	cavalgou com você (
+360	Você cavalgou com 
+361	=
+362	=
+363	=
+364	=
+365	=
+366	=
+367	=
+368	=
+369	=
+370	=
+371	=
+372	=
+373	=
+374	=
+375	=
+376	=
+377	=
+378	=
+379	=
+380	=
+381	=
+382	=
+383	=
+384	=
+385	=
+386	=
+387	=
+388	=
+389	=
+390	=
+391	=
+392	=
+393	=
+394	=
+395	=
+396	=
+397	=
+398	=
+399	=
+400	Você é um homem morto, ouviu? MORTO.
+401	Tira as mãos de mim.
+402	O-o que você quer? Eu num sei de nada!
+403	=
+404	terminou sem briga
+405	MEDO DEMAIS PARA MENTIR
+406	POUCAS LUZES
+407	SAGAZ
+408	AMIGÁVEL
+409	DE CARA FECHADA
+410	TEM FILHOS
+411	=
+412	Navegar
+413	Selecionar
+414	Fechar
+415	Duas cópias do enRAGE
+416	Outra cópia do mod está instalada junto com esta
+417	As duas cópias rodam ao mesmo tempo: os menus se desenham um por cima do outro (texto sobreposto, nomes fora das caixas), e o mundo é jogado - e salvo - duas vezes. Uma cópia antiga pode sobrescrever seu mundo com um formato mais antigo.
+418	As cópias extras estão aqui
+419	=
+420	=
+421	LADRÃO DE CAVALOS
+422	ASSALTO
+423	ROUBO A BANCO
+424	ROUBO
+425	ASSASSINATO
+426	PRISÃO
+427	CARTAS
+428	INCÊNDIO
+429	ROUBO DE GADO
+430	CRIMES CONHECIDOS
+431	Pode haver mais - faça ele falar
+432	e mais {0}
+433	Desconhecido - faça ele falar
+434	Nada que você saiba
+435	Nada registrado
+436	ANDA COM 
+437	SEM GANGUE
+438	CAVALGA COM VOCÊ
+439	a lei conhece a gangue, não o homem
+440	NINGUÉM ESTÁ PAGANDO
+441	PEIXE PEQUENO
+442	PROCURADO
+443	sem preço pela cabeça dele
+444	boato na trilha
+445	CONTRA VOCÊ
+446	SEM RECOMPENSA
+447	NA FICHA
+448	VIU ALGUMA COISA
+449	CONTOU PARA A LEI
+450	NÃO ABRIU A BOCA
+451	e mais {0} na aba Mundo
+452	=
+453	=
+454	=
+455	=
+456	=
+457	=
+458	=
+459	=
+460	=
+461	=
+462	=
+463	=
+464	=
+465	=
+466	=
+467	=
+468	=
+469	=
+470	=
+471	=
+472	=
+473	=
+474	=
+475	=
+476	Ei... quem está aí?
+477	Você ouviu alguma coisa?
+478	Tem alguém aí fora?
+479	Apareça!
+480	Achei que vi alguma coisa...
+481	Parado aí. Pra onde você vai?
+482	Calma, moço. A gente tá vigiando esta estrada.
+483	Deixa as mãos onde eu possa ver e segue em frente.
+484	Tem uma guerra rolando. Não se meta nela.
+485	Ninguém passa por aqui sem a gente ver. Vai andando.
+486	O Colm tá de olho nesta cidade agora. Se cuida.
+487	Segue em frente, amigo - isso é assunto dos O'Driscoll.
+488	Olho pra frente e continua cavalgando.
+489	Lemoyne é nossa. Você só tá de passagem?
+490	Segue em frente - e não vai contando pra ianque nenhum o que você viu.
+491	Continua cavalgando, forasteiro.
+492	Alto. Diga o que veio fazer - deixa pra lá, segue em frente.
+493	Esta cidade tá sob vigilância. Mantenha a paz.
+494	Circulando, cidadão.
+495	Os homens do Sr. Bronte estão cuidando da rua. Siga seu caminho.
+496	Não tem nada pra ver aqui. Continua andando.
+497	Você faria bem em continuar cavalgando.
+498	Não é da sua conta o que acontece aqui.
+499	Hehe. Continua andando, belezinha.
+500	Você se perdeu? Melhor se perder mais pra longe.
+501	Continua andando. A gente tá caçando.
+502	Não para aqui.
+503	A trégua tá valendo. Pode passar.
+504	Boa noite. Tá calmo hoje, graças a Deus.
+505	Pode passar, amigo. Ninguém tá atirando hoje.
+506	Já chega. Dá meia-volta - a gente sabe quem você é.
+507	Volta. Gente da sua laia não passa por aqui.
+508	Nem mais um passo. Volta por onde veio.
+509	=
+510	=
+511	=
+512	=
+513	=
+514	=
+515	=
+516	=
+517	=
+518	=
+519	=
+520	=
+521	=
+522	=
+523	=
+524	=
+525	=
+526	=
+527	=
+528	=
+529	=
+530	=
+531	=
+532	=
+533	=
+534	=
+535	=
+536	=
+537	=
+538	=
+539	=
+540	=
+541	=
+542	=
+543	=
+544	=
+545	=
+546	=
+547	=
+548	=
+549	=
+550	=
+551	=
+552	=
+553	=
+554	=
+555	=
+556	=
+557	os currais
+558	a estrebaria
+559	o consultório do médico
+560	o cais
+561	a fábrica
+562	uma lavanderia
+563	a linha do bonde
+564	os campos de algodão
+565	a loja do armeiro
+566	o armazém
+567	a mina
+568	o depósito de carvão
+569	a peixaria
+570	a serraria
+571	o hotel
+572	a ferrovia
+573	o banco
+574	os estábulos
+575	o estúdio de fotografia
+576	o entreposto comercial
+577	o saloon
+578	o farol
+579	a funerária
+580	a mina no alto do morro
+581	uma fazenda nos arredores da cidade
+582	um rancho aqui perto
+583	Claro. Um ar fresco me faria bem.
+584	Tá bom. Vai na frente.
+585	Vou pegar meu cavalo.
+586	Mas é claro, Arthur. Vamos nessa!
+587	Achei que você nunca ia pedir.
+588	Deixa eu pegar meu chapéu.
+589	=
+590	Por que não. O Dutch não vai sentir minha falta por um tempo.
+591	Tô com você.
+592	Tá bom. Melhor que ficar sentado aqui.
+593	Tá certo, Arthur. Só não deixa a gente morrer.
+594	Então vamos.
+595	Agora sim! Eu e você, Arthur - lendas!
+596	Beleza. Eu levo o charme.
+597	Até que enfim alguém chamou!
+598	É, tá bom. Alguém precisa cuidar das suas costas.
+599	Tá bom. Mas eu num vou limpar nada.
+600	Bora atirar em alguma coisa.
+601	Graças a Deus. Mais uma panela de ensopado e eu ia gritar.
+602	Vamos cavalgar.
+603	Eu acompanho. Não se preocupe.
+604	A companhia de um velho? Muito bem.
+605	Por que não. Meus ossos precisam de estrada.
+606	Pode ir na frente, meu rapaz.
+607	Tem uísque pra onde a gente vai?
+608	Claro, docinho. Vamos aprontar.
+609	Finalmente, um pouco de diversão.
+610	Ora, ora, o Black Lung quer companhia. Claro.
+611	Tá bom, vaqueiro. Tenta acompanhar.
+612	Por que não. Pode dar lucro.
+613	E-eu? Tá bom... tá bom, eu vou.
+614	Se o senhor me aceitar, Sr. Morgan.
+615	Não vou te decepcionar.
+616	Tá certo, Arthur. Vamos ver o que essa terra guarda.
+617	Por você, filho - eu arranjo tempo.
+618	Eu vou... mas num vou carregar peso nenhum.
+619	Tá bom, tá bom. Eu e meu lumbago.
+620	Claro, vamos.
+621	Vai na frente.
+622	Agora não, Arthur. Tenho planos a fazer.
+623	Depois, filho. Preciso pensar.
+624	Meu lumbago, Arthur. Você sabe como é.
+625	Eu adoraria... mas acabei de sentar.
+626	Cavalgar com você? Passo.
+627	Tenho meus próprios negócios, Morgan.
+628	Alguém precisa cuidar deste acampamento, Sr. Morgan.
+629	Não seja ridículo.
+630	E quem vai alimentar esse povo? Não, senhor.
+631	Tô com um ensopado no fogo, Arthur.
+632	Tenho contas a acertar, Sr. Morgan.
+633	Não, não. Negócios.
+634	Tenho o Jack pra cuidar.
+635	Pede pro John.
+636	Com você? Não seja absurdo.
+637	Tô esperando o Dutch.
+638	A mãe disse que eu não posso.
+639	Hoje não, Arthur.
+640	Quem sabe outra hora.
+641	Tenho trabalho pra fazer aqui.
+642	Rastros aqui. Cervo, de um dia.
+643	Calmo aqui fora. Eu gosto.
+644	O tempo tá virando.
+645	Você já pensou em largar tudo isso?
+646	Você acha que o Dutch tem um plano? Um de verdade?
+647	Uma vez eu li sobre essa terra num livro.
+648	Aposto corrida até a próxima serra!
+649	Isso é que é vida, Arthur.
+650	Me lembra um pouco a minha terra.
+651	Eu tocaria violão se tivesse trazido.
+652	O Dutch vai tirar a gente dessa. Ele sempre tira.
+653	A Abigail tá no meu pé de novo.
+654	Não me olha assim.
+655	Tem dia que eu penso em fugir.
+656	Já te falei do meu velho?
+657	A gente devia roubar um trem. Um grandão.
+658	A Irlanda não chega aos pés destas colinas. Bom, talvez um pouco.
+659	Eu comeria um cavalo inteiro.
+660	Você acha que eu sou burro, né.
+661	O Exército me ensinou uma coisa - mantenha a pólvora seca.
+662	O Jake ia gostar dessa vista.
+663	Eu atiro tão bem quanto qualquer um de vocês.
+664	Não me trata com luva de pelica, Arthur.
+665	O Dutch e eu cavalgamos por estradas assim, anos atrás.
+666	Preste atenção no homem, não na arma.
+667	Você é um homem melhor do que pensa, Arthur.
+668	Alguém tem que tomar um trago.
+669	Que tédio. Vamos roubar alguém.
+670	Você fica bonito quando faz cara feia.
+671	Esta terra tá pronta pra ser colhida.
+672	Você e eu, Morgan - a gente não é tão diferente.
+673	Sente esse cheiro? Oportunidade.
+674	Sou grato, Sr. Morgan. De verdade.
+675	Os O'Driscoll me esfolavam se me vissem.
+676	Gosto mais de cavalo do que de gente.
+677	A gente só precisa de um pouco mais de dinheiro.
+678	Tenha fé, Arthur.
+679	Este país está mudando, filho.
+680	Belo dia.
+681	Calmo aqui fora.
+682	Longe do acampamento.
+683	=
+684	Abaixa!
+685	Atrás de você, Arthur!
+686	Esse é meu!
+687	Eles tão em todo lugar!
+688	Continua atirando!
+689	Me acertaram! Tô fora, Arthur!
+690	Argh - pra mim deu, deu! Te vejo no acampamento!
+691	Me pegaram! Tô recuando!
+692	Te vejo de volta no acampamento.
+693	Foi bom cavalgar com você, Arthur.
+694	Mesma hora semana que vem.
+695	Parece que {0} tem algo pra você. Vou voltando.
+696	Aquele é {0} - assunto da gangue. Te vejo no acampamento.
+697	{0} tá esperando você. Vou sair do caminho.
+698	Vai falar com {0}. Eu volto cavalgando.
+699	=
+700	Sean, você me deve uma bebida.
+701	Eu devo uma bebida pra todo mundo, Karen. Essa é a graça.
+702	Você fala demais, irlandês.
+703	E você adora cada palavra.
+704	=
+705	Você acompanha direitinho, Lenny.
+706	Aprendi com o melhor, Charles.
+707	Os rastros são frescos. Fica esperto.
+708	Sempre fico.
+709	=
+710	Tira o olho, Micah.
+711	Uuh, sensível, Marston.
+712	Tem alguma coisa em você que eu não confio.
+713	O sentimento é mútuo, vaqueiro.
+714	=
+715	O Dutch confia em você, Micah. Eu não.
+716	Sorte que eu não preciso da sua confiança, amigo.
+717	=
+718	Você se acha mais esperto que eu, Bell?
+719	Eu sei que sou, Bill.
+720	=
+721	Você devia passar mais tempo com seu filho, John.
+722	Eu sei, Hosea. Eu sei.
+723	=
+724	E-eu nunca quis fazer mal, Sean.
+725	Ah, você é gente boa, Kieran. Quase sempre.
+726	=
+727	Sean, você nunca cala a boca?
+728	Se depender de mim, não, Lenny meu rapaz.
+729	=
+730	Você toca lindamente, Javier.
+731	Gracias, Charles. Você devia cantar comigo qualquer dia.
+732	=
+733	Precisamos de um plano, Hosea.
+734	Sempre precisamos de um plano, Dutch. Precisamos de um bom.
+735	Bom sair daquele acampamento.
+736	Pode apostar.
+737	Você tá bem?
+738	Melhor aqui fora.
+739	Lembra daquele serviço em Blackwater?
+740	Melhor não.
+741	O Arthur cavalga como se tivesse hora marcada.
+742	Ele sempre faz isso.
+743	O tempo tá firme.
+744	Por enquanto.
+745	Vai cavalgar em outro lugar, pode ser?
+746	País livre.
+747	Não fala comigo.
+748	Nem pretendia.
+749	Você atrasa a gente.
+750	Engraçado, eu ia dizer o mesmo.
+751	Até onde você acha que a gente vai?
+752	Pergunta pro Arthur.
+753	Já tá com fome?
+754	Quieto demais.
+755	Bom sentar um minuto.
+756	Calmo aqui fora. Calmo demais, talvez.
+757	Você já pensou em simplesmente... parar? Num lugar assim?
+758	Meus pés tão me matando.
+759	Sem pressa, Arthur. Eu não tô com pressa.
+760	Sente esse cheiro? Vem chuva.
+761	Não se vê terra assim lá no leste.
+762	A gente tá esperando alguma coisa, ou só esperando?
+763	Me acorda quando acabar de remoer.
+764	Os cavalos também precisam descansar.
+765	Bom sair do tempo ruim.
+766	Fica de olho naquela porta.
+767	O pessoal tá olhando pra gente, Arthur.
+768	De quem é este lugar?
+769	Não toca em nada que você não pode pagar.
+770	Tá cheirando a café velho aqui dentro.
+771	Paga uma bebida pra um homem, Arthur?
+772	Esse uísque tá batizado. De novo.
+773	Aquele sujeito na mesa tá roubando a noite toda.
+774	Uma bebida. Depois a gente vai.
+775	Eu entraria numa mão se tivesse dinheiro.
+776	O pianista tá mais bêbado que eu.
+777	Fala baixo - metade desta sala é procurada em algum lugar.
+778	O taberneiro tá de olho na gente.
+779	Minha mãe ia adorar um lugar assim. Ou odiar.
+780	Se eu ganhasse um dólar cada vez que a gente para...
+781	Arthur, você já foi pra Irlanda? Ia odiar.
+782	Andei lendo de novo, Arthur.
+783	Você tá bem? Parece cansado.
+784	Meu pai sempre dizia: senta quando puder.
+785	Boa terra pra caçar.
+786	Dá pra ouvir tudo, se você prestar atenção.
+787	Eu fico de vigia.
+788	Eu podia tocar alguma coisa, se estivesse com meu violão.
+789	Lá em casa a gente já estaria comendo.
+790	Você acha que o Dutch sabe o que tá fazendo?
+791	A Abigail me esfolava se me visse aqui sentado à toa.
+792	Nem começa, Arthur.
+793	A gente vai fazer alguma coisa ou não?
+794	Senta um pouco com um velho.
+795	Na minha idade, cada cadeira é uma bênção.
+796	O Dutch era diferente, sabe.
+797	Eu não sou burro, Arthur. Sei o que você tá pensando.
+798	Uma bebida cairia bem.
+799	Que chatice.
+800	Sentados à toa feito velhas.
+801	Você e eu, vaqueiro. A gente pensa igual.
+802	Anda logo.
+803	Não se acomoda, Arthur.
+804	O Jake gostava de lugares assim.
+805	Não tenho paciência pra ficar sem fazer nada.
+806	Sr. Morgan... obrigado. Por me trazer.
+807	Não me importo de esperar.
+808	Os cavalos gostam daqui.
+809	Enfim, um descanso. Meu lumbago, Arthur.
+810	Me acorda quando a gente for embora.
+811	Eu já fui caubói, sabe.
+812	*tenta assobiar*
+813	mortes
+814	carnificinas
+815	tiroteios
+816	=
+817	facadas
+818	surras
+819	nocautes
+820	roubos
+821	=
+822	assaltos
+823	sequestros
+824	=
+825	carroças roubadas
+826	=
+827	=
+828	=
+829	=
+830	=
+831	=
+832	=
+833	=

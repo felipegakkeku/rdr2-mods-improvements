@@ -1,0 +1,834 @@
+id	usos	contexto	prefixo_fixo	texto
+4999	1	Taunts::Ambush<List`1.Add>	You 	You took everything I had. Now I take everything you got.
+5000	1	Taunts::Ambush<List`1.Add>		Last time you put me to sleep. This time I'm returnin' the favor. Permanent.
+5001	1	Taunts::Ambush<List`1.Add>		Still got them fists? I brought somethin' better.
+5002	1	Taunts::Ambush<List`1.Add>	You 	You still got that smart mouth? Let's hear it.
+5003	1	Taunts::Ambush<List`1.Add>		We ain't done, you and me.
+5004	1	Taunts::Ambush<List`1.Add>		Ain't gonna waste a bullet on you. These'll do.
+5005	1	Taunts::Ambush<List`1.Add>		Brought somethin' sharp. Thought of you while I honed it.
+5006	1	Taunts::Ambush<List`1.Add>		They tell stories about me from here to Blackwater. All of 'em end with you dead.
+5007	1	Taunts::CampAlarm<ret>	You 	You again? Here? You got a death wish!
+5008	1	Taunts::.cctor<Dictionary`2.Add>		See this cheek? Every mornin' in the mirror, I think of you.
+5009	1	Taunts::.cctor<Dictionary`2.Add>		Stitched my own gut shut. Had a lot of time to think about you.
+5010	1	Taunts::.cctor<Dictionary`2.Add>		This eye never did heal right. Neither did my temper.
+5011	1	Taunts::.cctor<Dictionary`2.Add>	You 	You broke my nose. I'm gonna break the rest of you.
+5012	1	Taunts::.cctor<Dictionary`2.Add>		Crawled outta that den with half a face. Worth it, to see you again.
+5013	1	Taunts::.cctor<Dictionary`2.Add>		Pulled your arrows out myself. Kept one for you.
+5014	1	Taunts::.cctor<Dictionary`2.Add>	You 	You burned me. I don't burn twice.
+5015	1	Taunts::.cctor<Dictionary`2.Add>		Ain't nobody ever cut a throat that didn't take. 'Til you.
+5016	1	Taunts::.cctor<Dictionary`2.Add>		Dug your bullet out with a bowie knife. Here, have it back.
+5017	1	Taunts::.cctor<Dictionary`2.Add>	You 	You put a bullet through my lung, and I lived!
+5018	1	Taunts::.cctor<Dictionary`2.Add>		Your bullet went clean through my gut. Didn't take.
+5019	1	Taunts::.cctor<Dictionary`2.Add>		Ate your lead and kept it down. Still hungry.
+5020	1	Taunts::.cctor<Dictionary`2.Add>		Spent a month holdin' my guts in. Thinkin' of you the whole time.
+5021	1	Taunts::.cctor<Dictionary`2.Add>		Pissed blood for a month 'cause of you.
+5022	1	Taunts::.cctor<Dictionary`2.Add>		Broke my ribs. I'm still breathin'. You won't be.
+5023	1	Taunts::.cctor<Dictionary`2.Add>		Cracked my chest open and I'm still standin' here.
+5024	1	Taunts::.cctor<Dictionary`2.Add>		Shot me in the back. Coward's bullet. Didn't even kill me.
+5025	1	Taunts::.cctor<Dictionary`2.Add>		Walked here on the leg you broke.
+5026	1	Taunts::.cctor<Dictionary`2.Add>		Knee's full of lead now. Still walked all the way here.
+5027	1	Taunts::.cctor<Dictionary`2.Add>		Limped every mile of the way to you. Worth it.
+5028	1	Taunts::.cctor<Dictionary`2.Add>		Nearly bled out from my leg. Nearly.
+5029	2	Taunts::.cctor<Dictionary`2.Add> ; Taunts::.cctor<Dictionary`2.Add>		Shot my arm to pieces. Still works fine for this.
+5030	1	Taunts::.cctor<Dictionary`2.Add>		Took two fingers off. Only need one for the trigger.
+5031	2	Taunts::.cctor<Dictionary`2.Add> ; Taunts::.cctor<Dictionary`2.Add>		Bullet through the throat. Still got the voice to tell you you're dead.
+5032	1	Taunts::.cctor<Dictionary`2.Add>		Jaw's wired, but I can still say it: you're dead.
+5033	1	Taunts::.cctor<Dictionary`2.Add>		Your bullet bounced off my skull. Aim's the problem, not me.
+5034	1	Taunts::.cctor<Dictionary`2.Add>		My hip grinds every step. Every step, I think of you.
+5035	1	Taunts::.cctor<Dictionary`2.Add>		Doc said I'd never walk again. Doc was wrong.
+5036	1	Taunts::.cctor<campo AntagonizeReplies>		Keep talkin', friend. I buried you once already.
+5037	1	Taunts::.cctor<campo AntagonizeReplies>		That mouth's gonna get you killed. Again.
+5038	1	Taunts::.cctor<campo AntagonizeReplies>		Say that one more time.
+5039	1	Taunts::.cctor<campo GreetReplies>		Polite. Won't save you.
+5040	1	Taunts::.cctor<campo GreetReplies>		Howdy yourself. Now draw.
+5041	1	Taunts::.cctor<campo GreetReplies>		Don't you 'evenin'' me.
+5042	1	Taunts::.cctor<campo EscalateReplies>	You 	You brought a gun to a fistfight? Fine.
+5043	1	Taunts::.cctor<campo EscalateReplies>		So that's how it is. Have it your way.
+5044	1	Taunts::.cctor<campo EscalateReplies>		Coward's move. Now we do this proper.
+5045	1	Taunts::.cctor<>		We got company! Get him!
+5046	1	Taunts::.cctor<>		It's Morgan! Kill him!
+5047	1	Taunts::.cctor<campo CampAlarms>		Stranger in camp! Light him up!
+5048	1	Taunts::.cctor<campo CampAlarms>	You 	You walked into the wrong camp, friend.
+5049	1	Taunts::.cctor<campo CampAlarms>		Boys! Grab your irons!
+5050	1	Taunts::.cctor<>		Look at me. Look what you did. Go on, look.
+5051	1	Taunts::.cctor<>		Can't feel my legs. Still feel the hate, though.
+5052	1	Taunts::.cctor<campo ParalyzedLines>		Doc says I'll never walk again. Says it like it's news.
+5053	1	Taunts::.cctor<campo ParalyzedLines>		Finish it, or get out of my sight.
+5054	1	Taunts::.cctor<campo ParalyzedLines>		Came to admire your work?
+5055	1	TelegramLines::.cctor<>		MAYBE. WE WILL SEE. STAY CLEAR OF ME.
+5056	1	TelegramLines::.cctor<>		ALRIGHT. I WILL NOT COME LOOKING. DO NOT GIVE ME CAUSE.
+5057	1	TelegramLines::.cctor<>		READ YOUR WIRE TWICE. I AM TIRED TOO. LET IT LIE.
+5058	1	TelegramLines::.cctor<>		FINE. BUT IF I SEE YOU ON MY ROAD ALL BETS ARE OFF.
+5059	1	TelegramLines::.cctor<>		I WILL THINK ON IT. THAT IS MORE THAN YOU DESERVE.
+5060	1	TelegramLines::.cctor<>		NOT FORGIVEN. BUT LET IT REST FOR NOW.
+5061	1	TelegramLines::.cctor<>		AGREED STOP KEEP YOUR DISTANCE STOP
+5062	1	TelegramLines::.cctor<>		VERY WELL. YOU KEEP TO YOUR ROADS AND I KEEP TO MINE.
+5063	1	TelegramLines::.cctor<>		I WILL HOLSTER IT. FOR NOW. DO NOT MAKE ME DRAW IT AGAIN.
+5064	1	TelegramLines::.cctor<>		ACCEPTED STOP DO NOT WRITE AGAIN STOP
+5065	1	TelegramLines::.cctor<>		A TRUCE THEN. I WILL NOT SHAKE YOUR HAND ON IT.
+5066	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ENOUGH BLOOD SPILT ALREADY. ALRIGHT.
+5067	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MY WIFE SAYS TAKE IT. SO I TAKE IT. STAY AWAY.
+5068	1	TelegramLines::.cctor<ValueTuple`2..ctor>		LET IT BE BURIED. DO NOT DIG IT UP.
+5069	1	TelegramLines::.cctor<>		ALRIGHT. NO MORE TROUBLE. PLEASE.
+5070	1	TelegramLines::.cctor<>		YES. YES. THANK YOU. I WANT NO MORE OF IT.
+5071	1	TelegramLines::.cctor<>		AGREED. I NEVER WANTED ANY OF THIS.
+5072	1	TelegramLines::.cctor<>		THANK GOD. I HAVE NOT SLEPT A NIGHT SINCE.
+5073	1	TelegramLines::.cctor<>		YES STOP A THOUSAND TIMES YES STOP
+5074	1	TelegramLines::.cctor<ValueTuple`2..ctor>		BLESS YOU. I WILL NOT SO MUCH AS SAY YOUR NAME.
+5075	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AGREED. I HAVE PUT MY GUN IN A DRAWER. I MEAN IT.
+5076	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL KEEP TO MY HOUSE. YOU WILL NOT SEE ME. THANK YOU.
+5077	1	TelegramLines::.cctor<>		FINE BY ME. ROAD IS LONG ENOUGH FOR THE BOTH OF US.
+5078	1	TelegramLines::.cctor<>		SURE. I WAS HEADED WEST ANYHOW.
+5079	1	TelegramLines::.cctor<>		SUITS ME. LIFE IS SHORT. MINE ANYWAY.
+5080	1	TelegramLines::.cctor<>		ALREADY FORGOT YOUR FACE. KEEP IT THAT WAY.
+5081	1	TelegramLines::.cctor<>		NO HARD FEELINGS. WELL. SOME. THEY WILL PASS.
+5082	1	TelegramLines::.cctor<ValueTuple`2..ctor>		DONE. I NEVER CARRY A GRUDGE FURTHER THAN THE NEXT TOWN.
+5083	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ALRIGHT PARTNER. TOO OLD TO BE CHASING GHOSTS.
+5084	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FINE. MIGHT EVEN BUY YOU A DRINK ONE DAY. MIGHT NOT.
+5085	1	TelegramLines::.cctor<>		PEACE IS CHEAPER THAN BULLETS. AGREED.
+5086	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FINE. A DEAD MAN EARNS NOTHING. NEITHER DO YOU.
+5087	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AGREED. FEUDING IS BAD FOR BUSINESS.
+5088	1	TelegramLines::.cctor<ValueTuple`2..ctor>		PEACE IT IS. CARTRIDGES COST MONEY.
+5089	1	TelegramLines::.cctor<>		FOR NOW. IF YOU TOUCH MY PEOPLE IT ENDS.
+5090	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL HOLD TO IT IF YOU DO. MY WORD IS GOOD.
+5091	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AGREED. BUT MY FRIENDS ANSWER FOR THEMSELVES.
+5092	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL TELL MY PEOPLE TO LET IT BE. THAT IS ALL I PROMISE.
+5093	1	TelegramLines::.cctor<>		NOTED. DO NOT MISTAKE IT FOR FRIENDSHIP.
+5094	1	TelegramLines::.cctor<ValueTuple`2..ctor>		VERY WELL. BUSINESS IS BETTER WITHOUT YOU IN IT.
+5095	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ACCEPTED. TERMS END THE DAY YOU CROSS ME.
+5096	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AGREED. I HAVE LITTLE USE FOR YOU EITHER WAY.
+5097	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL ALLOW IT. REMEMBER WHO ALLOWED IT.
+5098	1	TelegramLines::.cctor<ValueTuple`2..ctor>		VERY WELL. YOU CAME TO ME. THAT IS ENOUGH.
+5099	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ALRIGHT. BUT I AM STILL SORE ABOUT IT.
+5100	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FINE. DO NOT PUSH YOUR LUCK.
+5101	1	TelegramLines::.cctor<>		ALRIGHT BOYO. BUT COLM DOES NOT HEAR OF THIS.
+5102	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FINE. KEEP AWAY FROM ME AND I WILL KEEP AWAY FROM YOU. GOD SAVE IRELAND.
+5103	1	TelegramLines::.cctor<ValueTuple`2..ctor>		GRAND SO. WE NEVER MET. AND IF THE LADS ASK I SPAT ON YOUR WIRE.
+5104	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AYE ALRIGHT. BUT YOU ARE STILL A VAN DER LINDE AND I STILL HATE THE SMELL OF YE.
+5105	1	TelegramLines::.cctor<>		A TRUCE THEN. LIKE APPOMATTOX. DO NOT EXPECT ME TO LIKE IT.
+5106	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FINE. LEMOYNE IS BIG ENOUGH. STAY ON YOUR SIDE OF IT.
+5107	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TERMS ACCEPTED. A GENTLEMAN KEEPS HIS WORD. SEE THAT YOU DO.
+5108	1	TelegramLines::.cctor<ValueTuple`2..ctor>		VERY WELL SIR. THE WAR IS OVER BETWEEN US. THAT ONE AT LEAST.
+5109	1	TelegramLines::.cctor<>		WE WANT ONLY TO BE LEFT IN PEACE. SO BE IT.
+5110	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MY PEOPLE HAVE SEEN ENOUGH BLOOD. AGREED.
+5111	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL TELL THE ELDERS. THEY WILL BE GLAD OF IT.
+5112	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOUR WORDS ARE ACCEPTED. LET YOUR DEEDS MATCH THEM.
+5113	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE WILL LET IT PASS. THIS TIME.
+5114	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE ORDER IS MERCIFUL. DO NOT TEST IT TWICE.
+5115	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MR BRONTE APPRECIATES A MAN WHO KNOWS HIS PLACE. AGREED.
+5116	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FINE. BUSINESS IS BUSINESS. STAY OUT OF SAINT DENIS AFFAIRS.
+5117	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MAMMY SAYS LEAVE YOU BE. FOR NOW.
+5118	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AINT COMIN DOWN THE HOLLER FOR YOU. YOU STAY OUT OF IT.
+5119	1	TelegramLines::.cctor<ValueTuple`2..ctor>		STAY OUT OF THE TALL TREES AND YOU KEEP YOUR HIDE.
+5120	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FINE. WE GOT OTHER GAME TO HUNT.
+5121	1	TelegramLines::.cctor<>		NOTHING IS FORGOTTEN.
+5122	1	TelegramLines::.cctor<>		NOT WHILE I BREATHE.
+5123	1	TelegramLines::.cctor<>		A WIRE DOES NOT WASH IT OFF.
+5124	1	TelegramLines::.cctor<>		YOU KNOW WHAT YOU DID. NO PEACE.
+5125	1	TelegramLines::.cctor<>		TOO LATE FOR THAT FRIEND.
+5126	1	TelegramLines::.cctor<>		PEACE IS FOR THE DEAD. YOU WILL HAVE YOURS SOON.
+5127	1	TelegramLines::.cctor<>		I KEPT YOUR WIRE. I WILL PUT IT ON YOUR GRAVE.
+5128	1	TelegramLines::.cctor<>		NO STOP NEVER STOP
+5129	1	TelegramLines::.cctor<>		YOU WANT PEACE. SHOULD HAVE THOUGHT OF THAT BEFORE.
+5130	1	TelegramLines::.cctor<>		THE ANSWER IS NO. IT WILL STAY NO.
+5131	1	TelegramLines::.cctor<>		READ IT. LAUGHED. NO.
+5132	1	TelegramLines::.cctor<>		SOME THINGS ONLY END ONE WAY.
+5133	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ASK AGAIN AND I DOUBLE THE DEBT.
+5134	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WILL GET YOUR PEACE IN A PINE BOX.
+5135	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I HAVE A LONG MEMORY AND A SHORT TEMPER. NO.
+5136	1	TelegramLines::.cctor<>		YOU THINK A WIRE MAKES IT RIGHT? IT DOES NOT.
+5137	1	TelegramLines::.cctor<>		ASK ME TO MY FACE. ON YOUR KNEES.
+5138	1	TelegramLines::.cctor<>		MY NAME IS WORTH MORE THAN YOUR PEACE.
+5139	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I DO NOT MAKE TERMS WITH MEN WHO SHAMED ME.
+5140	1	TelegramLines::.cctor<ValueTuple`2..ctor>		EVERY MAN IN THE COUNTY SAW WHAT YOU DID. NO.
+5141	1	TelegramLines::.cctor<ValueTuple`2..ctor>		PEACE WOULD MAKE ME A LAUGHINGSTOCK. NEVER.
+5142	1	TelegramLines::.cctor<>		GO TO HELL STOP AND STAY THERE STOP
+5143	1	TelegramLines::.cctor<>		PEACE? I WILL PEACE YOUR SKULL IN.
+5144	1	TelegramLines::.cctor<>		SEND ANOTHER AND I WILL FEED IT TO YOU.
+5145	1	TelegramLines::.cctor<>		TORE YOUR WIRE UP AND STAMPED ON IT.
+5146	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WANT PEACE COME GET IT. BRING A GUN.
+5147	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NO. NO. AND DAMN YOU.
+5148	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE CLERK HAD TO DUCK WHEN I READ IT. NO.
+5149	1	TelegramLines::.cctor<>		NO. THERE IS A DEBT AND IT WILL BE PAID.
+5150	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE ACCOUNT STAYS OPEN.
+5151	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NO. YOU KNOW HOW THIS ENDS.
+5152	1	TelegramLines::.cctor<>		NOT AFTER WHAT YOU DID TO OURS.
+5153	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MY BROTHERS WOULD SPIT ON ME. NO.
+5154	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I DO NOT MAKE PEACE BEHIND MY PEOPLE'S BACKS.
+5155	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THEY WOULD NEVER FORGIVE ME. NO.
+5156	1	TelegramLines::.cctor<ValueTuple`2..ctor>		PEACE COSTS. YOU HAVE NOT OFFERED ENOUGH.
+5157	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WORDS ARE FREE. MY GRUDGE IS NOT.
+5158	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I CANNOT. THEY WOULD KNOW. LEAVE ME ALONE.
+5159	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NO. I AM SORRY. NO.
+5160	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NOT THIS TIME PARTNER.
+5161	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SOME THINGS EVEN I CANNOT LET GO.
+5162	1	TelegramLines::.cctor<>		PEACE WITH A VAN DER LINDE DOG? COLM WOULD HANG ME. SO WOULD I.
+5163	1	TelegramLines::.cctor<>		FECK YOUR PEACE.
+5164	1	TelegramLines::.cctor<>		THE IRISH REMEMBER. FOR CENTURIES.
+5165	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YE WANT PEACE GO ASK THE ENGLISH HOW THAT WENT.
+5166	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NOT A CHANCE BOYO. SEE YE AT YER WAKE.
+5167	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COLM WOULD HAVE MY HIDE AND HE WOULD BE RIGHT. NO.
+5168	1	TelegramLines::.cctor<>		WE DID NOT SURRENDER IN SIXTY-FIVE. WE WILL NOT NOW.
+5169	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NO PEACE WITH CARPETBAGGERS. THE CAUSE LIVES.
+5170	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE SOUTH DOES NOT TREAT WITH TURNCOATS.
+5171	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NO TERMS. WE ARE NOT DONE FIGHTING. NOT FOR THIRTY YEARS NOW.
+5172	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU BROUGHT THE FIGHT TO US. YOU DO NOT GET TO END IT WITH PAPER.
+5173	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE HAVE SIGNED PAPERS BEFORE. THEY MEANT NOTHING. NO.
+5174	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE ARE EVERYWHERE. THERE IS NO PEACE FOR YOU.
+5175	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE ORDER DOES NOT FORGIVE. IT DOES NOT FORGET.
+5176	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MR BRONTE DOES NOT MAKE PEACE WITH DEBTORS. HE COLLECTS.
+5177	1	TelegramLines::.cctor<ValueTuple`2..ctor>		IN SAINT DENIS AN INSULT IS PAID IN FULL. NO.
+5178	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AINT NO PEACE IN THE HOLLER. NEVER WAS.
+5179	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE GONNA HAVE YOU YET.
+5180	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE DO NOT TRADE WORDS WITH MEAT.
+5181	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NO. WE ALREADY PICKED OUT A TREE FOR YOU.
+5182	1	TelegramLines::.cctor<>		TOOK GUTS TO WRITE THAT. I WILL GIVE YOU THAT.
+5183	1	TelegramLines::.cctor<>		APOLOGY NOTED. IT HELPS SOME.
+5184	1	TelegramLines::.cctor<>		DID NOT EXPECT THAT. ALRIGHT.
+5185	1	TelegramLines::.cctor<>		WORDS ARE CHEAP BUT THESE ONES I KEPT.
+5186	1	TelegramLines::.cctor<>		WELL. A MAN CAN CHANGE. MAYBE.
+5187	1	TelegramLines::.cctor<>		ACCEPTED STOP DO NOT MAKE ME SORRY I DID STOP
+5188	1	TelegramLines::.cctor<>		I READ IT THREE TIMES. ALRIGHT. IT IS ENOUGH.
+5189	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NOT MANY MEN SAY SORRY. I WILL REMEMBER THAT.
+5190	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FAIR ENOUGH. WE BOTH HAVE THINGS TO ANSWER FOR.
+5191	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ALRIGHT. LET IT COOL.
+5192	1	TelegramLines::.cctor<>		THANK YOU. I ACCEPT. PLEASE DO NOT COME BACK.
+5193	1	TelegramLines::.cctor<ValueTuple`2..ctor>		OH THANK THE LORD.
+5194	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YES. ACCEPTED. ALL OF IT. THANK YOU.
+5195	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I ACCEPT. I WAS SO AFRAID YOU WOULD COME.
+5196	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I ACCEPT. A MAN WHO OWNS HIS WRONGS IS WORTH SOMETHING.
+5197	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ACCEPTED. I WILL TELL MY PEOPLE YOU WROTE.
+5198	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WATER UNDER THE BRIDGE. MOSTLY.
+5199	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FORGIVEN. LIFE IS TOO SHORT AND THE ROAD TOO LONG.
+5200	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ACCEPTED. A FEW DOLLARS WOULD HAVE SAID IT BETTER.
+5201	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ACCEPTED. NOTHING MORE TO SAY.
+5202	1	TelegramLines::.cctor<>		SORRY DOES NOT BRING ANYTHING BACK.
+5203	1	TelegramLines::.cctor<>		KEEP YOUR SORRY.
+5204	1	TelegramLines::.cctor<>		TELL IT TO THE UNDERTAKER.
+5205	1	TelegramLines::.cctor<>		TOO LITTLE. TOO LATE.
+5206	1	TelegramLines::.cctor<>		SORRY STOP NOT YET YOU ARE NOT STOP
+5207	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WILL BE SORRIER.
+5208	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I DO NOT BELIEVE A WORD OF IT.
+5209	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SAVE IT FOR THE PREACHER.
+5210	1	TelegramLines::.cctor<>		AN APOLOGY BY WIRE. HOW BRAVE.
+5211	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WILL APOLOGISE IN PERSON. WITH YOUR HAT IN YOUR HAND.
+5212	1	TelegramLines::.cctor<ValueTuple`2..ctor>		A DOLLAR'S WORTH OF SORRY. I AM WORTH MORE.
+5213	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU SHAMED ME BEFORE A CROWD. SAY IT BEFORE ONE.
+5214	1	TelegramLines::.cctor<>		SORRY? YOU WILL BE.
+5215	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SHOVE IT.
+5216	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SORRY MY EYE.
+5217	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WRITE THAT AGAIN AND I COME OVER THERE.
+5218	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SAY SORRY TO THE ONES YOU HURT. NOT ME.
+5219	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SORRY? THAT IS WHAT DUTCH SAID TOO. LIAR.
+5220	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SORRY IS A WORD FOR CONFESSION. YE ARE NO PRIEST AND I AM NO FOOL.
+5221	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SHERMAN WAS SORRY TOO I EXPECT. NO.
+5222	1	TelegramLines::.cctor<ValueTuple`2..ctor>		A SOUTHERN MAN DOES NOT TAKE SORRY FROM YOUR SORT.
+5223	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SORRY IS A SMALL WORD FOR WHAT WAS DONE.
+5224	1	TelegramLines::.cctor<ValueTuple`2..ctor>		IN MY FAMILY SORRY IS SAID WITH MONEY.
+5225	1	TelegramLines::.cctor<>		I HEAR YOU. I WILL KEEP AWAY.
+5226	1	TelegramLines::.cctor<>		NO NEED FOR THAT. YOU WILL NOT SEE ME.
+5227	1	TelegramLines::.cctor<>		MESSAGE RECEIVED. LOUD AND CLEAR.
+5228	1	TelegramLines::.cctor<>		ALRIGHT. NO NEED FOR ALL THAT.
+5229	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU HAVE MADE YOUR POINT. I AM DONE.
+5230	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL STAY OUT OF YOUR WAY STOP
+5231	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TAKEN TO HEART. NO TROUBLE FROM ME.
+5232	1	TelegramLines::.cctor<>		I WANT NO MORE TROUBLE. I SWEAR IT.
+5233	1	TelegramLines::.cctor<>		PLEASE. I HAVE DONE NOTHING. LEAVE ME BE.
+5234	1	TelegramLines::.cctor<>		I AM LEAVING THE COUNTY. YOU WILL NOT SEE ME.
+5235	1	TelegramLines::.cctor<>		DO NOT HURT ME. I BEG YOU. STOP
+5236	1	TelegramLines::.cctor<>		I HAVE NOT LEFT MY ROOM SINCE YOUR WIRE CAME.
+5237	1	TelegramLines::.cctor<ValueTuple`2..ctor>		PLEASE STOP PLEASE STOP PLEASE STOP
+5238	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL DO ANYTHING. JUST DO NOT COME.
+5239	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MY HANDS ARE SHAKING AS I WRITE THIS. I AM SORRY. LEAVE ME BE.
+5240	1	TelegramLines::.cctor<>		UNDERSTOOD. NO PROFIT IN A GRAVE.
+5241	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FINE. I HAVE BETTER WAYS TO EARN THAN DYING.
+5242	1	TelegramLines::.cctor<ValueTuple`2..ctor>		UNDERSTOOD. NOT WORTH IT AT ANY PRICE.
+5243	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WIN. I HAVE MONEY TO SPEND AND I MEAN TO LIVE TO SPEND IT.
+5244	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TAKING THE NEXT TRAIN OUT. NO OFFENCE.
+5245	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ALREADY SADDLED. SO LONG.
+5246	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ALRIGHT ALRIGHT. JAYSUS. I HEAR YE.
+5247	1	TelegramLines::.cctor<ValueTuple`2..ctor>		EASY NOW. EASY. I WANT NO MORE OF IT. MOTHER OF GOD.
+5248	1	TelegramLines::.cctor<ValueTuple`2..ctor>		UNDERSTOOD. I WILL KEEP OFF YOUR ROAD.
+5249	1	TelegramLines::.cctor<ValueTuple`2..ctor>		UNDERSTOOD. I WILL ASK MR BRONTE FOR OTHER WORK.
+5250	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AINT COMIN NEAR YOU. SWEAR ON MAMMY.
+5251	2	TelegramLines::.cctor<> ; TelegramLines::.cctor<>		COME AND TRY IT.
+5252	1	TelegramLines::.cctor<>		BIG WORDS FROM A MAN WHO HIDES BEHIND A WIRE.
+5253	1	TelegramLines::.cctor<>		YOU KNOW WHERE I AM. I WILL BE WAITING.
+5254	1	TelegramLines::.cctor<>		THREATEN ME AGAIN AND I COME TO YOU.
+5255	1	TelegramLines::.cctor<>		I HAVE BURIED BETTER MEN THAN YOU.
+5256	1	TelegramLines::.cctor<>		A WIRE IS A POOR SUBSTITUTE FOR A GUN. BRING THE GUN.
+5257	1	TelegramLines::.cctor<>		I AM NOT AFRAID OF YOU. COME FIND OUT.
+5258	1	TelegramLines::.cctor<ValueTuple`2..ctor>		PROMISES PROMISES.
+5259	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU HAD BETTER MEAN EVERY WORD.
+5260	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL KEEP THIS WIRE. FOR THE INQUEST.
+5261	1	TelegramLines::.cctor<>		YOU AND WHAT ARMY.
+5262	1	TelegramLines::.cctor<>		I WILL PUT YOU IN THE GROUND MYSELF STOP SOON STOP
+5263	1	TelegramLines::.cctor<>		SAY IT TO MY FACE COWARD.
+5264	1	TelegramLines::.cctor<>		WHY WAIT. NAME THE PLACE.
+5265	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I BROKE THE CLERK'S PENCIL READING IT. YOU ARE NEXT.
+5266	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THREATEN ME? I WILL CUT YOUR HEART OUT.
+5267	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COME ON THEN COME ON.
+5268	1	TelegramLines::.cctor<>		A COWARD'S THREAT. PAID FOR BY THE WORD.
+5269	1	TelegramLines::.cctor<>		NOBODY THREATENS ME. NOBODY.
+5270	1	TelegramLines::.cctor<>		I WILL FRAME YOUR TELEGRAM. AND YOUR HEAD.
+5271	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MEN HAVE TRIED TO FRIGHTEN ME BEFORE. THEY ARE ALL DEAD.
+5272	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I SHOWED YOUR WIRE AROUND THE SALOON. THEY LAUGHED.
+5273	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU DARE.
+5274	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THREATEN ME AND YOU THREATEN ALL OF US. REMEMBER THAT.
+5275	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MY FRIENDS HAVE READ YOUR WIRE. THEY ARE NOT AMUSED.
+5276	1	TelegramLines::.cctor<>		YE WANT A FIGHT? THE BOYS AND ME WILL BRING IT.
+5277	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COME AHEAD THEN. COLM SENDS HIS REGARDS.
+5278	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THREATS FROM DUTCH'S LAPDOG. I AM SHAKING SO I AM.
+5279	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COME UP INTO THE HILLS AND SAY THAT. WE WILL BE WAITING.
+5280	1	TelegramLines::.cctor<>		WE FACED UNION CANNON. YOU ARE NOTHING.
+5281	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE STOOD AT SHILOH. YOU DO NOT FRIGHTEN US.
+5282	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THREATS ARE FOR YANKEE NEWSPAPERS. COME AND FIGHT.
+5283	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE HAVE BEEN THREATENED BY GENERALS. YOU ARE NOT ONE.
+5284	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE DO NOT RUN FROM WORDS.
+5285	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE KNOW WHERE YOU SLEEP.
+5286	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE ORDER HAS A LONG ARM AND A LONGER ROPE.
+5287	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU THREATEN A MAN UNDER MR BRONTE'S PROTECTION. BAD BUSINESS.
+5288	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SAINT DENIS HAS A RIVER. MEN GO IN IT.
+5289	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COME ON DOWN THE HOLLER. WE BEEN WAITING.
+5290	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE GOT A PLACE FOR YOU IN THE CELLAR.
+5291	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COME UP IN THE TREES. WE WILL SKIN YOU SLOW.
+5292	1	TelegramLines::.cctor<ValueTuple`2..ctor>		BIG TALK FROM A HIDE NOT YET TANNED.
+5293	1	TelegramLines::.cctor<>		I WILL REMEMBER YOU SAID THAT.
+5294	1	TelegramLines::.cctor<>		IS THAT ALL.
+5295	1	TelegramLines::.cctor<ValueTuple`2..ctor>		UNDERSTOOD. WE WILL SEE.
+5296	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOUR CONCERN IS NOTED.
+5297	1	TelegramLines::.cctor<>		NOTED. FILED. NOT FORGOTTEN.
+5298	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU ARE WASTING A DOLLAR A WORD.
+5299	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ADDED TO YOUR ACCOUNT.
+5300	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I DO NOT FRIGHTEN. CARRY ON.
+5301	1	TelegramLines::.cctor<>		LEAVE THEM OUT OF THIS. PLEASE. I WILL DO WHAT YOU WANT.
+5302	1	TelegramLines::.cctor<>		NOT MY FAMILY. I BEG YOU. I WILL STAY AWAY.
+5303	1	TelegramLines::.cctor<>		THEY HAVE DONE NOTHING. TAKE IT OUT ON ME. NOT THEM.
+5304	1	TelegramLines::.cctor<>		ALRIGHT. YOU WIN. JUST STAY AWAY FROM MY HOUSE.
+5305	1	TelegramLines::.cctor<>		PLEASE. THEY ARE ALL I HAVE.
+5306	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL NEVER CROSS YOU AGAIN. JUST LEAVE MY HOUSE BE.
+5307	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WHATEVER YOU WANT. NOT THEM. NOT THEM.
+5308	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I HAVE SENT THEM AWAY. I BEG YOU DO NOT FOLLOW.
+5309	1	TelegramLines::.cctor<>		PLEASE GOD NO. I WILL LEAVE. I WILL LEAVE TONIGHT.
+5310	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I AM BEGGING YOU. ON MY CHILDREN.
+5311	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WEPT READING IT. PLEASE. I WILL GO ANYWHERE.
+5312	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL DO ANYTHING STOP ANYTHING STOP
+5313	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NAME A PRICE. JUST LEAVE THEM BE.
+5314	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL PAY. WHATEVER YOU ASK. KEEP AWAY FROM THEM.
+5315	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WIN. FOR THEIR SAKE ONLY.
+5316	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THEY DO NOT EVEN KNOW WHERE I AM. LEAVE THEM BE.
+5317	1	TelegramLines::.cctor<>		YOU JUST SIGNED YOUR DEATH WARRANT.
+5318	1	TelegramLines::.cctor<>		GO NEAR THEM AND I WILL NOT STOP UNTIL YOU ARE DEAD.
+5319	1	TelegramLines::.cctor<>		NOW IT IS PERSONAL. NOW IT IS FOREVER.
+5320	1	TelegramLines::.cctor<>		THERE IS NOWHERE YOU CAN HIDE NOW.
+5321	1	TelegramLines::.cctor<>		A MAN WHO THREATENS CHILDREN IS NO MAN. I WILL END YOU.
+5322	1	TelegramLines::.cctor<>		YOU CROSSED A LINE NO MAN COMES BACK FROM.
+5323	1	TelegramLines::.cctor<>		I WILL HUNT YOU TO THE ENDS OF THE EARTH.
+5324	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SAY THEIR NAMES AGAIN AND I WILL KILL YOU WHERE YOU STAND.
+5325	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THAT WAS THE LAST MISTAKE YOU WILL EVER MAKE.
+5326	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WILL NOT LIVE TO SEE THE YEAR OUT.
+5327	1	TelegramLines::.cctor<>		MY KIN ARE ALL I HAVE. YOU HAVE MADE AN ENEMY FOR LIFE.
+5328	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TOUCH ONE HAIR. ONE.
+5329	1	TelegramLines::.cctor<ValueTuple`2..ctor>		EVERY FRIEND I HAVE WILL KNOW WHAT YOU WROTE.
+5330	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL STAND AT THEIR DOOR NIGHT AND DAY. AND THEN I WILL COME FOR YOU.
+5331	1	TelegramLines::.cctor<>		I AM COMING FOR YOU. RIGHT NOW. STOP
+5332	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU ARE DEAD. YOU HEAR ME. DEAD.
+5333	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL TEAR YOU APART WITH MY HANDS.
+5334	1	TelegramLines::.cctor<ValueTuple`2..ctor>		DEAD DEAD DEAD STOP
+5335	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU HAVE NO HONOUR. I WILL TEACH YOU SOME BEFORE YOU DIE.
+5336	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ONLY THE LOWEST DOG GOES AFTER A MAN'S FAMILY.
+5337	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU HAVE CHOSEN HOW YOU DIE.
+5338	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THREATEN AN IRISHMAN'S MOTHER. YE ARE A DEAD MAN WALKING.
+5339	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MY MAM WILL SAY A ROSARY FOR YE. YE WILL NEED IT.
+5340	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YANKEE SAVAGERY. LIKE THEY BURNED OUR HOMES. NEVER AGAIN.
+5341	1	TelegramLines::.cctor<ValueTuple`2..ctor>		A SOUTHERN MAN DEFENDS HIS HEARTH. YOU WILL LEARN THAT.
+5342	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE SOLDIERS SAID THE SAME TO MY FATHER. YOU WILL NOT FIND US WEAK.
+5343	1	TelegramLines::.cctor<ValueTuple`2..ctor>		OUR CHILDREN ARE OUR FUTURE. YOU WILL NOT COME NEAR THEM.
+5344	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FAMILY IS SACRED. YOU HAVE INSULTED MINE. NOW YOU PAY.
+5345	1	TelegramLines::.cctor<>		PLEASE DO NOT. I WILL LEAVE TOWN.
+5346	1	TelegramLines::.cctor<>		I AM ALREADY GONE.
+5347	1	TelegramLines::.cctor<>		DO NOT COME. I BEG YOU.
+5348	1	TelegramLines::.cctor<>		BY THE TIME YOU GET HERE I WILL BE IN MEXICO.
+5349	1	TelegramLines::.cctor<>		THERE IS NOTHING HERE FOR YOU. I AM LEAVING.
+5350	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TURN BACK. PLEASE. I WILL NOT TROUBLE YOU.
+5351	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I HAVE PACKED MY BAG STOP
+5352	1	TelegramLines::.cctor<ValueTuple`2..ctor>		PLEASE DO NOT COME STOP
+5353	1	TelegramLines::.cctor<>		NO NO NO. PLEASE. I AM NOBODY.
+5354	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I HAVE BOUGHT A TICKET. YOU WILL NOT FIND ME.
+5355	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL HIDE. I WILL HIDE WHERE YOU NEVER LOOK.
+5356	1	TelegramLines::.cctor<ValueTuple`2..ctor>		LORD HAVE MERCY. PLEASE.
+5357	1	TelegramLines::.cctor<>		GOOD. SAVES ME LOOKING.
+5358	2	TelegramLines::.cctor<> ; TelegramLines::.cctor<>		I WILL BE WAITING.
+5359	1	TelegramLines::.cctor<>		DOOR IS OPEN. COFFEE IS ON. GUN IS LOADED.
+5360	1	TelegramLines::.cctor<>		BRING A SHOVEL. FOR YOURSELF.
+5361	1	TelegramLines::.cctor<>		COME ALONE IF YOU HAVE THE NERVE.
+5362	1	TelegramLines::.cctor<>		I WILL KEEP A CHAIR FOR YOU. AND A BOX.
+5363	1	TelegramLines::.cctor<>		COME SOON. I GROW TIRED OF WAITING.
+5364	1	TelegramLines::.cctor<>		THE UNDERTAKER IS OUT OF PINE. HURRY BEFORE HE RESTOCKS.
+5365	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL MEET YOU IN THE STREET AT NOON.
+5366	1	TelegramLines::.cctor<ValueTuple`2..ctor>		HERE I AM.
+5367	1	TelegramLines::.cctor<ValueTuple`2..ctor>		CLEANED MY GUN. COME AHEAD.
+5368	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I HAVE BEEN EXPECTING YOU.
+5369	1	TelegramLines::.cctor<ValueTuple`2..ctor>		VERY WELL.
+5370	1	TelegramLines::.cctor<ValueTuple`2..ctor>		GOOD. LET US FINISH IT.
+5371	1	TelegramLines::.cctor<>		WHY WAIT? I AM COMING TO YOU.
+5372	1	TelegramLines::.cctor<ValueTuple`2..ctor>		HURRY UP THEN.
+5373	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL MEET YOU HALFWAY.
+5374	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COME ON. COME ON.
+5375	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL WEAR MY GOOD COAT FOR YOUR FUNERAL.
+5376	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COME. THE WHOLE TOWN WILL WATCH YOU FALL.
+5377	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MY FRIENDS WILL BE WAITING TOO.
+5378	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THERE IS A PRICE ON YOU. I WILL COLLECT.
+5379	1	TelegramLines::.cctor<>		THE BOYS ARE LOOKING FORWARD TO IT.
+5380	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COME AHEAD. WE WILL HAVE A WAKE AFTER. YOURS.
+5381	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE WILL HAVE THE WHISKEY READY. FOR AFTER.
+5382	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COME UP TO US BOYO. NOBODY COMES BACK DOWN.
+5383	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE WILL HOLD THE LINE. BRING WHAT YOU HAVE.
+5384	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE HAVE DUG IN BEFORE. WE WILL AGAIN.
+5385	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE WILL BE READY.
+5386	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COME ON DOWN. WE BEEN SHARPENIN.
+5387	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE WILL HEAR YOU COMING A MILE OFF.
+5388	1	TelegramLines::.cctor<>		LAUGH WHILE YOU CAN.
+5389	1	TelegramLines::.cctor<>		YOU WILL EAT THOSE WORDS. AND YOUR TEETH.
+5390	1	TelegramLines::.cctor<>		EVERY WORD OF THIS I WILL PAY BACK IN LEAD.
+5391	1	TelegramLines::.cctor<>		KEEP TALKING. IT ONLY MAKES IT SWEETER.
+5392	1	TelegramLines::.cctor<>		FUNNY MAN. I KNOW A FUNNY END FOR YOU.
+5393	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WILL NOT BE LAUGHING LONG.
+5394	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I READ IT ALOUD. NOBODY LAUGHED.
+5395	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOUR JOKE COST YOU MORE THAN A DOLLAR.
+5396	1	TelegramLines::.cctor<>		NOBODY MOCKS ME. NOBODY.
+5397	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL MAKE YOU CRAWL FOR THIS ONE.
+5398	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WILL BEG MY PARDON IN THE MUD.
+5399	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU HAVE MADE A FOOL OF YOURSELF. NOT ME.
+5400	1	TelegramLines::.cctor<>		I WILL KILL YOU. I WILL KILL YOU. I WILL KILL YOU.
+5401	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SAY THAT TO MY FACE.
+5402	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I PUT MY FIST THROUGH THE WINDOW READING IT.
+5403	1	TelegramLines::.cctor<ValueTuple`2..ctor>		LAUGH NOW. SCREAM LATER.
+5404	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YE THINK YER FUNNY. VAN DER LINDE BOYS ALWAYS DO. UNTIL THEY DO NOT.
+5405	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AN IRISHMAN NEVER FORGETS AN INSULT. NEVER.
+5406	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MOCK A SOUTHERN MAN AT YOUR PERIL.
+5407	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU MAKE JOKES. I MAKE ARRANGEMENTS.
+5408	1	TelegramLines::.cctor<>		A WHOLE DOLLAR FOR THAT. YOU MUST BE BORED.
+5409	1	TelegramLines::.cctor<>		IS THAT THE BEST YOU HAVE.
+5410	1	TelegramLines::.cctor<>		NOTED. YAWN.
+5411	1	TelegramLines::.cctor<>		WASTE OF A TELEGRAM.
+5412	1	TelegramLines::.cctor<>		THE CLERK LAUGHED. I DID NOT.
+5413	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TRY HARDER.
+5414	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MY MOTHER INSULTS ME BETTER.
+5415	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU NEED A HOBBY.
+5416	1	TelegramLines::.cctor<ValueTuple`2..ctor>		HA. GOOD ONE.
+5417	1	TelegramLines::.cctor<ValueTuple`2..ctor>		HA. I WILL TELL THAT ONE IN THE NEXT TOWN.
+5418	1	TelegramLines::.cctor<ValueTuple`2..ctor>		PLEASE JUST LEAVE ME ALONE.
+5419	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I DO NOT WANT ANY TROUBLE. PLEASE.
+5420	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU PAID GOOD MONEY TO SAY THAT. FOOL.
+5421	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WORDS. NOTHING MORE.
+5422	1	TelegramLines::.cctor<>		GOT IT. DOES NOT SQUARE US.
+5423	1	TelegramLines::.cctor<>		RECEIVED. SOMEWHAT SOFTER ON YOU.
+5424	1	TelegramLines::.cctor<>		MONEY TALKS. I AM LISTENING.
+5425	1	TelegramLines::.cctor<>		TEN DOLLARS. A START.
+5426	1	TelegramLines::.cctor<>		RECEIVED STOP NOT FORGOTTEN STOP
+5427	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE MONEY CAME. I WILL THINK BETTER OF YOU. A LITTLE.
+5428	1	TelegramLines::.cctor<ValueTuple`2..ctor>		CASHED IT. WE WILL SEE.
+5429	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SURPRISING. ALRIGHT.
+5430	1	TelegramLines::.cctor<>		RECEIVED WITH THANKS. MORE WOULD NOT HURT.
+5431	1	TelegramLines::.cctor<>		NOW WE ARE TALKING. KEEP IT COMING.
+5432	1	TelegramLines::.cctor<>		TEN? MAKE IT FIFTY AND WE ARE FRIENDS.
+5433	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AH. NOW YOU ARE A MAN AFTER MY OWN HEART.
+5434	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SPENT IT ALREADY. SEND MORE.
+5435	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MONEY HEALS MOST WOUNDS. KEEP SENDING.
+5436	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WELL NOW. DRINKS ARE ON YOU THEN.
+5437	1	TelegramLines::.cctor<ValueTuple`2..ctor>		OBLIGED. THAT IS A WEEK OF BEANS.
+5438	2	TelegramLines::.cctor<ValueTuple`2..ctor> ; TelegramLines::.cctor<ValueTuple`2..ctor>		THANK YOU. TRULY. I WANT NO TROUBLE.
+5439	1	TelegramLines::.cctor<ValueTuple`2..ctor>		BLESS YOU. I WILL NOT FORGET IT.
+5440	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WILL SHARE IT WITH MY PEOPLE. THAT IS ALL.
+5441	1	TelegramLines::.cctor<ValueTuple`2..ctor>		RECEIVED. IT CHANGES LITTLE.
+5442	1	TelegramLines::.cctor<ValueTuple`2..ctor>		KEPT IT. STILL MAD.
+5443	1	TelegramLines::.cctor<>		KEEP YOUR MONEY. I AM NOT FOR SALE.
+5444	1	TelegramLines::.cctor<>		BLOOD MONEY. SENT IT BACK.
+5445	1	TelegramLines::.cctor<>		YOU CANNOT BUY ME.
+5446	1	TelegramLines::.cctor<ValueTuple`2..ctor>		RETURNED. SPEND IT ON YOUR FUNERAL.
+5447	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NOT ONE CENT OF YOURS WILL I KEEP.
+5448	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SENT BACK UNOPENED. NEARLY.
+5449	1	TelegramLines::.cctor<>		I DO NOT TAKE ALMS FROM THE LIKES OF YOU.
+5450	1	TelegramLines::.cctor<>		AN INSULT. RETURNED IN FULL.
+5451	1	TelegramLines::.cctor<>		DO YOU THINK ME A BEGGAR.
+5452	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TEN DOLLARS FOR MY HONOUR. YOU INSULT US BOTH.
+5453	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I AM A MAN OF STANDING. NOT A STREET URCHIN.
+5454	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TAKE YOUR CHARITY BACK. AND CHOKE ON IT.
+5455	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MY PEOPLE ARE NOT FOR SALE AND NEITHER AM I.
+5456	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THEY WOULD CALL ME BOUGHT. SENT BACK.
+5457	1	TelegramLines::.cctor<>		TWENTY-FIVE DOLLARS BUYS A LOT OF FORGETTING. DONE.
+5458	1	TelegramLines::.cctor<>		A FAIR PRICE. WE ARE CLOSER TO SQUARE.
+5459	1	TelegramLines::.cctor<>		DEAL. DO NOT MAKE ME REGRET IT.
+5460	1	TelegramLines::.cctor<ValueTuple`2..ctor>		RECEIVED STOP WE ARE NEARLY EVEN STOP
+5461	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE MONEY DOES SOME TALKING. ALRIGHT.
+5462	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TAKEN. I WILL LET IT REST.
+5463	1	TelegramLines::.cctor<>		NOW THAT IS AN APOLOGY. ALL IS FORGIVEN. NEARLY.
+5464	1	TelegramLines::.cctor<>		PLEASURE DOING BUSINESS. WRITE ANY TIME.
+5465	1	TelegramLines::.cctor<>		YOU SPEAK MY LANGUAGE FRIEND.
+5466	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TWENTY-FIVE. HANDSOME. WE ARE FRIENDS NOW.
+5467	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MONEY ON THE BARREL HEAD. THE BEST KIND OF PEACE.
+5468	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SQUARE. IF YOU WANT TO BE SQUARER YOU KNOW HOW.
+5469	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YES. THANK YOU. WE ARE DONE. WE ARE DONE.
+5470	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THANK YOU. I DID NOT EVEN NEED IT. I WANTED IT OVER.
+5471	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THAT BUYS A HORSE AND A LONG ROAD. DONE.
+5472	1	TelegramLines::.cctor<>		NOT ENOUGH MONEY IN THE WORLD.
+5473	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SENT IT BACK. I WANT YOU NOT YOUR CASH.
+5474	1	TelegramLines::.cctor<ValueTuple`2..ctor>		KEEP IT. BUY A COFFIN.
+5475	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MONEY DOES NOT SETTLE THIS.
+5476	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU THINK MY HONOUR HAS A PRICE. IT DOES NOT.
+5477	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TWENTY-FIVE DOLLARS. IS THAT WHAT YOU THINK I AM WORTH.
+5478	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THEY WOULD CALL ME JUDAS. KEEP YOUR SILVER.
+5479	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I DO NOT SELL OUT MY FRIENDS FOR ANY PRICE.
+5480	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL SHOVE IT DOWN YOUR THROAT.
+5481	1	TelegramLines::.cctor<ValueTuple`2..ctor>		STICK YOUR MONEY. I WANT BLOOD.
+5482	1	TelegramLines::.cctor<ValueTuple`2..ctor>		INSUFFICIENT. AND IRRELEVANT.
+5483	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NOT ENOUGH. NOT NEAR ENOUGH.
+5484	1	TelegramLines::.cctor<>		{BOSS} RIDES OUT OF {CAMP}. YOU DID NOT HEAR IT FROM ME.
+5485	1	TelegramLines::.cctor<>		{CAMP}. THAT IS WHERE {BOSS} SLEEPS. LEAVE ME OUT OF IT.
+5486	1	TelegramLines::.cctor<>		TRY {CAMP}. {BOSS} IS THERE MOST NIGHTS. BURN THIS WIRE.
+5487	1	TelegramLines::.cctor<>		{BOSS} - {CAMP}. NOW WE ARE SQUARE.
+5488	1	TelegramLines::.cctor<>		LOOK FOR {BOSS} AT {CAMP}. AND FORGET MY NAME.
+5489	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{CAMP} STOP {BOSS} STOP NOTHING MORE STOP
+5490	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} KEEPS HIS FIRE AT {CAMP}. I NEVER SAID IT.
+5491	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WANT {BOSS}. {CAMP}. DO NOT WRITE AGAIN.
+5492	1	TelegramLines::.cctor<>		FOR A FRIEND OF MY POCKET - {BOSS} IS AT {CAMP}.
+5493	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{CAMP}. THAT ONE IS FREE. THE NEXT ONE COSTS.
+5494	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} OWES ME WAGES ANYHOW. {CAMP}.
+5495	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{CAMP}. IF THERE IS A REWARD I WANT MY CUT.
+5496	1	TelegramLines::.cctor<>		{CAMP}. PLEASE. HE CANNOT KNOW IT WAS ME.
+5497	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} IS AT {CAMP}. I AM LEAVING THE STATE.
+5498	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{CAMP}. NOW PLEASE LEAVE ME OUT OF IT.
+5499	1	TelegramLines::.cctor<ValueTuple`2..ctor>		HE IS AT {CAMP}. GOD FORGIVE ME.
+5500	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} - {CAMP}. I WAS MOVING ON ANYHOW.
+5501	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} PASSED ME OVER ONCE TOO OFTEN. {CAMP}.
+5502	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} HOLDS {CAMP}. IF COLM FINDS OUT I AM A DEAD MAN. BURN THIS.
+5503	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{CAMP}. MAY THE SAINTS FORGIVE ME. {BOSS} WILL NOT.
+5504	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} HAS HIS HEADQUARTERS AT {CAMP}. I AM DONE WITH THE CAUSE.
+5505	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} DOES HIS BUSINESS FROM {CAMP}. IF THE FAMILY ASKS I AM IN CHICAGO.
+5506	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} HOLED UP AT {CAMP}. DONT TELL MAMMY.
+5507	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} CAMPS AT {CAMP}. HOPE HE SKINS YOU FIRST.
+5508	1	TelegramLines::.cctor<>		I AM NO RAT.
+5509	1	TelegramLines::.cctor<>		NICE TRY.
+5510	1	TelegramLines::.cctor<>		ASK HIM YOURSELF. IF YOU CAN FIND HIM.
+5511	1	TelegramLines::.cctor<>		YOU MUST THINK ME A FOOL.
+5512	1	TelegramLines::.cctor<>		I DO NOT KNOW AND I WOULD NOT SAY.
+5513	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FIND HIM YOURSELF.
+5514	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THAT IS NOT FOR SALE.
+5515	1	TelegramLines::.cctor<ValueTuple`2..ctor>		A RAT DOES NOT LIVE LONG. NEITHER WILL YOU.
+5516	1	TelegramLines::.cctor<>		I WOULD DIE FIRST.
+5517	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} TAKES CARE OF HIS OWN. I DO NOT SELL HIM.
+5518	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NEVER. NOT FOR ALL THE GOLD IN THE WEST.
+5519	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} IS FAMILY. NO.
+5520	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU INSULT ME BY ASKING.
+5521	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I AM NO STOOL PIGEON.
+5522	1	TelegramLines::.cctor<ValueTuple`2..ctor>		GO TO HELL. AND TAKE YOUR QUESTIONS.
+5523	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ASK AGAIN AND I WILL TELL {BOSS} YOU ASKED.
+5524	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NOTHING TO SAY TO YOU ON THAT.
+5525	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I CANNOT. HE WOULD KILL ME. I AM SORRY.
+5526	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU HAVE NOT OFFERED ENOUGH FOR THAT.
+5527	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AN O'DRISCOLL DOES NOT SQUEAL. NOT TO DUTCH'S LOT.
+5528	1	TelegramLines::.cctor<ValueTuple`2..ctor>		COLM HANGS RATS. I SEEN IT. NO.
+5529	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE DID NOT GIVE UP OUR OFFICERS TO THE BLUECOATS. NOT TO YOU EITHER.
+5530	1	TelegramLines::.cctor<ValueTuple`2..ctor>		A SOLDIER DOES NOT BETRAY HIS COMMANDER.
+5531	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WILL NOT LEARN THAT FROM ME.
+5532	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I DO NOT BETRAY MY PEOPLE.
+5533	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE ORDER KEEPS ITS SECRETS. AND ITS OATHS.
+5534	1	TelegramLines::.cctor<ValueTuple`2..ctor>		IN MY FAMILY WE DO NOT TALK. EVER.
+5535	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AINT TELLIN YOU NOTHIN.
+5536	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FIND HIM IN THE TREES. HE WILL FIND YOU FIRST.
+5537	1	TelegramLines::.cctor<>		...HOW DO YOU KNOW THAT.
+5538	1	TelegramLines::.cctor<>		I HAD MY DOUBTS ABOUT {BOSS}. NOW I HAVE MORE.
+5539	1	TelegramLines::.cctor<>		IF THAT IS TRUE {BOSS} WILL ANSWER FOR IT.
+5540	1	TelegramLines::.cctor<>		I WILL BE WATCHING HIM. DO NOT WRITE AGAIN.
+5541	1	TelegramLines::.cctor<>		THAT EXPLAINS A GREAT DEAL.
+5542	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I ALWAYS WONDERED WHERE THE SHARES WENT.
+5543	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} HAS BEEN ACTING STRANGE. NOW I KNOW WHY.
+5544	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WHO TOLD YOU THIS. NO MATTER. I BELIEVE IT.
+5545	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WHAT IS HE TAKING. HOW MUCH. I KNEW IT.
+5546	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SKIMMING OFF MY SHARE. HE WILL PAY IT BACK DOUBLE.
+5547	1	TelegramLines::.cctor<ValueTuple`2..ctor>		PASSED OVER. I KNEW IT. {BOSS} WILL REGRET IT.
+5548	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} THINKS HE IS BETTER THAN ME. WE WILL SEE.
+5549	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL GUT HIM IF IT IS TRUE.
+5550	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL HAVE IT OUT WITH HIM TONIGHT.
+5551	1	TelegramLines::.cctor<ValueTuple`2..ctor>		OH GOD. WHAT DO I DO NOW.
+5552	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TIME I MOVED ON THEN.
+5553	1	TelegramLines::.cctor<>		NICE TRY. {BOSS} IS STRAIGHT.
+5554	1	TelegramLines::.cctor<>		YOU WANT US AT EACH OTHER'S THROATS. NO.
+5555	1	TelegramLines::.cctor<>		LIES. I KNOW WHAT YOU ARE DOING.
+5556	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{BOSS} WILL LAUGH WHEN I SHOW HIM THIS.
+5557	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU MUST BE DESPERATE.
+5558	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I KNOW A SNAKE WHEN I READ ONE.
+5559	1	TelegramLines::.cctor<>		{BOSS} PULLED ME OUT OF THE GUTTER. I WOULD TRUST HIM WITH MY LIFE.
+5560	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE STAND TOGETHER. YOUR WIRE CHANGES NOTHING.
+5561	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I HAVE RIDDEN WITH {BOSS} FOR YEARS. YOU ARE A LIAR.
+5562	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SHOWED {BOSS} YOUR WIRE. HE SENDS HIS REGARDS.
+5563	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TRANSPARENT. TRY HARDER.
+5564	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU LYING DOG.
+5565	1	TelegramLines::.cctor<ValueTuple`2..ctor>		DUTCH TRIED THAT TRICK ON COLM. DID NOT WORK THEN EITHER.
+5566	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TURN AN IRISHMAN ON HIS OWN? YE DO NOT KNOW US.
+5567	1	TelegramLines::.cctor<ValueTuple`2..ctor>		BROTHERS IN ARMS DO NOT TURN ON EACH OTHER.
+5568	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE FAMILY HAS NO TRAITORS. ONLY CORPSES.
+5569	1	TelegramLines::.cctor<>		YOU WROTE TO GLOAT. I WILL SEE YOU IN HELL.
+5570	1	TelegramLines::.cctor<>		{KIN}. YOU SAY HIS NAME AGAIN AND I CUT OUT YOUR TONGUE.
+5571	1	TelegramLines::.cctor<>		I BURIED MY {REL}. SOON I BURY YOU NEXT TO HIM.
+5572	1	TelegramLines::.cctor<>		EVERY NIGHT I SEE HIM. EVERY NIGHT I SEE YOU DYING.
+5573	1	TelegramLines::.cctor<>		NOTHING YOU WRITE WILL MAKE IT QUICK.
+5574	1	TelegramLines::.cctor<>		{KIN} DESERVED BETTER. YOU DESERVE WORSE. YOU WILL GET IT.
+5575	1	TelegramLines::.cctor<>		YOU KILLED MY {REL} AND NOW YOU MOCK HIM. YOU ARE DEAD.
+5576	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I CARVED YOUR NAME ON A BULLET THE DAY WE BURIED {KIN}.
+5577	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I SWORE OVER HIS GRAVE. I KEEP MY OATHS.
+5578	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE LAST THING YOU HEAR WILL BE HIS NAME.
+5579	1	TelegramLines::.cctor<>		HE WAS WORTH TEN OF YOU. I WILL AVENGE HIM.
+5580	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FAMILY IS EVERYTHING. YOU TOOK MINE.
+5581	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{KIN} WOULD HAVE DONE THE SAME FOR ME. I AM COMING.
+5582	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE ALL SWORE ON {KIN}. ALL OF US.
+5583	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I AM COMING. I AM COMING. I AM COMING.
+5584	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU FILTHY DOG. I WILL GUT YOU.
+5585	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WILL NOT DISHONOUR HIS MEMORY AND LIVE.
+5586	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{KIN} IS ON YOUR ACCOUNT. IT WILL BE SETTLED.
+5587	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE IRISH BURY THEIR DEAD AND THEN THEY GET EVEN.
+5588	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE WAKED {KIN} FOR THREE DAYS. YOU WILL NOT GET ONE.
+5589	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{KIN} SURVIVED THE WAR TO BE KILLED BY YOU. I WILL NOT REST.
+5590	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU KILLED FAMILY. IN SAINT DENIS THAT MEANS ONE THING.
+5591	1	TelegramLines::.cctor<>		WHY WOULD YOU WRITE THAT. WHY.
+5592	1	TelegramLines::.cctor<>		HE HAD A FAMILY. DID YOU KNOW THAT.
+5593	1	TelegramLines::.cctor<>		LEAVE ME TO GRIEVE. PLEASE.
+5594	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I HAVE NOTHING LEFT. WHAT MORE DO YOU WANT.
+5595	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MY {REL} IS IN THE GROUND. IS THAT NOT ENOUGH.
+5596	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I STILL SET A PLACE FOR HIM. LEAVE ME BE.
+5597	1	TelegramLines::.cctor<>		PLEASE. AM I NEXT. PLEASE DO NOT.
+5598	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL NOT COME FOR YOU. I SWEAR. JUST STOP.
+5599	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I CANNOT STOP SHAKING. PLEASE NO MORE.
+5600	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I AM NOT LIKE {KIN}. PLEASE.
+5601	1	TelegramLines::.cctor<ValueTuple`2..ctor>		HE KNEW WHAT LIFE HE CHOSE. SO DO I. LEAVE IT.
+5602	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE ALL END UP IN THE DIRT. HE GOT THERE FIRST. LEAVE IT.
+5603	1	TelegramLines::.cctor<>		GOOD TO HEAR FROM YOU FRIEND. COME BY WHEN YOU ARE NEAR.
+5604	1	TelegramLines::.cctor<>		THANK YOU. YOU ARE A GOOD SORT WHATEVER THEY SAY.
+5605	1	TelegramLines::.cctor<>		WARMED MY HEART. DOOR IS ALWAYS OPEN.
+5606	1	TelegramLines::.cctor<>		WELL I NEVER. A TELEGRAM. FIRST ONE IN YEARS. THANK YOU.
+5607	1	TelegramLines::.cctor<>		KIND OF YOU TO THINK OF ME. STAY SAFE.
+5608	1	TelegramLines::.cctor<>		YOU MADE MY WEEK. THERE IS A PLATE FOR YOU HERE ANY NIGHT.
+5609	1	TelegramLines::.cctor<>		SHOWED YOUR WIRE TO EVERYBODY. THEY ALL SEND REGARDS BACK.
+5610	1	TelegramLines::.cctor<ValueTuple`2..ctor>		GOD KEEP YOU ON THE ROAD FRIEND.
+5611	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WHAT A THING TO GET ON A TUESDAY. THANK YOU KINDLY.
+5612	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SAME TO YOU AND MORE. COME SEE US SOON.
+5613	1	TelegramLines::.cctor<>		SAME TO YOU. I SUPPOSE.
+5614	1	TelegramLines::.cctor<>		DID NOT EXPECT THAT. ALRIGHT. LOOK AFTER YOURSELF TOO.
+5615	1	TelegramLines::.cctor<>		KIND WORDS. I WILL TAKE THEM.
+5616	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FUNNY OLD WORLD. THANK YOU STOP
+5617	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NO HARD FEELINGS THEN. MOSTLY.
+5618	1	TelegramLines::.cctor<ValueTuple`2..ctor>		READ IT THREE TIMES. STILL DO NOT KNOW WHAT TO MAKE OF YOU. THANKS.
+5619	1	TelegramLines::.cctor<ValueTuple`2..ctor>		BLESS YOU FOR WRITING. I SLEPT BETTER.
+5620	1	TelegramLines::.cctor<ValueTuple`2..ctor>		DECENT OF YOU. I WILL REMEMBER IT.
+5621	1	TelegramLines::.cctor<ValueTuple`2..ctor>		A MAN WHO WRITES THAT IS NOT ALL BAD. THANKS.
+5622	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AND YOU. ROAD IS LONG. KEEP YOUR HEAD DOWN.
+5623	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SURE. NO HARD FEELINGS. WELL. FEWER.
+5624	1	TelegramLines::.cctor<>		WORDS ARE CHEAP.
+5625	1	TelegramLines::.cctor<>		I DO NOT WANT YOUR WELL WISHES.
+5626	1	TelegramLines::.cctor<ValueTuple`2..ctor>		RECEIVED. CHANGES NOTHING.
+5627	1	TelegramLines::.cctor<ValueTuple`2..ctor>		KEEP YOUR KINDNESS. I KEEP MY GRUDGE.
+5628	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NICE WORDS FROM A MAN LIKE YOU. NO.
+5629	1	TelegramLines::.cctor<>		GETTING SOFT ARE WE.
+5630	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU WRITE LIKE A MAN WHO IS AFRAID.
+5631	1	TelegramLines::.cctor<ValueTuple`2..ctor>		LOOK AFTER MYSELF. HA. LOOK AFTER YOURSELF.
+5632	1	TelegramLines::.cctor<ValueTuple`2..ctor>		IS THAT A WHITE FLAG I SEE STOP
+5633	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I NEED NOTHING FROM YOU. NOT EVEN THAT.
+5634	1	TelegramLines::.cctor<ValueTuple`2..ctor>		DO NOT PITY ME. I AM NOT A DOG.
+5635	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SAVE YOUR INK. SAVE YOUR SKIN WHILE YOU ARE AT IT.
+5636	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SOFT WORDS. I WILL GIVE YOU HARD ONES WHEN WE MEET.
+5637	1	TelegramLines::.cctor<>		THANK YOU. {KIN} WAS A GOOD MAN WHATEVER THEY SAY.
+5638	1	TelegramLines::.cctor<>		DID NOT THINK YOU HAD IT IN YOU. THANK YOU FOR {KIN}.
+5639	1	TelegramLines::.cctor<ValueTuple`2..ctor>		IT MEANS SOMETHING. MORE THAN I CAN SAY BY WIRE.
+5640	1	TelegramLines::.cctor<ValueTuple`2..ctor>		BURIED HIM LAST WEEK. YOUR WIRE CAME THE SAME DAY. THANK YOU.
+5641	1	TelegramLines::.cctor<ValueTuple`2..ctor>		HE WOULD HAVE LAUGHED AT YOU WRITING. I DO NOT.
+5642	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{KIN} WAS FAMILY. THANK YOU FOR SAYING SO.
+5643	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL NOT FORGET YOU WROTE.
+5644	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE BOYS DRANK TO {KIN}. I DRANK TO YOUR WIRE TOO. JUST THE ONCE.
+5645	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{KIN} KNEW THE RISKS. STILL. NOTED.
+5646	1	TelegramLines::.cctor<ValueTuple`2..ctor>		RECEIVED. PEOPLE DIE.
+5647	1	TelegramLines::.cctor<ValueTuple`2..ctor>		KIND OF YOU. IT CHANGES NOTHING. BUT KIND.
+5648	1	TelegramLines::.cctor<>		{LEADER} TOOK YOUR MONEY. HE SAYS YOU KNOW YOUR MANNERS.
+5649	1	TelegramLines::.cctor<>		RECEIVED. THE BOSS WAS PLEASED. FOR NOW.
+5650	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{LEADER} LAUGHED AND POCKETED IT. YOU ARE LESS OF A NUISANCE TO HIM TODAY.
+5651	1	TelegramLines::.cctor<ValueTuple`2..ctor>		GIFT RECEIVED STOP NOTED STOP
+5652	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE BOSS SAYS A MAN WHO PAYS RESPECT IS A MAN WHO CAN BE TALKED TO.
+5653	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MONEY TALKS. YOURS SAID THE RIGHT THING.
+5654	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MORE WHERE THAT CAME FROM AND WE MIGHT BE FRIENDS.
+5655	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MR {LEADER} APPRECIATES A GESTURE. HE WILL REMEMBER IT.
+5656	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE FAMILY ACCEPTS. BUSINESS IS BUSINESS.
+5657	1	TelegramLines::.cctor<>		TOOK YOUR MONEY. YOU KNOW YOUR MANNERS.
+5658	1	TelegramLines::.cctor<ValueTuple`2..ctor>		RECEIVED. I AM PLEASED. FOR NOW.
+5659	1	TelegramLines::.cctor<ValueTuple`2..ctor>		POCKETED IT. YOU ARE LESS OF A NUISANCE TO ME TODAY.
+5660	1	TelegramLines::.cctor<ValueTuple`2..ctor>		A MAN WHO PAYS RESPECT IS A MAN I CAN TALK TO.
+5661	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SENDING IT BACK. I AM NOT FOR SALE.
+5662	1	TelegramLines::.cctor<ValueTuple`2..ctor>		KEEP YOUR MONEY. I DO NOT TAKE CHARITY FROM YOUR KIND.
+5663	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU MOCK ME. I KEPT THE MONEY THOUGH.
+5664	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AN INSULT. THANKS FOR THE BULLETS IT BOUGHT. DO NOT SEND MORE.
+5665	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{LEADER} SENDS IT BACK. HE IS NOT FOR SALE.
+5666	1	TelegramLines::.cctor<ValueTuple`2..ctor>		KEEP YOUR MONEY. THE BOSS DOES NOT TAKE CHARITY FROM YOUR KIND.
+5667	1	TelegramLines::.cctor<ValueTuple`2..ctor>		RETURNED. YOU CANNOT BUY YOUR WAY OUT OF THIS.
+5668	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{LEADER} THINKS YOU ARE MOCKING HIM. HE KEPT THE MONEY THOUGH.
+5669	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AN INSULT. THE BOSS SAYS THANKS FOR THE BULLETS IT BOUGHT.
+5670	1	TelegramLines::.cctor<ValueTuple`2..ctor>		HE TOOK IT AND SPAT. DO NOT SEND MORE.
+5671	1	TelegramLines::.cctor<>		GOOD TO HEAR FROM YOU. THINGS ARE FINE. COME BY.
+5672	1	TelegramLines::.cctor<>		ALL WELL. WIFE SAYS HELLO.
+5673	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FINE THANKS. WRITE AGAIN.
+5674	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THINGS ARE QUIET. QUIET IS GOOD. YOU KEEP SAFE.
+5675	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NICE TO BE THOUGHT OF. ALL WELL HERE STOP
+5676	1	TelegramLines::.cctor<>		FINE. YOU.
+5677	1	TelegramLines::.cctor<>		ALL WELL ENOUGH.
+5678	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NOTHING TO REPORT. THANKS FOR ASKING.
+5679	1	TelegramLines::.cctor<ValueTuple`2..ctor>		GETTING BY. SAME AS EVERYONE.
+5680	1	TelegramLines::.cctor<ValueTuple`2..ctor>		DID NOT EXPECT A WIRE. ALL FINE.
+5681	1	TelegramLines::.cctor<>		THAT IS TOO MUCH. THANK YOU.
+5682	1	TelegramLines::.cctor<>		BOUGHT SHOES FOR THE BOY. THANK YOU KINDLY.
+5683	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU DID NOT HAVE TO. GLAD YOU DID.
+5684	1	TelegramLines::.cctor<ValueTuple`2..ctor>		RECEIVED WITH THANKS. I OWE YOU.
+5685	1	TelegramLines::.cctor<ValueTuple`2..ctor>		A GOOD DEED. I WILL REMEMBER IT.
+5686	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NOW THAT IS A TELEGRAM. THANK YOU.
+5687	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MUCH OBLIGED. ANY TIME YOU FEEL GENEROUS.
+5688	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I DO NOT TAKE CHARITY. BUT THANK YOU.
+5689	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SENDING IT BACK. KIND THOUGHT THOUGH.
+5690	1	TelegramLines::.cctor<ValueTuple`2..ctor>		KEEP IT. I GET BY.
+5691	1	TelegramLines::.cctor<>		THANK YOU. {KIN} WAS A GOOD FRIEND.
+5692	1	TelegramLines::.cctor<ValueTuple`2..ctor>		STILL CANNOT BELIEVE IT. THANK YOU FOR WRITING.
+5693	1	TelegramLines::.cctor<ValueTuple`2..ctor>		FEW PEOPLE WROTE. YOU DID. THANK YOU.
+5694	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE BURIED {KIN} ON SUNDAY. KIND OF YOU.
+5695	1	TelegramLines::.cctor<>		YOU HAVE SOME NERVE. I KNOW WHAT YOU DID.
+5696	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SORRY. YOU KILLED HIM AND YOU ARE SORRY.
+5697	1	TelegramLines::.cctor<ValueTuple`2..ctor>		DO NOT WRITE TO ME AGAIN.
+5698	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I KNOW IT WAS YOU. EVERYONE KNOWS.
+5699	1	TelegramLines::.cctor<>		KIND OF YOU. ALL WELL HERE.
+5700	1	TelegramLines::.cctor<>		THANKS. SAME TO YOU.
+5701	1	TelegramLines::.cctor<>		WELL ENOUGH. WEATHER COULD BE BETTER.
+5702	1	TelegramLines::.cctor<>		RECEIVED. KEEP WELL.
+5703	1	TelegramLines::.cctor<>		OBLIGED. NOTHING NEW HERE.
+5704	1	TelegramLines::.cctor<ValueTuple`2..ctor>		GOOD TO HEAR. ALL QUIET THIS END.
+5705	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THANK YOU. CROPS ARE SLOW. OTHERWISE FINE.
+5706	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MUCH OBLIGED. TAKE CARE OF YOURSELF.
+5707	1	TelegramLines::.cctor<>		THANK YOU. I THINK.
+5708	1	TelegramLines::.cctor<>		WHY ARE YOU WRITING TO ME.
+5709	1	TelegramLines::.cctor<>		I AM FINE. PLEASE DO NOT VISIT.
+5710	1	TelegramLines::.cctor<>		UNDERSTOOD. ALL QUIET HERE. VERY QUIET.
+5711	1	TelegramLines::.cctor<>		RECEIVED. NO NEED TO WRITE AGAIN.
+5712	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I HAVE SAID NOTHING TO ANYBODY. ALL WELL.
+5713	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THANK YOU. I WOULD RATHER YOU DID NOT.
+5714	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WELL. ALRIGHT. GOOD DAY.
+5715	1	TelegramLines::.cctor<>		WATER UNDER THE BRIDGE.
+5716	1	TelegramLines::.cctor<>		APOLOGY ACCEPTED. TAKES A BIG MAN.
+5717	1	TelegramLines::.cctor<>		LET US FORGET IT.
+5718	1	TelegramLines::.cctor<>		I APPRECIATE THAT. TRULY.
+5719	1	TelegramLines::.cctor<>		ALL FORGIVEN. COME BY SOMETIME.
+5720	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THANK YOU FOR WRITING. IT MEANS A GOOD DEAL.
+5721	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE ARE SQUARE FRIEND.
+5722	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ALREADY FORGOTTEN. NEARLY.
+5723	1	TelegramLines::.cctor<>		WORDS ARE CHEAP. BUT I READ THEM.
+5724	1	TelegramLines::.cctor<>		WE WILL SEE.
+5725	1	TelegramLines::.cctor<>		IT WILL TAKE MORE THAN A WIRE.
+5726	1	TelegramLines::.cctor<>		I HEAR YOU. I AM STILL SORE.
+5727	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MAYBE IN TIME.
+5728	1	TelegramLines::.cctor<ValueTuple`2..ctor>		IT IS A START. ONLY A START.
+5729	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WE SHALL SEE HOW YOU CONDUCT YOURSELF.
+5730	1	TelegramLines::.cctor<>		I SAW NOTHING. I SWEAR.
+5731	1	TelegramLines::.cctor<>		MY LIPS ARE SEALED.
+5732	1	TelegramLines::.cctor<>		I DO NOT KNOW WHAT YOU MEAN. AND I NEVER WILL.
+5733	1	TelegramLines::.cctor<>		NOT A WORD. ON MY MOTHER.
+5734	1	TelegramLines::.cctor<>		I WAS NOT EVEN THERE THAT DAY.
+5735	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I AM DEAF AND BLIND MISTER. ALWAYS HAVE BEEN.
+5736	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NOTHING TO TELL. NOTHING TO TELL ANYBODY.
+5737	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I UNDERSTAND. NOT ONE WORD.
+5738	1	TelegramLines::.cctor<>		DO NOT THREATEN ME.
+5739	1	TelegramLines::.cctor<>		I WILL SAY WHAT I PLEASE.
+5740	1	TelegramLines::.cctor<>		THE SHERIFF WILL HEAR ABOUT THIS WIRE TOO.
+5741	1	TelegramLines::.cctor<>		SHAME ON YOU.
+5742	1	TelegramLines::.cctor<>		I AM AN HONEST MAN. I TELL THE TRUTH.
+5743	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THREATS BY TELEGRAM. YOU SHOULD BE ASHAMED.
+5744	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE MARSHAL WILL WANT TO READ THIS.
+5745	1	TelegramLines::.cctor<ValueTuple`2..ctor>		YOU DO NOT FRIGHTEN ME MISTER.
+5746	1	TelegramLines::.cctor<>		TOO LATE FOR THAT. THE LAW ALREADY KNOWS.
+5747	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I ALREADY TOLD THEM. I AM SORRY. NO I AM NOT.
+5748	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE SHERIFF HAS MY STATEMENT. NOTHING TO BE DONE.
+5749	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TOLD THE LAW THE DAY IT HAPPENED. TOO LATE.
+5750	1	TelegramLines::.cctor<>		IT IS I WHO OWE YOU. NEVER FORGET IT.
+5751	1	TelegramLines::.cctor<>		ANY TIME FRIEND. ANY TIME.
+5752	1	TelegramLines::.cctor<>		YOU HELPED ME WHEN NOBODY WOULD. I REMEMBER.
+5753	1	TelegramLines::.cctor<>		YOU ARE ALWAYS WELCOME AT MY TABLE.
+5754	1	TelegramLines::.cctor<>		I PRAY FOR YOU EVERY SUNDAY. THAT IS THE TRUTH.
+5755	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NO THANKS NEEDED BETWEEN US.
+5756	1	TelegramLines::.cctor<ValueTuple`2..ctor>		IF YOU EVER NEED ANYTHING YOU KNOW WHERE I AM.
+5757	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TOLD MY WHOLE FAMILY WHAT YOU DID. YOU ARE A HERO HERE.
+5758	1	TelegramLines::.cctor<>		THANK YOU FOR THE THANKS. HA.
+5759	1	TelegramLines::.cctor<>		NO NEED. BUT KIND.
+5760	1	TelegramLines::.cctor<>		YOU ARE WELCOME.
+5761	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THINK NOTHING OF IT.
+5762	1	TelegramLines::.cctor<ValueTuple`2..ctor>		OBLIGED TO YOU TOO.
+5763	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WAS NOTHING. GOOD DAY TO YOU.
+5764	1	TelegramLines::.cctor<>		I WILL DRINK TO YOU TONIGHT. NEXT ONE IS MINE.
+5765	1	TelegramLines::.cctor<>		THAT IS A ROUND I WILL REMEMBER. MUCH OBLIGED.
+5766	1	TelegramLines::.cctor<>		WHISKEY TASTES BETTER FREE. THANK YOU.
+5767	1	TelegramLines::.cctor<>		RAISED A GLASS. THE WHOLE BAR DID. YOU ARE POPULAR HERE NOW.
+5768	1	TelegramLines::.cctor<>		BOUGHT THE GOOD STUFF. NOT THE ROTGUT. TO YOUR HEALTH.
+5769	1	TelegramLines::.cctor<ValueTuple`2..ctor>		A BEER AND A WHISKEY ON YOU. A FINE EVENING.
+5770	1	TelegramLines::.cctor<ValueTuple`2..ctor>		DRANK IT SLOW. SAVOURED EVERY DROP. THANKS FRIEND.
+5771	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TO YOU. AND TO NEXT TIME WE DRINK TOGETHER.
+5772	1	TelegramLines::.cctor<>		I DO NOT DRINK. GAVE IT TO THE CHURCH.
+5773	1	TelegramLines::.cctor<>		SENT IT BACK. I DO NOT TAKE MONEY FROM YOUR KIND.
+5774	1	TelegramLines::.cctor<>		KIND BUT NO THANK YOU.
+5775	1	TelegramLines::.cctor<ValueTuple`2..ctor>		SIGNED THE PLEDGE LAST YEAR. RETURNED WITH THANKS.
+5776	1	TelegramLines::.cctor<ValueTuple`2..ctor>		MY WIFE WOULD SKIN ME. SENT BACK.
+5777	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NO THANK YOU. I PAY FOR MY OWN.
+5778	1	TelegramLines::.cctor<>		TEN DOLLARS ENCLOSED. PAY IT BACK WHEN YOU CAN.
+5779	1	TelegramLines::.cctor<>		HERE. DO NOT DRINK IT ALL.
+5780	1	TelegramLines::.cctor<>		FOR A FRIEND. TEN ENCLOSED. NO HURRY.
+5781	1	TelegramLines::.cctor<>		I AM NOT RICH BUT HERE IS WHAT I CAN SPARE.
+5782	1	TelegramLines::.cctor<>		SENT WHAT I HAD UNDER THE MATTRESS. GOOD LUCK.
+5783	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TAKE IT. YOU DID RIGHT BY ME ONCE.
+5784	1	TelegramLines::.cctor<ValueTuple`2..ctor>		HERE IS TEN. MIND YOU DO NOT GAMBLE IT.
+5785	1	TelegramLines::.cctor<ValueTuple`2..ctor>		A LOAN. NOT A GIFT. BUT TAKE YOUR TIME.
+5786	1	TelegramLines::.cctor<>		I HAVE NOTHING TO SPARE. SORRY.
+5787	1	TelegramLines::.cctor<>		TIMES ARE HARD HERE TOO.
+5788	1	TelegramLines::.cctor<>		ASK SOMEBODY ELSE.
+5789	1	TelegramLines::.cctor<>		NO. AND DO NOT ASK AGAIN.
+5790	1	TelegramLines::.cctor<>		THE BANK HAS MONEY. I DO NOT.
+5791	1	TelegramLines::.cctor<ValueTuple`2..ctor>		WISH I COULD. CANNOT.
+5792	1	TelegramLines::.cctor<ValueTuple`2..ctor>		BARELY FEEDING MY OWN. SORRY FRIEND.
+5793	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I DO NOT LEND. NOT TO ANYONE.
+5794	1	TelegramLines::.cctor<>		NOBODY HAS ASKED. YOU ARE SAFE HERE FOR NOW.
+5795	1	TelegramLines::.cctor<>	QUIET	QUIET. NO STRANGERS ASKING.
+5796	1	TelegramLines::.cctor<>		NOT THAT I HEARD. I WILL KEEP AN EAR OUT.
+5797	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NOBODY. TOWN IS DULL AS DISHWATER.
+5798	1	TelegramLines::.cctor<ValueTuple`2..ctor>		NO ONE HAS SAID YOUR NAME. NOT IN MY HEARING.
+5799	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ALL QUIET. ASKED THE BARKEEP TOO. NOTHING.
+5800	1	TelegramLines::.cctor<>		{MAN} WAS ASKING AFTER YOU IN {TOWN}. WATCH YOURSELF.
+5801	1	TelegramLines::.cctor<>		A MAN CALLED {MAN} WANTS TO KNOW WHERE YOU ARE. I TOLD HIM NOTHING.
+5802	1	TelegramLines::.cctor<>		{MAN} HAS BEEN DRINKING IN {TOWN} AND CURSING YOUR NAME.
+5803	1	TelegramLines::.cctor<>		BE CAREFUL. {MAN} IS LOOKING FOR YOU ROUND {TOWN}.
+5804	1	TelegramLines::.cctor<>		{MAN} STOP {TOWN} STOP ASKING FOR YOU STOP ARMED STOP
+5805	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{MAN} SHOWED THE BARKEEP IN {TOWN} A DOLLAR FOR NEWS OF YOU.
+5806	1	TelegramLines::.cctor<ValueTuple`2..ctor>		STAY CLEAR OF {TOWN}. {MAN} IS THERE AND HE MEANS YOU HARM.
+5807	1	TelegramLines::.cctor<ValueTuple`2..ctor>		{MAN} ASKED ME BY NAME. IN {TOWN}. I SAID I NEVER HEARD OF YOU.
+5808	1	TelegramLines::.cctor<>		I WILL KEEP MY EYES OPEN FOR YOU.
+5809	1	TelegramLines::.cctor<>		YOU CAN COUNT ON ME. I WILL WIRE IF I HEAR ANYTHING.
+5810	1	TelegramLines::.cctor<>		CONSIDER IT DONE FRIEND.
+5811	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I WILL WATCH THE ROAD AND THE SALOON. YOU WILL HEAR.
+5812	1	TelegramLines::.cctor<ValueTuple`2..ctor>		AGREED. NOBODY COMES INTO TOWN I DO NOT SEE.
+5813	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I OWE YOU THAT MUCH. I WILL WATCH.
+5814	1	TelegramLines::.cctor<>		I WANT NO PART OF YOUR TROUBLE.
+5815	1	TelegramLines::.cctor<>		I MIND MY OWN BUSINESS. YOU SHOULD TOO.
+5816	1	TelegramLines::.cctor<>		NO. I HAVE A FAMILY TO THINK OF.
+5817	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I AM NO SPY. SORRY.
+5818	1	TelegramLines::.cctor<ValueTuple`2..ctor>		TOO DANGEROUS FOR ME. GOOD LUCK.
+5819	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ASK SOMEONE WITH LESS TO LOSE.
+5820	1	TelegramLines::.cctor<>		I HAVE NOT FORGOTTEN YOU. NOT FOR ONE DAY.
+5821	1	TelegramLines::.cctor<>		SLEEP WELL WHILE YOU CAN.
+5822	1	TelegramLines::.cctor<>		I KNOW WHICH STATIONS YOU USE.
+5823	1	TelegramLines::.cctor<>		YOUR DAYS ARE COUNTED. I AM COUNTING THEM.
+5824	1	TelegramLines::.cctor<>		EVERY TOWN YOU RIDE INTO I HAVE A FRIEND IN.
+5825	1	TelegramLines::.cctor<>		LOOK OVER YOUR SHOULDER. ALWAYS.
+5826	1	TelegramLines::.cctor<>		I SAW YOU LAST WEEK. YOU DID NOT SEE ME.
+5827	1	TelegramLines::.cctor<>		THINKING OF YOU STOP NOT KINDLY STOP
+5828	1	TelegramLines::.cctor<>		I AM CLOSER THAN YOU THINK.
+5829	1	TelegramLines::.cctor<ValueTuple`2..ctor>		ONE DAY YOU WILL TURN A CORNER AND I WILL BE THERE.
+5830	1	TelegramLines::.cctor<ValueTuple`2..ctor>		I HAVE BEEN SAVING A BULLET. IT HAS YOUR NAME ON IT.
+5831	1	TelegramLines::.cctor<ValueTuple`2..ctor>		THE DEBT STILL STANDS. IT IS DUE SOON.

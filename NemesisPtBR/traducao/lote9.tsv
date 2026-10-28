@@ -1,0 +1,841 @@
+id	usos	contexto	prefixo_fixo	texto
+10001	3	Backstory::Roll<String.Concat> ; Backstory::BirthplaceFor<String.Concat>		, Ireland
+10002	2	Backstory::Roll<String.Concat> ; NemesisMod::GiveLeaderLife<String.Concat>		Born in 
+10003	1	Backstory::Roll<Backstory.Add>		Crossed from Hamburg to New York with his family
+10004	1	Backstory::Roll<Backstory.Add>		Crossed from Queenstown to New York in steerage
+10005	1	Backstory::Roll<Backstory.Add>		loyal:1 cold:1
+10006	1	Backstory::Roll<Backstory.Add>		Lost everything when the banks failed in the Panic of '93
+10007	1	Backstory::Roll<Backstory.Add>		Lost half his fortune when the banks failed in the Panic of '93
+10008	2	Backstory::Roll<Backstory.Add> ; Backstory::.cctor<Backstory.L>		greedy:3 cold:1
+10009	1	Backstory::BirthplaceFor<Random.Next>	the 	the Grizzlies, Ambarino
+10010	1	Backstory::BirthplaceFor<Random.Next>	the 	the Dakota River country
+10011	1	Backstory::War<Backstory.Add>		Fought the soldiers on the plains as a young man
+10012	2	Backstory::War<Backstory.Add> ; Backstory::War<Backstory.Add>		cold:2 proud:2
+10013	1	Backstory::War<Backstory.Add>		Came onto the reservation in Ambarino with his people
+10014	1	Backstory::War<Backstory.Add>		cold:2 hothead:1 loyal:1
+10015	4	Backstory::War<Backstory.Add> ; Backstory::.cctor<Backstory.L>		cold:1 loyal:1
+10016	1	Backstory::War<Backstory.Add>		Saw the farm burned and her people scattered
+10017	1	Backstory::War<Backstory.Add>		hothead:1 cold:2
+10018	1	Backstory::War<String.Concat>		Union
+10019	1	Backstory::War<String.Concat>		Confederacy
+10020	1	Backstory::War<String.Concat>		Wounded at 
+10021	1	Backstory::War<Backstory.Add>		coward:1 hothead:1
+10022	1	Backstory::War<Backstory.Add>		Captured and held in a Union prison camp
+10023	2	Backstory::War<Backstory.Add> ; Backstory::.cctor<Backstory.L>		hothead:2 cold:1
+10024	1	Backstory::War<Backstory.Add>		Deserted before the end - and never told a soul
+10025	1	Backstory::War<Backstory.Add>		coward:3 drifter:2
+10026	1	Backstory::War<Backstory.Add>		Marched with Sherman to the sea
+10027	1	Backstory::War<Backstory.Add>		Came home to find the farm burned and his people scattered
+10028	4	Backstory::War<Backstory.Add> ; Backstory::.cctor<Backstory.L>		hothead:2 cold:2
+10029	4	Backstory::JoinUp<String.Concat> ; NemesisMod::SettleGrudge<NemesisRecord.get_Gang>		Joined the 
+10030	1	Backstory::JoinUp<Random.Next>		a recruiting office back East
+10031	1	Backstory::JoinUp<String.Concat>		Took up with the Lemoyne Raiders under 
+10032	1	Backstory::JoinUp<String.Concat>		Fell in with 
+10033	1	Backstory::JoinUp<String.Concat>		's boys
+10034	1	Backstory::JoinUp<Math.Max>		Commissioned an officer
+10035	1	Backstory::Family<NemesisRecord.get_Gang>		a woman of the Wapiti
+10036	1	Backstory::Family<Random.Next>		a man of the Wapiti
+10037	1	Backstory::Family<String.Concat>		Married 
+10038	1	Backstory::Family<Random.Next>		a winter cough
+10039	1	Backstory::Family<Random.Next>		cholera
+10040	1	Backstory::Family<Random.Next>		a fall from a wagon
+10041	1	Backstory::Family<Backstory.Add>		A daughter born
+10042	1	Backstory::Family<Backstory.Add>		A son born
+10043	3	Backstory::Family<NemesisRecord.get_Gang> ; NemesisMod::MarkCampCleared<CampSite.get_Label>		Lost 
+10044	1	Backstory::Family<Random.Next>		cold:3 hothead:1
+10045	1	Backstory::.cctor<Backstory.L>		Raised on a hardscrabble farm outside {home}
+10046	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		greedy:1 cold:1
+10047	1	Backstory::.cctor<Backstory.L>		His father drank and used his fists
+10048	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		hothead:3 coward:2
+10049	3	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		surly aggr:+4
+10050	1	Backstory::.cctor<Backstory.L>		Her father drank, and beat whoever was nearest
+10051	1	Backstory::.cctor<Backstory.L>		Orphaned young - an uncle worked him like a mule
+10052	1	Backstory::.cctor<Backstory.L>		cold:3 drifter:2 loyal:2
+10053	1	Backstory::.cctor<Backstory.L>		Raised in the church by a God-fearing mother
+10054	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		devout friendly
+10055	1	Backstory::.cctor<Backstory.L>		Ran wild with the older boys in {home}
+10056	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		hothead:2 proud:1
+10057	1	Backstory::.cctor<Backstory.L>		Went hungry most winters
+10058	1	Backstory::.cctor<Backstory.L>		A sickly boy, bullied by his brothers
+10059	3	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		coward:3 proud:2
+10060	1	Backstory::.cctor<Backstory.L>		A sickly girl the other children made fun of
+10061	1	Backstory::.cctor<Backstory.L>		Could shoot a rabbit at fifty paces before he could read
+10062	1	Backstory::.cctor<Backstory.L>		A schoolmarm beat his letters into him - he reads better than most
+10063	1	Backstory::.cctor<Backstory.L>		Grew up on stories of the Famine and the landlords
+10064	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		proud:2 loyal:2
+10065	1	Backstory::.cctor<Backstory.L>		Watched Union troops burn his family's barn
+10066	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		hothead:3 cold:2
+10067	1	Backstory::.cctor<Backstory.L>		surly aggr:+5
+10068	1	Backstory::.cctor<Backstory.L>		Son of a Union veteran who never spoke of the war
+10069	4	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		cold:2 loyal:2
+10070	1	Backstory::.cctor<Backstory.L>		Daughter of a Union veteran who never spoke of the war
+10071	1	Backstory::.cctor<Backstory.L>		Lost his mother when he was small
+10072	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		cold:2 drifter:2
+10073	1	Backstory::.cctor<Backstory.L>		Born into money - and never let anyone forget it
+10074	1	Backstory::.cctor<Backstory.L>		proud:4 greedy:2
+10075	1	Backstory::.cctor<Backstory.L>		His family lost everything in a fire
+10076	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		greedy:2 coward:1
+10077	1	Backstory::.cctor<Backstory.L>		Followed the herds with his family across the northern plains
+10078	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		drifter:2 proud:1
+10079	1	Backstory::.cctor<Backstory.L>		Rode before he could walk far
+10080	1	Backstory::.cctor<Backstory.L>		Learned to hunt elk in the Grizzlies from his uncle
+10081	1	Backstory::.cctor<Backstory.L>		Grew up hungry, the herds thinning every year
+10082	4	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		cold:2 greedy:1
+10083	1	Backstory::.cctor<Backstory.L>		Lost his father to the soldiers when he was a boy
+10084	1	Backstory::.cctor<Backstory.L>		Sat with the old men by the fire for their stories every night
+10085	1	Backstory::.cctor<Backstory.L>		Was sent east to a government school - and ran away home
+10086	4	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		proud:3 hothead:1
+10087	1	Backstory::.cctor<Backstory.L>	Left	Left home young and never wrote back
+10088	1	Backstory::.cctor<Backstory.L>		drifter:3 cold:2
+10089	1	Backstory::.cctor<Backstory.L>		Rode drag on a cattle drive into Valentine's stockyards
+10090	1	Backstory::.cctor<Backstory.L>		Won his first knife fight before he was twenty
+10091	1	Backstory::.cctor<Backstory.L>		hothead:2 proud:3
+10092	1	Backstory::.cctor<Backstory.L>		Ran from his first real fight - he's never lived it down
+10093	1	Backstory::.cctor<Backstory.L>		coward:4 proud:2
+10094	1	Backstory::.cctor<Backstory.L>		Apprenticed to a blacksmith in {home}
+10095	1	Backstory::.cctor<Backstory.L>		Lost the girl he loved to a richer man
+10096	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		proud:2 hothead:1
+10097	1	Backstory::.cctor<Backstory.L>		Caught stealing chickens; the beating taught him nothing
+10098	3	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		greedy:2 hothead:1
+10099	1	Backstory::.cctor<Backstory.L>		Ran with a street gang in the Five Points
+10100	1	Backstory::.cctor<Backstory.L>		loyal:2 hothead:2
+10101	1	Backstory::.cctor<Backstory.L>		Lied about his age to join up
+10102	1	Backstory::.cctor<Backstory.L>		Grew up on his grandfather's tales of the Lost Cause
+10103	1	Backstory::.cctor<Backstory.L>		Won his first stake at faro on a Saint Denis riverboat
+10104	1	Backstory::.cctor<Backstory.L>		greedy:3 proud:1
+10105	1	Backstory::.cctor<Backstory.L>		Went down the mine at fourteen
+10106	1	Backstory::.cctor<Backstory.L>		Fell in with a travelling medicine show
+10107	1	Backstory::.cctor<Backstory.L>		drifter:2 greedy:1
+10108	1	Backstory::.cctor<Backstory.L>		Broke his first wild horse at fifteen
+10109	1	Backstory::.cctor<Backstory.L>		Went hungry the winter the government's rations never came
+10110	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		cold:2 hothead:1
+10111	1	Backstory::.cctor<Backstory.L>		Traded furs at a post on the Dakota River
+10112	1	Backstory::.cctor<Backstory.L>		Saw a friend shot by soldiers
+10113	1	Backstory::.cctor<Backstory.L>		hothead:3 cold:1
+10114	1	Backstory::.cctor<Backstory.L>		Fasted alone in the mountains to find his path
+10115	3	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		proud:1 cold:1
+10116	1	Backstory::.cctor<Backstory.L>		Ran from his first fight with soldiers, and has never forgiven himself
+10117	1	Backstory::.cctor<Backstory.L>		Kept house for her father and brothers after her mother died
+10118	1	Backstory::.cctor<Backstory.L>		Learned to shoot from her father - better than any of her brothers
+10119	1	Backstory::.cctor<Backstory.L>		Ran off with a travelling theatre company at seventeen
+10120	1	Backstory::.cctor<Backstory.L>		drifter:3 proud:1
+10121	1	Backstory::.cctor<Backstory.L>		Went to work in a Saint Denis textile mill at thirteen
+10122	1	Backstory::.cctor<Backstory.L>		Taught herself to read from a stolen Bible
+10123	1	Backstory::.cctor<Backstory.L>		Turned down a rich man's proposal - her family never forgave her
+10124	1	Backstory::.cctor<Backstory.L>		Worked the Annesburg coal mine, year after year
+10125	1	Backstory::.cctor<Backstory.L>		Lived through a cave-in that buried six men
+10126	1	Backstory::.cctor<Backstory.L>		coward:2 cold:2
+10127	1	Backstory::.cctor<Backstory.L>		Sharecropped land he'd never own
+10128	1	Backstory::.cctor<Backstory.L>		Lost a whole harvest to drought
+10129	1	Backstory::.cctor<Backstory.L>		Built a small spread outside {home}
+10130	1	Backstory::.cctor<Backstory.L>		Shot a rustler off his land
+10131	3	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		hothead:2 proud:2
+10132	1	Backstory::.cctor<Backstory.L>		Drove herds into Valentine for the Heartlands outfits
+10133	1	Backstory::.cctor<Backstory.L>		Laid track for Cornwall's railroad, for pennies
+10134	1	Backstory::.cctor<Backstory.L>		Lost two fingers coupling cars
+10135	4	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		coward:1 cold:1
+10136	1	Backstory::.cctor<Backstory.L>		Hauled crates on the Saint Denis docks under Bronte's men
+10137	1	Backstory::.cctor<Backstory.L>		cold:1 greedy:1 coward:1
+10138	1	Backstory::.cctor<Backstory.L>		Fished the Lannahechee for a living
+10139	1	Backstory::.cctor<Backstory.L>		Felled timber in the Roanoke Ridge logging camps
+10140	1	Backstory::.cctor<Backstory.L>		Trapped beaver and fox up in the Grizzlies
+10141	1	Backstory::.cctor<Backstory.L>		Mauled by a bear - he still carries the marks
+10142	1	Backstory::.cctor<Backstory.L>		Ran card games on the Saint Denis riverboats
+10143	1	Backstory::.cctor<Backstory.L>		Owes money to the wrong people in Saint Denis
+10144	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		greedy:2 coward:2
+10145	1	Backstory::.cctor<Backstory.L>		Made his money in Lemoyne cotton
+10146	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		proud:3 greedy:2
+10147	1	Backstory::.cctor<Backstory.L>		Lost a fortune at the card tables and won half of it back
+10148	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		greedy:2 proud:1
+10149	1	Backstory::.cctor<Backstory.L>		Preached hellfire at tent revivals across the territories
+10150	1	Backstory::.cctor<Backstory.L>		Learned his medicine sawing off legs in field hospitals
+10151	1	Backstory::.cctor<Backstory.L>		Studied medicine back East; the frontier wasn't what he pictured
+10152	4	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		cold:1 proud:1
+10153	1	Backstory::.cctor<Backstory.L>		Kept a dry goods store in {home}
+10154	1	Backstory::.cctor<Backstory.L>		Clerked at the bank in {town}
+10155	1	Backstory::.cctor<Backstory.L>		Lost his trade to the bottle
+10156	1	Backstory::.cctor<Backstory.L>		drifter:3 coward:1
+10157	1	Backstory::.cctor<Backstory.L>		Rode the boxcars from Blackwater to Annesburg and back
+10158	1	Backstory::.cctor<Backstory.L>		Dug ditches and hauled stone wherever there was pay
+10159	1	Backstory::.cctor<Backstory.L>		Rode with a crew of road agents down in New Austin
+10160	1	Backstory::.cctor<Backstory.L>		hothead:1 cold:1
+10161	1	Backstory::.cctor<Backstory.L>		Drifted from town to town, never more than a season
+10162	1	Backstory::.cctor<Backstory.L>		Kept the forge in {home} and shod half the horses in the county
+10163	1	Backstory::.cctor<Backstory.L>		Took over the smithy when the old smith's hands gave out
+10164	1	Backstory::.cctor<Backstory.L>		Mended wagon wheels and plough shares for every farm around {home}
+10165	1	Backstory::.cctor<Backstory.L>		Learned the forge at her father's side - she could shoe a horse before she could sew
+10166	1	Backstory::.cctor<Backstory.L>		Worked the hammer in {home} until the men who laughed at her brought her their horses
+10167	1	Backstory::.cctor<Backstory.L>		Cut suits for the gentlemen of Saint Denis in a shop off the avenue
+10168	3	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		greedy:1 proud:1
+10169	1	Backstory::.cctor<Backstory.L>		Mended coats and trousers in {home} for whoever could pay
+10170	3	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		cold:1 greedy:1
+10171	1	Backstory::.cctor<Backstory.L>		Studied at the Woman's Medical College in Philadelphia, then came west where a doctor is a doctor
+10172	1	Backstory::.cctor<Backstory.L>		Took in sewing in {home} to keep a roof over her head
+10173	1	Backstory::.cctor<Backstory.L>		Sewed gowns for the society ladies of Saint Denis in a shop off the avenue
+10174	1	Backstory::.cctor<Backstory.L>		Washed the miners' clothes in Annesburg for a nickel a load
+10175	1	Backstory::.cctor<Backstory.L>		Scrubbed sheets in a hotel laundry in {town} from dawn to dark
+10176	1	Backstory::.cctor<Backstory.L>		Taught the one-room schoolhouse outside {home}
+10177	1	Backstory::.cctor<Backstory.L>		sharp friendly
+10178	1	Backstory::.cctor<Backstory.L>		Came west from back East to teach school, and stayed
+10179	1	Backstory::.cctor<Backstory.L>		proud:1 drifter:1
+10180	1	Backstory::.cctor<Backstory.L>		Kept the general store in {town}, and kept the books better than the men
+10181	1	Backstory::.cctor<Backstory.L>		Ran the family store in {home} after the old man's heart gave out
+10182	4	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		loyal:2 cold:1
+10183	1	Backstory::.cctor<Backstory.L>		Cooked at a boarding house in {town} for the railroad men
+10184	1	Backstory::.cctor<Backstory.L>		Cooked for a cattle outfit on the trail up from Texas
+10185	1	Backstory::.cctor<Backstory.L>		Fed the loggers in the Roanoke Ridge camps out of one iron pot
+10186	1	Backstory::.cctor<Backstory.L>		Went into service in a big house in Saint Denis at thirteen
+10187	1	Backstory::.cctor<Backstory.L>		coward:1 loyal:1
+10188	1	Backstory::.cctor<Backstory.L>		Was let go without a reference for a broken vase she never touched
+10189	1	Backstory::.cctor<Backstory.L>		Kept a boarding house in {town} - drummers, drifters and railroad men
+10190	3	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		greedy:2 cold:1
+10191	1	Backstory::.cctor<Backstory.L>		Trimmed hats for the ladies of {town}, feathers and all
+10192	1	Backstory::.cctor<Backstory.L>		Worked the telegraph key at the {town} station - he hears everything first
+10193	1	Backstory::.cctor<Backstory.L>		Nursed fever patients at the Saint Denis hospital
+10194	1	Backstory::.cctor<Backstory.L>		Delivered half the babies born in {home}
+10195	1	Backstory::.cctor<Backstory.L>		Took her vows at the convent in Saint Denis
+10196	3	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		loyal:2 coward:1
+10197	1	Backstory::.cctor<Backstory.L>		Runs the soup line for the poor of Saint Denis
+10198	1	Backstory::.cctor<Backstory.L>		Followed her husband's ministry from one tent revival to the next
+10199	1	Backstory::.cctor<Backstory.L>		Married into Lemoyne cotton money
+10200	1	Backstory::.cctor<Backstory.L>		Raised money for the Saint Denis orphans' home at her own charity balls
+10201	1	Backstory::.cctor<Backstory.L>		Marched for the vote with the suffragists in Saint Denis
+10202	1	Backstory::.cctor<Backstory.L>		Danced for drinks at a Valentine saloon
+10203	1	Backstory::.cctor<Backstory.L>		Worked upstairs at a saloon in {town}, and saved every coin she could hide
+10204	1	Backstory::.cctor<Backstory.L>		cold:2 greedy:2
+10205	1	Backstory::.cctor<Backstory.L>		Sang on the stage of a Saint Denis theatre
+10206	1	Backstory::.cctor<Backstory.L>		Toured the river towns with a travelling show
+10207	1	Backstory::.cctor<Backstory.L>		Proved up a homestead claim near {home} with her own two hands
+10208	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		proud:2 cold:1
+10209	1	Backstory::.cctor<Backstory.L>		Sold eggs and butter in {town} on market days
+10210	1	Backstory::.cctor<Backstory.L>		Worked her husband's land from first light, then cooked for the hands
+10211	3	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		cold:2 loyal:1
+10212	1	Backstory::.cctor<Backstory.L>		Lost a whole harvest to drought, and planted again
+10213	1	Backstory::.cctor<Backstory.L>		Sold oysters and pralines at the Saint Denis market
+10214	1	Backstory::.cctor<Backstory.L>		Sold fish off the dock at Lagras before dawn
+10215	1	Backstory::.cctor<Backstory.L>		Came west by train to start over where nobody knew her name
+10216	1	Backstory::.cctor<Backstory.L>		drifter:2 cold:1
+10217	1	Backstory::.cctor<Backstory.L>		Rode the line from Saint Denis to Blackwater to see her sister
+10218	1	Backstory::.cctor<Backstory.L>		Did {n} years in Sisika Penitentiary for robbery
+10219	1	Backstory::.cctor<Backstory.L>		{name} sent to Sisika Penitentiary
+10220	1	Backstory::.cctor<Backstory.L>		Shot a man dead over cards in Van Horn
+10221	1	Backstory::.cctor<Backstory.L>		A card game in Van Horn ends in a killing
+10222	1	Backstory::.cctor<Backstory.L>		Broke out of the Strawberry jail
+10223	1	Backstory::.cctor<Backstory.L>		Jailbreak in Strawberry - {name} gets away
+10224	1	Backstory::.cctor<Backstory.L>		His face is on an old wanted poster in New Austin
+10225	1	Backstory::.cctor<Backstory.L>		Ran moonshine through the bayou for a bootlegger
+10226	1	Backstory::.cctor<Backstory.L>		Rustled horses across the Heartlands
+10227	1	Backstory::.cctor<Backstory.L>		greedy:2 drifter:1
+10228	1	Backstory::.cctor<Backstory.L>		Got away with a payroll - and drank the lot
+10229	1	Backstory::.cctor<Backstory.L>		Held up a stagecoach on the road outside Strawberry
+10230	1	Backstory::.cctor<Backstory.L>		Stagecoach held up outside Strawberry
+10231	1	Backstory::.cctor<Backstory.L>		Swore himself to Colm after the Van der Linde feud cost him a friend
+10232	1	Backstory::.cctor<Backstory.L>		loyal:3 hothead:1
+10233	1	Backstory::.cctor<Backstory.L>		Owes his life to Colm O'Driscoll - and Colm never lets him forget it
+10234	1	Backstory::.cctor<Backstory.L>		Kept watch through a winter up at Six Point Cabin
+10235	1	Backstory::.cctor<Backstory.L>		Fences stolen horses in Valentine for the gang
+10236	1	Backstory::.cctor<Backstory.L>		Burned out a carpetbagger's store in Rhodes
+10237	1	Backstory::.cctor<Backstory.L>		Guards moonshine stills in Bluewater Marsh
+10238	1	Backstory::.cctor<Backstory.L>		Swears he'll never salute the Union flag
+10239	1	Backstory::.cctor<Backstory.L>		Posted to Fort Wallace under Colonel Favours
+10240	1	Backstory::.cctor<Backstory.L>		Rode with the cavalry on the plains campaigns
+10241	1	Backstory::.cctor<Backstory.L>		Disciplined for drinking on watch
+10242	1	Backstory::.cctor<Backstory.L>		hothead:1 coward:1
+10243	1	Backstory::.cctor<Backstory.L>		Escorted a Cornwall payroll through Roanoke Ridge
+10244	1	Backstory::.cctor<Backstory.L>		Saw his sergeant shot by Raiders near Rhodes
+10245	1	Backstory::.cctor<Backstory.L>		Lost his land to the bank and blamed everyone but himself
+10246	1	Backstory::.cctor<Backstory.L>		Wears the hood because his father did
+10247	1	Backstory::.cctor<Backstory.L>		coward:2 loyal:2
+10248	1	Backstory::.cctor<Backstory.L>		Was a cowhand on a Hennigan's Stead ranch until the owner cheated him of a season's pay
+10249	1	Backstory::.cctor<Backstory.L>		Can change a brand with a running iron faster than any man on the plains
+10250	1	Backstory::.cctor<Backstory.L>		Drove cattle up the trail from Texas and never went back
+10251	1	Backstory::.cctor<Backstory.L>		Rode with the rustlers who ran off the MacFarlane herd
+10252	1	Backstory::.cctor<Backstory.L>		Lost his own small herd to a hard winter, and took other men's after
+10253	1	Backstory::.cctor<Backstory.L>		Followed his older brother into the Laramie boys
+10254	1	Backstory::.cctor<Backstory.L>		Was nearly hanged by a cattlemen's posse in the Great Plains
+10255	1	Backstory::.cctor<Backstory.L>		Rode with bandits on both sides of the river since he was fifteen
+10256	1	Backstory::.cctor<Backstory.L>		hothead:1 proud:1
+10257	1	Backstory::.cctor<Backstory.L>	Left	Left Nuevo Paraiso one step ahead of the rurales
+10258	1	Backstory::.cctor<Backstory.L>		Robbed his first train near Rio Bravo
+10259	1	Backstory::.cctor<Backstory.L>		Fought in the troubles across the border before the Del Lobos took him in
+10260	1	Backstory::.cctor<Backstory.L>		Smuggles guns across the river for the jefe
+10261	1	Backstory::.cctor<Backstory.L>		greedy:1 loyal:1
+10262	1	Backstory::.cctor<Backstory.L>		Swore himself to the jefe after the jefe saved his life in Gaptooth Ridge
+10263	1	Backstory::.cctor<Backstory.L>		His face is on wanted posters in Armadillo and in Chuparosa both
+10264	1	Backstory::.cctor<Backstory.L>		Lost his farm across the river to a rich man's lawyers
+10265	1	Backstory::.cctor<Backstory.L>		hothead:2 greedy:1
+10266	1	Backstory::.cctor<Backstory.L>		Was born on a houseboat in Bayou Nwa and has never slept on dry land
+10267	1	Backstory::.cctor<Backstory.L>		Was taken in by the Night Folk as a boy, after the fever took his family
+10268	1	Backstory::.cctor<Backstory.L>		Stopped going to church in Saint Denis the year the lanterns first came
+10269	1	Backstory::.cctor<Backstory.L>		Swore himself to the elder in the dark, and has never seen his face
+10270	1	Backstory::.cctor<Backstory.L>		Lost a brother to the Lemoyne Raiders on the bayou road
+10271	1	Backstory::.cctor<Backstory.L>		Knows every channel from Lagras to Shady Belle by the sound of the water
+10272	1	Backstory::.cctor<Backstory.L>	Left	Left a warning in the cypress that Saint Denis still talks about
+10273	1	Backstory::.cctor<Backstory.L>		Hasn't spoken a full sentence since the night of the big flood
+10274	1	Backstory::.cctor<Backstory.L>		Rides with the young men who are done waiting on the Army's promises
+10275	1	Backstory::.cctor<Backstory.L>		Keeps watch on Fort Wallace from the ridges above it
+10276	1	Backstory::.cctor<Backstory.L>		Took back horses from the Army's corrals
+10277	1	Backstory::.cctor<Backstory.L>		proud:2 greedy:1
+10278	1	Backstory::.cctor<Backstory.L>		Listens to Rains Fall, though his heart wants to fight
+10279	1	Backstory::.cctor<Backstory.L>		Hunts for the families when the rations run short
+10280	1	Backstory::.cctor<Backstory.L>		Followed the oil men's surveyors across Wapiti land
+10281	1	Backstory::.cctor<Backstory.L>		Found God at a tent revival after a bad year
+10282	1	Backstory::.cctor<Backstory.L>		Stopped going to church after his mother's funeral
+10283	1	Backstory::.cctor<Backstory.L>		Won a shooting contest at a county fair
+10284	1	Backstory::.cctor<Backstory.L>		Took a bullet in a saloon brawl in {town}
+10285	1	Backstory::.cctor<Backstory.L>		Lost his savings to a crooked card sharp
+10286	1	Backstory::.cctor<Backstory.L>		Pulled a drowning boy out of the river
+10287	1	Backstory::.cctor<Backstory.L>		Lost a brother to the fever
+10288	2	Backstory::.cctor<Backstory.L> ; Backstory::.cctor<Backstory.L>		cold:2 coward:1
+10289	1	Backstory::.cctor<Backstory.L>		Buried his best friend after a gunfight
+10290	1	Backstory::.cctor<Backstory.L>		cold:2 hothead:2
+10291	1	Backstory::.cctor<Backstory.L>		Keeps to the old ways, whatever the missionaries say
+10292	1	Backstory::.cctor<Backstory.L>		Stopped praying the winter his mother died
+10293	1	Backstory::.cctor<Backstory.L>		Lost a brother to the coughing sickness
+10294	1	Backstory::.cctor<Backstory.L>		Won a horse race against riders from three bands
+10295	1	Backstory::.cctor<Backstory.L>		Was jailed in Valentine for a fight he didn't start
+10296	1	Backstory::.cctor<Backstory.L>		Buried a friend the soldiers killed
+10297	1	Backstory::.cctor<Backstory.L>		Taught his nephews to track the way his uncle taught him
+10298	1	Backstory::.cctor<Backstory.L>		Snakebit out in the scrub - nearly died
+10299	1	Backstory::.cctor<Backstory.L>		Started drinking hard and never stopped
+10300	1	Backstory::.cctor<Backstory.L>		hothead:1 drifter:1
+10301	1	Backstory::.cctor<Backstory.L>		Beat a bigger man bare-knuckle in {town}
+10302	1	Backstory::.cctor<Backstory.L>		Bare-knuckle fight in {town} - {name} wins
+10303	1	Backstory::.cctor<Backstory.L>		Backed down from a duel in Armadillo
+10304	1	Backstory::.cctor<Backstory.L>		Saves every cent he makes
+10305	1	Backstory::.cctor<Backstory.L>		Sends money home to his mother every month
+10306	1	Backstory::.cctor<Backstory.L>		Shot his own horse when it broke a leg, and wept
+10307	1	Backstory::.cctor<Backstory.L>		cold:-1 coward:1
+10308	1	Backstory::.cctor<Backstory.L>		Sat out a blizzard alone in the Grizzlies for nine days
+10309	1	Backstory::.cctor<Backstory.L>		cold:3 drifter:1
+10310	1	Backstory::.cctor<Backstory.L>		Nursed half of {town} through a diphtheria winter
+10311	1	Backstory::.cctor<Backstory.L>		Joined the temperance women and took an axe to a saloon's bottles
+10312	1	Backstory::.cctor<Backstory.L>		proud:2 hothead:2
+10313	1	Backstory::.cctor<Backstory.L>		Keeps a pistol in her apron since a man broke into her kitchen
+10314	1	Backstory::.cctor<Backstory.L>		Ran the house on what her husband didn't drink away
+10315	1	Backstory::.cctor<Backstory.L>		Won the pie contest at the {town} fair three years running
+10316	1	Backstory::.cctor<Backstory.L>		Lost a baby to the fever, and never speaks of it
+10317	1	Backstory::.cctor<Backstory.L>		cold:3 coward:1
+10318	1	Backstory::.cctor<Backstory.L>		Waited three years for a sweetheart who never came back from the gold fields
+10319	1	CampKit::Centre<String.Concat>		: no open ground within 30 m - the site as it is
+10320	1	CampKit::Centre<Vector3.DistanceTo2D>		CAMPKIT {0}: its fire moved {1:0} m to open ground
+10321	1	CampKit::Spawn<Gangs.ById>		plain look
+10322	1	CampKit::Spawn<String.Concat>		 look
+10323	1	CampKit::Prop<String.Concat>		camp kit: create 
+10324	1	CampKit::Prop<String.Format>		{0} names ({1}, {2}...)
+10325	1	CampKit::Prop<String.Concat>		 could be made - left out
+10326	4	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		tent
+10327	10	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		bedroll
+10328	4	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		seat
+10329	7	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		lantern
+10330	2	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		grass tent
+10331	1	CampKit::.cctor<CampKit.P>		army tent
+10332	1	CampKit::.cctor<CampKit.P>		still
+10333	2	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		hay stack
+10334	2	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		jug
+10335	1	CampKit::.cctor<CampKit.P>		tipi
+10336	3	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		log seat
+10337	2	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		blanket
+10338	2	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		pelt
+10339	1	CampKit::.cctor<CampKit.P>		caravan tent
+10340	1	CampKit::.cctor<CampKit.P>		table
+10341	1	CampKit::.cctor<CampKit.P>		chair
+10342	2	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		trunk
+10343	2	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		grave
+10344	1	CampKit::.cctor<CampKit.P>		coffin
+10345	3	CampKit::.cctor<CampKit.P> ; CampKit::.cctor<CampKit.P>		lean-to
+10346	2	CampKit::.cctor<CampKit.P> ; NemesisMod::BuildRoadblock<NemesisMod.<BuildRoadblock>g__Shoulder|371_0>		hay
+10347	1	CampKit::.cctor<CampKit.P>		saddle
+10348	1	CampKit::.cctor<CampKit.P>		candles
+10349	6	CampKit::<SpawnRig>b__66_1<String.Concat> ; EventStory::Describe<NemesisRecord.get_Trade>		a 
+10350	1	Camps::.cctor<CampSite..ctor>		Six Point Cabin
+10351	1	Camps::.cctor<CampSite..ctor>		Hanging Dog Ranch
+10352	1	Camps::.cctor<CampSite..ctor>	the 	the Bronte Mansion
+10353	1	Camps::.cctor<CampSite..ctor>		Lakay
+10354	1	Camps::.cctor<CampSite..ctor>		Manteca Falls
+10355	1	Camps::.cctor<CampSite..ctor>		Gaptooth Breach
+10356	4	Camps::.cctor<CampSite..ctor> ; Camps::.cctor<CampSite..ctor>		Grizzlies East
+10357	2	Camps::.cctor<CampSite..ctor> ; NemesisMod::.cctor<LoreRow.set_Title>	the 	the Wapiti Reservation
+10358	1	EventStory::Build<String.Concat>		 ran into each other 
+10359	1	EventStory::Build<String.Concat>		 came upon 
+10360	2	EventStory::Build<String.Concat> ; NemesisMod::WriteUp<NemesisMod.ShortGang>		 against 
+10361	1	EventStory::Build<EventStory.Cap>		Nobody can agree who fired first. 
+10362	1	EventStory::Build<String.Concat>		 were shooting at each other.
+10363	1	EventStory::Build<EventStory.Cap>		 for weeks. 
+10364	1	EventStory::Build<String.Concat>		, they found them.
+10365	1	EventStory::Build<EventStory.Pick>		Horses bolted at the first shots; most of the men were left to fight it out on foot.
+10366	1	EventStory::Build<EventStory.Pick>		Powder smoke hung low over the ground long after the last shot.
+10367	1	EventStory::Build<EventStory.Pick>		It was over in minutes. The quiet afterwards lasted longer.
+10368	1	EventStory::Build<EventStory.Pick>		By the end the camp had changed hands - tents cut down, the fire kicked out, what could be carried carried off.
+10369	1	EventStory::Build<EventStory.Pick>	The 	The camp did not hold. Whoever was left standing took what they could and left the rest to burn.
+10370	1	EventStory::Build<EventStory.Pick>	The 	The defenders broke and scattered into the trees, and the camp was theirs no longer.
+10371	1	EventStory::Build<EventStory.Cap>		It had been building for a while. 
+10372	1	EventStory::Build<String.Concat>		, it finally boiled over.
+10373	1	EventStory::Build<EventStory.Cap>		Men who ride together don't always like each other. 
+10374	1	EventStory::Build<String.Concat>		, that showed.
+10375	1	EventStory::Build<EventStory.Pick>		Somebody tried to pull them apart and caught a fist for his trouble.
+10376	1	EventStory::Build<EventStory.Pick>		Knives came out before anyone could stop it.
+10377	1	EventStory::Build<EventStory.Pick>		Their boss has said nothing about it since, which says plenty.
+10378	1	EventStory::Build<String.Concat>		, two men decided they'd had enough of one another.
+10379	1	EventStory::Build<String.Concat>		, and it didn't stay that way.
+10380	1	EventStory::Build<EventStory.Cap>		There'd been words between them for a while. 
+10381	1	EventStory::Build<String.Concat>		, the words ran out.
+10382	1	EventStory::Build<EventStory.Pick>	The 	The sheriff showed up late, the way he always does.
+10383	1	EventStory::Build<EventStory.Pick>		A bartender swept up the glass and said it was the third time that month.
+10384	1	EventStory::Build<EventStory.Pick>		By the time anyone thought to stop it, it was finished.
+10385	1	EventStory::Build<WorldPart.get_Name>		: news of 
+10386	1	EventStory::Build<WorldPart.get_Name>		This is the sort of thing that happens to 
+10387	1	EventStory::Build<String.Concat>		 when nobody's shooting at him.
+10388	1	EventStory::Build<EventStory.Cap>		 had been planning it for days. 
+10389	1	EventStory::Build<String.Concat>		, they went ahead.
+10390	1	EventStory::Build<String.Concat>		 did the job they'd been talking about.
+10391	1	EventStory::Build<EventStory.Cap>		Talk travels faster than a horse in this country.
+10392	1	EventStory::Build<EventStory.Cap>		Someone talked. Someone always does.
+10393	1	EventStory::Build<String.Concat>		, in a saloon 
+10394	1	EventStory::Build<String.Concat>		, a story about you went round the room.
+10395	1	EventStory::Build<EventStory.Pick>		It started with one man who'd seen it, and grew with every telling.
+10396	1	EventStory::Build<String.Concat>		 - you were there, and so was this.
+10397	1	EventStory::Build<String.Concat>		, and it has your name on it.
+10398	1	EventStory::Build<String.Concat>		, you watched it happen.
+10399	1	EventStory::Build<EventStory.Pick>	You 	You weren't the reason for it this time - you only saw it.
+10400	1	EventStory::Build<String.Concat>		 shuffled its men about 
+10401	1	EventStory::Build<EventStory.Pick>		Every outfit has its pecking order. It changed.
+10402	1	EventStory::Build<EventStory.Pick>		Somebody moved up. Somebody was told to wait his turn.
+10403	1	EventStory::Build<EventStory.Pick>		Men who'd been passed over before are counting the days again.
+10404	1	EventStory::Build<EventStory.Pick>		Eight years on, the Van der Linde gang is a story told in saloons.
+10405	1	EventStory::Build<EventStory.Pick>		Most of them are dead, and the rest have new names.
+10406	1	EventStory::Build<EventStory.Pick>		Some of it is true. Most of it grew in the telling.
+10407	1	EventStory::Build<EventStory.Pick>		Stories about Dutch's gang are everywhere this spring.
+10408	1	EventStory::Build<EventStory.Pick>		Folk talk about the Van der Linde boys like they're a ghost story.
+10409	1	EventStory::Build<EventStory.Pick>		Some of it is true. Some of it is Dutch's own legend, told back to him.
+10410	1	EventStory::Build<String.Concat>		 that something had shifted 
+10411	1	EventStory::Build<EventStory.Pick>		Nobody planned for it. Everybody had to live with it.
+10412	1	EventStory::Build<EventStory.Pick>		It's the kind of news men stop talking about when a stranger walks in.
+10413	1	EventStory::Build<EventStory.Pick>		Loyalties in this country last about as long as a bottle.
+10414	1	EventStory::Build<EventStory.Pick>		Old debts got called in. New ones were made.
+10415	1	EventStory::Build<EventStory.Pick>		Some saw it coming. Most didn't.
+10416	1	EventStory::Build<EventStory.Pick>		By the next morning every camp in the territory had heard a version of it.
+10417	1	EventStory::Build<String.Concat>		, the war took another turn.
+10418	1	EventStory::Build<String.Concat>		 went on 
+10419	1	EventStory::Build<String.Concat>		, the way it has for days.
+10420	1	EventStory::Build<String.Concat>		 kept at it 
+10421	1	EventStory::Build<EventStory.Pick>		Nobody in that country sleeps easy while this goes on.
+10422	1	EventStory::Build<EventStory.Pick>		Farmers keep their doors barred and their children inside now.
+10423	1	EventStory::Build<EventStory.Pick>		Every man in it swears he knows how it ends.
+10424	1	EventStory::Build<EventStory.Pick>		Each side says the other started it.
+10425	1	EventStory::Build<EventStory.Pick>		Somewhere a leader is counting men he doesn't have.
+10426	1	EventStory::Build<EventStory.Pick>		Not everyone remembers it the same way.
+10427	1	EventStory::Build<String.Concat>		 went down and didn't get up.
+10428	1	EventStory::Build<EventStory.Pick>	in 	in the first exchange
+10429	1	EventStory::Build<EventStory.Pick>	near 	near the end
+10430	1	EventStory::Build<EventStory.Pick>		covering the others
+10431	1	EventStory::Build<WorldPart.get_Name>		They buried 
+10432	1	EventStory::Build<EventStory.Pick>		without a marker
+10433	1	EventStory::Build<EventStory.Pick>	in 	in a shallow grave
+10434	1	EventStory::Build<EventStory.Pick>		with his boots on
+10435	1	EventStory::Build<String.Concat>		, shot in the back as he ran
+10436	1	EventStory::Build<String.Concat>		, charging when he should have been crouching
+10437	1	EventStory::Build<String.Concat>		, too proud to run
+10438	1	EventStory::Build<String.Concat>		 (Debug: he lived.)
+10439	1	EventStory::Build<String.Concat>		 took a wound but walked away from it.
+10440	1	EventStory::Build<String.Concat>		 was hit and patched up afterwards - he'll carry that one.
+10441	1	EventStory::Build<String.Concat>		 came out of it bleeding, but alive.
+10442	1	EventStory::Build<WorldPart.get_Name>		A doctor dug lead out of 
+10443	1	EventStory::Build<String.Concat>		 that night.
+10444	1	EventStory::Build<String.Concat>		 made a name for himself that day.
+10445	1	EventStory::Build<WorldPart.get_Name>		Men are still telling how 
+10446	1	EventStory::Build<String.Concat>		 held his ground.
+10447	1	EventStory::Build<String.Concat>		 was the one they'll talk about - he didn't flinch.
+10448	1	EventStory::Build<WorldPart.get_Name>		If anyone came out of it better than they went in, it was 
+10449	1	EventStory::Build<String.Concat>		 ran. Nobody who saw it will let him forget.
+10450	1	EventStory::Build<String.Concat>		 was gone before the smoke cleared.
+10451	1	EventStory::Build<String.Concat>		 lit out at the first chance.
+10452	1	EventStory::Build<String.Concat>		, among others
+10453	1	EventStory::Build<String.Format>		{0} other men nobody bothered to name died with them.
+10454	1	EventStory::Build<String.Format>		Besides those, {0} more lay dead when it was done.
+10455	1	EventStory::Build<String.Format>	The 	The undertaker counted {0} more. Nobody came to claim them.
+10456	1	EventStory::Build<String.Concat>		 took the news hard.
+10457	1	EventStory::Build<String.Concat>		 heard and went quiet for a long while.
+10458	1	EventStory::Build<String.Concat>		 a day later. He hasn't been the same.
+10459	1	EventStory::Build<String.get_Length>		 carries 
+10460	1	EventStory::Build<String.Concat>		 from it now.
+10461	1	EventStory::Build<String.Concat>		 is grieving.
+10462	1	EventStory::Build<WorldPart.get_Name>		It left 
+10463	1	EventStory::Build<String.Concat>		 jumpier than he was.
+10464	1	EventStory::Build<String.Concat>		's standing changed because of it.
+10465	1	EventStory::Build<EventStory.Pick>	The 	The bodies are still out there for anyone who goes looking.
+10466	1	EventStory::Build<EventStory.Pick>		Nobody has cleared the ground yet.
+10467	1	EventStory::Build<EventStory.Pick>	The 	The buzzards found it before the law did.
+10468	1	EventStory::Build<EventStory.Pick>		Somebody will want to even the score.
+10469	1	EventStory::Build<EventStory.Pick>	The 	The next time these men meet, it'll be worse.
+10470	1	EventStory::Build<EventStory.Pick>		In this country a fight like that is never really finished.
+10471	1	EventStory::LifeOpen<String.Concat>		, this is what was going on with him.
+10472	1	EventStory::LifeOpen<EventStory.Pick>		even outlaws have the rest of their lives to live.
+10473	1	EventStory::Describe<NemesisRecord.get_Birthplace>		out of 
+10474	1	EventStory::SideName<String.Substring>		t
+10475	1	EventStory::TimeOfDay<EventStory.Pick>	in 	in the dead of night
+10476	1	EventStory::TimeOfDay<EventStory.Pick>		a little before dawn
+10477	1	EventStory::TimeOfDay<EventStory.Pick>	at 	at first light
+10478	1	EventStory::TimeOfDay<EventStory.Pick>		early in the morning
+10479	1	EventStory::TimeOfDay<EventStory.Pick>		as the sun came up
+10480	1	EventStory::TimeOfDay<EventStory.Pick>	in 	in the morning
+10481	1	EventStory::TimeOfDay<EventStory.Pick>		mid-morning
+10482	1	EventStory::TimeOfDay<EventStory.Pick>		before noon
+10483	1	EventStory::TimeOfDay<EventStory.Pick>		around noon
+10484	1	EventStory::TimeOfDay<EventStory.Pick>	in 	in the heat of the day
+10485	1	EventStory::TimeOfDay<EventStory.Pick>	at 	at midday
+10486	1	EventStory::TimeOfDay<EventStory.Pick>	in 	in the afternoon
+10487	1	EventStory::TimeOfDay<EventStory.Pick>		late in the afternoon
+10488	1	EventStory::TimeOfDay<EventStory.Pick>		while the sun was still high
+10489	1	EventStory::TimeOfDay<EventStory.Pick>		towards evening
+10490	1	EventStory::TimeOfDay<EventStory.Pick>		as the light was going
+10491	1	EventStory::TimeOfDay<EventStory.Pick>	at 	at sundown
+10492	1	EventStory::TimeOfDay<EventStory.Pick>		after dark
+10493	1	EventStory::TimeOfDay<EventStory.Pick>		late at night
+10494	1	EventStory::TimeOfDay<EventStory.Pick>	in 	in the evening
+10495	1	FactionContent::Hex<UInt32.ToString>		X8
+10496	1	FactionContent::Apply<JProperty.get_Name>		{0}: no name bank '{1}'
+10497	1	FactionContent::Apply<JProperty.get_Name>		unknown field '
+10498	1	FactionContent::Models<String.Concat>		no ped model '
+10499	1	FactionContent::FillNew<String.Concat>	the 	the head of the 
+10500	1	NemesisMod::ImportPlaces<DistrictRow.get_Key>		CONTENT places.json district 
+10501	1	NemesisMod::ImportPlaces<String.Concat>		CONTENT places.json: 
+10502	1	NemesisMod::ImportPlaces<String.Concat>		 isn't in the file - the built-in one is used
+10503	1	NemesisMod::AffiliateWronged<String.Concat>		 was a friend of theirs (
+10504	1	NemesisMod::AffiliateWronged<String.ToUpperInvariant>		FRIEND OF THE 
+10505	1	NemesisMod::AffiliateWronged<String.Concat>		 - word of it will reach them
+10506	1	NemesisMod::AffiliateWronged<String.Concat>		) wronged: 
+10507	1	NemesisMod::AgendaText<String.Concat>		more ground
+10508	1	NemesisMod::AgendaText<Agenda.get_Target>		break the 
+10509	3	NemesisMod::DailyAgendas<NemesisMod.AgendaText> ; NemesisMod::DailyAgendas<NemesisMod.AgendaText>		 means to 
+10510	3	NemesisMod::DailyAgendas<String.Concat> ; NemesisMod::RestoreSavePoint<SavePointMeta.get_When>		 from 
+10511	1	NemesisMod::DailyAgendas<String.Concat>		's aim
+10512	1	NemesisMod::DailyAgendas<String.Concat>		 takes up 
+10513	1	NemesisMod::DailyAgendas<String.Concat>		's fight
+10514	1	NemesisMod::DailyAgendas<String.Concat>		, as 
+10515	1	NemesisMod::DailyAgendas<String.Concat>		 did.
+10516	1	NemesisMod::DailyAgendas<String.Concat>		 has new plans for the 
+10517	1	NemesisMod::DailyAgendas<String.Concat>		 have what they wanted
+10518	1	NemesisMod::DailyAgendas<String.Concat>		No more trying to 
+10519	1	NemesisMod::DailyAgendas<String.Concat>		 - done. 
+10520	1	NemesisMod::DailyAgendas<NemesisMod.AgendaText>		Now he means to 
+10521	1	NemesisMod::AgendaLine<Gangs.get_All>		aims: 
+10522	4	NemesisMod::CrewRoll<NemesisRecord.get_Name> ; NemesisMod::CrewRoll<NemesisRecord.get_Name>		CREW 
+10523	1	NemesisMod::CrewRoll<String.Concat>		: Blood Feud - won't come without his friends
+10524	1	NemesisMod::CrewRoll<String.Concat>		his outfit is rich - one man more
+10525	1	NemesisMod::CrewRoll<String.Concat>		his outfit is broke - one man fewer
+10526	1	NemesisMod::CrewRoll<NemesisRecord.get_Name>		CREW {0}: his outfit has {1} men left - {2} with him, not {3}
+10527	1	NemesisMod::CrewRoll<NemesisRecord.get_Name>		CREW {0} (rank {1}{2}): {3} (usual {4})
+10528	1	NemesisMod::CrewRoll<NemesisRecord.get_Gang>		, loner
+10529	1	NemesisMod::CrewRoll<String.Concat>		 men
+10530	1	NemesisMod::KeepOutfit<NemesisRecord.get_Name>		OUTFIT {0}: 0x{1:X8} kept
+10531	1	NemesisMod::KeepOutfit<NemesisRecord.get_Name>		OUTFIT 
+10532	1	NemesisMod::SpawnFollowers<NemesisRecord.get_KinId>		 rides with his 
+10533	1	NemesisMod::SpawnFollowers<NemesisRecord.get_Name>		CREW {0} (rank {1}) rides with {2}; {3} hired gun(s)
+10534	1	NemesisMod::EnlistHiredGuns<NemesisRecord.get_Name>		JOINED {0}: hired gun -> {1} {2}  (hate {3}, under {4})
+10535	1	NemesisMod::EnlistHiredGuns<String.Join>		ENLIST 
+10536	1	NemesisMod::EnlistHiredGuns<String.Concat>		 lived through it. They ride with the gang now.
+10537	1	NemesisMod::EnlistHiredGuns<String.Concat>		 lived through it. He's riding with the gang now - and he knows your face.
+10538	1	NemesisMod::RefreshArmyNames<String.Concat>		 - this one is 
+10539	1	NemesisMod::RefreshArmyNames<String.Concat>		 now (kin keep their own surnames)
+10540	1	NemesisMod::SpawnArmyCrew<String.Concat>	the 	the Army is broke - one fewer
+10541	1	NemesisMod::SpawnArmyCrew<String.Concat>	the 	the Army is rich - one more trooper
+10542	1	NemesisMod::SpawnArmyCrew<String.ToUpperInvariant>		{0} crew for {1} (rank {2}): {3} named, {4} unnamed
+10543	1	NemesisMod::UpdateGeneral<NemesisMod.Fall>	killed	killed at Fort Wallace
+10544	1	NemesisMod::UpdateGeneral<String.Concat>		 is dead at Fort Wallace. The Army will never forget your name.
+10545	1	NemesisMod::UpdateGeneral<NemesisMod.GrudgeNotice>		Fort Wallace hideout cleared.
+10546	1	NemesisMod::UpdateGeneral<NemesisMod.HeadBone>		executed on the ground
+10547	1	NemesisMod::UpdateGeneral<NemesisMod.HeadBone>		a second shot to the head
+10548	1	NemesisMod::UpdateGeneral<Entity.get_Health>		ARMY fort: the commander took a shot to the head - health {0}
+10549	1	NemesisMod::UpdateGeneral<String.Concat>		ARMY fort: the commander - 
+10550	1	NemesisMod::OpenFortGates<String.Format>		ARMY fort gate {0}: in the door system, unlocking and opening
+10551	1	NemesisMod::SpawnFortHQ<String.Format>		his spot
+10552	1	NemesisMod::SpawnFortHQ<String.Format>		a scenario point
+10553	1	NemesisMod::SpawnFortHQ<NemesisMod.GrudgeNotice>		Fort Wallace is up in arms - they know who you are.
+10554	1	NemesisMod::FortNotMine<Random.Next>		Orders come down from Fort Wallace - that's all a man my rank hears.
+10555	1	NemesisMod::FortHedge<Random.Next>		He don't sleep where the men can find him. Nobody knows. Not even us.
+10556	1	NemesisMod::RevealFort<String.Concat>		 keeps his quarters at Fort Wallace - it's marked on your map
+10557	4	NemesisMod::RevealFort<String.Concat> ; NemesisMod::ConfessCamp<NemesisMod.OfficerTitle>	INTEL	INTEL: 
+10558	1	NemesisMod::RevealFort<String.Concat>		 holds Fort Wallace. It's marked on your map.
+10559	1	NemesisMod::RevealFort<String.Concat>		ARMY fort revealed by 
+10560	1	NemesisMod::RevealFort<String.Concat>		Fort Wallace. 
+10561	1	NemesisMod::RevealFort<String.Concat>		 runs the whole of it from the yard. You'd never get near him.
+10562	1	NemesisMod::RefreshFortBlip<NemesisMod.LeaderAsSaidBy>		Fort Wallace - 
+10563	1	NemesisMod::RefreshFortBlip<String.Concat>		's quarters
+10564	1	NemesisMod::Grace<String.Format>		CALM grace {0}s - {1}
+10565	1	NemesisMod::MapIconsForMission<Action..ctor>		map camps
+10566	1	NemesisMod::MapIconsForMission<Action..ctor>		map stashes
+10567	1	NemesisMod::MapIconsForMission<Action..ctor>		map caches
+10568	1	NemesisMod::MapIconsForMission<Action..ctor>		map plans
+10569	1	NemesisMod::MapIconsForMission<Action..ctor>		map wars
+10570	1	NemesisMod::MapIconsForMission<Action..ctor>		map fort
+10571	1	NemesisMod::MapIconsForMission<Action..ctor>		map town rep
+10572	1	NemesisMod::MapIconsForMission<Action..ctor>		map aftermath
+10573	1	NemesisMod::MapIconsForMission<Action..ctor>		map supply wagon
+10574	1	NemesisMod::UpdateCalm<NemesisMod.Grace>		just loaded
+10575	1	NemesisMod::UpdateCalm<NemesisMod.Grace>		fast travel / a long jump
+10576	1	NemesisMod::UpdateCalm<Action..ctor>		fast travel wipe
+10577	1	NemesisMod::UpdateCalm<Action..ctor>		companions go home
+10578	1	NemesisMod::UpdateCalm<Action..ctor>		hideout doors
+10579	1	NemesisMod::UpdateCalm<Action..ctor>		mission wipe
+10580	1	NemesisMod::UpdateCalm<Action..ctor>		map icons
+10581	1	NemesisMod::UpdateCalm<NemesisMod.Grace>		off the train
+10582	1	NemesisMod::UpdateCalm<NemesisMod.Grace>		after a fade (sleep, load)
+10583	1	NemesisMod::get_GangCamps<String.Format>		CALM dropped a gang camp inside a town at {0:0},{1:0} (Arthur's gang walking around town isn't a camp)
+10584	1	NemesisMod::AtGangCamp<String.Format>		CALM gang seen at {0:0},{1:0} - a camp if they're here again later
+10585	1	NemesisMod::AtGangCamp<NemesisMod.get_GangCamps>		CALM gang camp remembered at {0:0},{1:0} ({2} known)
+10586	1	NemesisMod::CheckGameEventNear<NemesisMod.NameOf>		GAMEEVENT {0} ({1}) {2:0} m off - no encounters of ours, and your shots aren't taken as an attack, while he's near (5 min at most)
+10587	1	NemesisMod::NoSpawnReason<Game.get_GameTime>	settling	settling in ({0}s, {1})
+10588	1	NemesisMod::NoSpawnReason<Entity.get_Position>	at 	at the gang's camp
+10589	1	NemesisMod::NoSpawnReason<String.Concat>		 (the game puts your guns away there)
+10590	1	NemesisMod::NoSpawnReason<PoolObject.get_Handle>		indoors
+10591	1	NemesisMod::NoSpawnReason<String.Concat>		one of the game's own events nearby (
+10592	2	NemesisMod::NoteQuietForScene<PoolObject.get_Handle> ; NemesisMod::NoteAimRefusal<Entity.get_Position>		a story character
+10593	1	NemesisMod::NoteQuietForScene<String.Format>		CALM a story scene with {0} ({1} s cutscene, no mission flag - a stranger mission?) - nothing new comes while he's about
+10594	1	NemesisMod::StoryScene<String.Concat>		CALM the story scene with 
+10595	2	NemesisMod::StoryScene<String.Concat> ; NemesisMod::WriteUp<String.Concat>		 is over
+10596	1	NemesisMod::StoryScene<String.Concat>		a story scene (
+10597	1	NemesisMod::LoadDoors<String.Format>		CONTENT doors.json: {0} doors
+10598	1	NemesisMod::UnlockHideout<CampSite.get_Label>		CAMPDOORS {0}: door {1} failed - {2}
+10599	1	NemesisMod::UnlockHideout<CampSite.get_Label>		CAMPDOORS {0}: {1} doors / gates unlocked ({2} registered by us)
+10600	1	NemesisMod::RefreshHideoutDoors<CampSite.get_Label>		CAMPDOORS {0}: {1} doors had locked again - unlocked
+10601	1	NemesisMod::RelockHideout<CampSite.get_Label>		CAMPDOORS {0}: {1} doors put back
+10602	1	NemesisMod::FindHideoutPoints<CampSite.get_Label>		CAMP {0}: {1} places for its men ({2} inside, {3} inside but not loaded yet, {4} in use) of {5} points
+10603	1	NemesisMod::CheckHideoutIndoors<CampSite.get_Label>		CAMP {0}: the house is loaded - {1} of his men inside ({2} walking the rooms)
+10604	1	NemesisMod::UpdateCampObjectives<String.Format>		crate{0:0}{1:0}
+10605	1	NemesisMod::UpdateCampObjectives<PoolObject.get_Handle>	horse	horse{0}
+10606	1	NemesisMod::UpdateCampObjectives<String.Format>		box{0:0}{1:0}
+10607	6	NemesisMod::UpdateCampObjectives<String.Concat> ; NemesisMod::OutfitPoss<String.Concat>		's
+10608	1	NemesisMod::UpdateCampObjectives<String.Concat>		 supply camp is broken - blow up their stores, shoot up their crates, take or wreck the wagon, run off their horses.
+10609	1	NemesisMod::UpdateCampObjectives<String.Concat>		 treasury is yours for the taking - rob the strongboxes.
+10610	1	NemesisMod::UpdateCampObjectives<String.Format>		OBJECTIVE {0}: {1} ({2} targets)
+10611	1	NemesisMod::UpdateCampObjectives<UiDraw.ForeverVarString>		Their horses
+10612	1	NemesisMod::UpdateCampObjectives<NemesisMod.ShowNotification>		Nothing left of their supplies here.
+10613	1	NemesisMod::UpdateCampObjectives<NemesisMod.ShowNotification>	The 	The strongboxes are empty.
+10614	1	NemesisMod::UpdateCampObjectives<String.Concat>		OBJECTIVE 
+10615	1	NemesisMod::UpdateCampObjectives<String.Concat>		: done
+10616	1	NemesisMod::CampPrompt<NemesisMod.AddRegard>		you said hello
+10617	1	NemesisMod::CampPrompt<NemesisMod.AddRegard>		you antagonized them
+10618	1	NemesisMod::CampPrompt<String.Format>		CAMP prompt type {0} on {1} - counted as a favour
+10619	2	NemesisMod::CampPrompt<NemesisMod.RegardOnce> ; NemesisMod::.cctor<campo RepPrefixes>		favour
+10620	1	NemesisMod::CampPrompt<NemesisMod.AddRegard>		you did what they asked (camp request)
+10621	1	NemesisMod::WetSite<CampSite.get_Label>		CAMP site {0} ({1}) is in the water ({2:0.0} m deep at {3:0},{4:0}) - no lie will point there
+10622	1	NemesisMod::SiteInTown<String.Concat>		) is in 
+10623	1	NemesisMod::SiteInTown<String.Concat>		 - never a supply camp
+10624	1	NemesisMod::AuditWetSites<Camps.get_AllSites>		CAMP water check: {0} of {1} camp sites are in the water
+10625	1	NemesisMod::CoolTempers<NemesisMod.RemoveRecord>		let it go (drifter cooled off)
+10626	1	NemesisMod::CoolTempers<String.Concat>		 has let it go. He won't come looking for you.
+10627	1	NemesisMod::BeginTakeover<CampSite.get_Label>		CAMPS {0}: the {1} can't hold it - {2} camps, {3} men{4}
+10628	1	NemesisMod::BeginTakeover<String.Format>		, under half strength
+10629	2	NemesisMod::BeginTakeover<CampSite.get_Label> ; NemesisMod::Weave<NemesisRecord.get_Name>		took 
+10630	1	NemesisMod::BeginTakeover<CampSite.get_Label>		CAMPS {0} ({1}): the {2} will take it ({3}) - empty for {4:0.0} game days
+10631	5	NemesisMod::BeginTakeover<CampSite.get_Label> ; NemesisMod::UpdateTakeovers<CampSite.get_Label>		CAMP 
+10632	1	NemesisMod::BeginTakeover<String.Concat>		 mean to move in (
+10633	1	NemesisMod::UpdateTakeovers<Gangs.ById>		 (their home stronghold - the 
+10634	1	NemesisMod::UpdateTakeovers<String.Concat>		 only had it because it stood empty)
+10635	1	NemesisMod::UpdateTakeovers<NemesisMod.OutfitPoss>		 is the 
+10636	1	NemesisMod::UpdateTakeovers<String.Concat>		 again
+10637	1	NemesisMod::UpdateTakeovers<CampSite.get_Label>		CAMPS {0}: the {1} can't hold it after all - {2} camps, {3} men
+10638	1	NemesisMod::UpdateTakeovers<String.Concat>		, and settled in
+10639	1	NemesisMod::TakeCamp<String.Concat>		 now (
+10640	1	NemesisMod::MoveIntoEmptySites<String.Concat>		old owners
+10641	1	NemesisMod::MoveIntoEmptySites<String.Concat>		 were gone
+10642	1	NemesisMod::FixTakeoverSpree<String.Format>		CAMPS called off {0} empty-camp takeovers from the old rule (it handed out a whole district at once)
+10643	1	NemesisMod::AssignCamps<CampSite.get_Label>		somewhere you don't know yet
+10644	1	NemesisMod::AssignCamps<CampSite.get_Label>		to 
+10645	1	NemesisMod::AssignCamps<String.Concat>		 - a place you know
+10646	1	NemesisMod::AssignCamps<NemesisRecord.get_Name>		where to, nobody says
+10647	4	NemesisMod::RetireSites<String.Concat> ; Holdings::PlaceSupplies<Holdings.From>		 have moved their supplies out of 
+10648	6	NemesisMod::RetireSites<String.Concat> ; Holdings::PlaceTreasuries<Holdings.From>		 have moved their money out of 
+10649	1	NemesisMod::RetireSites<String.Concat>		 isn't a camp any more (
+10650	1	NemesisMod::RetireSites<String.Concat>		) - its men, supplies and money go to the outfit's other camps
+10651	1	NemesisMod::RetiredNews<String.Concat>		HOLDINGS news (big): 
+10652	1	NemesisMod::UpdateCamps<String.Concat>		CAMPLOOK test camp 
+10653	1	NemesisMod::UpdateCamps<String.Concat>		 wiped out - nothing real changes
+10654	1	NemesisMod::UpdateCamps<NemesisRecord.get_Name>		CAMP {0}'s {1} cleared - empty for {2} day{3}
+10655	1	NemesisMod::UpdateCamps<NemesisRecord.get_Title>		STASH LOST
+10656	1	NemesisMod::UpdateCamps<NemesisRecord.get_Name>	You 	You wiped out 
+10657	1	NemesisMod::UpdateCamps<String.Concat>		 is cleared. Nobody will hold it for a while.
+10658	1	NemesisMod::ClearCampsTheMissionCleared<CampSite.get_Label>		CAMP {0}: a story mission went through it - cleared for {1} day{2}
+10659	1	NemesisMod::SpawnCamp<NemesisMod.DespawnUnguardedCache>		an officer took the site - the camp's own stores come
+10660	1	NemesisMod::SpawnCamp<String.Concat>		: in Saint Denis - just the men, no camp laid out
+10661	1	NemesisMod::SpawnCamp<NemesisRecord.get_Name>		CAMP {0}: {1} + {2} of his men named, {3} hired guns{4}
+10662	1	NemesisMod::SpawnCamp<String.Format>		 ({0} wait to go inside when the house is loaded)
+10663	1	NemesisMod::EngageCamp<String.Format>		CAMP engage: {0} getting up out of what they were doing to fight
+10664	1	NemesisMod::RevealCamp<NemesisRecord.get_Name>		It's true - 
+10665	1	NemesisMod::RevealCamp<String.Concat>		 is right where you were told.
+10666	1	NemesisMod::RevealCamp<NemesisMod.OfficerTitle>		You've found 
+10667	2	NemesisMod::RefreshCampBlips<String.Concat> ; NemesisMod::RefreshStashBlips<String.Concat>		 (robbed)
+10668	2	NemesisMod::RefreshCampBlips<String.Concat> ; NemesisMod::RefreshCacheBlips<String.Concat>		 (raided)
+10669	1	NemesisMod::RefreshCampBlips<String.Concat>		 (restocking)
+10670	1	NemesisMod::RefreshCampBlips<CampSite.get_Label>		CAMPS marker 
+10671	1	NemesisMod::TrackCamp<NemesisMod.OfficerTitle>		Route set: 
+10672	2	NemesisMod::CheckCampRoute<String.Concat> ; NemesisMod::CheckCampRoute<String.Concat>		 cleared - 
+10673	1	NemesisMod::LoadCampSites<String.Format>		CAMPSITE {0} site(s) in camps.json are built into the mod now - taken out of the file
+10674	1	NemesisMod::LoadCampSites<String.Format>		CAMPSITE dropped {0} learned site(s) at Fort Wallace - the fort is its own hideout
+10675	1	NemesisMod::AddCampSite<String.Concat>		 stronghold in 
+10676	1	NemesisMod::AddCampSite<CampSite.get_Label>		CAMPSITE {0}: {1} at {2:0},{3:0},{4:0}
+10677	1	NemesisMod::AddCampHere<NemesisMod.AddCampSite>		added by you
+10678	1	NemesisMod::AddCampHere<String.Concat>		No: O'Driscolls use the game's camps, max 6 per faction, 400 m apart.
+10679	1	NemesisMod::AddCampHere<String.Concat>		Camp site added for the 
+10680	1	NemesisMod::AddCampHere<String.Concat>		 here.
+10681	1	NemesisMod::LearnCampSites<String.Format>		{0} gathered at {1:0},{2:0} - a camp if they're there again in 10 minutes
+10682	1	NemesisMod::LearnCampSites<String.Concat>		CAMPSITE candidate: 
+10683	1	NemesisMod::LearnCampSites<NemesisMod.AddCampSite>		learned - his men gather here
+10684	1	NemesisMod::UpdateCampAwareness<String.Concat>		 found a body
+10685	1	NemesisMod::UpdateCampAwareness<String.Concat>		Wake up... WAKE UP! We got company!
+10686	1	NemesisMod::UpdateCampAwareness<String.Concat>		Oh God - he's dead! Someone's here!
+10687	1	NemesisMod::UpdateCampAwareness<PoolObject.get_Handle>		{0} sees you at {1:0} m ({2}, sight {3:0} m)
+10688	1	NemesisMod::UpdateCampAwareness<String.Concat>		's camp is suspicious (
+10689	1	NemesisMod::UpdateCampAwareness<NemesisRecord.get_Name>		{0}'s camp: suspicion {1:0}  ({2})  sight {3:0} m ({4})
+10690	1	NemesisMod::UpdateCampAwareness<String.Concat>		's camp alerted: 
+10691	1	NemesisMod::UpdateCampAwareness<String.Format>		CAMP alerted ({0}) at {1:0} m
+10692	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Out in the world
+10693	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		He and his men are found doing something (a fire, a smoke, a bottle, keeping watch, on the move). They see you, he squares up.
+10694	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Riders from behind
+10695	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		You're riding: they come up behind you on horses and run you down.
+10696	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Waiting on the road
+10697	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		You're riding: they wait ahead of you on the road and open up within 45 m.
+10698	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Sniper on the high ground
+10699	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		A murderous man takes the high ground with a rifle; only marked once he fires.
+10700	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Call-out in town
+10701	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		In town: idling somewhere until he spots you, then he walks over and squares up.
+10702	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		army-cavalry
+10703	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Cavalry
+10704	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		An Army officer rides with his troopers.
+10705	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		army-road
+10706	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Army on the road
+10707	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		A squad waits ahead on the road.
+10708	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		army-squad
+10709	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Army squad
+10710	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		A squad on patrol. The Army doesn't talk: once they see you, it's on.
+10711	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Faction skirmish
+10712	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		Two factions going at each other ahead of you.
+10713	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Patrol on the road
+10714	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		A patrol marches past (or raids a camp nearby).
+10715	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		wapiti-ridge
+10716	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Riders on the ridge
+10717	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		Wapiti riders sit their horses on high ground and watch you go by, then ride off. Get close, fire near them or wait them out and they leave; shoot one and they come down at you.
+10718	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		wapiti-patrol
+10719	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Wapiti patrol
+10720	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		Rarely, a few Wapiti riders cross their country. They leave you be unless you give them a reason - and they keep clear of gunfire.
+10721	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		wapiti-band
+10722	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Wapiti war party
+10723	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		Once you've given them a reason: a war party of a named warrior and his men, found in their country.
+10724	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		wapiti-riders
+10725	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Wapiti riders
+10726	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		Once you've given them a reason: they ride you down.
+10727	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		war-warband
+10728	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Warband
+10729	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		In a war zone: riders of one side go past you to hit the other. Follow them and the fight is there.
+10730	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		war-ambush
+10731	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Ambush in progress
+10732	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		In a war zone: one side waits by a road ahead for the other's riders. Warn them, join in or ride on.
+10733	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		war-aftermath
+10734	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Just after
+10735	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		In a war zone: you come upon a fight that has just ended - the dead, and the men still standing.
+10736	2	NemesisMod::BuiltInCards<EncounterCard.set_Title> ; NemesisMod::SpawnItems<Action..ctor>		Bounty hunters
+10737	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		A rich man who won't come himself pays bounty hunters. Disable to stop it.
+10738	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Up the road on a wagon
+10739	1	NemesisMod::BuiltInCards<EncounterCard.set_History>		CAME UP THE ROAD on a wagon ({place})
+10740	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		He drives a wagon (a stagecoach if he's rich or an officer) up the road toward you, his men aboard. He climbs down when he sees you.
+10741	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		arc-ko-revenge
+10742	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Back with friends
+10743	1	NemesisMod::BuiltInCards<EncounterCard.set_History>		CAME BACK WITH MORE MEN after you knocked him out ({place})
+10744	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>	You 	You knocked him out last time: he comes back with more men, no talking.
+10745	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		arc-back-from-dead
+10746	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Back from the dead
+10747	1	NemesisMod::BuiltInCards<EncounterCard.set_History>		CAME BACK FROM THE DEAD for you ({place})
+10748	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>	You 	You left him for dead: he walks up to show you the scar.
+10749	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		arc-squared
+10750	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Squaring it
+10751	1	NemesisMod::BuiltInCards<EncounterCard.set_History>		CAME TO SQUARE IT with you - no fight ({place})
+10752	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		He surrendered / backed down last time: he comes alone, says his piece and goes - unless you start it.
+10753	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		arc-runner
+10754	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Tired of chasing
+10755	1	NemesisMod::BuiltInCards<EncounterCard.set_History>		RODE YOU DOWN after you got away twice ({place})
+10756	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		He got away from you twice running: he brings riders.
+10757	1	NemesisMod::BuiltInCards<EncounterCard.set_Id>		arc-killer
+10758	1	NemesisMod::BuiltInCards<EncounterCard.set_Title>		Again?
+10759	1	NemesisMod::BuiltInCards<EncounterCard.set_History>		WAITED ON THE ROAD - he killed you last time ({place})
+10760	1	NemesisMod::BuiltInCards<EncounterCard.set_Notes>		He killed you last time: he waits on the road, cocky.
+10761	1	NemesisMod::LoadCards<CardFile.set_About>		Encounter Cards (NemesisMod.Cards.cs). These are the mod's own encounters - edit them, or add cards in any other .json file here. Stage: idle / callout / riders / ahead / sniper (a nemesis + his men) or skirmish / patrol / hunters (the world's). When: Place wild/town/any, Mounted, Tiers, Intents, Factions (ids, 'loner'), NotFactions, Tempers, MinRank/MaxRank, Hours [from,to], Regions north/south/other, MinNotoriety, MinHate, KilledYou. Weight (or IniWeight = an [Encounters] key), Chance % for world stages, CooldownMinutes, Cast.Crew [min,max], Taunts (lines, {name}), Voice, Standoff, StandoffSeconds, SightRange, Activity ('patrol' or a scenario), BackDownHate, History.
+10762	1	NemesisMod::LoadCards<CardFile.set_About>		Examples of your own cards - set Enabled to true to try them. Copy one into a new .json file to make your own.
+10763	1	NemesisMod::LoadCards<EncounterCard.set_Id>		night-ambush
+10764	1	NemesisMod::LoadCards<EncounterCard.set_Title>		Night ambush
+10765	1	NemesisMod::LoadCards<EncounterCard.set_Notes>		After dark a murderous man waits with more men, sees less far, and doesn't talk.
+10766	1	NemesisMod::LoadCards<EncounterCard.set_Id>		saloon-drunk
+10767	1	NemesisMod::LoadCards<EncounterCard.set_Title>		Drunk and sore
+10768	1	NemesisMod::LoadCards<EncounterCard.set_Notes>		Evenings in town: a resentful man who's been drinking takes his time - and cools off more if you talk him down.
+10769	5	NemesisMod::LoadCards<EncounterCard.get_Id> ; NemesisMod::RunWorldCards<EncounterCard.get_Id>		CARD 
+10770	1	NemesisMod::LoadCards<EncounterCard.get_Stage>		: unknown stage '
+10771	1	NemesisMod::LoadCards<String.Concat>		' - it will never play
+10772	1	NemesisMod::CardBlock<EncounterCard.get_TensionMin>		tension under {0:0}
+10773	1	NemesisMod::CardBlock<EncounterCard.get_TensionMax>		tension over {0:0}
+10774	1	NemesisMod::CardBlock<String.Format>		hours {0}-{1}
+10775	1	NemesisMod::CardBlock<CardWhen.get_Regions>		region 
+10776	1	NemesisMod::CardBlock<CardWhen.get_Weather>		weather 
+10777	1	NemesisMod::CardBlock<EncounterCard.get_CooldownMinutes>		cooling {0} min
+10778	1	NemesisMod::CardBlock<Gangs.get_Era>		gone by 
+10779	1	NemesisMod::CardBlock<CardWhen.get_Factions>		factions 
+10780	1	NemesisMod::CardBlock<String.Concat>		not 
+10781	1	NemesisMod::CardBlock<CardWhen.get_Tiers>		tier 
+10782	1	NemesisMod::CardBlock<CardWhen.get_Intents>		intent 
+10783	1	NemesisMod::CardBlock<CardWhen.get_Tempers>		temper 
+10784	1	NemesisMod::CardBlock<CardWhen.get_MinRank>	rank	rank {0}+
+10785	1	NemesisMod::CardBlock<CardWhen.get_MaxRank>	rank	rank <= {0}
+10786	1	NemesisMod::CardBlock<CardWhen.get_MinHate>	hate	hate {0}+
+10787	1	NemesisMod::CardBlock<CardWhen.get_LastOutcome>		last time: 
+10788	1	NemesisMod::CardBlock<CardWhen.get_MinArcStep>		{0}x in a row
+10789	1	NemesisMod::CardBlock<CardWhen.get_MinNotoriety>		notoriety {0}+
+10790	2	NemesisMod::PickCard<String.Format> ; NemesisMod::PickCard<NemesisRecord.get_HateTier>		, riding
+10791	1	NemesisMod::PickCard<NemesisRecord.get_Name>		no card fits {0} ({1}{2}, {3})
+10792	1	NemesisMod::PickCard<EncounterCard.get_Id>		card {0} for {1} ({2} fit: {3})
+10793	1	NemesisMod::RunWorldCards<String.Concat>		: patrol on the road
+10794	1	NemesisMod::RunWorldCards<String.Concat>		: riders on a ridge
+10795	1	NemesisMod::RunWorldCards<String.Concat>		skirmish: 
+10796	1	NemesisMod::RunWorldCards<String.Concat>		) played
+10797	1	NemesisMod::MakeSure<NemesisRecord.get_FullName>		MADE SURE of 
+10798	1	NemesisMod::MakeSure<String.Concat>		 (no notice - user 2026-10-08: just make it happen)
+10799	1	NemesisMod::ResolveNemesisDeath<NemesisRecord.get_Name>	killed	killed {0}, rank {1}
+10800	1	NemesisMod::ResolveNemesisDeath<String.Concat>		 killed
+10801	1	NemesisMod::ResolveNemesisDeath<NemesisMod.GainRankXp>		cheated death - carries your scar
+10802	1	NemesisMod::ResolveNemesisDeath<NemesisRecord.get_Scars>		you nearly killed him - 
+10803	1	NemesisMod::ResolveNemesisDeath<String.Concat>		a scar to remember it by
+10804	3	NemesisMod::ResolveNemesisDeath<NemesisRecord.get_Scars> ; NemesisMod::ResolveNemesisDeath<NemesisRecord.get_Scars>		 - he lived: 
+10805	1	NemesisMod::ResolveNemesisDeath<NemesisRecord.get_Scars>		YOU LEFT HIM FOR DEAD near 
+10806	1	NemesisMod::ResolveNemesisDeath<String.Concat>		 (finished off)
+10807	1	NemesisMod::ResolveNemesisDeath<String.Concat>		 (fatal wound)
+10808	1	NemesisMod::ResolveNemesisDeath<String.Concat>		 (headshot)
+10809	1	NemesisMod::ResolveNemesisDeath<WorldPart.set_Note>		finished off
+10810	1	NemesisMod::ResolveNemesisDeath<WorldPart.set_Note>		a fatal wound
+10811	1	NemesisMod::ResolveNemesisDeath<WorldPart.set_Note>		headshot
+10812	1	NemesisMod::ResolveNemesisDeath<NemesisRecord.get_Gang>		{0} notoriety +{1}
+10813	3	NemesisMod::ResolveNemesisDeath<NemesisRecord.get_Name> ; NemesisMod::RememberMaskedKill<NemesisRecord.get_Name>	You 	You killed 
+10814	3	NemesisMod::ResolveNemesisDeath<String.Concat> ; NemesisMod::LoreMenSeen<String.Concat>		 is dead.
+10815	1	NemesisMod::KillerDesc<String.Concat>		other side
+10816	1	NemesisMod::KinReact<Tie.get_Strength>		, tie {0}
+10817	1	NemesisMod::KinReact<NemesisRecord.get_Name>		you killed his 
+10818	1	NemesisMod::KinReact<NemesisRecord.get_Name>		avenge his 
+10819	2	NemesisMod::KinReact<NemesisRecord.get_Name> ; NemesisMod::RevealKin<Traits.Inverse>		FRIEND
+10820	1	NemesisMod::KinReact<NemesisRecord.get_Hate>		 died: hate 
+10821	6	NemesisMod::KinReact<NemesisRecord.get_Fear> ; NemesisMod::UpdateGrudges<NemesisRecord.get_Fear>		  fear 
+10822	1	NemesisMod::KinReact<String.Concat>		. He's coming for blood.
+10823	1	NemesisMod::KinReact<String.Concat>		. He's afraid he's next.
+10824	1	NemesisMod::GriefReaction<NemesisMod.<GriefReaction>g__F|338_1>	scar	scared
+10825	1	NemesisMod::GriefReaction<NemesisMod.<GriefReaction>g__H|338_0>		nothing to lose
+10826	1	NemesisMod::ScarFromWound<String.Substring>		burn scars over his 
+10827	1	NemesisMod::ScarFromWound<String.Substring>		shrapnel scars in his 
+10828	1	NemesisMod::ScarFromWound<String.Concat>		a bullet scar over his 
+10829	1	NemesisMod::ScarFromWound<String.Concat>		 lung
+10830	1	NemesisMod::ScarFromWound<String.Concat>		 leg that healed crooked
+10831	1	NemesisMod::ScarFromWound<String.Concat>		 arm that never set right
+10832	1	NemesisMod::TryRoadBlock<String.Format>		CHECKPOINT road roll in {0} (heat {1:0}): 30%, rolled {2} - not now
+10833	1	NemesisMod::TryRoadBlock<String.Concat>		CHECKPOINT road: no road out of your view 140-220 m ahead in 
+10834	1	NemesisMod::CheckpointMan<String.Concat>		checkpoint man 
+10835	1	NemesisMod::BuildRoadblock<String.Concat>		: nobody spawned
+10836	1	NemesisMod::BuildRoadblock<String.Concat>		 roadblock (debug)
+10837	1	NemesisMod::RunRoadblock<String.Concat>		: a fight at the roadblock - you hurt one of them
+10838	1	NemesisMod::RunRoadblock<String.Concat>		: the roadblock opened fire - their outfit is after you
+10839	1	NemesisMod::RunRoadblock<String.Concat>		 man: I said turn back!
+10840	1	NemesisMod::RunRoadblock<String.Concat>		: you rode through after they turned you back

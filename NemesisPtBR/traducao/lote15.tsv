@@ -1,0 +1,837 @@
+id	usos	contexto	prefixo_fixo	texto
+15041	1	StoryGang::Build<StoryGang.Q>		Anger 15 Bravery 20 Greed 45 Loyalty 55 Pride 40 Honesty 20 Piety 10 Cruelty 10 Humour 80 Ambition 5
+15042	1	StoryGang::Build<StoryGang.Q>		Family 0 Gang 2 Money 1 Honour 0 Law -1 God 0
+15043	1	StoryGang::Build<StoryGang.Q>		Drink 85 Company 70 Faith 5 Money 40 Violence 5
+15044	1	StoryGang::Build<StoryGang.Q>		Anger 15 Bravery 30 Greed 20 Loyalty 65 Pride 35 Honesty 55 Piety 60 Cruelty 5 Humour 55 Ambition 10
+15045	1	StoryGang::Build<StoryGang.Q>		Family 0 Gang 2 Money 0 Honour 1 Law 0 God 2
+15046	1	StoryGang::Build<StoryGang.Q>		Drink 85 Company 55 Faith 60 Money 20 Violence 0
+15047	1	StoryGang::Build<Array.Empty>		Anger 20 Bravery 45 Greed 55 Loyalty 50 Pride 70 Honesty 30 Piety 15 Cruelty 10 Humour 80 Ambition 40
+15048	1	StoryGang::Build<Array.Empty>		Family 2 Gang 1 Money 2 Honour 1 Law -1 God 0
+15049	1	StoryGang::Build<Array.Empty>		Drink 35 Company 70 Faith 5 Money 55 Violence 5
+15050	1	StoryGang::Build<StoryGang.Q>		Anger 55 Bravery 70 Greed 20 Loyalty 75 Pride 70 Honesty 70 Piety 20 Cruelty 10 Humour 55 Ambition 40
+15051	1	StoryGang::Build<StoryGang.Q>		Family 3 Gang 1 Money 1 Honour 2 Law -1 God 0
+15052	1	StoryGang::Build<StoryGang.Q>		Drink 20 Company 55 Faith 10 Money 40 Violence 5
+15053	1	StoryGang::Build<Array.Empty>		Child
+15054	1	StoryGang::Build<Array.Empty>		Anger 10 Bravery 70 Greed 10 Loyalty 70 Pride 20 Honesty 85 Piety 15 Cruelty 0 Humour 50 Ambition 20
+15055	1	StoryGang::Build<Array.Empty>		Family 3 Gang 1 Money 0 Honour 1 Law 0 God 0
+15056	1	StoryGang::Build<Array.Empty>		Drink 0 Company 60 Faith 5 Money 0 Violence 0
+15057	1	StoryGang::Build<StoryGang.Q>		Anger 35 Bravery 65 Greed 20 Loyalty 80 Pride 55 Honesty 70 Piety 20 Cruelty 10 Humour 60 Ambition 40
+15058	1	StoryGang::Build<StoryGang.Q>		Family 1 Gang 3 Money 0 Honour 2 Law -1 God 0
+15059	1	StoryGang::Build<StoryGang.Q>		Drink 20 Company 70 Faith 10 Money 25 Violence 10
+15060	1	StoryGang::Build<Array.Empty>		Anger 15 Bravery 45 Greed 25 Loyalty 75 Pride 40 Honesty 60 Piety 35 Cruelty 5 Humour 65 Ambition 55
+15061	1	StoryGang::Build<Array.Empty>		Family 1 Gang 2 Money 1 Honour 2 Law -1 God 1
+15062	1	StoryGang::Build<Array.Empty>		Drink 10 Company 65 Faith 30 Money 30 Violence 0
+15063	1	StoryGang::Build<Array.Empty>		Anger 60 Bravery 40 Greed 35 Loyalty 55 Pride 80 Honesty 50 Piety 20 Cruelty 20 Humour 35 Ambition 50
+15064	1	StoryGang::Build<Array.Empty>		Family 1 Gang 1 Money 1 Honour 1 Law -1 God 0
+15065	1	StoryGang::Build<Array.Empty>		Drink 50 Company 80 Faith 15 Money 35 Violence 5
+15066	1	StoryGang::Build<StoryGang.Q>		Anger 20 Bravery 30 Greed 20 Loyalty 50 Pride 25 Honesty 60 Piety 20 Cruelty 10 Humour 35 Ambition 15
+15067	1	StoryGang::Build<StoryGang.Q>		Family 0 Gang 1 Money 0 Honour 1 Law 0 God 0
+15068	1	StoryGang::Build<StoryGang.Q>		Drink 20 Company 60 Faith 15 Money 20 Violence 5
+15069	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		his oldest friend
+15070	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		raised him
+15071	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		saved him from the rope
+15072	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		his new favourite
+15073	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		his woman
+15074	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		his woman, once
+15075	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		like a son
+15076	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		brothers who don't always get on
+15077	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		can't stand him
+15078	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		trusts him
+15079	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		looks out for him
+15080	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		they read
+15081	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>	the 	the mother of his son
+15082	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		his son
+15083	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		her son
+15084	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		brought her in
+15085	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		believes in him
+15086	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		owes him everything
+15087	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		taught her to read
+15088	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		saved his life once
+15089	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		old friends
+15090	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		runs the camp together
+15091	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		an O'Driscoll in camp
+15092	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		drinking partners
+15093	1	StoryGang::Build<StoryGang.<Build>g__Tie|5_0>		rode in together
+15094	1	Taunts::Ambush<NemesisRecord.get_LastDefeatLocation>	You 	You left me for dead in 
+15095	1	Taunts::Ambush<String.Concat>		. Shoulda checked.
+15096	1	Taunts::Ambush<NemesisRecord.get_KillLocation>		Shoulda kept your mouth shut in 
+15097	1	Taunts::Ambush<NemesisRecord.get_KillLocation>		Still got somethin' to say? Said plenty in 
+15098	1	Taunts::Ambush<NemesisRecord.get_KillLocation>		Tipped your hat to me in 
+15099	1	Taunts::Ambush<String.Concat>		. Manners won't save you twice.
+15100	1	Taunts::Ambush<String.Concat>		 sends his regards.
+15101	1	Taunts::Ambush<String.Concat>		boys
+15102	1	Taunts::Ambush<String.Concat>		 never forget a Van der Linde.
+15103	1	Taunts::Ambush<NemesisRecord.get_KillLocation>	You 	You shot me in 
+15104	1	Taunts::Ambush<String.Concat>		 and didn't finish the job. I will.
+15105	1	Taunts::Ambush<NemesisRecord.get_KillLocation>	You 	You opened me up in 
+15106	1	Taunts::Ambush<String.Concat>		. Stitches held. Let's see if yours do.
+15107	1	Taunts::Ambush<NemesisRecord.get_KillLocation>	You 	You killed my horse in 
+15108	1	Taunts::Ambush<String.Concat>		. Best friend I ever had.
+15109	1	Taunts::Ambush<NemesisRecord.get_KillLocation>		Hogtied me like a calf in 
+15110	1	Taunts::Ambush<String.Concat>		. Rope burns ain't healed.
+15111	1	Taunts::Ambush<NemesisRecord.get_KillLocation>		Robbed me blind in 
+15112	1	Taunts::Ambush<String.Concat>		. Came to collect, with interest.
+15113	1	Taunts::Ambush<NemesisRecord.get_KillLocation>		Woke up face-down in the mud in 
+15114	1	Taunts::Ambush<String.Concat>		. Your turn to sleep.
+15115	1	Taunts::Ambush<NemesisRecord.get_KillLocation>	You 	You beat me like a dog in 
+15116	1	Taunts::Ambush<String.Concat>		. I been practicin'.
+15117	1	Taunts::Ambush<NemesisRecord.get_KillLocation>		All that big talk in 
+15118	1	Taunts::Ambush<String.Concat>		... let's finish it.
+15119	1	Taunts::Ambush<NemesisRecord.get_TimesKilledPlayer>		I've put you in the dirt {0} times, boy.
+15120	1	Taunts::Ambush<NemesisRecord.get_KillLocation>		Thought I'd forget 
+15121	1	Taunts::Ambush<String.Concat>		? I don't forget nothin'.
+15122	1	Taunts::Ambush<NemesisRecord.get_KillLocation>		Remember 
+15123	1	Taunts::Ambush<String.Concat>		? I don't miss twice.
+15124	1	TelegramLines::Pick<String.Concat>		MR BRONTE'S
+15125	1	Theme::Header<Theme.GlyphWidth>		HOLD  SEARCH
+15126	1	Theme::NotorietyBand<String.Format>		{0} / 100  -  they will never forget you
+15127	1	Theme::GroundRow<String.Format>		GROUND: in {0} districts
+15128	1	Traits::Roll<NemesisRecord.get_Id>		Jim
+15129	1	Traits::Roll<Random.Next>		 called 
+15130	1	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0>		gentleman
+15131	1	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0>		banker
+15132	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		richtraveller
+15133	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		nun
+15134	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		minister
+15135	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		cardplayer
+15136	5	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::ManFromModel<ValueTuple`2..ctor>		miner
+15137	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		wrangler
+15138	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		labourer
+15139	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		worker
+15140	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		bivworker
+15141	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		homeless
+15142	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		lowersd
+15143	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		outlaw
+15144	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		thug
+15145	2	Traits::ManFromModel<Traits.<ManFromModel>g__Has|6_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		bwmtown
+15146	1	Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		socialite
+15147	1	Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		saloongirl
+15148	1	Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		burlesque
+15149	2	Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0> ; Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		singer
+15150	1	Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		hillbilly
+15151	1	Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		market
+15152	1	Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		vendor
+15153	1	Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		seller
+15154	1	Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		passenger
+15155	1	Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		traveler
+15156	1	Traits::WomanFromModel<Traits.<WomanFromModel>g__Has|14_0>		strtown
+15157	2	UiDraw::Glyph<String.Concat> ; UiDraw::TextFont<String.Concat>		</FONT>
+15158	1	UiDraw::TextFont<String.Concat>		<U>
+15159	1	UiDraw::TextFont<String.Concat>		</U>
+15160	1	UiFeed::Tick<String.Concat>		FEED toast posting: 
+15161	1	WelcomeGuide::DrawWarning<Theme.Section>		WHAT TO DO
+15162	4	WelcomeGuide::DrawWarning<Theme.CapsWidth> ; WelcomeGuide::DrawWarning<Theme.CapsWidth>		UNDERSTOOD
+15163	1	WelcomeGuide::Capture<KeyCombo.Name>		Menu key: 
+15164	6	WelcomeGuide::DrawSetup<Theme.CapsWidth> ; WelcomeGuide::DrawSetup<Theme.CapsWidth>		SETTINGS
+15165	2	WelcomeGuide::DrawSetup<Theme.MixedWidth> ; WelcomeGuide::DrawSetup<Theme.MixedWidth>		Change any of it later in the settings.
+15166	1	WelcomeGuide::DrawWhatsNew<String.Concat>		Version 
+15167	4	WelcomeGuide::DrawWhatsNew<Theme.CapsWidth> ; WelcomeGuide::DrawWhatsNew<Theme.CapsWidth>		CONTINUE
+15168	1	WelcomeGuide::Draw<Theme.Footer>		Enter  Start Playing     Backspace  Close
+15169	1	WelcomeGuide::Draw<Theme.Footer>		A  Start Playing     B  Close
+15170	2	WelcomeGuide::Draw<String.Concat> ; WelcomeGuide::Draw<String.Concat>		Next
+15171	2	WelcomeGuide::Draw<String.Concat> ; WelcomeGuide::Draw<String.Concat>		Start Playing
+15172	1	WelcomePics::Factions<WelcomePics.TitleC>		EIGHT OUTFITS - EACH WITH ITS OWN RANKS, CAMPS, LEADER AND WARS
+15173	1	WelcomePics::Hierarchy<WelcomePics.Card>	Maj.	Maj. Stockton
+15174	1	WelcomePics::Hierarchy<WelcomePics.Card>	Capt.	Capt. Rourke
+15175	1	WelcomePics::Hierarchy<WelcomePics.BodyC>		Unknown - Noticed - Wanted - Hunted - Blood Feud
+15176	1	WelcomePics::Hierarchy<WelcomePics.BodyC>		kill their men and they learn your name
+15177	1	WelcomePics::Tension<Theme.Tag>		DRAW / SHOOT
+15178	1	WelcomePics::Interrogate<WelcomePics.get_RealGold>	scar	scared enough to talk
+15179	2	WelcomePics::Camps<UiDraw.EnsureTextureDict> ; WelcomePics::Camps<UiDraw.get_Aspect>		blips
+15180	1	WelcomePics::Camps<WelcomePics.BodyC>		crouch, come at night or in fog, stay out of sight
+15181	1	WelcomePics::World<WelcomePics.BodyC>		Bayou Nwa: Lemoyne Raiders vs Bronte Family
+15182	1	WelcomePics::NameCard<WelcomePics.TitleC>		Silas Boone
+15183	1	WelcomePics::NameCard<WelcomePics.TitleC>		Hothead - Valentine
+15184	1	WorldLife::.cctor<LifeEvent..ctor>	laid up	laid up with a fever
+15185	1	WorldLife::.cctor<LifeEvent..ctor>		a cough that won't quit
+15186	1	WorldLife::.cctor<Array.Empty>		{n} broke two fingers falling off a fence
+15187	1	WorldLife::.cctor<Array.Empty>		two splinted fingers
+15188	1	WorldLife::.cctor<LifeEvent..ctor>		a back that aches from the fall
+15189	1	WorldLife::.cctor<LifeEvent..ctor>		a swollen leg from a snakebite
+15190	1	WorldLife::.cctor<Array.Empty>		{n} nearly drowned crossing a river
+15191	1	WorldLife::.cctor<Array.Empty>		nearly drowned crossing a river
+15192	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the cold of the mountains
+15193	1	WorldLife::.cctor<LifeEvent..ctor>		a sunstroke headache
+15194	1	WorldLife::.cctor<Array.Empty>		{n} had a rotten tooth pulled in {t}
+15195	1	WorldLife::.cctor<Array.Empty>		a sore jaw
+15196	1	WorldLife::.cctor<LifeEvent..ctor>		a gut that's still not right
+15197	1	WorldLife::.cctor<LifeEvent..ctor>		a gap in his teeth
+15198	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the beating in {t}
+15199	1	WorldLife::.cctor<Array.Empty>		{n} cut his hand open skinning a deer
+15200	1	WorldLife::.cctor<Array.Empty>		a bandaged hand
+15201	1	WorldLife::.cctor<Array.Empty>		{n} had nightmares about the men he's killed
+15202	1	WorldLife::.cctor<Array.Empty>		bad dreams
+15203	1	WorldLife::.cctor<Array.Empty>	aggr<	aggr<60
+15204	1	WorldLife::.cctor<Array.Empty>		{n} brought down a big buck
+15205	1	WorldLife::.cctor<Array.Empty>	the 	the biggest buck he's ever shot
+15206	1	WorldLife::.cctor<Array.Empty>		{n} drove off a wolf pack alone
+15207	1	WorldLife::.cctor<Array.Empty>	the 	the wolves he drove off
+15208	1	WorldLife::.cctor<Array.Empty>		{n} spent a night lost in the woods
+15209	1	WorldLife::.cctor<Array.Empty>		a night lost in the woods
+15210	1	WorldLife::.cctor<Array.Empty>		{n} saw a ghost on the road at night - or says he did
+15211	1	WorldLife::.cctor<Array.Empty>		something he saw on the road at night
+15212	1	WorldLife::.cctor<Array.Empty>		{n} found a gold nugget in a creek
+15213	1	WorldLife::.cctor<Array.Empty>		a gold nugget in his pocket
+15214	1	WorldLife::.cctor<Array.Empty>		{n} was robbed on the road
+15215	1	WorldLife::.cctor<Array.Empty>		being robbed on the road
+15216	1	WorldLife::.cctor<Array.Empty>		{n} watched a man die of fever
+15217	1	WorldLife::.cctor<Array.Empty>		a dying man's face
+15218	1	WorldLife::.cctor<Array.Empty>		{n} buried a stranger by the road
+15219	1	WorldLife::.cctor<Array.Empty>		a grave by the road
+15220	1	WorldLife::.cctor<Array.Empty>		{n} helped a family whose wagon broke down
+15221	1	WorldLife::.cctor<Array.Empty>		helping a stranded family
+15222	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the stray dog that follows him
+15223	1	WorldLife::.cctor<LifeEvent..ctor>		his dog, dead
+15224	1	WorldLife::.cctor<Array.Empty>		{n} slept rough under the stars
+15225	1	WorldLife::.cctor<Array.Empty>		a cold night outdoors
+15226	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the hanging in {t}
+15227	1	WorldLife::.cctor<Array.Empty>		{n} won a horse race outside {t}
+15228	1	WorldLife::.cctor<Array.Empty>		winning the horse race
+15229	1	WorldLife::.cctor<Array.Empty>		{n} bought a new horse
+15230	1	WorldLife::.cctor<Array.Empty>		his new horse
+15231	1	WorldLife::.cctor<Array.Empty>		{n}'s horse went lame and had to be shot
+15232	1	WorldLife::.cctor<Array.Empty>		having to shoot his horse
+15233	1	WorldLife::.cctor<Array.Empty>		{n} bought a new hat in {t}
+15234	1	WorldLife::.cctor<Array.Empty>		a fine new hat
+15235	1	WorldLife::.cctor<Array.Empty>		{n} got a shave and a hot bath in {t}
+15236	1	WorldLife::.cctor<Array.Empty>		a hot bath
+15237	1	WorldLife::.cctor<Array.Empty>		{n} had his photograph taken in {t}
+15238	1	WorldLife::.cctor<Array.Empty>		his photograph
+15239	1	WorldLife::.cctor<Array.Empty>		{n} drank {t} dry
+15240	1	WorldLife::.cctor<Array.Empty>		a long night in {t}
+15241	1	WorldLife::.cctor<Array.Empty>		{n} drank alone in {t} for three days
+15242	1	WorldLife::.cctor<Array.Empty>		{n} swore off drink
+15243	1	WorldLife::.cctor<Array.Empty>		staying sober
+15244	1	WorldLife::.cctor<Array.Empty>		{n} fell off the wagon - drinking again
+15245	1	WorldLife::.cctor<Array.Empty>	the 	the bottle again
+15246	1	WorldLife::.cctor<Array.Empty>		{n} won big at poker in {t}
+15247	1	WorldLife::.cctor<Array.Empty>		a fat poker pot
+15248	1	WorldLife::.cctor<Array.Empty>		{n} lost his money at cards in {t}
+15249	1	WorldLife::.cctor<Array.Empty>		losing at cards
+15250	1	WorldLife::.cctor<Array.Empty>		{n} lost his horse in a card game in {t}
+15251	1	WorldLife::.cctor<Array.Empty>		losing his horse at cards
+15252	1	WorldLife::.cctor<Array.Empty>		{n} won an arm-wrestling match in {t}
+15253	1	WorldLife::.cctor<Array.Empty>		beating the big man at arm-wrestling
+15254	1	WorldLife::.cctor<Array.Empty>		{n} won a shooting contest in {t}
+15255	1	WorldLife::.cctor<Array.Empty>	the 	the shooting contest he won
+15256	1	WorldLife::.cctor<Array.Empty>		{n} lost a shooting contest in {t}
+15257	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<Array.Empty>		losing the shooting contest
+15258	1	WorldLife::.cctor<Array.Empty>		{n} got into a shouting match in {t}
+15259	1	WorldLife::.cctor<Array.Empty>	the 	the shouting match in {t}
+15260	1	WorldLife::.cctor<Array.Empty>		{n} was run out of the {t} saloon
+15261	1	WorldLife::.cctor<Array.Empty>		being run out of the saloon
+15262	1	WorldLife::.cctor<LifeEvent..ctor>		a night in the cells
+15263	1	WorldLife::.cctor<Array.Empty>		{n} was fined by the {t} sheriff
+15264	1	WorldLife::.cctor<Array.Empty>	the 	the sheriff's fine
+15265	1	WorldLife::.cctor<Array.Empty>		{n} talked his way out of an arrest in {t}
+15266	1	WorldLife::.cctor<Array.Empty>		fooling the sheriff
+15267	1	WorldLife::.cctor<Array.Empty>		{n} was cheated by a merchant in {t}
+15268	1	WorldLife::.cctor<Array.Empty>	the 	the crooked merchant
+15269	1	WorldLife::.cctor<Array.Empty>		{n} had his gun stolen in {t}
+15270	1	WorldLife::.cctor<Array.Empty>		his stolen gun
+15271	1	WorldLife::.cctor<Array.Empty>		{n} bought a fine new revolver in {t}
+15272	1	WorldLife::.cctor<Array.Empty>		his new revolver
+15273	1	WorldLife::.cctor<Array.Empty>		{n} paid off his debts
+15274	1	WorldLife::.cctor<Array.Empty>		being square with everyone
+15275	1	WorldLife::.cctor<Array.Empty>		{n} owes money to the wrong people
+15276	1	WorldLife::.cctor<Array.Empty>	the 	the men he owes
+15277	1	WorldLife::.cctor<Array.Empty>		{n} lent money to a man who skipped town
+15278	1	WorldLife::.cctor<Array.Empty>	the 	the money he'll never see again
+15279	1	WorldLife::.cctor<Array.Empty>		{n} had his fortune read in {t} - it went badly
+15280	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<Array.Empty>		what the fortune teller said
+15281	1	WorldLife::.cctor<Array.Empty>		{n} saw a travelling show in {t}
+15282	1	WorldLife::.cctor<Array.Empty>	the 	the travelling show
+15283	1	WorldLife::.cctor<Array.Empty>		{n} celebrated his birthday in {t}
+15284	1	WorldLife::.cctor<Array.Empty>		his birthday
+15285	1	WorldLife::.cctor<Array.Empty>		{n} took up the harmonica
+15286	1	WorldLife::.cctor<Array.Empty>		learning the harmonica
+15287	1	WorldLife::.cctor<Array.Empty>		{n} read a dime novel about outlaws
+15288	1	WorldLife::.cctor<Array.Empty>		a dime novel
+15289	1	WorldLife::.cctor<Array.Empty>		{n} learned to write his name
+15290	1	WorldLife::.cctor<Array.Empty>		writing his name
+15291	1	WorldLife::.cctor<Array.Empty>		{n} went to church in {t}
+15292	1	WorldLife::.cctor<Array.Empty>	the 	the sermon in {t}
+15293	1	WorldLife::.cctor<Array.Empty>		{n} prayed all night
+15294	1	WorldLife::.cctor<Array.Empty>		praying for his soul
+15295	1	WorldLife::.cctor<Array.Empty>		{n} cursed God after a bad week
+15296	1	WorldLife::.cctor<Array.Empty>		a God who doesn't listen
+15297	1	WorldLife::.cctor<Array.Empty>		{n} confessed his sins to a priest in {t}
+15298	1	WorldLife::.cctor<Array.Empty>	the 	the confession
+15299	1	WorldLife::.cctor<Array.Empty>		catholic&notgodless
+15300	1	WorldLife::.cctor<LifeEvent..ctor>		his new wife
+15301	1	WorldLife::.cctor<Array.Empty>		{n} fell for a saloon girl in {t}
+15302	1	WorldLife::.cctor<Array.Empty>		a girl in {t}
+15303	1	WorldLife::.cctor<Array.Empty>		{n} was jilted by a woman in {t}
+15304	1	WorldLife::.cctor<Array.Empty>	the 	the woman who left him
+15305	1	WorldLife::.cctor<LifeEvent..ctor>		a new baby at home
+15306	1	WorldLife::.cctor<Array.Empty>		{n}'s child fell sick
+15307	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<LifeEvent..ctor>		his sick child
+15308	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<LifeEvent..ctor>	married	married&children
+15309	1	WorldLife::.cctor<LifeEvent..ctor>		his wife walking out
+15310	1	WorldLife::.cctor<LifeEvent..ctor>		his dead wife
+15311	1	WorldLife::.cctor<Array.Empty>		{n} went home to see his family
+15312	1	WorldLife::.cctor<Array.Empty>		seeing his family
+15313	1	WorldLife::.cctor<Array.Empty>		{n} sent money home to his family
+15314	1	WorldLife::.cctor<Array.Empty>	the 	the money he sent home
+15315	1	WorldLife::.cctor<Array.Empty>		{n}'s wife fell ill
+15316	1	WorldLife::.cctor<Array.Empty>		his sick wife, far away
+15317	1	WorldLife::.cctor<Array.Empty>		{n} got a letter from home - good news
+15318	1	WorldLife::.cctor<Array.Empty>		good news from home
+15319	1	WorldLife::.cctor<Array.Empty>		{n} got a letter from home - bad news
+15320	1	WorldLife::.cctor<Array.Empty>		bad news from home
+15321	1	WorldLife::.cctor<Array.Empty>		{n} learned his brother back east had died
+15322	1	WorldLife::.cctor<Array.Empty>		his dead brother
+15323	1	WorldLife::.cctor<Array.Empty>		{n} got word his father had died
+15324	1	WorldLife::.cctor<Array.Empty>		his father's death
+15325	1	WorldLife::.cctor<Array.Empty>		{n} visited his mother's grave
+15326	1	WorldLife::.cctor<Array.Empty>		his mother's grave
+15327	1	WorldLife::.cctor<Array.Empty>		{n} talked about leaving the territory for good
+15328	1	WorldLife::.cctor<Array.Empty>		leaving all this behind
+15329	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the stories about you
+15330	1	WorldLife::.cctor<LifeEvent..ctor>		killing you
+15331	1	WorldLife::.cctor<LifeEvent..ctor>	hate	hate>=40
+15332	1	WorldLife::.cctor<LifeEvent..ctor>		his boasts about you
+15333	1	WorldLife::.cctor<LifeEvent..ctor>		proud|hothead
+15334	1	WorldLife::.cctor<LifeEvent..ctor>		your face
+15335	1	WorldLife::.cctor<LifeEvent..ctor>	fear	fear>=30
+15336	1	WorldLife::.cctor<Array.Empty>		{n} cleaned and oiled his guns all evening
+15337	1	WorldLife::.cctor<Array.Empty>	the 	the day he finds you
+15338	1	WorldLife::.cctor<Array.Empty>	hate	hate>=murderous
+15339	1	WorldLife::.cctor<LifeEvent..ctor>		your throat
+15340	1	WorldLife::.cctor<LifeEvent..ctor>	hate	hate>=vengeful&hate<murderous
+15341	1	WorldLife::.cctor<Array.Empty>		{n} asked around {t} about you
+15342	1	WorldLife::.cctor<Array.Empty>		where you ride
+15343	1	WorldLife::.cctor<Array.Empty>	hate	hate>=vengeful&knows
+15344	1	WorldLife::.cctor<LifeEvent..ctor>		letting it go
+15345	1	WorldLife::.cctor<LifeEvent..ctor>		coward|drifter
+15346	1	WorldLife::.cctor<LifeEvent..ctor>		your face on the poster
+15347	1	WorldLife::.cctor<Array.Empty>		{n} rode on a stagecoach job that paid well
+15348	1	WorldLife::.cctor<Array.Empty>		his cut from the stagecoach
+15349	1	WorldLife::.cctor<Array.Empty>		{n} rode on a job that went bad
+15350	1	WorldLife::.cctor<Array.Empty>	the 	the job that went bad
+15351	1	WorldLife::.cctor<Array.Empty>		{n} robbed a homestead with the boys
+15352	1	WorldLife::.cctor<Array.Empty>	the 	the homestead job
+15353	1	WorldLife::.cctor<Array.Empty>		{n} helped hold up a train
+15354	1	WorldLife::.cctor<Array.Empty>	the 	the train job
+15355	4	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<Array.Empty>	rank	rank>=2
+15356	1	WorldLife::.cctor<Array.Empty>		{n} was nearly caught by lawmen
+15357	1	WorldLife::.cctor<Array.Empty>	the 	the law on his heels
+15358	1	WorldLife::.cctor<Array.Empty>		{n} was passed over
+15359	1	WorldLife::.cctor<Array.Empty>	the 	the seat he thinks he's owed
+15360	1	WorldLife::.cctor<Array.Empty>	rank	rank<=3
+15361	1	WorldLife::.cctor<Array.Empty>		{n} was praised by {b}
+15362	1	WorldLife::.cctor<Array.Empty>		{b}'s praise
+15363	1	WorldLife::.cctor<Array.Empty>		{n} was dressed down by {b} in front of the others
+15364	1	WorldLife::.cctor<Array.Empty>		{b}'s tongue-lashing
+15365	1	WorldLife::.cctor<Array.Empty>		{n} stood watch three nights running
+15366	1	WorldLife::.cctor<Array.Empty>		too many nights on watch
+15367	1	WorldLife::.cctor<LifeEvent..ctor>		his new friend {f}
+15368	1	WorldLife::.cctor<LifeEvent..ctor>		{f} and the missing money
+15369	1	WorldLife::.cctor<Array.Empty>		{n} taught a new man how to shoot
+15370	1	WorldLife::.cctor<Array.Empty>	the 	the new man he's teaching
+15371	1	WorldLife::.cctor<Array.Empty>		{n} won the camp card game
+15372	1	WorldLife::.cctor<Array.Empty>	the 	the pot he took off the boys
+15373	1	WorldLife::.cctor<Array.Empty>		{n} lost his share at cards to {f}
+15374	1	WorldLife::.cctor<Array.Empty>		{f} and his luck
+15375	1	WorldLife::.cctor<Array.Empty>		{n} swore loyalty to {l} again
+15376	1	WorldLife::.cctor<Array.Empty>		loyalty to {l}
+15377	1	WorldLife::.cctor<Array.Empty>		{n} thought about leaving the {g}
+15378	1	WorldLife::.cctor<Array.Empty>		getting out
+15379	1	WorldLife::.cctor<Array.Empty>	fear	fear>=40|coward
+15380	1	WorldLife::.cctor<Array.Empty>		{n} drank to the gang's dead
+15381	1	WorldLife::.cctor<Array.Empty>	the 	the boys who didn't make it
+15382	1	WorldLife::.cctor<Array.Empty>		{n} got the camp's best bedroll
+15383	1	WorldLife::.cctor<Array.Empty>		a good bedroll
+15384	1	WorldLife::.cctor<Array.Empty>		{n} sang Irish songs by the fire all night
+15385	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<Array.Empty>	the 	the old songs
+15386	1	WorldLife::.cctor<Array.Empty>		{n} heard {l} wants results
+15387	1	WorldLife::.cctor<Array.Empty>		what {l} expects
+15388	1	WorldLife::.cctor<Array.Empty>		{n} stole a wagon of whiskey
+15389	1	WorldLife::.cctor<Array.Empty>	the 	the stolen whiskey
+15390	1	WorldLife::.cctor<Array.Empty>		{n} raised a toast to the old cause
+15391	1	WorldLife::.cctor<Array.Empty>	the 	the war that never ended
+15392	1	WorldLife::.cctor<Array.Empty>		{n} drilled with the boys like it was '63
+15393	1	WorldLife::.cctor<Array.Empty>	the 	the old drill
+15394	1	WorldLife::.cctor<Array.Empty>		{n} cursed the Army over a bottle
+15395	1	WorldLife::.cctor<Array.Empty>	the 	the bluecoats
+15396	1	WorldLife::.cctor<Array.Empty>		{n} hid his robe from his wife
+15397	1	WorldLife::.cctor<Array.Empty>		keeping his secret
+15398	1	WorldLife::.cctor<Array.Empty>		{n} was shunned in {t}
+15399	1	WorldLife::.cctor<Array.Empty>	the 	the looks he gets in {t}
+15400	1	WorldLife::.cctor<Array.Empty>		{n} brought an elk back for the families
+15401	1	WorldLife::.cctor<Array.Empty>	the 	the elk hunt
+15402	1	WorldLife::.cctor<Array.Empty>		{n} went without when the rations came short again
+15403	1	WorldLife::.cctor<Array.Empty>	the 	the short rations
+15404	1	WorldLife::.cctor<Array.Empty>		{n} broke a wild horse
+15405	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<Array.Empty>	the 	the new horse
+15406	1	WorldLife::.cctor<Array.Empty>		{n} was turned away at the trading post in Valentine
+15407	1	WorldLife::.cctor<Array.Empty>		{n} watched soldiers ride past the reservation
+15408	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<Array.Empty>	the 	the soldiers
+15409	1	WorldLife::.cctor<Array.Empty>		{n} sat with the elders through the night
+15410	1	WorldLife::.cctor<Array.Empty>	the 	the elders' words
+15411	1	WorldLife::.cctor<Array.Empty>		{n} argued with {f} about fighting the Army
+15412	1	WorldLife::.cctor<Array.Empty>	the 	the argument with {f}
+15413	1	WorldLife::.cctor<Array.Empty>		{n} lost a horse in the river crossing
+15414	1	WorldLife::.cctor<Array.Empty>	the 	the lost horse
+15415	1	WorldLife::.cctor<Array.Empty>		{n} spent the night alone in the mountains
+15416	1	WorldLife::.cctor<Array.Empty>	the 	the night in the mountains
+15417	1	WorldLife::.cctor<Array.Empty>		{n} won a horse race against {f}
+15418	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<Array.Empty>	the 	the race
+15419	1	WorldLife::.cctor<Array.Empty>		{n} made new arrows through the evening
+15420	1	WorldLife::.cctor<Array.Empty>	the 	the new arrows
+15421	1	WorldLife::.cctor<Array.Empty>		{n} hung a lantern in the cypress and waited for something to come to it
+15422	1	WorldLife::.cctor<Array.Empty>	the 	the lantern in the cypress
+15423	1	WorldLife::.cctor<Array.Empty>		{n} heard his name called from the water three nights running
+15424	1	WorldLife::.cctor<Array.Empty>	the 	the voice in the water
+15425	1	WorldLife::.cctor<Array.Empty>		{n} came back from the swamp mud to the chest and won't say where he'd been
+15426	1	WorldLife::.cctor<Array.Empty>		where he was
+15427	1	WorldLife::.cctor<Array.Empty>		{n} buried something under the floor of his shack
+15428	1	WorldLife::.cctor<Array.Empty>		what's under the floor
+15429	1	WorldLife::.cctor<Array.Empty>		{n} sat up all night with {l}, and neither said a word
+15430	1	WorldLife::.cctor<Array.Empty>	the 	the night with {l}
+15431	1	WorldLife::.cctor<Array.Empty>		{n} found a Saint Denis man's pocket watch in a heron's nest
+15432	1	WorldLife::.cctor<Array.Empty>	the 	the pocket watch
+15433	1	WorldLife::.cctor<Array.Empty>		{n} carved a face into a cypress stump and talks to it
+15434	1	WorldLife::.cctor<Array.Empty>	the 	the face in the stump
+15435	1	WorldLife::.cctor<Array.Empty>		{n} followed a light out past Lagras until dawn
+15436	1	WorldLife::.cctor<Array.Empty>	the 	the light past Lagras
+15437	1	WorldLife::.cctor<Array.Empty>		{n} hasn't spoken in nine days
+15438	1	WorldLife::.cctor<Array.Empty>	the 	the silence
+15439	1	WorldLife::.cctor<Array.Empty>		{n} traded a jar of teeth for a shotgun
+15440	1	WorldLife::.cctor<Array.Empty>	the 	the trade
+15441	1	WorldLife::.cctor<Array.Empty>		{n} was seen in daylight, and the others won't look at him
+15442	1	WorldLife::.cctor<Array.Empty>		being seen in daylight
+15443	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the swamp fever
+15444	1	WorldLife::.cctor<Array.Empty>		{n} sang to the dead in the reeds until the frogs went quiet
+15445	1	WorldLife::.cctor<Array.Empty>	the 	the singing
+15446	1	WorldLife::.cctor<Array.Empty>		{n} and {f} rowed out to the old plantation and came back one oar short
+15447	1	WorldLife::.cctor<Array.Empty>	the 	the night at the plantation
+15448	1	WorldLife::.cctor<Array.Empty>		{n} hung a Raider's hat in the trees by the road
+15449	1	WorldLife::.cctor<Array.Empty>	the 	the hat in the trees
+15450	1	WorldLife::.cctor<Array.Empty>		{n} pulled a drowned man out of the water and went through his pockets
+15451	1	WorldLife::.cctor<Array.Empty>	the 	the drowned man's pockets
+15452	1	WorldLife::.cctor<Array.Empty>		{n} won't go past the old church at Shady Belle any more
+15453	1	WorldLife::.cctor<Array.Empty>	the 	the old church
+15454	1	WorldLife::.cctor<Array.Empty>		superstitious|coward
+15455	1	WorldLife::.cctor<Array.Empty>		{n} whistled in the dark until something whistled back
+15456	1	WorldLife::.cctor<Array.Empty>		what whistled back
+15457	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the dog
+15458	1	WorldLife::.cctor<Array.Empty>		{n} stood outside a house in Saint Denis all night, until the lamps went out
+15459	1	WorldLife::.cctor<Array.Empty>	the 	the house in Saint Denis
+15460	1	WorldLife::.cctor<Array.Empty>		{n} keeps a heron's skull by his bed now, for luck
+15461	1	WorldLife::.cctor<Array.Empty>	the 	the heron's skull
+15462	1	WorldLife::.cctor<Array.Empty>		{n} was marked by {l} for something he swears he didn't do
+15463	1	WorldLife::.cctor<Array.Empty>		{l}'s mark
+15464	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<Array.Empty>	rank	rank<=2
+15465	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the riverboat with {f}
+15466	1	WorldLife::.cctor<Array.Empty>		{n} changed the brand on a stolen steer so well the owner bought it back
+15467	1	WorldLife::.cctor<Array.Empty>	the 	the steer
+15468	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the kick
+15469	1	WorldLife::.cctor<Array.Empty>		{n} rode night herd alone in a storm
+15470	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<Array.Empty>	the 	the storm
+15471	1	WorldLife::.cctor<Array.Empty>		{n} lost his share at cards in Blackwater
+15472	1	WorldLife::.cctor<Array.Empty>	the 	the lost share
+15473	1	WorldLife::.cctor<Array.Empty>		gambler|greedy
+15474	1	WorldLife::.cctor<Array.Empty>		{n} sold a stolen horse in Armadillo for twice what it was worth
+15475	1	WorldLife::.cctor<Array.Empty>	the 	the sale
+15476	1	WorldLife::.cctor<Array.Empty>		{n} roped a wild mustang on the Great Plains
+15477	1	WorldLife::.cctor<Array.Empty>	the 	the mustang
+15478	1	WorldLife::.cctor<Array.Empty>		{n} found his own face on a cattlemen's association poster
+15479	1	WorldLife::.cctor<Array.Empty>	the 	the poster
+15480	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the drive with {f}
+15481	1	WorldLife::.cctor<Array.Empty>		{n} was shot at by a rancher who caught him at the fence line
+15482	1	WorldLife::.cctor<Array.Empty>	the 	the rancher's shotgun
+15483	1	WorldLife::.cctor<Array.Empty>		{n} branded his hand by mistake
+15484	1	WorldLife::.cctor<Array.Empty>	the 	the burn
+15485	1	WorldLife::.cctor<Array.Empty>		{n} heard {l} wants him to lead his own crew
+15486	1	WorldLife::.cctor<Array.Empty>		{l}'s word
+15487	1	WorldLife::.cctor<Array.Empty>		{n} crossed the river to see his mother
+15488	1	WorldLife::.cctor<Array.Empty>		his mother across the river
+15489	1	WorldLife::.cctor<Array.Empty>		{n} lit a candle at the mission for the men they lost
+15490	1	WorldLife::.cctor<Array.Empty>	the 	the candle for the dead
+15491	1	WorldLife::.cctor<Array.Empty>		{n} won a horse race in Tumbleweed against an American
+15492	1	WorldLife::.cctor<Array.Empty>		{n} spent his share of the train money in one night in Armadillo
+15493	1	WorldLife::.cctor<Array.Empty>	the 	the night in Armadillo
+15494	1	WorldLife::.cctor<Array.Empty>		{n} was nearly bitten by a rattlesnake under his bedroll
+15495	1	WorldLife::.cctor<Array.Empty>	the 	the rattlesnake
+15496	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the dry days
+15497	1	WorldLife::.cctor<Array.Empty>		{n} ran guns across the river by moonlight
+15498	1	WorldLife::.cctor<Array.Empty>	the 	the guns
+15499	1	WorldLife::.cctor<Array.Empty>		{n} played the guitar by the fire until the jefe told him to stop
+15500	1	WorldLife::.cctor<Array.Empty>	the 	the guitar
+15501	1	WorldLife::.cctor<Array.Empty>		{n} heard the rurales are asking about him in Nuevo Paraiso
+15502	1	WorldLife::.cctor<Array.Empty>	the 	the rurales
+15503	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the day in the wash with {f}
+15504	1	WorldLife::.cctor<Array.Empty>		{n} was cheated by a horse trader in Armadillo
+15505	1	WorldLife::.cctor<Array.Empty>	the 	the horse trader
+15506	1	WorldLife::.cctor<Array.Empty>		{n} wrote a letter home he never sent
+15507	1	WorldLife::.cctor<Array.Empty>	the 	the letter
+15508	1	WorldLife::.cctor<Array.Empty>	married	married|children
+15509	1	WorldLife::.cctor<Array.Empty>		{n} drew extra duty at Fort Wallace
+15510	1	WorldLife::.cctor<Array.Empty>		extra duty
+15511	1	WorldLife::.cctor<Array.Empty>		{n} got his pay
+15512	1	WorldLife::.cctor<Array.Empty>		payday
+15513	1	WorldLife::.cctor<Array.Empty>		{n} was drilled hard by his sergeant
+15514	1	WorldLife::.cctor<Array.Empty>	the 	the sergeant's drill
+15515	1	WorldLife::.cctor<Array.Empty>		{n} was commended by his officer
+15516	1	WorldLife::.cctor<Array.Empty>	the 	the commendation
+15517	1	WorldLife::.cctor<Array.Empty>		{n} was put on report for drinking
+15518	1	WorldLife::.cctor<Array.Empty>		being put on report
+15519	1	WorldLife::.cctor<Array.Empty>		{n} stood guard all night in the cold
+15520	1	WorldLife::.cctor<Array.Empty>	the 	the cold night on guard
+15521	1	WorldLife::.cctor<Array.Empty>		{n} wrote a letter to his mother
+15522	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<Array.Empty>		home
+15523	1	WorldLife::.cctor<Array.Empty>		{n} lost money betting on a boxing match at the fort
+15524	1	WorldLife::.cctor<Array.Empty>	the 	the boxing bet
+15525	1	WorldLife::.cctor<Array.Empty>		{n} rode dispatch to Valentine and back
+15526	1	WorldLife::.cctor<Array.Empty>	the 	the dispatch ride
+15527	1	WorldLife::.cctor<Array.Empty>		{n} got new boots from the quartermaster
+15528	1	WorldLife::.cctor<Array.Empty>		new boots
+15529	1	WorldLife::.cctor<Array.Empty>		{n} was disciplined for losing his rifle
+15530	2	WorldLife::.cctor<Array.Empty> ; WorldLife::.cctor<Array.Empty>	the 	the lost rifle
+15531	1	WorldLife::.cctor<Array.Empty>		{n} chased deserters through the hills
+15532	1	WorldLife::.cctor<Array.Empty>	the 	the deserters
+15533	1	WorldLife::.cctor<Array.Empty>		{n} drifted to {t} looking for work
+15534	1	WorldLife::.cctor<Array.Empty>		finding work
+15535	1	WorldLife::.cctor<Array.Empty>		{n} took a job breaking horses near {t}
+15536	1	WorldLife::.cctor<Array.Empty>		breaking horses
+15537	1	WorldLife::.cctor<Array.Empty>		{n} worked a week on a ranch near {t}
+15538	1	WorldLife::.cctor<Array.Empty>		ranch work
+15539	1	WorldLife::.cctor<Array.Empty>		{n} quit his job in {t}
+15540	1	WorldLife::.cctor<Array.Empty>	the 	the job he quit
+15541	1	WorldLife::.cctor<Array.Empty>		{n} sold furs in {t}
+15542	1	WorldLife::.cctor<Array.Empty>		a good price for furs
+15543	1	WorldLife::.cctor<Array.Empty>		{n} played cards with strangers in {t} and won
+15544	1	WorldLife::.cctor<Array.Empty>	the 	the strangers' money
+15545	1	WorldLife::.cctor<Array.Empty>		{n} robbed a traveller on the road
+15546	1	WorldLife::.cctor<Array.Empty>	the 	the traveller he robbed
+15547	1	WorldLife::.cctor<Array.Empty>		{n} was hired as a guard for a wagon train
+15548	1	WorldLife::.cctor<Array.Empty>	the 	the wagon train
+15549	1	WorldLife::.cctor<Array.Empty>		{n} made a friend in {t}
+15550	1	WorldLife::.cctor<Array.Empty>		a friend in {t}
+15551	1	WorldLife::.cctor<Array.Empty>		{n} lost his hat in the wind on the trail
+15552	1	WorldLife::.cctor<Array.Empty>		his good hat, gone
+15553	1	WorldLife::.cctor<Array.Empty>		{n} found a pocket watch in the mud outside {t}
+15554	1	WorldLife::.cctor<Array.Empty>	the 	the found watch
+15555	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the woman in {t}
+15556	1	WorldLife::.cctor<Array.Empty>		{n} paid a dentist in {t} to pull a rotten tooth
+15557	1	WorldLife::.cctor<Array.Empty>	the 	the pulled tooth
+15558	1	WorldLife::.cctor<Array.Empty>		{n} had his boots stolen while he slept
+15559	1	WorldLife::.cctor<Array.Empty>		his stolen boots
+15560	1	WorldLife::.cctor<Array.Empty>		{n} won a shooting contest outside {t}
+15561	1	WorldLife::.cctor<Array.Empty>		winning the shooting contest
+15562	1	WorldLife::.cctor<Array.Empty>	aggr>=	aggr>=50
+15563	1	WorldLife::.cctor<Array.Empty>		{n} lost a shooting contest outside {t}
+15564	1	WorldLife::.cctor<Array.Empty>		{n} drank too much and slept in a ditch
+15565	1	WorldLife::.cctor<Array.Empty>	the 	the ditch he woke in
+15566	1	WorldLife::.cctor<Array.Empty>		{n} got thrown out of a saloon in {t}
+15567	1	WorldLife::.cctor<Array.Empty>	the 	the saloon in {t}
+15568	1	WorldLife::.cctor<Array.Empty>		drunk|hothead
+15569	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the faro table
+15570	1	WorldLife::.cctor<Array.Empty>		{n} cleaned out a card table in {t}
+15571	1	WorldLife::.cctor<Array.Empty>	the 	the poker pot
+15572	1	WorldLife::.cctor<Array.Empty>		{n} bought a new rifle from the gunsmith in {t}
+15573	1	WorldLife::.cctor<Array.Empty>	the 	the new rifle
+15574	1	WorldLife::.cctor<Array.Empty>		{n} had his horse throw a shoe miles from anywhere
+15575	1	WorldLife::.cctor<Array.Empty>	the 	the long walk
+15576	1	WorldLife::.cctor<Array.Empty>		{n} watched a hanging in {t}
+15577	1	WorldLife::.cctor<Array.Empty>	the 	the hanging
+15578	1	WorldLife::.cctor<Array.Empty>		{n} helped pull a wagon out of the mud
+15579	1	WorldLife::.cctor<Array.Empty>		a good turn
+15580	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the mule's kick
+15581	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the bad meat
+15582	1	WorldLife::.cctor<LifeEvent..ctor>		what he saw by the church
+15583	1	WorldLife::.cctor<Array.Empty>		{n} lit a candle for his mother in {t}
+15584	1	WorldLife::.cctor<Array.Empty>		his mother
+15585	1	WorldLife::.cctor<Array.Empty>		devout|catholic
+15586	1	WorldLife::.cctor<Array.Empty>		{n} got a letter saying his father died
+15587	1	WorldLife::.cctor<Array.Empty>		his father, gone
+15588	1	WorldLife::.cctor<LifeEvent..ctor>		what the paper said about you
+15589	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the laughing
+15590	1	WorldLife::.cctor<LifeEvent..ctor>		braggart&knows
+15591	1	WorldLife::.cctor<LifeEvent..ctor>	hate	hate>=vengeful&drunk
+15592	1	WorldLife::.cctor<Array.Empty>		{n} told a stranger he'd seen you, for a dollar
+15593	1	WorldLife::.cctor<Array.Empty>	the 	the dollar
+15594	1	WorldLife::.cctor<Array.Empty>		traitor|greedy
+15595	1	WorldLife::.cctor<Array.Empty>		{n} took a bath and a shave in {t}
+15596	1	WorldLife::.cctor<Array.Empty>		a clean shave
+15597	1	WorldLife::.cctor<Array.Empty>		{n} got his fortune told in {t}
+15598	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the man he hurt
+15599	1	WorldLife::.cctor<Array.Empty>		{n} carved his initials into a tree on the trail
+15600	1	WorldLife::.cctor<Array.Empty>		{n} sold his old horse and bought a better one
+15601	1	WorldLife::.cctor<Array.Empty>		rich|greedy
+15602	1	WorldLife::.cctor<Array.Empty>		{n} lost his rifle crossing a river
+15603	1	WorldLife::.cctor<Array.Empty>		{n} caught a thief in his camp and let him go
+15604	1	WorldLife::.cctor<Array.Empty>	the 	the thief he let go
+15605	1	WorldLife::.cctor<Array.Empty>		{n} caught a thief in his camp and beat him bloody
+15606	1	WorldLife::.cctor<Array.Empty>	the 	the thief he beat
+15607	1	WorldLife::.cctor<Array.Empty>	aggr>=	aggr>=60
+15608	1	WorldLife::.cctor<Array.Empty>		{n} spent a night in a cave waiting out a storm
+15609	1	WorldLife::.cctor<Array.Empty>		{n} stayed awake after a bad dream about the war
+15610	1	WorldLife::.cctor<Array.Empty>	rank	rank>=1
+15611	1	WorldLife::.cctor<Array.Empty>		{n} wrote a will, just in case
+15612	1	WorldLife::.cctor<Array.Empty>		dying
+15613	1	WorldLife::.cctor<Array.Empty>	fear	fear>=40
+15614	1	WorldLife::.cctor<Array.Empty>		{n} sent his wages home to his wife
+15615	1	WorldLife::.cctor<Array.Empty>		his family
+15616	1	WorldLife::.cctor<Array.Empty>		{n}'s wife wrote, asking him to come home
+15617	1	WorldLife::.cctor<Array.Empty>		his wife's letter
+15618	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the new dog
+15619	1	WorldLife::.cctor<Array.Empty>		{n} fell asleep on watch and was caught
+15620	1	WorldLife::.cctor<Array.Empty>		falling asleep on watch
+15621	1	WorldLife::.cctor<Array.Empty>		{n} and {f} rode out to rob a lone rider
+15622	1	WorldLife::.cctor<Array.Empty>	the 	the lone rider
+15623	1	WorldLife::.cctor<Array.Empty>		{n} was sent to scout the roads near {t}
+15624	1	WorldLife::.cctor<Array.Empty>		scouting
+15625	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the split
+15626	1	WorldLife::.cctor<Array.Empty>		{n} won {b}'s favour on a job
+15627	1	WorldLife::.cctor<Array.Empty>		{b}'s favour
+15628	1	WorldLife::.cctor<Array.Empty>		{n} buried a man of the {g} in the hills
+15629	1	WorldLife::.cctor<Array.Empty>	the 	the man he buried
+15630	1	WorldLife::.cctor<Array.Empty>		{n} stood guard all night while the {g} slept
+15631	1	WorldLife::.cctor<Array.Empty>	the 	the long watch
+15632	1	WorldLife::.cctor<Array.Empty>		{n} stole a crate of whiskey off a wagon
+15633	1	WorldLife::.cctor<Array.Empty>	the 	the whiskey
+15634	1	WorldLife::.cctor<Array.Empty>		{n} got a new tattoo in {t}
+15635	1	WorldLife::.cctor<Array.Empty>	the 	the new tattoo
+15636	1	WorldLife::.cctor<Array.Empty>		{n} taught a younger man of the {g} to shoot
+15637	1	WorldLife::.cctor<Array.Empty>	the 	the young one
+15638	1	WorldLife::.cctor<LifeEvent..ctor>		being caught skimming
+15639	1	WorldLife::.cctor<LifeEvent..ctor>		greedy|traitor
+15640	1	WorldLife::.cctor<Array.Empty>		{n} drank to Colm's health in {t}
+15641	1	WorldLife::.cctor<LifeEvent..ctor>	the 	the old feud
+15642	1	WorldLife::.cctor<Array.Empty>		{n} sang Irish songs in camp till dawn
+15643	1	WorldLife::.cctor<Array.Empty>		{n} rode in a parade of old veterans outside {t}
+15644	1	WorldLife::.cctor<Array.Empty>	the 	the old cause
+15645	1	WorldLife::.cctor<Array.Empty>		{n} burned a Union flag in camp
+15646	1	WorldLife::.cctor<Array.Empty>	the 	the old war
+15647	1	WorldLife::.cctor<Array.Empty>		{n} argued with a Braithwaite man over money
+15648	1	WorldLife::.cctor<Array.Empty>	the 	the Braithwaites
+15649	1	WorldLife::.cctor<Array.Empty>		{n} hid his robes from his wife
+15650	1	WorldLife::.cctor<Array.Empty>		his wife finding out
+15651	1	WorldLife::.cctor<Array.Empty>		{n} was laughed at in {t} - folks know what he is
+15652	1	WorldLife::.cctor<Array.Empty>		being known
+15653	1	WorldLife::.cctor<Array.Empty>		{n} stood drill in the rain all morning
+15654	1	WorldLife::.cctor<Array.Empty>	the 	the drill
+15655	1	WorldLife::.cctor<Array.Empty>		{n} was promised leave and then refused it
+15656	1	WorldLife::.cctor<Array.Empty>	the 	the leave he lost
+15657	1	WorldLife::.cctor<Array.Empty>		{n} shot a rattlesnake on patrol
+15658	1	WorldLife::.cctor<Array.Empty>	the 	the snake
+15659	1	WorldLife::.cctor<Array.Empty>		{n} lost a bet on the regiment's horse race
+15660	1	WorldLife::.cctor<Array.Empty>	the 	the horse race
+15661	1	WorldLife::.cctor<Array.Empty>		{n} was praised by Colonel Favours
+15662	1	WorldLife::.cctor<Array.Empty>	the 	the colonel's praise
+15663	1	WorldLife::.cctor<Array.Empty>		{n} guarded prisoners at the fort all night
+15664	1	WorldLife::.cctor<Array.Empty>	the 	the prisoners
+15665	1	WorldLife::.cctor<Array.Empty>		{n} did a day's work at the stables in {t}
+15666	1	WorldLife::.cctor<Array.Empty>		{n} slept rough outside {t}
+15667	1	WorldLife::.cctor<Array.Empty>	the 	the cold ground
+15668	1	WorldLife::.cctor<Array.Empty>		{n} bought a round for strangers in {t}
+15669	1	WorldLife::.cctor<Array.Empty>	the 	the strangers
+15670	1	WorldLife::.cctor<Array.Empty>		rich|friendly
+15671	1	WorldLife::.cctor<Array.Empty>		{n} was cheated at cards in {t}
+15672	1	WorldLife::.cctor<Array.Empty>	the 	the cheat
+15673	1	WorldLife::.cctor<Array.Empty>		gambler|dim
+15674	1	WorldLife::.cctor<Array.Empty>		{n} hunted a deer and sold the hide in {t}
+15675	1	WorldLife::.cctor<Array.Empty>	the 	the hide
+15676	1	WorldLife::.cctor<Array.Empty>		{n} saw soldiers cross the river near the reservation
+15677	1	WorldLife::.cctor<Array.Empty>		{n} told the old stories to the children
+15678	1	WorldLife::.cctor<Array.Empty>	the 	the old stories
+15679	1	WorldLife::.cctor<Array.Empty>		{n} brought back a good elk
+15680	1	WorldLife::.cctor<Array.Empty>	the 	the elk
+15681	2	BulletImpact.Anatomy::Build<Anatomy.Limb> ; BulletImpact.Anatomy::Build<Anatomy.Limb>		upper arm
+15682	1	BulletImpact.Anatomy::Build<Anatomy.Bone>		LEFT COLLARBONE SNAPPED
+15683	1	BulletImpact.Anatomy::Build<Anatomy.Bone>		RIGHT COLLARBONE SNAPPED
+15684	1	BulletImpact.Anatomy::Build<Anatomy.Bone>		LEFT HUMERUS BROKEN
+15685	1	BulletImpact.Anatomy::Build<Anatomy.Bone>		RIGHT HUMERUS BROKEN
+15686	1	BulletImpact.Anatomy::Build<Anatomy.Bone>		LEFT FOREARM BONES BROKEN
+15687	1	BulletImpact.Anatomy::Build<Anatomy.Bone>		RIGHT FOREARM BONES BROKEN
+15688	1	BulletImpact.Anatomy::Build<Anatomy.Ball>		LEFT KNEE SHATTERED
+15689	1	BulletImpact.Anatomy::Build<Anatomy.Ball>		RIGHT KNEE SHATTERED
+15690	1	BulletImpact.Anatomy::Build<Anatomy.Bone>		LEFT FEMUR SHATTERED
+15691	1	BulletImpact.Anatomy::Build<Anatomy.Bone>		RIGHT FEMUR SHATTERED
+15692	1	BulletImpact.Anatomy::Build<Anatomy.Shin>		LEFT SHIN BONE BROKEN
+15693	1	BulletImpact.Anatomy::Build<Anatomy.Shin>		RIGHT SHIN BONE BROKEN
+15694	1	BulletImpact.Anatomy::Build<Anatomy.Ball>		LEFT HAND SHATTERED
+15695	1	BulletImpact.Anatomy::Build<Anatomy.Ball>		RIGHT HAND SHATTERED
+15696	1	BulletImpact.Anatomy::Build<Anatomy.Ball>		LEFT FOOT SHATTERED
+15697	1	BulletImpact.Anatomy::Build<Anatomy.Ball>		RIGHT FOOT SHATTERED
+15698	1	BulletImpact.Anatomy::Build<Anatomy.Organ>		BRAIN DESTROYED
+15699	1	BulletImpact.Anatomy::Build<Body.TorsoPoint>		HEART PIERCED
+15700	2	BulletImpact.Anatomy::Build<Body.TorsoPoint> ; BulletImpact.Anatomy::Build<Body.TorsoPoint>		LEFT LUNG PIERCED
+15701	2	BulletImpact.Anatomy::Build<Body.TorsoPoint> ; BulletImpact.Anatomy::Build<Body.TorsoPoint>		RIGHT LUNG PIERCED
+15702	1	BulletImpact.Anatomy::Build<Body.TorsoPoint>		LIVER RUPTURED
+15703	1	BulletImpact.Anatomy::Build<Body.TorsoPoint>		STOMACH PERFORATED
+15704	1	BulletImpact.Anatomy::Build<Body.TorsoPoint>		LEFT KIDNEY DESTROYED
+15705	1	BulletImpact.Anatomy::Build<Body.TorsoPoint>		RIGHT KIDNEY DESTROYED
+15706	2	BulletImpact.Anatomy::Build<Body.TorsoPoint> ; BulletImpact.AnimalAnatomy::Build<Body.TorsoPoint>		INTESTINES TORN
+15707	2	BulletImpact.Anatomy::Build<Body.TorsoPoint> ; BulletImpact.AnimalAnatomy::Build<Body.TorsoPoint>		BLADDER RUPTURED
+15708	1	BulletImpact.Anatomy::NickName<String.Concat>		 NICKED
+15709	1	BulletImpact.Anatomy::ChipName<String.Concat>		 CHIPPED
+15710	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 shoulder
+15711	2	BulletImpact.AnimalAnatomy::Build<String.Concat> ; BulletImpact.AnimalAnatomy::Build<String.Concat>		 foreleg
+15712	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 front shin
+15713	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 front foot
+15714	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 haunch
+15715	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 hind leg
+15716	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 hind shin
+15717	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 hind foot
+15718	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 SHOULDER BLADE BROKEN
+15719	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 UPPER FORELEG BROKEN
+15720	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 FORELEG BROKEN
+15721	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 FRONT SHIN BONE BROKEN
+15722	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 FRONT FOOT SHATTERED
+15723	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 FEMUR SHATTERED
+15724	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 HIND LEG BROKEN
+15725	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 HIND SHIN BONE BROKEN
+15726	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 HIND FOOT SHATTERED
+15727	1	BulletImpact.AnimalAnatomy::Build<String.Concat>		 FEMORAL ARTERY SEVERED
+15728	1	BulletImpact.AnimalAnatomy::Build<Capsule..ctor>	the 	the tail
+15729	1	BulletImpact.AnimalAnatomy::Build<AnimalAnatomy.Organ>		HEART SHOT
+15730	2	BulletImpact.AnimalAnatomy::Build<Body.TorsoPoint> ; BulletImpact.AnimalAnatomy::Build<Body.TorsoPoint>		LEFT LUNG HIT
+15731	2	BulletImpact.AnimalAnatomy::Build<Body.TorsoPoint> ; BulletImpact.AnimalAnatomy::Build<Body.TorsoPoint>		RIGHT LUNG HIT
+15732	1	BulletImpact.AnimalAnatomy::Build<Body.TorsoPoint>		LIVER HIT
+15733	1	BulletImpact.AnimalAnatomy::Build<Body.TorsoPoint>		STOMACH HIT
+15734	1	BulletImpact.AnimalAnatomy::Build<Body.TorsoPoint>		LEFT KIDNEY HIT
+15735	1	BulletImpact.AnimalAnatomy::Build<Body.TorsoPoint>		RIGHT KIDNEY HIT
+15736	1	BulletImpact.AnimalAnatomy::Describe<String.Substring>		 side of 
+15737	1	BulletImpact.AnimalBones::get_Names<String.Format>		SKEL_{0}_{1}{2}
+15738	1	BulletImpact.AnimalBones::Probe<Enumerable.Skip>		ANIMAL BONES 
+15739	1	BulletImpact.AnimalBones::Probe<PoolObject.get_Handle>		no damage bone
+15740	1	BulletImpact.AnimalBones::Probe<String.Format>		, dead
+15741	1	BulletImpact.BulletImpactModule::DropKillShotEchoes<String.Format>		XRAY {0} echo entries of kill shots removed (the kill shot's own damage, logged as a second shot)
+15742	1	BulletImpact.BulletImpactModule::UpdatePendingDeaths<String.Format>		KNOCKOUT ped={0} - out cold, not dead
+15743	1	BulletImpact.BulletImpactModule::KillShot<String.Format>		KILLSHOT ped={0} {1}
+15744	1	BulletImpact.BulletImpactModule::OnImpact<String.Format>		HIT ped={0} dmg={1:0.#} - the kill shot's own damage, not a shot (skipped)
+15745	1	BulletImpact.BulletImpactModule::OnImpact<BulletImpactModule.Fmt>		 muzzle=
+15746	1	BulletImpact.BulletImpactModule::OnImpact<String.Concat>		 via 
+15747	1	BulletImpact.BulletImpactModule::OnBlow<String.Concat>		gun butt 
+15748	1	BulletImpact.BulletImpactModule::OnBlow<String.Format>		, out cold
+15749	1	BulletImpact.BulletImpactModule::KickedToDeath<String.Format>		LEFT FOR DEAD ped={0} - {1} worth of kicks / stomps while he lay there: presumed dead
+15750	1	BulletImpact.BulletImpactModule::<.ctor>b__20_12<String.Concat>		DIAG 
+15751	1	BulletImpact.BulletImpactSettings::.ctor<IniFile.GetValue>		Crippling
+15752	4	BulletImpact.BulletImpactSettings::.ctor<IniFile.GetValue> ; BulletImpact.BulletImpactSettings::.ctor<IniFile.GetValue>		XRay
+15753	1	BulletImpact.BulletImpactSettings::.ctor<IniFile.GetValue>		Detail
+15754	1	BulletImpact.CrippleRules::Assess<String.Concat>		 - can't stand
+15755	1	BulletImpact.CrippleTracker::Apply<String.Format>		{0:0} m off
+15756	1	BulletImpact.CrippleTracker::Apply<Entity.get_Health>		CRIPPLE ped={0} Legless health={1}
+15757	1	BulletImpact.CrippleTracker::Tick<String.Format>		CRIPPLE handle {0} reused by another model - dropped
+15758	1	BulletImpact.ImpactDetector::Poll<ImpactDetector.EndHold>		hurt by someone else
+15759	1	BulletImpact.ImpactDetector::Poll<Type.GetTypeFromHandle>		DAMAGE by you with weapon {0:X8} ({1}) - not X-rayed
+15760	1	BulletImpact.ImpactDetector::Poll<ImpactDetector.EndHold>		burned / blown up
+15761	1	BulletImpact.ImpactDetector::Poll<PoolObject.get_Handle>		MOUNTED HIT ped={0} dmg={1:0.#} boot={2} gap={3:0.00} horse {4:0.0} m/s melee={5} - {6}
+15762	1	BulletImpact.ImpactDetector::Poll<String.Format>		not a kick (ridden into / no boot near)
+15763	1	BulletImpact.ImpactDetector::Poll<String.Format>		a kick from the saddle
+15764	1	BulletImpact.ImpactDetector::Poll<PoolObject.get_Handle>		TAKEDOWN? ped={0} dmg={1:0.#} behind={2} hands {3:0.00} m from his neck out={4} - {5}
+15765	2	BulletImpact.ImpactDetector::Poll<String.Format> ; BulletImpact.ImpactDetector::Poll<String.Format>		a punch
+15766	1	BulletImpact.ImpactDetector::Poll<PoolObject.get_Handle>		HOLD HIT ped={0} dmg={1:0.#} behind={2} hands {3:0.00} m from his neck - {4}
+15767	1	BulletImpact.ImpactDetector::Poll<String.Format>	the 	the choke
+15768	1	BulletImpact.ImpactDetector::Poll<PoolObject.get_Handle>		NOT A BLOW ped={0} dmg={1:0.#} - {2}
+15769	1	BulletImpact.ImpactDetector::Poll<PoolObject.get_Handle>		BLAST
+15770	1	BulletImpact.ImpactDetector::Poll<PoolObject.get_Handle>		BURN
+15771	1	BulletImpact.ImpactDetector::Poll<String.Join>		EVENT_SHOT_FIRED_BULLET_IMPACT x{0} this frame, entities [{1}]
+15772	1	BulletImpact.ImpactDetector::FourLegged<Type.GetTypeFromHandle>		ANIMAL X-RAY 
+15773	1	BulletImpact.ImpactDetector::FourLegged<String.Concat>		four-legged - X-rayed
+15774	1	BulletImpact.ImpactDetector::FourLegged<String.Concat>		a bird - X-rayed
+15775	1	BulletImpact.ImpactDetector::NoteDownState<String.Format>		 (first)
+15776	1	BulletImpact.ImpactDetector::WatchStomps<String.Format>		STOMP watch off ped={0} - killed, not out cold
+15777	1	BulletImpact.ImpactDetector::WatchStomps<String.Format>		 - not counted
+15778	1	BulletImpact.ImpactDetector::EndHold<String.Format>		HOLD ped={0} ended - {1}: not a choke
+15779	1	BulletImpact.ImpactDetector::WatchHolds<String.Format>		not a choke
+15780	1	BulletImpact.ImpactDetector::WatchHolds<String.Format>		a choke
+15781	1	BulletImpact.ImpactDetector::WatchBeaten<ImpactDetector.CaptureBlow>		health
+15782	1	BulletImpact.ImpactDetector::CaptureBlow<ImpactDetector.HowHeWas>		, game's bone
+15783	1	BulletImpact.ImpactDetector::CaptureBlow<String.Format>		choke, held {0:0.0} s
+15784	1	BulletImpact.ImpactDetector::CaptureStrike<Vector3.Length>		approach only
+15785	1	BulletImpact.ImpactDetector::CaptureStrike<Vector3.Length>		blade motion {0:0.00} m
+15786	1	BulletImpact.ImpactDetector::AmmoOf<String.Format>		{0:X8}/{1:X8}
+15787	1	BulletImpact.ImpactDetector::AmmoOf<ImpactDetector.Name>		AMMO read: weapon object {0}, weapon {1} -> {2}
+15788	1	BulletImpact.ImpactDetector::ResolveMuzzle<String.Concat>		bone '
+15789	1	BulletImpact.ImpactDetector::.cctor<campo NotAnimals>		crawfish
+15790	1	BulletImpact.ImpactDetector::.cctor<campo NotAnimals>		chipmunk
+15791	1	BulletImpact.XRayAnalysis::Build<String.Concat>		 - DEEP
+15792	1	BulletImpact.XRayAnalysis::Build<String.Concat>		 TORN OPEN - BUCKSHOT
+15793	1	BulletImpact.XRayAnalysis::Build<String.Concat>		 TORN APART - BUCKSHOT
+15794	1	BulletImpact.XRayAnalysis::Build<String.Concat>		 BLOWN OPEN - BUCKSHOT
+15795	5	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Of|9_7> ; BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Of|9_7>		kicks
+15796	4	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Of|9_7> ; BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Of|9_7>		stomps
+15797	3	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Of|9_7> ; BulletImpact.XRayViewer::BlowKinds<XRayViewer.<BlowKinds>g__Part|94_0>		punches
+15798	2	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Of|9_7> ; BulletImpact.XRayViewer::BlowKinds<XRayViewer.<BlowKinds>g__Part|94_0>		gun blows
+15799	2	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Of|9_7> ; BulletImpact.XRayViewer::BlowKinds<XRayViewer.<BlowKinds>g__Part|94_0>		chokes
+15800	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		KICKED WHILE DOWN - LEFT FOR DEAD
+15801	3	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9> ; BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		strangled
+15802	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		CHOKED UNCONSCIOUS
+15803	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		WINDPIPE BRUISED - HOARSE
+15804	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		BRUISED THROAT - FINGER MARKS
+15805	3	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9> ; BulletImpact.XRayViewer::DrawFacts<Nullable`1..ctor>		KNOCKED OUT COLD
+15806	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		CONCUSSION
+15807	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		JAW CRACKED
+15808	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		nose
+15809	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		BROKEN NOSE
+15810	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		BLACK EYE
+15811	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		BRUISED FACE
+15812	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		THROAT SWOLLEN - HOARSE
+15813	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		BRUISED THROAT
+15814	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		RIGHT RIBS CRACKED
+15815	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		LEFT RIBS CRACKED
+15816	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		BRUISED CHEST
+15817	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		gut
+15818	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		WINDED - BADLY BRUISED GUT
+15819	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		BRUISED STOMACH
+15820	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		BRUISED KIDNEYS
+15821	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		BRUISED BACK
+15822	1	BulletImpact.XRayAnalysis::BuildBeating<String.ToUpperInvariant>		BRUISED 
+15823	1	BulletImpact.XRayAnalysis::BuildBeating<XRayAnalysis.<BuildBeating>g__Add|9_9>		BRUISED
+15824	1	BulletImpact.XRayAnalysis::ApplyAmmo<String.Format>		BULLET FLATTENED
+15825	1	BulletImpact.XRayAnalysis::ApplyAmmo<String.Format>		BULLET BROKE APART - {0} FRAGMENTS
+15826	1	BulletImpact.XRayAnalysis::ApplyAmmo<String.Format>		ROUND EXPLODED IN THE WOUND - {0} FRAGMENTS
+15827	1	BulletImpact.XRayAnalysis::ApplyAmmo<String.Concat>		 BURNED - FIRE ARROW
+15828	1	BulletImpact.XRayViewer::WhenText<DateTime.get_Month>		{0} {1}, {2:HH:mm}
+15829	1	BulletImpact.XRayViewer::Draw<Theme.Body>		No wounds logged yet. Every time you shoot, cut or blow up a person, the wound is recorded here.
+15830	1	BulletImpact.XRayViewer::Draw<Theme.Body>		No animals logged yet. Shoot, cut or blow up a four-legged animal and the wound is recorded here.
+15831	1	BulletImpact.XRayViewer::DrawFacts<Theme.Label>		ALL SHOTS
+15832	1	BulletImpact.XRayViewer::DrawFacts<Theme.Label>		THE SHOT
+15833	1	BulletImpact.XRayViewer::DrawFacts<XRayViewer.Tidy>		Blood loss
+15834	1	BulletImpact.XRayViewer::DrawFacts<XRayViewer.PrettyWeapon>		WEAPON
+15835	2	BulletImpact.XRayViewer::DrawFacts<XRayViewer.BlowKinds> ; BulletImpact.XRayViewer::BlowsByRegion<XRayViewer.Section>		BLOWS
+15836	1	BulletImpact.XRayViewer::DrawFacts<XRayViewer.RoundName>		ROUND
+15837	1	BulletImpact.XRayViewer::DrawFacts<XRayViewer.RoundName>		STRIKE
+15838	1	BulletImpact.XRayViewer::DrawFacts<Math.Max>		FROM IT
+15839	1	BulletImpact.XRayViewer::DrawFacts<Math.Max>		{0:0.0} m  -  {1} {2} (est.)
+15840	1	BulletImpact.XRayViewer::DrawFacts<String.Format>		fragments
+15841	1	BulletImpact.XRayViewer::DrawFacts<String.Format>		burns
+15842	1	BulletImpact.XRayViewer::DrawFacts<String.Format>		1 pellet
+15843	1	BulletImpact.XRayViewer::DrawFacts<String.Format>		{0} pellets ({1} est.)
+15844	1	BulletImpact.XRayViewer::DrawList<Theme.Label>		VICTIMS
+15845	1	BulletImpact.XRayViewer::DrawXRay<UiDraw.get_RectsThisFrame>		XRAY frame: limit {0}, before the skeleton {1} rects + {2} letters (x{3:0.0}) -> budget {4}, drew {5}, smoothness {6}, level {7}, zoom {8:0.00}, cut {9}, plans so far {10}
+15846	1	BulletImpact.XRayViewer::DrawXRay<XRayRenderer.get_LastDropped>		   {0} extras skipped
+15847	1	BulletImpact.XRayViewer::DrawXRay<Theme.Label>		ALL WOUNDS
+15848	1	BulletImpact.XRayViewer::DrawXRay<String.Format>		{0} detail
+15849	1	BulletImpact.XRayViewer::DrawXRay<XRayRenderer.get_ActiveLevel>		Auto detail: {0}
+15850	1	BulletImpact.XRayViewer::DrawXRay<UiDraw.Text>		thin / dimmed paths are estimated
+15851	1	BulletImpact.XRayViewer::DrawXRay<UiDraw.Text>		spinning
+15852	1	BulletImpact.XRayViewer::DrawCalibration<UiDraw.Text>		PAGE 1/2  RECT LIMIT - find the FIRST row with any missing cell, put the arrows on the row ABOVE it, press Enter.
+15853	1	BulletImpact.XRayViewer::DrawCalibration<UiDraw.Text>		Backspace cancels.  Left/Right: page 2 (sprite test).
+15854	1	BulletImpact.XRayViewer::DrawCalibration<String.Format>		Currently saved limit: {0}.   Selected: {1}
+15855	1	BulletImpact.XRayViewer::DrawSpriteTest<UiDraw.Text>		PAGE 2/2  SPRITE TEST - tell me which numbers show clean SOLID bars in columns A, B and C.  Left/Right: page 1.
+15856	1	BulletImpact.XRayViewer::WoundTrack<XRayViewer.Section>		BULLET PATH
+15857	1	BulletImpact.XRayViewer::WoundTrack<XRayViewer.Section>		WOUND TRACK
+15858	1	BulletImpact.XRayViewer::WoundTrack<Theme.Label>		ENTRY
+15859	1	BulletImpact.XRayViewer::WoundTrack<Theme.Label>		IN
+15860	1	BulletImpact.XRayViewer::WoundTrack<String.Concat>		  (est.)
+15861	1	BulletImpact.XRayViewer::WoundTrack<String.Format>		, over-penetrated
+15862	1	BulletImpact.XRayViewer::WoundTrack<String.Format>		, cut clean through
+15863	1	BulletImpact.XRayViewer::WoundTrack<Theme.Label>		LODGED
+15864	1	BulletImpact.XRayViewer::WoundTrack<Theme.Label>		STOP
+15865	1	BulletImpact.XRayViewer::WoundTrack<Theme.Label>		EXIT
+15866	1	BulletImpact.XRayViewer::BlowsByRegion<String.Format>		{0} blows
+15867	1	BulletImpact.XRayViewer::BlowsByRegion<XRayViewer.get_RowW>		1 blow
+15868	1	BulletImpact.XRayViewer::TraumaMeter<Theme.Label>		TRAUMA
+15869	1	BulletImpact.XRayViewer::InjuryList<Theme.Body>		Flesh wound only - nothing vital hit
+15870	1	BulletImpact.XRayViewer::ManSub<String.Concat>		Rode with 
+15871	1	BulletImpact.XRayViewer::ManSub<String.Concat>		Nemesis  -  
+15872	1	BulletImpact.XRayViewer::DrawShot<Anatomy.RegionOfBone>		Grazed 
+15873	1	BulletImpact.XRayViewer::DrawShot<XRayViewer.Section>		DAMAGE
+15874	1	BulletImpact.XRayViewer::DrawFooter<Theme.Footer>		Press Delete again to erase the whole X-ray log
+15875	1	BulletImpact.XRayViewer::DrawFooter<Theme.Footer>		D-pad  Navigate     LB/RB  Humans / Animals     Right stick  Rotate     LT/RT  Zoom     Y  Spin     RS  Reset     X  Arthur     B  Close
+15876	1	BulletImpact.XRayViewer::DrawFooter<String.Concat>		     F  Detail     K  Calibrate     Del  Clear

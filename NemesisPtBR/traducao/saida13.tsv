@@ -1,0 +1,840 @@
+13361	Ele espera na estrada de saída
+13362	um homem sanguinário espera nos arredores desta cidade
+13363	Um homem acamado
+13364	numa cidade: um nêmesis paralisado no médico ou numa cama de hotel que você marcou
+13365	Marcar uma cama de hotel aqui
+13366	fique ao lado de uma cama de hotel: homens acamados podem ser encontrados ali
+13367	Um posto de controle de guerra
+13368	homens vigiando a rua (qualquer cidade, com guerra ou não)
+13369	no próximo bar de que você se aproximar ou em que entrar
+13370	dois bandos brigando à sua frente
+13371	Uma patrulha na estrada
+13372	cavaleiros do bando que patrulha aqui
+13373	Cavaleiros ouviram seus tiros
+13374	uma patrulha cavalga até onde você está
+13375	Um ataque ao acampamento mais próximo
+13376	um acampamento ativo a até 170 m é atacado
+13377	Cavaleiros no alto da serra
+13378	os Wapiti vigiando você do alto
+13379	Posicionar um local de acampamento aqui
+13380	um local de acampamento de verdade do bando mais forte daqui, salvo em camps.json - depois faça surgir, e desfaça se ficar ruim
+13381	Gerar o acampamento posicionado
+13382	o acampamento no último local que você posicionou, agora (um oficial deles e os homens dele, com os objetos de cena)
+13383	Desfazer o acampamento posicionado
+13384	o acampamento some e o local sai do camps.json - de novo para o que foi posicionado antes dele
+13385	Um acampamento aqui, agora
+13386	um acampamento de verdade do bando mais forte daqui, 14 m à frente, com os objetos de cena - some quando você for embora
+13387	Kit de acampamento aqui (só objetos)
+13388	os objetos de acampamento no estilo do bando daqui, 8 m à frente - de novo para tirar (log: quais modelos carregaram)
+13389	Remover acampamento
+13390	some com os acampamentos de teste (os de baixo, o "acampamento aqui, agora", o kit) - senão, o acampamento mais próximo, suspenso por 3 minutos
+13391	as linhas abaixo trazem também os homens do bando (Enter: só objetos)
+13392	as linhas abaixo montam só o acampamento - objetos, carroça, cavalos, sem homens (Enter: com homens)
+13393	 - acampamento
+13394	no local de acampamento mais próximo (250 m; senão, 20 m à sua frente) no estilo deles
+13395	 - não é desta época: só objetos
+13396	Uma rotina de oficial, agora
+13397	a rotina mais perto de você começa agora (3 h) - marcada
+13398	Um funeral à frente
+13399	o último homem do bando a morrer é enterrado no cemitério mais próximo (1,5 km)
+13400	Teste de voz (pessoa mais próxima)
+13401	a pessoa mais próxima testa as falas do jogo - as que saem são registradas e usadas
+13402	Checagem de voz: todo modelo de bando
+13403	cada modelo de bando criado fora de vista por um segundo: quais têm voz (linhas MODELVOICE)
+13404	Marcar um lote de enterro aqui
+13405	fique entre as covas: os funerais serão feitos aqui (em qualquer lugar - um cemitério novo se não houver nenhum perto)
+13406	Ler o jornal
+13407	o jornal desta região, como sairia impresso hoje
+13408	Um mundo de epílogo antigo da 0.9.4 (teste)
+13409	jogo salvo do John: os bandos de 1899 no relógio de 1907, como a 0.9.4 fazia - a conversão fica segurada para você jogar nele antes
+13410	Converter agora (teste)
+13411	a conversão que recebe quem atualiza no epílogo: os bandos mudam, tudo o que você fez fica
+13412	Pular para 1907 (teste)
+13413	oito anos depois neste mundo - antes, um ponto de salvamento; Shift + a tecla do menu em até 2 minutos volta para 1899
+13414	Começar uma guerra aqui
+13415	os dois maiores bandos deste distrito entram em guerra
+13416	Um bando de guerra
+13417	um lado passa cavalgando, o outro fica esperando
+13418	Uma emboscada na estrada
+13419	homens de tocaia, cavaleiros chegando (40%: uma carroça)
+13420	Uma emboscada a uma carroça
+13421	os cavaleiros vêm numa carroça - dinamite
+13422	Logo depois de uma batalha
+13423	os mortos e os que ainda estão de pé
+13424	Corpos na estrada à frente
+13425	uma briga entre os dois acabou de terminar (guerra aqui)
+13426	Uma patrulha de guerra
+13427	cavaleiros de um dos lados (guerra aqui)
+13428	Um bloqueio na estrada
+13429	num distrito em guerra, fora da cidade: um lado domina a estrada à frente
+13430	Uma batalha distante
+13431	uma briga a 200-250 m que dá para ouvir (uma guerra perto de você)
+13432	Uma explosão distante
+13433	uma explosão a 200-235 m, fora de vista
+13434	Calor da guerra +20
+13435	a guerra daqui (ou a mais próxima) esquenta
+13436	Calor da guerra -20
+13437	a guerra daqui (ou a mais próxima) esfria
+13438	Mantimentos -30
+13439	o bando que domina mais terreno aqui
+13440	Mantimentos +30
+13441	Acampamento de mantimentos aqui
+13442	o acampamento ocupado mais próximo guarda os mantimentos do bando
+13443	Acampamento de mantimentos reabastecido
+13444	o acampamento de mantimentos mais próximo, cheio de novo
+13445	Uma carroça de mantimentos
+13446	o bando que domina o terreno daqui passa com mantimentos perto de você
+13447	Caixotes de mantimentos nesta cidade
+13448	um estoque do dono do distrito num ponto posicionado (até 2 por cidade, a 150 m um do outro)
+13449	Posicionar um ponto de estoque da cidade aqui
+13450	um estoque pode se acumular onde você está, virado para onde você está virado (content\\stash_spots.json)
+13451	Remover o ponto de estoque mais próximo
+13452	o ponto de estoque posicionado a até 15 m
+13453	Mostrar pontos de estoque
+13454	todos os pontos de estoque posicionados no mapa (de novo para esconder)
+13455	Acampamento do cofre aqui
+13456	o acampamento ocupado mais próximo vira o cofre do bando
+13457	Revelar todos os cofres
+13458	o cofre de cada bando no mapa
+13459	Reabastecer o cofre mais próximo
+13460	+$300 e o roubo esquecido
+13461	Autoverificação agora
+13462	o mod confere as próprias regras com o mundo agora (linhas SELFCHECK em grudges.log; uma falha é revista em 30 s)
+13463	enRAGE: feche o menu primeiro para abrir o gerador de encontros.
+13464	=
+13465	Já tem uma escaramuça acontecendo.
+13466	Nenhuma escaramuça pôde começar aqui (não há dois bandos para brigar, ou falta espaço).
+13467	Nenhum lugar alto para cavaleiros perto de você.
+13468	Ninguém da sua lista pôde mandar caçadores de recompensa.
+13469	GERADOR DE ENCONTROS
+13470	GERADOR diz: 
+13471	entre numa cidade primeiro.
+13472	 (padrão)
+13473	=
+13474	=
+13475	=
+13476	 morreu
+13477	=
+13478	A gangue montou acampamento em 
+13479	A gangue foi parar em Guarma
+13480	anos depois
+13481	=
+13482	=
+13483	=
+13484	na fila para subir de posto
+13485	tem contas a acertar
+13486	veio atrás de você {0}x
+13487	um veterano cheio de cicatrizes
+13488	carrega a sua cicatriz
+13489	=
+13490	uma vez
+13491	=
+13492	=
+13493	=
+13494	 no lugar dele
+13495	ficou de fora - 
+13496	um homem da região
+13497	  -  um homem da região
+13498	homens: {0} de {1}
+13499	sem dinheiro para um homem novo
+13500	um homem novo
+13501	 entrou para o bando
+13502	{0}: fileiras refeitas - {1} oficiais novos
+13503	 como 
+13504	 - alguém da região que se juntou a eles
+13505	=
+13506	 do finado 
+13507	, que veio acertar as contas
+13508	As fileiras mudaram.
+13509	comprou mantimentos ({0} dia(s))
+13510	, comprou {0}
+13511	mantimentos: 
+13512	=
+13513	=
+13514	=
+13515	=
+13516	=
+13517	=
+13518	=
+13519	=
+13520	=
+13521	Você encontrou: 
+13522	 - mantimentos. Marcado no seu mapa.
+13523	=
+13524	 (sem guarda)
+13525	" em 
+13526	=
+13527	=
+13528	=
+13529	=
+13530	=
+13531	você explodiu os estoques deles
+13532	você queimou os estoques deles
+13533	Você destruiu, dos 
+13534	 - estoque destruído: não sobrou nenhum caixote
+13535	Você levou, dos 
+13536	, a carroça de mantimentos.
+13537	você matou um dos cavalos deles
+13538	você espantou um dos cavalos deles
+13539	 (não foi você)
+13540	{0} - mantimentos: {1} - {2}.
+13541	=
+13542	 já perderam tudo o que podiam aqui - o resto é só destroço.
+13543	você arrombou os caixotes deles na cidade
+13544	Você arrombou: 
+13545	você atacou os mantimentos deles
+13546	=
+13547	Você atacou: 
+13548	 - mantimentos
+13549	você abriu os caixotes deles à força
+13550	Você arrombou um caixote - ${0}, e o estoque deles se estragou.
+13551	Arrombar
+13552	=
+13553	=
+13554	=
+13555	=
+13556	=
+13557	você destruiu a carroça de mantimentos deles na estrada
+13558	você atacou a carroça de mantimentos deles
+13559	Você levou
+13560	Você destruiu
+13561	, dos 
+13562	=
+13563	=
+13564	levou
+13565	destruiu
+13566	, a carroça de mantimentos
+13567	=
+13568	=
+13569	=
+13570	=
+13571	=
+13572	eles conhecem a sua cara
+13573	você levou a carroça
+13574	você atacou eles
+13575	=
+13576	=
+13577	=
+13578	=
+13579	=
+13580	=
+13581	=
+13582	=
+13583	=
+13584	=
+13585	=
+13586	=
+13587	=
+13588	os perdedores voltaram
+13589	os vencedores ainda dominam o lugar
+13590	voltaram para buscar os mortos deles
+13591	segurando o lugar
+13592	=
+13593	=
+13594	=
+13595	=
+13596	Telégrafo ({0} novos)
+13597	a estação
+13598	O fio tá livre. Pra quem vai mandar?
+13599	Chegou telegrama pra você - {0} deles. Ou vai mandar?
+13600	=
+13601	Ver telegramas  ({0} novos)
+13602	Enviados há pouco
+13603	No fio: {0} esperando resposta  -  o próximo por volta de {1:MMM d}
+13604	Você escreveu para {0} de {1} em {2:MMM d}
+13605	De 
+13606	Chegou em {0:MMM d}  -  {1}
+13607	Respondido em {0:MMM d}{1}
+13608	 - não lido
+13609	Nunca entregue
+13610	No fio - chega em {0:MMM d}
+13611	há {0} dias
+13612	último contato: 
+13613	simpatia {0} / medo {1}
+13614	última aparição: 
+13615	você fez 
+13616	 favores para ele
+13617	 cavalga? Vale a pena pra você."  - perguntar pelo chefe dele
+13618	 tá te entregando. Pergunta pra ele por quê."  - jogar ele contra o chefe
+13619	 morreu guinchando. Você é o próximo."  - provocar ele por causa de: 
+13620	"Soube de 
+13621	. Sinto muito."  - seus pêsames pela perda de: 
+13622	, com os meus respeitos."  - um presente para: 
+13623	. Sinto muito."  - seus pêsames
+13624	Esse ainda tá no fio. Chega em {0:MMM d}.
+13625	Para {0}. O que vai dizer?  As respostas levam {1}-{2} dias.
+13626	=
+13627	=
+13628	=
+13629	=
+13630	=
+13631	Respondendo para {0}. O que vai dizer?  As respostas levam {1}-{2} dias.
+13632	=
+13633	=
+13634	=
+13635	Tem {0} telegramas esperando por você na estação.
+13636	Tem um telegrama esperando por você na estação.
+13637	=
+13638	 ESTÁ FORA DE ALCANCE.
+13639	Nunca chegou até ele.
+13640	=
+13641	=
+13642	=
+13643	 não vai mais vir atrás de você.
+13644	 vai vir atrás de você agora.
+13645	 guarda isso mais perto do peito - mas não vai sair a cavalo por causa disso.
+13646	 vai vir atrás de você 
+13647	=
+13648	você escreveu para fazer as pazes
+13649	você escreveu para pedir desculpas
+13650	você ameaçou ele pelo telégrafo
+13651	você ameaçou a família dele
+13652	você zombou dele pelo telégrafo
+13653	dinheiro de novo - vale {0:P0}
+13654	você subornou ele
+13655	 entregou de onde ele cavalga - por telegrama
+13656	ele entregou o chefe pelo telégrafo
+13657	seu telegrama
+13658	você escreveu que 
+13659	 estava entregando ele
+13660	=
+13661	=
+13662	você escreveu desejando tudo de bom pra ele
+13663	você escreveu quando 
+13664	você mandou para 
+13665	 um presente
+13666	 levou o seu pedido de desculpas para os 
+13667	notoriedade -{0}
+13668	  (${0} EM ANEXO)
+13669	Pouca coisa mudou entre vocês.
+13670	Não mexeu com ele.
+13671	Ele 
+13672	 passou a pensar um pouco melhor de você.
+13673	cartas nesta semana - valem {0:P0}
+13674	de nome 
+13675	ele sabe que foi você
+13676	=
+13677	=
+13678	Ele vai te mandar telegrama se aparecer encrenca perto de 
+13679	MANDOU TELEGRAMA: "
+13680	MANDOU TELEGRAMA, IMPLORANDO: "
+13681	 GUARDAM O DINHEIRO EM 
+13682	. COFRES DE FERRO. VOCÊ NÃO OUVIU ISSO DE MIM.
+13683	=
+13684	 te mandou telegrama: 
+13685	 TEM APARECIDO POR 
+13686	. ELE PERGUNTA POR VOCÊ. SE CUIDA.
+13687	O POVO ESTÁ FALANDO DISSO AQUI: 
+13688	=
+13689	AGUARDANDO
+13690	Você escreveu:  
+13691	=
+13692	Enviado em {0:MMM d, h:mm tt}
+13693	Telegrama recebido em {0}, {1:MMM d, h:mm tt}
+13694	${0} em anexo{1}
+13695	  -  pago a você
+13696	O QUE ISSO FEZ
+13697	SR. 
+13698	=
+13699	=
+13700	=
+13701	=
+13702	=
+13703	=
+13704	=
+13705	=
+13706	=
+13707	=
+13708	=
+13709	=
+13710	=
+13711	=
+13712	=
+13713	=
+13714	=
+13715	=
+13716	=
+13717	=
+13718	=
+13719	=
+13720	=
+13721	gráfico: últimos 15 min, dourado = nível de disparo, azul = algo apareceu
+13722	 estão perdendo o controle de 
+13723	 estão ganhando terreno em 
+13724	=
+13725	, tomaram um acampamento
+13726	 agora dominam uma parte maior.
+13727	você matou um dos homens deles
+13728	você matou um dos homens de posto {0} deles
+13729	=
+13730	=
+13731	=
+13732	 estão disputando o lugar.
+13733	=
+13734	=
+13735	=
+13736	 dominam o lugar.
+13737	=
+13738	=
+13739	perdeu uma escaramuça para os 
+13740	=
+13741	=
+13742	=
+13743	=
+13744	fev. 1899
+13745	=
+13746	=
+13747	=
+13748	o mundo estava adiantado em relação ao relógio deste jogo salvo
+13749	enRAGE: o mundo estava adiantado em relação ao relógio deste jogo salvo - os temporizadores foram atrasados para encaixar.
+13750	=
+13751	=
+13752	=
+13753	 espera na estrada de saída
+13754	raiva
+13755	coragem
+13756	orgulho
+13757	com os nervos à flor da pele
+13758	quer provar o que vale
+13759	quer resolver agora
+13760	=
+13761	=
+13762	=
+13763	=
+13764	=
+13765	=
+13766	=
+13767	=
+13768	=
+13769	=
+13770	Aqui não. Quando você sair desta cidade - vou tá esperando.
+13771	Na cidade não. Você não vai fugir de mim.
+13772	Aqui não. Tem olho demais.
+13773	...Aqui não. Não com a lei por perto.
+13774	VIU VOCÊ EM 
+13775	 - e foi esperar você na estrada de saída
+13776	deixou você passar por 
+13777	 cansou de esperar na saída de 
+13778	 esperou na saída de 
+13779	, mas você nunca saiu por aquele lado
+13780	ESPEROU VOCÊ na saída de 
+13781	 estava esperando você na saída de 
+13782	=
+13783	=
+13784	=
+13785	=
+13786	=
+13787	=
+13788	=
+13789	=
+13790	=
+13791	=
+13792	=
+13793	=
+13794	=
+13795	=
+13796	=
+13797	=
+13798	=
+13799	=
+13800	nenhum nêmesis livre para vir à cidade
+13801	todo mundo que você conhece de 
+13802	 já está aqui
+13803	você não conhece ninguém de 
+13804	 ainda
+13805	{0} pessoas que você conhece já estão por perto
+13806	a memória de pessoas está desligada
+13807	 - e 
+13808	=
+13809	=
+13810	=
+13811	=
+13812	=
+13813	 (guarda rixa)
+13814	. Ele não vai começar nada - mas não esqueceu.
+13815	=
+13816	=
+13817	=
+13818	=
+13819	=
+13820	 viu você - ele está vindo.
+13821	 teria vindo atrás de você - 
+13822	=
+13823	=
+13824	=
+13825	=
+13826	=
+13827	=
+13828	=
+13829	=
+13830	=
+13831	 vem dar cobertura a 
+13832	=
+13833	=
+13834	=
+13835	=
+13836	=
+13837	=
+13838	=
+13839	Tô te esperando faz tempo. Levanta esses punhos.
+13840	Lembra de mim? Eu lembro bem de você.
+13841	=
+13842	E- eu não tenho briga com você. Agora não.
+13843	Você não vale a pena. Tô indo embora.
+13844	=
+13845	=
+13846	=
+13847	=
+13848	=
+13849	=
+13850	=
+13851	=
+13852	=
+13853	situação
+13854	=
+13855	=
+13856	=
+13857	=
+13858	=
+13859	 (cidade em guerra)
+13860	{0} - {1}, rep. {2:+0;-0;0}
+13861	{0} - reputação {1:+0;-0;0} ({2})
+13862	=
+13863	=
+13864	perto do trem só {0} s (15 s)
+13865	, mascarado
+13866	Você roubou o trem perto de 
+13867	Um mascarado roubou o trem perto de 
+13868	 (um mascarado - não sabem que foi você)
+13869	=
+13870	você roubou um trem
+13871	=
+13872	=
+13873	viram seu rosto depois do roubo do trem
+13874	=
+13875	Viram o seu rosto. Já tão dizendo por aí que foi você que roubou aquele trem.
+13876	 estão sem dinheiro
+13877	 estão sem dinheiro.
+13878	pagamento curto - o dinheiro tá apertado
+13879	você estragou o serviço deles
+13880	um serviço que deu errado
+13881	um serviço desesperado que deu errado
+13882	um serviço desesperado que deu dinheiro
+13883	=
+13884	homens sem pagamento foram embora
+13885	Homens estão deixando o bando: 
+13886	Sem pagamento há {0} dias - os homens de {1} estão se dispersando. Mais vão embora até o dinheiro voltar.
+13887	=
+13888	: os homens pressionam ele por causa da bolsa vazia
+13889	{0} dias sem pagamento. Agora o dinheiro vem primeiro: o negócio de {1} é enriquecer.
+13890	 falou contra 
+13891	 - e pagou por isso
+13892	PAGOU COM A VIDA
+13893	falou contra o chefe
+13894	 - os homens dele
+13895	{0} dias sem pagamento, e {1} reclamou uma vez a mais do que devia.
+13896	 pagou os homens do próprio bolso
+13897	 paga os homens - 
+13898	 - do próprio bolso
+13899	{0} dias sem pagamento - ele meteu a mão no próprio esconderijo (${1}) para segurar os homens.
+13900	=
+13901	você roubou um dos homens deles
+13902	você limpou 
+13903	 - o que eles guardavam lá sumiu
+13904	dinheiro: 
+13905	=
+13906	 - você esvaziou; não tem nada até eles mudarem de lugar
+13907	=
+13908	=
+13909	=
+13910	=
+13911	O cofre está vazio.
+13912	${0} do cofre de {1}.
+13913	=
+13914	=
+13915	você roubou o cofre deles
+13916	=
+13917	Você roubou: 
+13918	 - cofre
+13919	=
+13920	 - esconderijo de dinheiro. Marcado no seu mapa.
+13921	=
+13922	=
+13923	=
+13924	=
+13925	 Cofre - esconderijo
+13926	=
+13927	=
+13928	não gostou de ver sua faca na mão
+13929	não gostou de ver sua arma na mão
+13930	=
+13931	o jogo assumiu
+13932	Homem da lei: Assim é melhor. Pode seguir.
+13933	Homem da lei: Muito obrigado.
+13934	=
+13935	=
+13936	=
+13937	=
+13938	=
+13939	=
+13940	=
+13941	=
+13942	=
+13943	=
+13944	=
+13945	=
+13946	ANTIPATIA
+13947	ÓDIO
+13948	=
+13949	=
+13950	=
+13951	=
+13952	=
+13953	=
+13954	=
+13955	 sabe que o mascarado era você
+13956	=
+13957	JUROU POR ISSO
+13958	Os rapazes do Dutch vão pagar
+13959	Gangue de Dutch van der Linde
+13960	=
+13961	=
+13962	Cavalgou com 
+13963	Uma missão de estranho com 
+13964	{0} minutos{1}.
+13965	, saindo de 
+13966	, perto de 
+13967	=
+13968	=
+13969	=
+13970	=
+13971	=
+13972	Teste de voz: {0} não disse nenhuma das {1} falas.
+13973	=
+13974	=
+13975	=
+13976	=
+13977	=
+13978	=
+13979	=
+13980	=
+13981	=
+13982	=
+13983	=
+13984	=
+13985	=
+13986	=
+13987	=
+13988	=
+13989	=
+13990	=
+13991	=
+13992	bando de guerra de {0} ({1}) cavalgando para atacar {2}
+13993	=
+13994	 passam - estão atrás de 
+13995	=
+13996	os cavaleiros
+13997	os homens de tocaia
+13998	 - agora não
+13999	 ficou para trás - acontece sem você
+14000	o bando de guerra de {0} atacou {1} {2} {3}
+14001	no caminho
+14002	onde estavam indo
+14003	=
+14004	=
+14005	dinamite na estrada - atacaram a carroça
+14006	os cavaleiros sentiram o cheiro - começa antes
+14007	você atirou primeiro
+14008	os cavaleiros caíram na emboscada
+14009	=
+14010	=
+14011	=
+14012	=
+14013	=
+14014	=
+14015	=
+14016	Tiros à frente - depois, silêncio. 
+14017	=
+14018	 - guerra aqui: 
+14019	, distrito 
+14020	Já tem uma escaramuça acontecendo - espere ela acabar.
+14021	 não pôde começar aqui (veja grudges.log).
+14022	=
+14023	um dia de guerra desgasta eles
+14024	 não têm ninguém no lugar do líder
+14025	 perderam o líder e agora ninguém comanda - a vontade de brigar está indo embora.
+14026	 - o novo líder quer sangue
+14027	 - o novo líder, 
+14028	, jura vingar o antigo.
+14029	 - o novo líder é cauteloso
+14030	querem botar pra correr os sem-líder 
+14031	 perderam o líder
+14032	, {0} deles oficiais
+14033	A guerra está {0} ({1}).
+14034	=
+14035	eles querem o acampamento em 
+14036	eles querem mais de 
+14037	o acampamento que vieram buscar não existe mais
+14038	eles estão se agarrando ao que sobrou de 
+14039	a guerra está indo mal para eles
+14040	eles recuperaram o terreno
+14041	eles sentem o cheiro da vitória
+14042	você matou um homem dos 
+14043	, um oficial
+14044	=
+14045	 vacila
+14046	 souberam que você anda matando os homens de 
+14047	 - e gostaram disso (notoriedade com eles -3)
+14048	 levaram a melhor.
+14049	venceu uma briga contra os 
+14050	perdeu uma briga para os 
+14051	=
+14052	 ({0} mortos)
+14053	venceu uma briga contra {0} ({1} deles no chão)
+14054	uma briga que você ouviu - {0} homens no chão
+14055	=
+14056	=
+14057	=
+14058	Querem quebrar os 
+14059	 por sua vez
+14060	Firmes - ganharam terreno (+{0})
+14061	Cedendo terreno - {0} perdidos até agora
+14062	Lutando pelo que dá dinheiro
+14063	Defendendo os seus
+14064	Sem muita vontade de lutar
+14065	 - espalhados demais por outra guerra
+14066	 - com pouco dinheiro
+14067	Sem líder - os 
+14068	 podem debandar
+14069	 estão perto de ser expulsos
+14070	 estão perto de perder o pé no lugar
+14071	 estão perto de debandar - homens e dinheiro acabando
+14072	Desgastados - já se fala em paz
+14073	 estão ficando sem dinheiro
+14074	Esfriando - os dois lados cansados
+14075	Ainda sem fim à vista
+14076	uma noite tranquila
+14077	tiroteio em breve
+14078	=
+14079	=
+14080	=
+14081	=
+14082	=
+14083	=
+14084	=
+14085	=
+14086	=
+14087	=
+14088	=
+14089	=
+14090	=
+14091	=
+14092	=
+14093	=
+14094	=
+14095	=
+14096	=
+14097	=
+14098	=
+14099	=
+14100	tiroteio quando você acordar
+14101	 em Guerra
+14102	A Guerra por 
+14103	 - Rixa de Sangue
+14104	 em Guerra
+14105	Verão
+14106	Primavera
+14107	Inverno
+14108	 de Guerra em 
+14109	=
+14110	 ({0} guerras)
+14111	=
+14112	Dia {0}  -  desde {1}
+14113	=
+14114	, sem ninguém no lugar do líder,
+14115	=
+14116	 escolheram lutar
+14117	=
+14118	a guerra se espalha para 
+14119	{0:MMM d}: a luta se espalhou para {1}
+14120	=
+14121	=
+14122	a luta em 
+14123	 entrou na mesma guerra
+14124	=
+14125	o acampamento que vieram buscar caiu nas mãos de outros
+14126	 conquistaram o terreno que queriam
+14127	 para fora
+14128	 tomaram o acampamento que vieram buscar
+14129	 para longe
+14130	 desistiram (
+14131	 ficaram sem homens e debandaram
+14132	 já estavam brigando
+14133	 ficaram sem homens e voltaram para casa
+14134	 fizeram as pazes
+14135	 ofereceram paz. 
+14136	 nem quiseram ouvir.
+14137	uma oferta de paz recusada
+14138	 recusaram a paz
+14139	=
+14140	{0} pediram paz - uma trégua de {1} dias.
+14141	 pediram paz
+14142	=
+14143	=
+14144	=
+14145	um estopim
+14146	quebraram a trégua
+14147	=
+14148	queixas: 
+14149	=
+14150	=
+14151	=
+14152	=
+14153	=
+14154	um 
+14155	=
+14156	=
+14157	 que partiu pra cima de você
+14158	=
+14159	=
+14160	 depois que ele partiu pra cima de você
+14161	=
+14162	=
+14163	 - você estava mascarado
+14164	 - você estava mascarado: não sabem que foi você
+14165	você matou o amigo dele 
+14166	 na frente dele
+14167	VIU VOCÊ MATAR o amigo dele 
+14168	=
+14169	=
+14170	=
+14171	=
+14172	=
+14173	=
+14174	os homens que estavam atrás de 
+14175	você salvou 
+14176	=
+14177	: Por favor - num quero encrenca nenhuma!
+14178	=
+14179	=
+14180	...Eu lembro de você.
+14181	Eu sei quem você é. E todo mundo também sabe.
+14182	Eu vi o que você fez. Num tenho medo de você, não.
+14183	: Por favor - num vi nada, não!
+14184	=
+14185	: É aquele lá!
+14186	=
+14187	=
+14188	=
+14189	contou pra lei sobre você
+14190	=
+14191	=
+14192	você meteu medo nele pra não abrir a boca
+14193	você ameaçou ele (tarde demais - ele já tinha contado pra lei)
+14194	=
+14195	=
+14196	=
+14197	=
+14198	=
+14199	=
+14200	=
