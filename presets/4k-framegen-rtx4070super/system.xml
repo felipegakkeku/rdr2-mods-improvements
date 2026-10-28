@@ -92,12 +92,12 @@
     <screenWidth value="3840" />
     <screenHeight value="2160" />
     <resolutionIndexWindowed value="22" />
-    <screenWidthWindowed value="2560" />
-    <screenHeightWindowed value="1440" />
+    <screenWidthWindowed value="3840" />
+    <screenHeightWindowed value="2160" />
     <refreshRateIndex value="2" />
     <refreshRateNumerator value="164835" />
     <refreshRateDenominator value="1000" />
-    <windowed value="0" />
+    <windowed value="2" />
     <vSync value="0" />
     <tripleBuffered value="false" />
     <ReflexSettings>kSettingReflex_On</ReflexSettings>
