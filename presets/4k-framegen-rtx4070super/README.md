@@ -37,3 +37,9 @@ powershell -ExecutionPolicy Bypass -File .\instalar-nvidia-dlssg.ps1
 # Reverter renomeação das pastas OTA no ProgramData:
 powershell -ExecutionPolicy Bypass -File .\instalar-nvidia-dlssg.ps1 -ReverterOTA
 ```
+
+## Limite de FPS (testado 2026-10-28)
+- Usar FramerateLimit = 0 no OptiScaler.ini. O limitador do Reflex do OptiScaler com DLSS-G piorou o 1% low (42 FPS com limite 100).
+- Limite feito pelo jogo/sistema em 120 FPS: minima registrada 60 FPS, melhor que o limite pelo OptiScaler.
+- Reflex deve ficar ligado (DLSS-G depende dele).
+- O texto Current DLSSG state: OFF no menu do OptiScaler e cosmetico quando FGInput = Upscaler.

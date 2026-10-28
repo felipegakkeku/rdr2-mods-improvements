@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <rage__fwuiSystemSettingsCollection>
   <version value="37" />
@@ -97,7 +97,7 @@
     <refreshRateIndex value="2" />
     <refreshRateNumerator value="164835" />
     <refreshRateDenominator value="1000" />
-    <windowed value="2" />
+    <windowed value="0" />
     <vSync value="0" />
     <tripleBuffered value="false" />
     <ReflexSettings>kSettingReflex_On</ReflexSettings>
