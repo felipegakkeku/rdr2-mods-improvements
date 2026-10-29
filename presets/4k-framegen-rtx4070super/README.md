@@ -44,10 +44,7 @@ powershell -ExecutionPolicy Bypass -File .\instalar-nvidia-dlssg.ps1 -ReverterOT
 - Reflex deve ficar ligado (DLSS-G depende dele).
 - O texto Current DLSSG state: OFF no menu do OptiScaler e cosmetico quando FGInput = Upscaler.
 
-## Fix Definitivo ERR_GFX_STATE (0 Bytes + Read-Only)
-- Deletar sga_* e criar arquivos vazios (0 bytes) travados como Somente-Leitura (Read-Only):
-  - sga_win32_60_final_init.d3d12WarmupCacheWindows
-  - sga_win32_60_final_init.pipelineMarkerFile
-  - sga_vulkan_final_init.vkPipelineCacheWindows
-  - sga_vulkan_final.vkPipelineCacheWindows
-- Isso impede permanentemente que a engine RAGE grave caches de warmup corrompidos na pasta Settings.
+## Prevencao Definitiva de ERR_GFX_STATE
+- Modo de Exibicao: SEMPRE manter `windowed = 2` (Janela sem bordas / Borderless) no `system.xml`. Em setups multi-monitor no Windows 11 com DX12, o modo Tela Cheia Exclusiva (`windowed = 0`) falha ao negociar o swapchain e lanca `ERR_GFX_STATE`.
+- Arquivos SGA de Warmup: NUNCA criar arquivos vazios de 0 bytes nem travar como Somente-Leitura (Read-Only). O RDR2 exige permissao de escrita (`GENERIC_WRITE`) no `pipelineMarkerFile`; se estiver travado, o jogo aborta na hora.
+- Cura limpa de cache: Se houver crash, apenas remover os arquivos `sga_*` da pasta `Settings` para o jogo recriar o warmup limpo.
