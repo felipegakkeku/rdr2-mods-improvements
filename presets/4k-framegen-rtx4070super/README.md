@@ -43,3 +43,11 @@ powershell -ExecutionPolicy Bypass -File .\instalar-nvidia-dlssg.ps1 -ReverterOT
 - Limite feito pelo jogo: V-Sync ligado + taxa de atualizacao em 120 Hz nas opcoes de video (DSR 4K tela cheia). Minima registrada 60 FPS, melhor que o limite pelo OptiScaler. O system.xml do preset NAO traz isso (vSync=0, 164.835 Hz); configurar no menu do jogo.
 - Reflex deve ficar ligado (DLSS-G depende dele).
 - O texto Current DLSSG state: OFF no menu do OptiScaler e cosmetico quando FGInput = Upscaler.
+
+## Fix Definitivo ERR_GFX_STATE (0 Bytes + Read-Only)
+- Deletar sga_* e criar arquivos vazios (0 bytes) travados como Somente-Leitura (Read-Only):
+  - sga_win32_60_final_init.d3d12WarmupCacheWindows
+  - sga_win32_60_final_init.pipelineMarkerFile
+  - sga_vulkan_final_init.vkPipelineCacheWindows
+  - sga_vulkan_final.vkPipelineCacheWindows
+- Isso impede permanentemente que a engine RAGE grave caches de warmup corrompidos na pasta Settings.
