@@ -22,3 +22,12 @@ msbuild /m /p:Configuration=Release /p:Platform=x64 OptiScaler.sln
 ```
 
 Saída em `x64\Release\a\OptiScaler.dll`, instalada como `dxgi.dll` na pasta do jogo.
+
+## Upstream
+
+PRs abertos no OptiScaler em 30/10/2026, pelo fork `felipegakkeku/OptiScaler`:
+
+- https://github.com/optiscaler/OptiScaler/pull/1271: `SUCCEEDED()` na criação de swapchain (item 3), também nos três pontos de `DxgiFactory_WrappedCalls.cpp`.
+- https://github.com/optiscaler/OptiScaler/pull/1272: quirk `LazySLForD3D12` para o RDR2 (item 2).
+
+Quando os dois entrarem numa versão oficial, dá para trocar a `dxgi.dll` do fork pela oficial. O NvPresentGuard continua necessário enquanto o driver tiver o problema do NvPresent.
