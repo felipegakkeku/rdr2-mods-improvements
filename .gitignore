@@ -24,3 +24,8 @@ ddshot/*.png
 ddshot/*.jpg
 *.log
 *.bak
+
+# Backups locais de 30/10
+backup-20261030-*/
+*.bak
+nvidia-perfil-rdr2-*.txt

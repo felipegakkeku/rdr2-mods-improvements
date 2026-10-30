@@ -1,0 +1,109 @@
+diff --git a/OptiScaler/dllmain.cpp b/OptiScaler/dllmain.cpp
+index dd4d433..56d4a15 100644
+--- a/OptiScaler/dllmain.cpp
++++ b/OptiScaler/dllmain.cpp
+@@ -1291,6 +1291,9 @@ static void printQuirks(flag_set<GameQuirk>& quirks)
+     if (quirks & GameQuirk::CreateSLOnThe2ndDevice)
+         stringQuirks.push_back("Create SL on the 2nd device");
+ 
++    if (quirks & GameQuirk::LazySLForD3D12)
++        stringQuirks.push_back("Init SL for D3D12 only when DLSSG Dx12 is created");
++
+     if (quirks & GameQuirk::XeFGCameraMotionFill)
+         stringQuirks.push_back("Fill XeFG input motion vectors with camera motion");
+ 
+diff --git a/OptiScaler/hooks/D3D12_Hooks.cpp b/OptiScaler/hooks/D3D12_Hooks.cpp
+index 31fe0f9..806a36e 100644
+--- a/OptiScaler/hooks/D3D12_Hooks.cpp
++++ b/OptiScaler/hooks/D3D12_Hooks.cpp
+@@ -2305,7 +2305,7 @@ static void HookToDevice(ID3D12Device* InDevice)
+     }
+ 
+     if (State::Instance().activeFgOutput == FGOutput::DLSSG && !State::Instance().creatingD3DDevice &&
+-        StreamlineProxy::LoadStreamline())
++        !(State::Instance().gameQuirks & GameQuirk::LazySLForD3D12) && StreamlineProxy::LoadStreamline())
+     {
+         StreamlineProxy::InitWithD3D12(InDevice);
+     }
+diff --git a/OptiScaler/hooks/DxgiFactory_Hooks.cpp b/OptiScaler/hooks/DxgiFactory_Hooks.cpp
+index 1227c70..2c9977d 100644
+--- a/OptiScaler/hooks/DxgiFactory_Hooks.cpp
++++ b/OptiScaler/hooks/DxgiFactory_Hooks.cpp
+@@ -692,7 +692,7 @@ HRESULT DxgiFactoryHooks::CreateSwapChain(IDXGIFactory* realFactory, IUnknown* p
+             State::Instance().skipDxgiLoadChecks = false;
+         }
+ 
+-        if (result == S_OK)
++        if (SUCCEEDED(result) && ppSwapChain != nullptr && *ppSwapChain != nullptr)
+         {
+             State::Instance().currentSwapchainDesc = localDesc;
+             State::Instance().swapchainInteropApi = SwapchainInteropApi::None;
+@@ -1098,7 +1098,7 @@ HRESULT DxgiFactoryHooks::CreateSwapChainForHwnd(IDXGIFactory2* realFactory, IUn
+             State::Instance().skipDxgiLoadChecks = false;
+         }
+ 
+-        if (result == S_OK)
++        if (SUCCEEDED(result) && ppSwapChain != nullptr && *ppSwapChain != nullptr)
+         {
+             State::Instance().swapchainInteropApi = SwapchainInteropApi::None;
+ 
+@@ -1229,7 +1229,7 @@ HRESULT DxgiFactoryHooks::CreateSwapChainForCoreWindow(IDXGIFactory2* realFactor
+             o_CreateSwapChainForCoreWindow(realFactory, pDevice, pWindow, &localDesc, pRestrictToOutput, ppSwapChain);
+     }
+ 
+-    if (result == S_OK)
++    if (SUCCEEDED(result) && ppSwapChain != nullptr && *ppSwapChain != nullptr)
+     {
+         // check for SL proxy
+         IDXGISwapChain* realSC = nullptr;
+@@ -1494,7 +1494,7 @@ HRESULT DxgiFactoryHooks::DLSSGCreateSwapChain(IDXGIFactory* realFactory, IUnkno
+             State::Instance().skipDxgiLoadChecks = false;
+         }
+ 
+-        if (result == S_OK)
++        if (SUCCEEDED(result) && ppSwapChain != nullptr && *ppSwapChain != nullptr)
+         {
+             State::Instance().currentSwapchainDesc = localDesc;
+ 
+@@ -1813,7 +1813,7 @@ HRESULT DxgiFactoryHooks::DLSSGCreateSwapChainForHwnd(IDXGIFactory2* realFactory
+             State::Instance().skipDxgiLoadChecks = false;
+         }
+ 
+-        if (result == S_OK)
++        if (SUCCEEDED(result) && ppSwapChain != nullptr && *ppSwapChain != nullptr)
+         {
+             // check for SL proxy
+             IDXGISwapChain1* realSC = nullptr;
+@@ -1942,7 +1942,7 @@ HRESULT DxgiFactoryHooks::DLSSGCreateSwapChainForCoreWindow(IDXGIFactory2* realF
+                                                           ppSwapChain);
+     }
+ 
+-    if (result == S_OK)
++    if (SUCCEEDED(result) && ppSwapChain != nullptr && *ppSwapChain != nullptr)
+     {
+         // check for SL proxy
+         IDXGISwapChain* realSC = nullptr;
+diff --git a/OptiScaler/misc/GameConfigs.cpp b/OptiScaler/misc/GameConfigs.cpp
+index acd4793..4b61813 100644
+--- a/OptiScaler/misc/GameConfigs.cpp
++++ b/OptiScaler/misc/GameConfigs.cpp
+@@ -149,6 +149,7 @@ const std::vector<GameConfig> gameConfigs = {
+     {
+         .exes = { "rdr2.exe", "playrdr2.exe" },
+         .defaults = { EnableFsr3Inputs = false, DxgiSpoofing = false },
++        .quirks = { LazySLForD3D12 },
+     },
+ 
+     // Red Dead Redemption
+diff --git a/OptiScaler/misc/Quirks.h b/OptiScaler/misc/Quirks.h
+index 4c3b495..cec2c67 100644
+--- a/OptiScaler/misc/Quirks.h
++++ b/OptiScaler/misc/Quirks.h
+@@ -33,6 +33,7 @@ enum class GameQuirk : uint64_t
+     DLSSGFrameLatencyWaitable, // Game waits on the frame latency waitable, SL must not consume it too
+     HideFsr4,       // FFX inputs: game's options menu breaks when every upscaler it knows is available (BeamNG)
+     ExtendedSearch, // Extend the search when normal lookup fails (Phantom Blade Zero)
++    LazySLForD3D12, // Vulkan game probes D3D12 devices first, init SL for D3D12 only when DLSSG Dx12 is created (RDR2)
+     // Don't forget to add the new entry to printQuirks
+     _
+ };
