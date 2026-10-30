@@ -4,7 +4,7 @@ Patch sobre o OptiScaler master `e7e3872` (`rdr2-dlssg-nvpresent.diff`). Testado
 
 ## Problemas e correções
 
-1. **NvPresent64.dll (driver 621.01) fecha o jogo com 0xC0000409.** A camada de Present do driver encapsula de novo o swapchain do Streamline e chama um objeto já destruído, que cai em `std::terminate`. Correção: chave DRS `0xB0CC0875 = 0` no perfil do `rdr2.exe` (máscara de API do NvPresent; bit0 D3D12, bit1 D3D11, bit2 Vulkan). Script em `../NvidiaDrs/drs_np_api.py` (rodar como administrador). O NVIDIA App pode regravar o perfil: conferir com `drs_np.py`.
+1. **NvPresent64.dll (driver 621.01) fecha o jogo com 0xC0000409.** A camada de Present do driver encapsula de novo o swapchain do Streamline e chama um objeto já destruído, que cai em `std::terminate`. Correção: chave DRS `0xB0CC0875 = 0` no perfil do `rdr2.exe` (máscara de API do NvPresent; bit0 D3D12, bit1 D3D11, bit2 Vulkan). Aplicada automaticamente a cada abertura pelo `../NvPresentGuard` (ASI em `OptiScaler\plugins`, com `LoadAsiPlugins = true`), que reaplica a chave se o NVIDIA App ou um driver novo a regravar. Manual: `../NvidiaDrs/drs_np_api.py` como administrador; conferir com `drs_np.py`.
 2. **Streamline iniciado no device D3D12 errado.** O RDR2 cria vários devices de teste antes do principal. Quirk `LazySLForD3D12`: o SL só sobe quando o swapchain DLSSG Dx12 é criado.
 3. **"DirectX 12 não instalado" com o DLSS ligado.** O swapchain real criado pelo Streamline em tela cheia volta com `DXGI_STATUS_OCCLUDED` (0x087A0001), que é sucesso. Os hooks de `DxgiFactory_Hooks.cpp` só aceitavam `S_OK`, deixavam o swapchain sem wrapper e o jogo nunca chegava ao primeiro Present. Correção: `SUCCEEDED(result)` nos seis pontos de criação de swapchain.
 
