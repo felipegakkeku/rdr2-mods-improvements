@@ -12,7 +12,7 @@ Patch sobre o OptiScaler master `e7e3872` (`rdr2-dlssg-nvpresent.diff`). Testado
 
 - `FGInput = Upscaler` exige o DLSS do jogo ligado; sem ele o frame gen não tem entrada.
 - Em Vulkan com DLSS-G o jogo mostra o erro 16 do Social Club; usar DX12.
-- `../BreakTrace` é um ASI de diagnóstico: grava pilha e código decifrado em volta de int3/fail-fast em `BreakTrace_N.bin`. Carregar pela raiz do jogo (`dinput8.dll`), não por `OptiScaler/plugins`.
+- `../BreakTrace` é um ASI de diagnóstico: grava pilha e código decifrado em volta de int3/fail-fast em `BreakTrace_N.bin`. Carregar por `OptiScaler/plugins` (com `LoadAsiPlugins = true`) ou pela raiz do jogo (`dinput8.dll`, que carrega mais tarde).
 
 ## Build
 
